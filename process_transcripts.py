@@ -11,6 +11,19 @@ def read_transcript(file_path: Path) -> str:
     return content
 
 
+def write_processed_transcript(file_path: Path, lines: list[str]) -> None:
+    """
+    Writes processed transcript lines to a text file.
+
+    Args:
+        file_path: Path to the output text file.
+        lines: List of lines to write to the file.
+    """
+    with open(file_path, "w", encoding="utf-8") as f:
+        for line in lines:
+            f.write(line + "\n")
+
+
 def process_transcript(file_path: Path) -> list[str]:
     """
     Processes a transcript file to extract relevant contents
@@ -37,6 +50,28 @@ def process_transcript(file_path: Path) -> list[str]:
     return res
 
 
+def process_transcripts() -> None:
+    """
+    Processes all transcripts in the "transcripts" directory and writes
+    the processed output to the "processed" directory.
+    """
+    # process all transcripts in the "transcripts" directory writing output to the "processed" directory
+    input_dir = Path(".") / "transcripts"
+    output_dir = Path(".") / "processed"
+    output_dir.mkdir(exist_ok=True)
+
+    for transcript_file in input_dir.glob("*.txt"):
+        print(f"Processing {transcript_file.name}...")
+        # Skip transcripts that have already been processed
+        output_file = output_dir / transcript_file.name
+        if output_file.exists():
+            print(f"  Skipping {transcript_file.name}, already processed.")
+            continue
+        # Process the transcript
+        processed_lines = process_transcript(transcript_file)
+        write_processed_transcript(output_file, processed_lines)
+        print(f"  Wrote processed transcript to {output_file}.")
+
+
 if __name__ == "__main__":
-    path = Path(".") / "transcripts" / "lly-2025-q3.txt"
-    process_transcript(path)
+    process_transcripts()
