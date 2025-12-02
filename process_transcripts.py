@@ -42,7 +42,8 @@ def write_lines(file_path: Path, lines: list[str]) -> None:
         file_path: Path to the output text file.
         lines: List of lines to write to the file.
     """
-    file_path.parent.mkdir(parents=True, exist_ok=True)
+    if not file_path.parent.exists():
+        file_path.parent.mkdir(parents=True, exist_ok=True)
     with open(file_path, "w", encoding="utf-8") as f:
         for line in lines:
             f.write(line + "\n")
@@ -77,6 +78,24 @@ def process_transcript(file_path: Path) -> list[str]:
     return res
 
 
+def construct_output_filename(input_path: Path) -> Path:
+    """
+    Constructs the output filename in the format:
+        ticker-month-day-year.txt
+
+    Args:
+        input_path: Path to the input transcript file.
+
+    Returns:
+        Path to the output processed transcript file.
+    """
+    parts = input_path.name.split("-")
+    month = MONTH_LUT[parts[1]]
+    new_name = "-".join([parts[3], parts[0], month, parts[2]]) + ".txt"
+    output_file = PROCESSED_DIR / input_path.parent / new_name
+    return output_file
+
+
 def process_transcripts() -> None:
     """
     Processes all transcripts in the "transcripts" directory and writes
@@ -84,15 +103,9 @@ def process_transcripts() -> None:
     """
     PROCESSED_DIR.mkdir(exist_ok=True)
     for transcript_file in TRANSCRIPT_DIR.rglob("*.txt"):
-        print(f"Processing {transcript_file.relative_to(TRANSCRIPT_DIR)}...")
+        print(f"Processing {transcript_file.relative_to(TRANSCRIPT_DIR.parent)}...")
         relative_path = transcript_file.relative_to(TRANSCRIPT_DIR)
-        # Construct the output file name in the format:
-        #   ticker-month-day-year.txt
-        parts = relative_path.name.split("-")
-        month = MONTH_LUT[parts[1]]
-        new_name = "-".join([parts[3], parts[0], month, parts[2]]) + ".txt"
-        output_file = PROCESSED_DIR / relative_path.parent / new_name
-        output_file.parent.mkdir(parents=True, exist_ok=True)
+        output_file = construct_output_filename(relative_path)
         # Skip transcripts that have already been processed
         if output_file.exists():
             print(f"  Skipping {transcript_file.name}, already processed.")
