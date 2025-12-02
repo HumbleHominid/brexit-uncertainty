@@ -3,7 +3,9 @@
 # Ignore conda environment
 .envs
 # Processed Transcripts
-processed/**
+**/processed/**
 # Pycache
 __pycache__/
 *.pyc
+# Log files
+**/Load_MD_Logfile.txt

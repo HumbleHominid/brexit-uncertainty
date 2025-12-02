@@ -261,11 +261,11 @@ class MasterDictionary:
 if __name__ == "__main__":
     from pathlib import Path
 
-    base_path = Path(".") / "loughran_mcdonald_dictionary"
+    base_path = Path("") / "src" / "loughran_mcdonald_dictionary"
     LOG_FILE = base_path / "Load_MD_Logfile.txt"
     start = dt.datetime.now()
     print(f'\n\n{start.strftime("%c")}\nPROGRAM NAME: {sys.argv[0]}\n')
-    with open(LOG_FILE, "w") as f_log:
+    with open(LOG_FILE, "w", encoding="utf-8") as f_log:
         md = base_path / "Loughran-McDonald_MasterDictionary_1993-2024.csv"
         (
             master_dictionary,

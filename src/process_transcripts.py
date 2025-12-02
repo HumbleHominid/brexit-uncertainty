@@ -1,8 +1,9 @@
 import re
 from pathlib import Path
 
-TRANSCRIPT_DIR = Path(".") / "transcripts"
-PROCESSED_DIR = Path(".") / "processed"
+BASE_DIR = Path(".") / "src"
+TRANSCRIPT_DIR = BASE_DIR / "transcripts"
+PROCESSED_DIR = BASE_DIR / "processed"
 MONTH_LUT = {
     "Jan": "01",
     "Feb": "02",
