@@ -61,7 +61,7 @@ def process_transcript(file_path: Path) -> list[str]:
     transcript = read_file(file_path)
     res: list[str] = []
 
-    punctuation = {".", "!", "?", ":", ";", ","}
+    punctuation = {".", "!", "?", ":", ";", ",", ")"}
     for line in transcript.splitlines():
         # Skip lines that don't end with punctuation. These are things like section
         #   titles, headings, speaker, etc.
