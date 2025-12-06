@@ -92,7 +92,7 @@ def construct_output_filename(input_path: Path) -> Path:
     """
     parts = input_path.name.split("-")
     month = MONTH_LUT[parts[1]]
-    new_name = "-".join([parts[3], parts[0], month, parts[2]]) + ".txt"
+    new_name = "-".join([parts[3], parts[0], month, parts[2], parts[4]]) + ".txt"
     output_file = PROCESSED_DIR / input_path.parent / new_name
     return output_file
 
