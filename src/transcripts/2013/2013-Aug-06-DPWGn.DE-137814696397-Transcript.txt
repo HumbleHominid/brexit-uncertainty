@@ -1,0 +1,643 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2013 Deutsche Post AG Earnings Conference Call
+08/06/2013 02:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Larry Rosen
+   Deutsche Post AG - CFO
+ * Martin Ziegenbalg
+   Deutsche Post AG - Head, Investor Relations
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Combe
+   JPMorgan - Analyst
+ * Julia Winarso
+   HSBC - Analyst
+ * David Ross
+   Stifel, Nicolaus & Co. - Analyst
+ * Damian Brewer
+   RBC - Analyst
+ * Joel Spungin
+   BofA Merrill Lynch - Analyst
+ * Robert Joynson
+   Macquarie Research - Analyst
+ * Andy Chu
+   Deutsche Bank - Analyst
+ * Robin Byde
+   Cantor Fitzgerald - Analyst
+ * Mark McVicar
+   Nomura - Analyst
+ * Stephen Furlong
+   Davy Research - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon, ladies and gentlemen, and welcome to the Deutsche Post DHL Q2 results conference call.  At this time all participants have been placed on a listen-only mode.  The floor will be open for questions following the presentation.  Let me now turn the floor over to Martin Ziegenbalg, Head of IR.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [2]
+--------------------------------------------------------------------------------
+Thank you and good afternoon everyone out there to our Q2 2013 results call.  As you have seen in our invite, we have with us our CFO, Larry Rosen, who is going to take you through the presentation as usual and afterwards we're available for Q&A.
+Allow me two pieces of advertisement.  A, you can also follow this on our newly-released investor relations and financial media app on your iPad if you wish so.  And the second bit of advertising is a reminder to everyone out there that we will be hosting a tutorial workshop for the capital market on the topic of Express on September 12 in Leipzig and again on September 16 in London.  So with these two reminders in back, I would like to hand over to Larry right away to take us through the presentation, please.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [3]
+--------------------------------------------------------------------------------
+Okay.  Thank you Martin, and thanks to all of you for joining today on the call.  I'm pleased to report on our results for the second quarter and the first half of 2013.  And I'll go over to our first slide on page two.
+At the midway point in the year we feel very much on track towards our full-year 2013 targets and also our mid-term targets.  There were several positives in the quarter.  Parcel growth continued at a high single-digit pace.  TDI growth continued strong and we again gained market share.  Our cash flow performance is improving and net income growth continues to be very strong.
+Against this is the still challenging macroeconomic environment.  We see some small positive signs, but no real meaningful pickup in momentum yet.  We increase our guidance for the year to reflect the technical one-off positive in the Mail division and we reconfirm all the other guidance components for EBIT.
+On page three, as mentioned, Parcel and TDI growth continued to be very strong, as did organic growth for Supply Chain.  We saw some slowing in emerging market growth, in particular in the Forwarding business.  A real highlight for the quarter was the Express EBIT margin, at 9.1%, up more than 1% over last year's Q2 level.  And this is a result of the strong top line volume growth and the operating leverage that we're able to realize from that.
+On page four you see our P&L for Q2.  Organic revenue growth was about 2%, while EBIT grew around 14%.  In both 2012 and 2013 we had special effects in Q2, last year about minus EUR40m and this year about plus EUR40m, and without these effects our EBIT performance would have been about flat year over year, although we exclude from this comparison a couple of other items that you might qualify as one-off items.
+There are some one-time payments associated with our new wage agreement in Mail to the civil servants in an amount of almost EUR20m.  And we had some restructuring charges in our Supply Chain business of a bit over EUR10m.  And if you add back those EUR30m we would have had about 5% EBIT growth for the quarter.
+The financial result improved dramatically, partly due to the release of a provision and while we had the VAT charge last year.  The tax rate was 22%, which is also our estimate for the full year.  And, finally, net income more than doubled, with growth of about 9% excluding the mentioned one-time effects.
+On page five you see our cash flow statement for Q2.  In Q2 we continued the trend of a much better cash flow performance and are more confident than ever that we'll generate free cash flow for the full year that will more than cover the dividend that we paid in May.
+We correct here for the VAT settlement effects which went through the P&L in last year's Q2, but was mostly paid in Q3.  So it ended up being a payment of a net of around EUR482m.  Only about EUR27m of that actually was paid in Q2.  The rest was paid in Q3.  But the entire charge, including the provision movement -- or provision utilization went through our P&L in Q2.  So we had this disconnect between the two quarters.
+We correct for it here so you can see a better comparison of the second quarter last year to the second quarter this year.  And you can see that we improved our free cash flow by around EUR300m, or a bit over EUR300m.  And of course that includes a reduction in CapEx spending that is much more of a phasing issue than a real reduction or an intended reduction in CapEx spending.  We still think we'll be close to EUR1.8b for the full year.
+Now over onto page six we look at cash flow performance by quarter, because I think it's a useful reminder about the seasonal pattern of our cash flow generation and, certainly, we generate most of our operating cash flow in the second half.  Notwithstanding that, you can see here that we're already over EUR700m better than last year in operating cash flow and also considerably better than the first half of 2011.
+Most of the improvement comes from working capital management and that includes, of course, what we talked about in Q1, which was the discontinuation of a factoring program during the first half of last year which burdened our cash flow by about EUR140m.  So about a third of the improvement in working capital changes is due to the factoring program discontinuation and the other two-thirds is really organic, real improvement in working capital management.  And we also benefit, of course, from higher operating income generation and the better conversion of EBIT to cash.
+On page seven you see our net debt evolution for the first half.  And of course we have the usual two big payments during the first half, the dividend in the second quarter and the payment for civil servant pensions in the first quarter.  And what we see is that our cash flow generation could balance out everything except for the dividend payment and that's what we expect to cover with our cash flow generation during the second half, even notwithstanding the increase that we expect in CapEx spending.
+On page eight we begin to take a look at highlights for the divisions and we'll start with Mail.  So here Parcel growth, driven by ecommerce, continued to be strong, with about 9% growth or 7% on a working-day basis.  Mail Communication volume growth was impacted by a shift of our Infobrief product from Dialogue Marketing to Mail Communication.  Underlying growth adjusted for that shift was in line with our base-case expectation of about minus 3%.
+On page nine you see that our Mail EBIT performance was impacted heavily of course last year by the EUR151m charge for the VAT settlement and this year positively impacted by the release of part of the stamp provision this year in the amount of EUR50m.
+Let me take a second to explain that for those that might not be familiar with it.  When we sell a stamp it is of course for the service of delivering a letter that we provide as part of our Mail business.  But there's a certain amount of stamps that we sell that, for one reason or another, don't get used, so they get put into collections, or they get lost, or some might get eaten by the dogs.  So we don't know what happens to all of them.  We suspect most of it goes into collecting.
+But over the years we build up this provision, because theoretically we are still liable to provide the service that we incurred when we sold the stamp.  We do an independent study every year to look at scientifically how many of those stamps might still be around.  And the provision up till the second quarter of this year was EUR450m.  That independent study indicated that it should more appropriately be around EUR400m.  So we got a release of the provision of around EUR50m and that's the amount by which we increase guidance for Mail and for the whole Company.
+So the growth in Parcel volumes and also good continuing cost control gave us the confidence to increase guidance by that amount of the stamp provision release.
+We continue to invest in the Parcel 2012 project and expect spending to pick up further in the second half.  Our goal is to continue improving delivery options, speed and reliability and the investments we're making will already begin to contribute to these goals in the peak season 2013.
+On page 10 you see some more highlights of the comprehensive initiatives to even better serve the Parcel market.  In Obertshausen near Frankfurt we've broken ground on what will be our biggest and fastest sorting center, with up to 50,000 parcels sorted per hour.  We're also continuously expanding our PackStation network, both new and existing ones, to enable even more 24-7 availability.
+We believe FMCG, fast-moving consumer goods, will be a growth driver in ecommerce for the foreseeable future and we're continuously expanding our offerings in this area.  Finally, we're in the process of adding 20,000 new Parcel shops, so about a two-thirds increase from the 30,000 we already have by the end of next year, to further increase convenience for our customers.
+On page 11 we see the Express performance in Q2.  TDI volume growth continued to be very strong in all regions as a result of the investments we've made in expanding and operating our network as well as improving customer service.  Revenue growth was again somewhat below volume growth as a result of weight and customer mix effects.
+Then on page 12 we see the highlights of financial performance for Express.  Top-line growth was significantly affected by both currency and structure effects, so the divestitures that we made in the first half last year and also the beginning of this year in Romania.  Yes, we divested those additional domestic businesses and that was a structural effect that we had on our top-line growth.  Without those effects our organic growth would have been around 4% for the quarter.
+The EBIT trend was actually very good, up around 17% after adjusting for the positive one-time effects from Q2 of last year, namely, a EUR99m gain -- or EUR99m restructuring provision release and EUR44m of gains from the sale of the domestic businesses in Australia and New Zealand.  Operating cash flow continued to be good and CapEx spending was lower, but only due to phasing.
+On page 13 you see one of the real positive highlights for the quarter.  It's now the third consecutive quarter that we've been able to increase operating margin on a year-over-year basis.  And in Q2 we were able to increase by 1.3% to over 9%, a record for our Express business.  This was both our goal and our expectation for the year as we increasingly can take advantage of operating leverage effects and good cost control.  We continue to believe that average annual operating margins above 10% are achievable in 2015.
+So on page 14 you get more insight into why we've been so successful in the TDI network.  First, we have an excellent position in the emerging markets, where we have seen the highest growth during the past years and quarters.  Second, we've invested a lot to take advantage of the growth opportunity and further build on our leadership position.
+A highlight was the new North Asia hub in Shanghai that we opened in Q3 of last year, but many other hub and gateway investments are also supporting the strong growth.  Finally, we've also invested aggressively in our air fleet, with now four times as many aircraft flying intercontinental routes as compared to 2008.
+On page 17, the Global Forwarding and Freight division has been most impacted by the challenging economic environment and has also seen the effects of sector structure changes, especially in the tech sector -- technology sector.  In Q2 Air Freight was down by 5.7% and Ocean Freight by 1%.  This was below our estimate of industry growth in both segments.  Our industry growth estimate for Air Freight was around zero percent and Ocean Freight plus 1% to 2%.
+We've continued to follow a selective strategy where we've been able to maintain gross profit and EBIT margins by foregoing unattractive business.  In the meantime, our NFE project is progressing very well and is on plan.  We continue to expect to invest more for this project in the second half and, therefore, for the full year.
+On page 18 you see that organic top-line growth for the division was around minus 4%.  But thanks to our selective strategy EBIT was only slightly below last year's level and EBIT margin remained constant, at 3.5%.  Cash flow benefited from a positive trend in working capital, also partially related to the revenue decline.
+On Page 19 the Supply Chain division continues to perform well with almost 6% organic revenue growth in Q2.  Especially strong are new business signings with EUR350m in Q2, a new record for the quarter, a quarter of Q2, following EUR430m, which was a record in Q1, giving us overall EUR780m of new business signings in the first half of the year.  And that gives us a lot of confidence that we'll continue to see a solid growth rate for this division in the coming quarters and years.
+On page 20, EBIT for the division was around EUR20m below last year.  About half of the decrease was due to the deconsolidation effects from the sale of several small non-core businesses.  And the other half was related to small restructuring charges we incurred to improve future business efficiency, in particular in Central Europe.  Without these two effects EBIT would have been roughly in line with last year's performance.  Cash flow also significantly improved for Supply Chain in Q2.
+On page 21, as mentioned, we increased our full-year forecast for the Mail division and the whole Company due to the stamp provision release in this quarter of EUR50m.  We also modified guidance on CapEx, where we now expect a maximum of EUR1.8b instead of around EUR1.8b.  And for net income, due to our good performance on financial expenses and taxes we now expect net income to grow faster than operating income growth.  All other guidance components are reconfirmed.
+So in summary and conclusion, on page 22, we continue to maintain our strong operational and customer focus.  The good growth trends for Parcel and Express are intact.  Our profitability focus is there, given the weak forwarding volumes and our selective strategy.  We have strong momentum also in Supply Chain order intake.  Cash flow generation continues to improve.  We've increased our 2013 guidance to EUR2.75b to EUR3b.  And we confirm today again our mid-term guidance for 2015.
+So thanks very much for listening and we'd be happy to answer your questions.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions).  The first question comes from Damian Brewer from RBC.  May we have your question, please?
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC - Analyst    [2]
+--------------------------------------------------------------------------------
+Yes, good afternoon, gentlemen.  Two questions, please.  First of all, on the Freight Forwarding business could you tell us how much the change in phasing of the NFE costs means that some could potentially move into 2014?  Would we still expect to see really the EUR80m or so uplift there, or could some of that push back?
+And I guess attached to that, maybe as part of the same sort of question area, your volume growth has obviously been less in Freight Forwarding, but your working capital performance has been much more impressive than some of your peers.  Has there been a trade off between the volume you'll handle and the working capital element of the business?
+And then in the second question area, in Express and Forwarding, could you tell us a little bit more about the differential between the growth you're seeing on traditional east-west trades and the north-south trades you're seeing both in Express and Forwarding?  And how and whether any of that is being influenced by your new over-land service from Central China to Europe?  Thank you.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [3]
+--------------------------------------------------------------------------------
+Thanks, Damian.  Okay, good questions, so, first, the phasing of NFE.  I guess the first thing to say is that versus our original expectation of a high double-digit increase in costs year over year in our P&L, we now would  slightly modify that and say that we would expect mid to high double-digit increase, so -- and we expect all that increase, of course, to occur in the second half.
+I think it is more related to efficiencies that we've found in executing the project than in terms of phasing, or, certainly, of any delay in the project.  We are, in fact, right on track.  The project's progressing very well.  We just have found some ways to save costs in comparison to our original expectations.  So we expect some benefit from that, but not really a shift of costs from 2013 to 2014 and, certainly, not a delay in our progress on the project.
+I think it's a great question that you ask on working capital for the division, because when we think about foregoing unattractive business, certainly, we think about unprofitable or very low profitable business.  But we also think about unreasonable demands or requirements to extend terms.  And we have actually foregone some business for that reason as well.
+Many times that comes in combination with business turning out -- or turning towards being unattractive from a profitability standpoint.  So a lot of times you see those going together.  But certainly you're right, the good working capital performance in Forwarding is -- has to do with that as well and us holding pretty firm on our expectations and requirements for receivable terms.
+So in terms of east-west versus north-south trends, what we would confirm is that the trade lane that is pretty weak is the Asia-Europe trade lane, as you might expect, from the weak economy in Europe.  Intra Asia and other emerging market routes, and also Asia-US, have been pretty solid, so most of the weakness that we've seen have really been in the east-west.
+In terms of over land China-Europe, it is a service that we offer, but I would -- it's really a very small part of the mix.  It is something that can be attractive, is offered by a couple of our competitors, but it's really too small to have an overall impact on the whole division results.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC - Analyst    [4]
+--------------------------------------------------------------------------------
+Okay, thank you very much.  And interesting to hear the return on capital focus still holds in Freight Forwarding.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [5]
+--------------------------------------------------------------------------------
+Absolutely, thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [6]
+--------------------------------------------------------------------------------
+Okay, thank you.  The next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+The next question comes from Stephen Furlong from Davy Research.  Please, it's your turn now.
+
+--------------------------------------------------------------------------------
+Stephen Furlong,  Davy Research - Analyst    [8]
+--------------------------------------------------------------------------------
+Yes, hi, just a couple of quick ones on the divisions.  In the Forwarding side do you -- Larry, is there any expectation what we're going to see in terms of the peak season either in Q3 in sea freight or Q4 in Air Freight?  Or -- some of the carriers are pulling back capacity, so maybe freight rates are going to go up, or maybe not.
+The second thing, I just saw in the Mail business, a smaller profit, Global Mail seems to be doing quite well.  Is that also a business that benefits from the trends of ecommerce, B2C, etc.?
+And then, finally, you just -- might just talk about -- a bit about on the Supply Chain side.  It seems to -- outsorting (sic) seems to be gathering pace in Asia Pacific region and I noticed that's where the biggest percentage wins were, or at least revenue increases.  You might just talk about that, please.  That would be great.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [9]
+--------------------------------------------------------------------------------
+Okay.  So it is especially difficult this year to predict when and if we're going to see a peak season as we traditionally, historically have seen in Global Forwarding, or, for that matter, in Express.  The last couple of years we really have seen that so-called peak really be either non-existent or very small, or occur at surprising times during the year.  So I would hesitate to make a prediction on when and how big we might see a peak in either Air Freight or Ocean Freight this year.  It just is too hard to predict.
+So Global Mail indeed has benefited from ecommerce, in particular on cross-border business in and out of Germany, where we've seen Small Parcel being driven by ecommerce orders in other countries in Europe, but also in other regions, so that's done quite well.  And Global Mail is doing also very well in North America.
+So Supply Chain is doing quite well in Asia.  We are having very strong growth there.  If you look back historically among the three DHL divisions, Supply Chain was probably the last one to really begin a concerted investment program in the emerging markets.  The other two divisions, really, they are decades ago.  And it's really been the last few years where Supply Chain has really picked up the pace, with focus on Asia, and that's really paying off.  And we are seeing a strong interest in outsourcing.
+It's a different value proposition to many new companies, new fast-growing companies in Asia, where they are not necessarily outsourcing a supply chain infrastructure that they've already invested in, but rather avoiding the need to ever commit capital to such an infrastructure.  And that many times is a very attractive proposition for those kinds of customers.  And we are clearly getting the benefits of that in our Supply Chain business.
+
+--------------------------------------------------------------------------------
+Stephen Furlong,  Davy Research - Analyst    [10]
+--------------------------------------------------------------------------------
+That's great.  Thanks, Larry.  Thanks, Martin.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [11]
+--------------------------------------------------------------------------------
+Thanks, Stephen.  The next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [12]
+--------------------------------------------------------------------------------
+Yes, the next call is Christopher Combe, JPMorgan.  May we have your question, please?
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [13]
+--------------------------------------------------------------------------------
+Good afternoon.  First question is with respect to NFE.  You mentioned progress is moving on nicely and no delays.  Can you remind us, or at least give us some color as to where you might see margin upside potentially?  I believe the guidance was between 250 bps and 350 bps on a gross margin.  That's the first question.
+And the second one is on Express.  Nice to see some stronger conversion at the EBIT line.  Just wondering what we should expect in terms of discretionary spend and whether nor not what we've seen over the first half is representative of a more of a run rate versus the outsized spend we saw last year.  Thanks.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [14]
+--------------------------------------------------------------------------------
+Yes, so I'm not sure that we have actually given a margin forecast for the Global Forwarding division, post NFE.  We certain would expect an uptick.  I'll pretty much stick to our guidance for all of DHL for 2015, which is EUR2.7b to EUR2.9b.  We've said that we'd be over 10% for Express, so you can tell from that that we do expect some margin increase.  But I don't want to make a concrete forecast for that.
+And, sorry, I just missed the end of your last question on Express.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [15]
+--------------------------------------------------------------------------------
+Full-year run rate for the Express margin; whether we are ready to give any indication, particularly given the strong margin expansion in Q2, right?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [16]
+--------------------------------------------------------------------------------
+Yes, so -- yes, Express is doing very well.  I would not make a specific forecast for the rest of the year, other than to say we clearly have as a goal and an expectation that margin overall for the year is going to be higher than it was last year.
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [17]
+--------------------------------------------------------------------------------
+Great, and just one final question on Express.  You made some reference to decline in weight per shipment.  How much weight would you place on that factor, on the overall price mix, and do you see that stabilizing at all going into the second half?  Thank you.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [18]
+--------------------------------------------------------------------------------
+I would say about a third of the -- that 2% difference is due to weight factors.  So we have a 2% difference between volume growth and revenue growth, and probably about a third of it is due to weight mix.  And I would say that it probably is a trend that will remain with us.
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [19]
+--------------------------------------------------------------------------------
+Great, thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [20]
+--------------------------------------------------------------------------------
+Thanks, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+The next question comes from Robert Joynson from Macquarie.  Please, your line is open now.
+
+--------------------------------------------------------------------------------
+Robert Joynson,  Macquarie Research - Analyst    [22]
+--------------------------------------------------------------------------------
+Good afternoon, Larry.  Good afternoon, Martin.  Just a quick question following on with the working capital theme.  Could you maybe just provide some color regarding your expectations for the working capital development during the second half of the year?
+And also, just on the Corporate Center, I know that EBIT reported during Q2 was negatively impacted by an increase in the value of management incentives which are linked to the share price.  Could you maybe just also provide some color on the extent to which that may impact EBIT during the second half of the year as well?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [23]
+--------------------------------------------------------------------------------
+Okay.  So, working capital for the rest of the year, I think I wouldn't expect a radically different trend than what we have already seen in the first half.  We continue to intensively focus on DSO and DPO and are performing well in all the divisions, and I would expect that good performance to continue, even if there are certainly pressures in the market to relax terms for receivables.  We are mostly resisting those.
+In terms of Corporate Center I think the only thing I really would say there is that we confirm our guidance for around EUR400m for the whole year.
+
+--------------------------------------------------------------------------------
+Robert Joynson,  Macquarie Research - Analyst    [24]
+--------------------------------------------------------------------------------
+Okay, thank you.  And maybe just one final question, just on disposal losses.  Obviously, you highlighted the EUR10m charge taken in Supply Chain, but the total disposal loss included in the Q2 result was around about EUR33m, as we can see from the notes.  Could you just maybe provide some color on what the other EUR23m was that wasn't in Supply Chain?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [25]
+--------------------------------------------------------------------------------
+I think a bit puzzled by your question.  Well, let me come back to that one.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [26]
+--------------------------------------------------------------------------------
+(Inaudible - microphone inaccessible).
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [27]
+--------------------------------------------------------------------------------
+We can find an answer for you in a few minutes.
+
+--------------------------------------------------------------------------------
+Robert Joynson,  Macquarie Research - Analyst    [28]
+--------------------------------------------------------------------------------
+Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+The next question comes from Mark McVicar from Nomura.  Please, the line's open now.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [30]
+--------------------------------------------------------------------------------
+Hi, Larry.  Hi, Martin.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [31]
+--------------------------------------------------------------------------------
+Hi.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [32]
+--------------------------------------------------------------------------------
+Hi, Mark.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [33]
+--------------------------------------------------------------------------------
+A couple of specific questions and a general question.  On the specifics, within Mail the rate of decline in Dialogue Marketing revenue looks to have accelerated in the last two, three quarters.  How do you look -- think about that in terms of structural versus the cycle, a cycle?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [34]
+--------------------------------------------------------------------------------
+Okay, so what we've had in Dialogue Marketing and Mail Communication is a shift that has resulted from new regulation in Germany which has disqualified -- or de-qualified a certain category of products from a sub-segment called Infobrief.  Infobrief segment are things like bills sent out in mass mailings by large companies.  And part of that segment has been de-qualified as Infobrief.
+As Infobrief, it was part of Dialogue Marketing --
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [35]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [36]
+--------------------------------------------------------------------------------
+-- up until the end of last year and it no longer is part of Dialog Marketing, but a part of general Mail Communication now.  We think most of that volume has shifted over to, let's call it, Normal Letter Mail, and is now showing up in Mail Communication.  That's why it looks like the trend in Mail Communication is quite good, we had around 2.1% growth than Q2, and Dialogue Marketing looks quite bad, with almost double-digit decline in volume.  But most of that difference is due to the shift in the classification of this Infobrief product.  As I said, the real underlying volume trend is about minus 3% overall for Letter Mail.
+Yes, so your second question?
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [37]
+--------------------------------------------------------------------------------
+Yes, sorry, the second question was, obviously, that total order intake in Supply Chain is up 50% first half on first half.  How much of that is just because you've got to the end of working your way through the contract portfolio and re-pricing, or getting rid of contracts?  And how much is it?  Because you are taking market share when competitors like [Kuna] are scaling back some of their ambitions in that area.  Do you actually think you are taking market share?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [38]
+--------------------------------------------------------------------------------
+I do think we are gaining share, in particular in new or emerging markets.  A lot of it is new business rather than the renewal of existing business, so it's with brand new customers for brand new business, and that's why it's so encouraging to us.  And we are by far the biggest player in Supply Chain in the world; probably three times bigger than the next biggest competitor, so -- but it is a very fragmented global market and so it's hard to judge in terms of share gains and share losses.  What I will say is we are gaining a lot of new business.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [39]
+--------------------------------------------------------------------------------
+Okay, thank you.  And my last general question was, very obviously, in terms of volumes and revenues and direction of margins the Express business is significantly outperforming the competition pretty much whichever way you cut it at the moment.  When your guys do their competitor analysis what are the main two or three things they think that they are doing right or doing better than the others?  Is it geography?  Is it product range?  Is it pricing structures?  There normally tend to be two or three thinks that come together at the same time in these situations.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [40]
+--------------------------------------------------------------------------------
+Well, I would -- first thing I would say is I would encourage you to attend that Express tutorial coming up, so another commercial.  I think you'll get a huge amount of information in that area and I think there's a really great story to tell.
+If I could summarize the key points, I would say it is being in a leadership position in the markets that are growing the fastest; it's having made investments in all of the right places over the last years; it is very much a result of an intensive focus and improvement in the area of customer service.  We do regular measurements of customer satisfaction and customer benchmarking and see that in the feedback of customers that we are dramatically improving on a relative basis.
+And also I think maybe a last factor to mention is the pricing rationalization.  I think we were probably pricing ourselves out of a lot of business a few years ago.  And I think we have rationalized the pricing structure and have been much more competitive in that regard.  So I think it's a whole series of things.
+And not -- maybe a last one -- a very last one to mention, but not -- certainly, not least important, is the very extensive comprehensive training programs that we have put in place for the employees.  We -- I don't know if you've heard the term 'certified international specialist'.  We've put each and every employee through that training and it's really improved the employees' satisfaction and morale and their capability to serve customers.  So I think all of those things have been factors in the improvement.  So, yes, that's the summary.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [41]
+--------------------------------------------------------------------------------
+Okay, Mark.  And you will (multiple speakers).
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Nomura - Analyst    [42]
+--------------------------------------------------------------------------------
+Okay, that's great.  Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [43]
+--------------------------------------------------------------------------------
+Okay, thank you.  Before we come to the next question --
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [44]
+--------------------------------------------------------------------------------
+Yes, let me come back to Robert's question on the EUR33m.  So it actually -- actually, we netted the effects of three very small divestitures that we did.  One, we had a deconsolidation or divestiture loss of EUR23m.  In the others we had small gains of EUR17m for a net of EUR6m positive.  You can see that on page 34 of our quarterly report how those three flow together.  And in addition to that EUR6m we --
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [45]
+--------------------------------------------------------------------------------
+(Inaudible - microphone inaccessible).
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [46]
+--------------------------------------------------------------------------------
+-- we also had transaction costs of around EUR5m.  So that added up to the EUR11m total impact we had from small divestitures in the Supply Chain area.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [47]
+--------------------------------------------------------------------------------
+Okay.  Operator, we are ready for the next caller then.
+
+--------------------------------------------------------------------------------
+Operator    [48]
+--------------------------------------------------------------------------------
+Yes, and the next caller is Julia Winarso from HSBC.  Please, your line is open now.
+
+--------------------------------------------------------------------------------
+Julia Winarso,  HSBC - Analyst    [49]
+--------------------------------------------------------------------------------
+Hi, guys.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [50]
+--------------------------------------------------------------------------------
+Yes.
+
+--------------------------------------------------------------------------------
+Julia Winarso,  HSBC - Analyst    [51]
+--------------------------------------------------------------------------------
+Just one question from me on the cash flow.  Now, if I look at your underlying operating results, you spoke briefly about it earlier, it's broadly flat year on year.  Working capital is about EUR60m better.  So that leaves about EUR200m performance year on year that is better.  And I was just wondering where exactly does that come from?
+If I look at the divisional split it seems to be -- a lot of it seems to be coming from the Corporate Center.  And is this just provisions -- cash out for provisions excluding the US restructuring provisions that are lower year on year?  And will these hit Q3 and Q4?  So I guess what I'm asking is, is this just a phasing thing?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [52]
+--------------------------------------------------------------------------------
+So I think -- I think probably some is and some isn't.  One thing that is, is lower pension cash out.  We also have lower payments for other employee benefits and a lower utilization of restructuring provisions.  We think that's something that's here to stay.
+The cash out for the US restructuring is permanently declining and we expect that again for this full year.  We also had more of a one-time nature, a lower payment to the administrative organization that administers healthcare and pension benefits for our civil servants.  That's probably more of a one-off.  So it's pretty -- it's a little bit of a mixed bag, but probably more in the direction of recurring benefits than in terms of one-offs.  But of course in every quarter we'll have one-offs of one type or another.
+
+--------------------------------------------------------------------------------
+Julia Winarso,  HSBC - Analyst    [53]
+--------------------------------------------------------------------------------
+Okay, so, of that EUR200m improvement excluding the changes in working capital, how much of it do you get to keep for the year?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [54]
+--------------------------------------------------------------------------------
+We pretty much get to keep all of it, but what can you expect to be repeating on a quarter-after-quarter basis is probably a bit more than half of it.
+
+--------------------------------------------------------------------------------
+Julia Winarso,  HSBC - Analyst    [55]
+--------------------------------------------------------------------------------
+Okay, thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [56]
+--------------------------------------------------------------------------------
+Thanks, Julia.
+
+--------------------------------------------------------------------------------
+Operator    [57]
+--------------------------------------------------------------------------------
+And the next caller is Andy Chu from Deutsche Bank.  May we have your question, please?
+
+--------------------------------------------------------------------------------
+Andy Chu,  Deutsche Bank - Analyst    [58]
+--------------------------------------------------------------------------------
+Thanks very much.  Good afternoon, Larry.  Good afternoon, Martin.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [59]
+--------------------------------------------------------------------------------
+Hi, Andy.
+
+--------------------------------------------------------------------------------
+Andy Chu,  Deutsche Bank - Analyst    [60]
+--------------------------------------------------------------------------------
+Three questions, if I may.  Just firstly, Larry, in terms of your opening remarks I think you mentioned some small signs of improvement, nothing material, but I wondered if you could, a, elaborate a little bit in terms of either geography or where you are seeing these positive signs of improvement.  And maybe if it's possible to comment on directionally what July has looked like in terms of strong growth continuing, potentially, into July, is my first question, please.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [61]
+--------------------------------------------------------------------------------
+Okay.  In terms of small signs of improvement, we've certainly seen the US starting to look like it's getting ready to accelerate.  We saw just a report I think in Q2 of around 2% growth.  We've seen the housing market continue to be strong.  We've seen the continuation and confirmation of very supportive monetary policy.  I think we saw the first non-decline in unemployment in Europe in about two years last month.
+We seem to be seeing a bottoming out of declines in GDP growth, or negative growth in Europe.  We've seen some slightly more positive GDP statistics in Japan.  So those are the kinds of signs that we think about in terms of small signs of what could turn into economic improvement.  So I think it's -- I think I would refrain from saying something specific about July, other than there's nothing really surprising.
+
+--------------------------------------------------------------------------------
+Andy Chu,  Deutsche Bank - Analyst    [62]
+--------------------------------------------------------------------------------
+Okay, brilliant.  And then just a couple of smaller ones.  In terms of Supply Chain you had some small restructuring costs of around, I believe, about EUR10m.  So I guess the first question is, are there any further requirements for restructuring in Supply Chain, or indeed anywhere else within the Group, please?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [63]
+--------------------------------------------------------------------------------
+Yes.  So the restructuring in Supply Chain is primarily in Central Europe and it's really to improve our overall efficiency amid the relatively weak economic environment.  And in Europe there are not other restructuring programs that we've decided upon, or any major programs that we are considering at this point in time.
+
+--------------------------------------------------------------------------------
+Andy Chu,  Deutsche Bank - Analyst    [64]
+--------------------------------------------------------------------------------
+Okay, great.  And then, finally, just on CapEx, and I think you've made a point in the guidance of maybe lowering, or saying up to EUR1.8b versus around EUR1.8b, and I wondered if you might be able to give me a flavor in terms of where those CapEx expectations may be slightly lower, by either division or by project type, to give me a flavor of how that CapEx might be a bit lower, please.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [65]
+--------------------------------------------------------------------------------
+Well, I would say first that it's really intended to be a very fine revision of the guidance.  I think the chances now that we are going to spend over EUR1.8b are very small, but I would not expect that we are going to spend much under EUR1.8b.  So there's not really a meaningful change for any big project or any division that we are considering at this time.
+
+--------------------------------------------------------------------------------
+Andy Chu,  Deutsche Bank - Analyst    [66]
+--------------------------------------------------------------------------------
+Super, thanks very much.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [67]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [68]
+--------------------------------------------------------------------------------
+Thanks, Andy.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+The next caller is Joel Spungin from Merrill Lynch.  Please, the line is open now.
+
+--------------------------------------------------------------------------------
+Joel Spungin,  BofA Merrill Lynch - Analyst    [70]
+--------------------------------------------------------------------------------
+Yes, good afternoon, guys.  Just a couple of questions, one on Express, just to understand in terms of the margin improvement there.  I was just wondering if you strip out the effects of FX, what the margin improvement would have been, whether or not it makes any material difference, and if there had been hard cost savings within the business compared to this time last year, where you've made those savings just to help us understand.  That's my first question.
+My second question is just a more general question on the guidance.  Obviously, you've got -- you've increased it by EUR50m on the back of the stamp provision release.  You've also highlighted, I think, around EUR40m odd of one-off negatives in the quarter.  I guess, just out of curiosity, why did you bother to change the guidance at all?  I would have thought those two effects [seem next to] pretty much nothing.  So I'm just keen to understand why the change?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [71]
+--------------------------------------------------------------------------------
+Let me take the last question first.  So we increased the guidance because it corresponds to our current forecast for performance for the full year.  The Mail business has got this provision release and we started the year with the guidance of EUR1.1b to EUR1.2b, and that's still what we expect to achieve.  And this kind of one-off provision release doesn't -- hasn't changed that.  And we haven't changed our guidance for DHL in total or for the Corporate Center.  Therefore, we increased the guidance because it corresponds to what we currently think our performance will be for the full year.
+So the Express margin improvement, I think, would not materially change if you looked at it organically, or as reported.  It would still be right around 9%.  And in terms of hard cost savings there's no one big thing that I would point to, but I would say we are starting to enjoy the benefits of operating leverage and all the investments that we've made over the last years so that now, as we continue to achieve good volume growth, it is filling into a network where the fixed costs are not continuing to increase so much.  So it's -- rather than being one big thing it's really more the general effect of operating leverage.
+
+--------------------------------------------------------------------------------
+Joel Spungin,  BofA Merrill Lynch - Analyst    [72]
+--------------------------------------------------------------------------------
+Okay, thank you, Larry.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [73]
+--------------------------------------------------------------------------------
+Thank you, Joel.  And so the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+The next caller is David Ross from Stifel.  Please, your line's open now.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel, Nicolaus & Co. - Analyst    [75]
+--------------------------------------------------------------------------------
+Yes, good afternoon, gentlemen.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [76]
+--------------------------------------------------------------------------------
+Good afternoon.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel, Nicolaus & Co. - Analyst    [77]
+--------------------------------------------------------------------------------
+(Multiple speakers) question -- yes, the first question on the Express yields.  If you net out the weight-per-package impact and the customer mix effect what would be the core pricing on contract renewals, so average business that comes to DHL today when you are renewing a one-year contract?  Are rates going up 2%?  Are they flat?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [78]
+--------------------------------------------------------------------------------
+Yes, I think they'd be somewhere between 0.5% and 1% up.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel, Nicolaus & Co. - Analyst    [79]
+--------------------------------------------------------------------------------
+Okay.  And then could you talk about the sales force at DHL and the different divisions?  Given that you are taking market share in Express and Supply Chain, have those sales forces grown at all year over year?  And then, given the weakness in Freight Forwarding, has your Freight Forwarding sales force changed at all, maybe to the negative?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [80]
+--------------------------------------------------------------------------------
+I think the -- we've certainly added selectively some sales force resources, but nothing on a systematic or large basis in any of the divisions.  Probably the division where we've increased the most is the Supply Chain division in emerging markets, in particular in Asia and Africa, Middle East.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel, Nicolaus & Co. - Analyst    [81]
+--------------------------------------------------------------------------------
+And then last question is just on Freight Forwarding.  Is industry pricing as you moved through the second quarter into July improving at all, becoming more rational, or is it getting more competitive?  And then are any trade lanes, specifically in Air Freight or Ocean Freight, most competitive right now?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [82]
+--------------------------------------------------------------------------------
+I would say that it is overall intensely competitive in Global Forwarding.  And I think more relevant to look at is our gross profit margins as opposed to absolute pricing levels, because that then takes into account both the competitive situation or -- and/or supply/demand situation among the carriers, and then the competitive situation among the forwarders.
+And there again we've been able to hold a pretty good level of GP margins and, therefore, EBIT.  So it's very competitive, we are very disciplined in the market at this point in time and thus far we think that's been the right strategy for us.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel, Nicolaus & Co. - Analyst    [83]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [84]
+--------------------------------------------------------------------------------
+Okay, thanks, Ross.   And the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [85]
+--------------------------------------------------------------------------------
+The next caller is Robin Byde, Cantor Fitzgerald.  May we you're your questions, please?
+
+--------------------------------------------------------------------------------
+Robin Byde,  Cantor Fitzgerald - Analyst    [86]
+--------------------------------------------------------------------------------
+Good afternoon, guys.  Just two from me, please.  I think at Q1 you mentioned on CapEx that you would see a possible EUR300m to EUR400m of inflows from disposals this year, but the run rate looks a bit lower than that.  So can you comment on that, please?
+And then, secondly, just a broader question on growth and emerging markets.  A lot of economists are cutting their forecasts for the BRICS for the next couple of years, so I just wondered do you see any threat to your 2015 target for DHL, perhaps, at the higher end.  Thanks.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [87]
+--------------------------------------------------------------------------------
+Okay.  So I think I mentioned on the Q1 call that our CapEx disposals were more than EUR300m last year, in 2012, but this year we don't necessarily expect them to be over EUR300m.  They typically are in the range of EUR200m to EUR300m and that's probably more what I would expect for this year in terms of disposals of vehicles and real estate primarily.
+In terms of growth in emerging markets, yes, we've seen some slowdown.  I don't necessarily expect and we don't necessarily forecast that we see further slowdown from here.  We hear about major slowdown in China, but they are still growing at over 7% and it's still the fastest-growing region in the world in terms of the emerging market.
+So we think there's still going to be healthy growth in the emerging market, if not quite as high growth as we saw a couple of years ago, where we were seeing double-digit growth in China and India, for example.
+
+--------------------------------------------------------------------------------
+Robin Byde,  Cantor Fitzgerald - Analyst    [88]
+--------------------------------------------------------------------------------
+Okay, thanks for the clarification.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [89]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [90]
+--------------------------------------------------------------------------------
+Okay, thanks, Robin.  And, operator, do we have any further calls out there?
+
+--------------------------------------------------------------------------------
+Operator    [91]
+--------------------------------------------------------------------------------
+No, at the moment there are no further callers so far.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head, Investor Relations    [92]
+--------------------------------------------------------------------------------
+Okay.  Well, then I think we are done for this call.  Thank you everyone out there for your interest.  And we are looking forward to staying in touch with you one way or the other over the next couple of weeks and months. And so, with that, thank you to Larry and have a good rest of the summer out there.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [93]
+--------------------------------------------------------------------------------
+Thank you.  Thanks everyone for joining.  Bye bye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

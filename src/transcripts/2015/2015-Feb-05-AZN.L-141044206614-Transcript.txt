@@ -1,0 +1,845 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Full Year 2014 AstraZeneca PLC Earnings Call
+02/05/2015 12:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Luke Miels
+   AstraZeneca PLC - EVP Head of Product Strategy
+ * Marc Dunoyer
+   AstraZeneca PLC - CFO
+ * Pascal Soriot
+   AstraZeneca PLC - CEO
+ * Briggs Morrison
+   AstraZeneca PLC - EVP Global Medicines Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Mattias Haggblom
+   Danske Bank - Analyst
+ * Mark Clark
+   Deutsche Bank - Analyst
+ * Alexandra Hauber
+   UBS - Analyst
+ * Nicolas Guyon-Gellin
+   Morgan Stanley - Analyst
+ * Naresh Chouhan
+   Liberum Capital - Analyst
+ * Matt Weston
+   Credit Suisse - Analyst
+ * Sachin Jain
+   BofA - Merrill Lynch - Analyst
+ * Simon Baker
+   Exane BNP Paribas - Analyst
+ * Tim Anderson
+   Bernstein Research - Analyst
+ * James Gordon
+   JPMorgan - Analyst
+ * Seamus Fernandez
+   Leerink - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [1]
+--------------------------------------------------------------------------------
+
+          All right.  Good afternoon, everybody.  Welcome to this annual results conference.  It's really a pleasure to be with you today and really a pleasure to report on, quite frankly, what has been a, in many ways, a very busy year for us, a very unusual year, but also a very remarkable year and we feel we've made a fair amount of progress in the last 12 months.
+So I'll give you a quick overview of our results.  Luke, who is our Head of Product Strategy, our EVP Head of Product Strategy, will cover the growth platforms in more details.  Marc will take you through our financials.  And, finally, Briggs will cover the pipeline progression and then, of course, we'll go to the Q&A.
+So 2014 was really a year where -- when we focused on implementing our strategy.  And we believe we did make quite some progress in returning to a growth.  In particular, our growth platforms delivered collectively a 15% growth rate and they now represent about 53% of our total sales.  So quite, quite remarkable.  And, as you can see here, they all grew except Japan.  And we'll cover Japan a little bit later.
+But as you probably know, we -- we're faced with price reductions, but also the impact of generics.  And the oncology market was much more important than expected because the dynamics in the generic market have changed in Japan.
+And finally, we had a record in the last quarter for Nexium.
+Almost the most exciting part is the enormous progress we made rebuilding our pipeline and now turning this into a reality.  A year ago, we told you here is what we are doing with our pipeline, but really we didn't have much reality to this pipeline yet.  Now we are turning this into approvals.
+We got approval for Duaklir which we acquired recently.  We filed Lesinurad.  We got good data from Brodalumab.  We filed Saxa/dapa, an important combination for our diabetes franchise.  Really important results with PEGASUS and Brilinta.  We got approval for Lynparza in the US and Europe and we are now in the process of launching this product.  Very good success in the US so far.  Very early days.  So we cannot conclude, and should not conclude, too quickly.  But really very, very good response so far.
+We filed Iressa and also we got approval for Moventig.
+And finally, what is not listed here, is we also got the scheduling, or information that we got the scheduling for Movantik in the US.  So we are ready to launch very soon.
+I think the key message that I want to leave you with here is that we actually delivered our guidance for the year.  And I think it's really something that I would like to maybe ask you to remember is that we tried to deliver what we said we were going to do.  And, essentially, we guided up at the end of Q3 for the full year and we delivered exactly where we said we were going to deliver.  In fact, on the core EPS front, a little bit better.  But, broadly speaking, you could say very much on track.  And when we -- when we guided on 2014, of course, we knew the Q3 year-to-date pictures, and by definition, people could have expected what Q4 was going to look like.  And -- but the important point is we got exactly where we said we would get.
+Another message on this slide is the growth rate in China.  It hasn't stopped.  We have consistent quarter-after-quarter growth rate north of 20%.  The market is slowing down a little bit in China.  The market growth rate, but still we experienced very strong growth throughout the whole year.
+We are the number two in China, as you know.  We have the fastest, or one of the fastest, growth rates there and China is now second largest national market on a global basis, so very exciting development there.  But also very good results in other markets in the emerging market region.
+So, let me start with the approvals.  We got six -- we got approval for six new -- sorry, we got six NDAs or BLA approvals in 2014.  So, it's a record for us as a company historically, but it's also a pretty strong performance from an industry viewpoint.  And some of them products of valuable importance to our business long-term, but many of them are really quite critical to our core franchises.
+We also got additional approvals with Duaklir and the Bydureon Pen.  Luke will tell you more about the Bydureon DCP in a minute, but I can say that so far we're doing quite well with it in the United States.
+And importantly, over the next couple of years, and Briggs will come back to this, we are on track to deliver seven to eight potential NME submissions.  Quite a number of them in 2015, but another number in 2016 and about half of those are in oncology.  So very exciting news flow from a pipeline viewpoint over the next couple of years.
+Now, let me stop a minute on this slide and attract your attention to it.  When we actually set up the organization two years ago, we actually tried to come up with a model that would increase accountability, would increase development and autonomy and would enable people to be a more top runner and move faster.  And, as a result, we came up with a model that had -- that has two biotech companies.  One is called MedImmune which is really focusing on biologics and immunotherapy and the other one is called AstraZeneca IMED which is really focusing on small molecules.  And those two biotechs have a clear role, which is to deliver, discover and early develop products and bring them to a point in time when we can transition them to the late-stage organization.  Sometimes it's phase I, typically it's at the end of phase II, and of course we have some flexibility there, especially in oncology to move into late-stage development earlier.  But, fundamentally, we have two biotechs and the transition products to our late-stage organization called AstraZeneca.
+But, we also retained the -- we always had in mind that we may actually decide to create value in a different manner.  To create value with partners, not necessarily by ourselves.  And what has happened is we believe our productivity in R&D and research in early development has really improved so rapidly that we get to a point today where we can't do everything ourselves.  So what we've decided to do is to typically develop and commercialize ourselves the products that belong to our core therapy areas and then partner and create value through partnerships for other products that we will not develop ourselves.
+And it's an important aspect to consider because one option for us, of course, was to completely cut out research in areas that we believe are not necessarily our core franchises.  But we thought we have very strong science and we need to find a way to bring this science to patients and create value for the company out of it.
+The BACE inhibitor that we partnered with Lilly last year is a very good example of this.  This great product, whether it works or not we still don't know of course, but potentially it could really make a difference to the treatment of Alzheimer's.  We've found a great partner who understands Alzheimer's disease far better than we would.  They are taking the lead developing it.  We are -- we've got a great relationship and create long-term value and short-term value for the company.
+We have monoclonal antibodies in development for Pseudomonas infections, MRSA infections, a treatment of prophylaxis.  Those are agents who've received -- which have received breakthrough designations by the FDA.  Very great products.  Great science.  This is really not an area where we have strength and we don't have capabilities, and, again, we don't have resources to do everything, so another example where we could potentially out-license or find partners to develop.
+And important I mention because essentially, you've got to keep in mind that if we were a biotech company that's exactly what we would be doing.  We would be looking for partners to develop some of our products.  So it's not because we are a large pharma that we can't operate as a small biotech.  So some of the work we're going to do is going to be similar to what a biotech company would do.
+Now, if I move to the return to growth agenda, I told you growth platforms, they represent 53% of our sales.  They grew 15% collectively in 2014 and you can see here we've moved from 41% to 53% in 2014.
+Now, the challenge for us, of course, is that the non-growth platforms, in particular Nexium and Crestor, still represent a pretty substantial part of our business and over the next couple of years, as you all know, we will lose them.  So, clearly, we have moved very nicely over the last two years in the first phase rebuilding our pipeline.  Now we are getting into the next phase of our transformation which is 2015, 2016 where our underlying business is growing fast.  But, of course, we have to deal with the patent expiries that create headwinds.
+You can see here that we've had several consecutive quarters of growth.  Q4 actually grew 3%.  The 2% reported is after reclassification of the excise fee, which Marc will talk briefly about a bit earlier.
+I think importantly, I just wanted to attract your attention to one point is that the consensus didn't consider the excise fee in its entire -- in its totality by product.  And you have to keep in mind, we accounted for -- we paid, actually, because the government, as you know, changed the methodology and we ended up paying two quarters of excise fees in the last quarter.  So we accounted for two quarter's excise fees in Q4.  The impact by product is roughly 4%.  So when you look at product by product and you compare sales to consensus, you've got to remember consensus is not adjusted for those 4%.  So I will stop here and hand over to Luke.
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Pascal and this transition represents an important point for the Company.  You can see here in this slide here the performance of the growth drivers, or the growth platforms in 2014 was very consistent and demonstrated that we could compete and perform well in our chosen segments.
+In addition, with the progress of the pipeline in oncology and the launch of Lynparza, we're signaling here that oncology is the emerging sixth growth platform.
+In terms of Brilinta, I think it's fair to say it was a very good year for Brilinta.  There are a number of events, both commercially but also in terms of the evidence base and the regulatory environment, which had the effect of increasing confidence around this product and how it could help patients and this translated into share gains.
+You can see here on the left-hand side, the leading indicator for the hospital market in terms of units purchased.  You can see here we've moved ahead of our competitor and that continues the trend in to 2015.
+On the right-hand side, a lagging indicator.  You can see here the NBRx trends is, again is in favor of this product.
+If we look discharge share in the US, and, again, this is part of this halo effect and confidence around this product, we saw discharge share move up across all markets with the exception of Germany.
+One thing I'd like to point out is that the discharge share in the US is actually quite a bit lower than what we've seen in Europe.  So there is an opportunity there to further increase the usage of this product for patients.
+On the right-hand side you can see a number of market shares and uptake graphs here and, again, we have a good trajectory there across the business with this product.
+Also, interestingly right now in the US, around 20% of patients make it to 12 months.  In Europe that figure is higher.  It's around 50%.  So our view is that this flow of evidence should further encourage the usage of this product for longer terms.
+In terms of diabetes, broad performance here.  Firstly, just starting at the bottom, Onglyza.  We had historically directed resources away from Onglyza to focus on Farxiga and the dual-chamber pen.  I think to date that has proven to be an effective decision.  We've been able to essentially hold the business there.  There was some decline in share over the year.  But NBRx towards the end of the year were actually stable.
+For Byetta, again, a good performance considering the level of focus.
+Bydureon, we launched the dual-chamber pen.
+And Farxiga -- I'll come back to Bydureon in the next slide.  For Farxiga, again, a strong growth.  This class is extremely attractive.  It has a number of attributes.  If we looked at switches, people are coming off insulin as well as moving up from Metformin, so a very diverse group of patients there.  Despite what is a very competitive environment, we've been able to hold our share.  And, again, we continue to do well with Farxiga.
+The other dimension here, which is not necessarily visible to people, is outside of the US we have a very dominant position here with Farxiga.  And you can see across markets which launched before the US, continued uptake there.  So, again, it's an encouraging trend.
+For Bydureon, we launched the dual-chamber pen.  We covered this in Q3.  But you did see a very strong uptake and reception to this device.  It's a device which is popular with patients and you can see there we're able to grow our share in a market itself which, I think, probably surprised some people in terms of how much it grew.
+On the right-hand side, you can see new prescriptions for the tray, which is the legacy configuration and the new dual-chamber pen.  What's interesting about this chart, you can see there's around a 40% split.  If you break that down, 70% of the patients who are NBRx for the Bydureon Pen are actually new to the product.  So it's not purely just the switching out of patients who are on the old configuration to the new dual-chamber pen, which again is encouraging.
+In terms of Symbicort, we spent some time with this at Q3.  We signaled to you that we would expect pressure in Q4 and early this year, particularly in the US around pricing.  I think that has come to pass.  Again, we view this as a step change.  We were aware this was coming.  We have prepared for it and we are now in that process of moving forwards.
+For Europe, there were a number of analogs or mandatory price cuts.  Part of our argument here and interest in this portfolio and this product in particular, of course, is the defensive nature of the devices.  And when we look at the volumes in the -- in Europe, we've been able to maintain our volume share there.
+And for emerging markets, again, this is a very attractive product that has a relatively low profile in terms of sales right now in emerging markets relative to Pulmicort.
+For emerging markets overall, firstly, with China, you can see here strong growth has continued.  If we look at the MIT IMS share in China, essentially we were double the market growth rate.  So, again, we feel very confident about our business in China.  We often get asked are you too reliant on China.  You can see here this is the growth rate of emerging markets outside of China ex-factory and there's a nice trend there as we start to see the growth platforms have an increasing share of the business in emerging markets.
+In terms of Japan ex-factory, there was a negative number.  If we look in market, we grew well ahead of the market.  The market overall itself did contract but we grew ahead of the market, both in the full year and also in the quarter.  You can see there strong performance particularly from Nexium where we've taken share.  We've been able to hold our place with Crestor despite the presence of some competitive dynamics there.  And Symbicort, again, we are able to hold our share quite comfortably.
+In terms of quarter one, that's the last quarter that we'll see the effect of the price drops earlier in this year and we believe we're well positioned for growth in Japan in 2015.
+And in conclusion, we've also got some exciting news coming.  We'll update you more fully on this in quarter one.
+Firstly, with Movantik, we're preparing to launch in the US.
+There's the news today, of course, with Duaklir and in Europe, we're now at advanced stages of launching this product.
+And we have a very exciting uptake so far in Europe with Lynparza, where we're already seeing this impact on patients.  There is a large group of patients who were aware of their BRCA status and in advance disease who were waiting for this product and we've seen a very rapid uptake, as the slide indicates here so far.  And we'll give you some more color around this good news in quarter one.
+With that, I'll hand over to Marc.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Luke.  And good afternoon, everyone.  So I'm going to walk you through the financial performance and the financial priorities for 2014, a review of those, and then give some views about 2015.
+So first of all, on 2014, as Pascal has mentioned, we have met our guidance for the year, our upgraded guidance for the year.  We have continued to invest behind our accelerating pipeline.  And we have also invested behind our growth platforms, and especially in the last quarter of the year.  And I want to signal here that the investment behind those growth platforms in the fourth quarter of the year has peaked.
+We continue to redeploy across our profit and loss statement.  We try to keep the largest possible flexibility on our balance sheet.  We are trying to generate cash rapidly, and you will see some measure of this.  And we also have taken a loan at the end -- a bond at the end of the year which was also very oversubscribed.
+So let me turn to the explanation about the type of redeployment we do.
+If you look at the base year of 2012, we were spending about a third of our expenses on G&A.  And you see now this ratio has reduced to a quarter, to 24%.  Most of the money is allocated to the sales, marketing and medical expenses.  And I provide three examples of this of a high temperature being reduced.  Predominantly, it's IT cost and also the facilities costs.
+If you look at the facilities cost, it's interesting to know that the R&D facilities costs have reduced in these two years by 30%.  So we try to reduce the cost of our footprint to be able to devote more money to the projects.
+I was talking about the cash generation.  This provides a view of our cash conversion cycle.  We were at 69 days of sales in 2012.  We will finish the year 2014 at 45, which I think is a very good performance.  We have provided some comparison to the industry.  Obviously, we do not have the comparator for 2014, but you can see the progression at least for AstraZeneca's metrics from 69 days to 45 over the last two years.  We are going to continue those efforts in cash generation.  This is important for us to be able to fund our developments.
+On the debt and cash -- on the debt side, we have this credit rating with Moody A2, AA- with Standard & Poor's.  As I was mentioning earlier, we had a bond in November.  We took a bond in November at a rate of 0.875%.  This bond was four times oversubscribed.  And we finished the year with a net debt of $3.2b.  So it gives us a lot of financial flexibility.
+Comparison for the quarter four 2014 to the fourth quarter 2013.  As you can see, the rate of increase on core R&D as well as core SG&A is -- are important.
+On R&D, it was the -- supporting the pipeline, the growing pipeline, predominantly in oncology, but also respiratory and the biologics, as well as our large program PARTHENON behind Brilinta.
+For the SG&A, this was predominantly the integration of BMS, the sort of mechanical impact of it.  But also the launches of Forxiga, Bydureon Pen as well as later in the year Lynparza and the preparation of Movantik.  We also had, in the later part of the year, the integration of Almirall.
+So all this points to a very opportunistic investment in quarter four 2014.  And, as I said earlier on, we estimate that this investment has now peaked.
+Again, we have fully met our 2014 upgraded guidance.  You can see on the right side of this slide the ratios.  Our gross profit was at 81%, core R&D at 19%, core SG&A at 39%, and we have also provided an indication about the core tax rate for both 2014 and 2013.  So you have in improvement of the two core tax rates of about 4%.  We met the guidance, did a little bit better, at 4.28.  And you have the decline of 8% we had announced.  We had guided for a 10% decline in EPS.
+So now, Pascal mentioned it earlier on, we have made a reclassification of the US branded pharmaceutical fee in 2014.  We did this over the fourth quarter of the year and you have $113m.  This is for the second half, the impact of the second half of 2014.
+In terms of annualized impact, it represents about 2% on our US brands.  Obviously, it varies brand to brand, but it's about 2%.  Pascal mentioned the 4%.  If you look at the quarter impact, this is 4%.  2% on half-year.
+So this is the reclassification of the excise fee that the US government is levying and we used to treat it as an SG&A like the rest of the industry.  We are now taking it as a sales deduction from the second half of 2013.
+A word about the guidance.  It's probably hard to read the little note at the bottom.  It says we are assuming that the launch of Nexium generic is imminent.  But, it is a very important assumption in defining our guidance for the year 2015.
+As far as sales revenue, so we plan the sales to decline by mid-single-digit percentage.  The core EPS will increase by low single-digit percent.
+And then we are also providing some sensitivity for the currency.  They have obviously impacted many companies, including AstraZeneca.  On the left you have the average rate for 2014 as well as where they are, on average, for the month of January.
+And then on the right of this slide, we have provided a percentage of the analysis on both the sales and the core operating profit for the major currencies.  You will know that some of these impacts are negative and some of them are positive.  Obviously, we have countries where we have more costs than revenues and the opposite is also true.
+We had a very -- we continued to have a very busy year in business development.  On the respiratory front, we integrated first Almirall and did a deal with Synairgen.
+We had the cardiovascular also disposal of Metreleptin.
+And oncology, you see there a variety of different transactions.
+So we continue to focus our business development on the three core areas.  This is the only areas where we are investing for business development.
+And the deal that we announced this morning, we have -- we had acquired first the deal with Almirall and this is in a way a complementary to this Almirall transaction.  We now obtain from Actavis the US and Canada rights for the Almirall part of the portfolio and also another product in the respiratory area called Daliresp, which is an oral PDE4 used in COPD as an add on, in particular for patients where refractory to ICS [Raba].
+This complements the acquisition we did with Almirall.  It makes us in possession of a global portfolio and also a very good DPI on the US market.
+The consideration is $600m and there's also an additional $100m payment which contains quite a lot of different contractual obligations which are to be resolved, waivers and non-compete clause and all sort of agreements between Almirall, Actavis and AstraZeneca.  This has been resolved and we were very happy to announce it this morning.
+So, overall, it gives another focus for us on the respiratory area after a very good year on the respiratory platform with our products.
+With this, I'm going to pass the ball to Briggs.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [4]
+--------------------------------------------------------------------------------
+
+          Thanks very much, Marc.  So it's good to see you all.  Since we just met with you in November I'll try not to repeat too much of what we talked about at the Investors' Day.  I'll give you a top line summary of 2014 and then highlight some of the things that you should look for as we go into 2015.
+So, again, I think it was a very good year from an R&D point of view.  I think I mentioned at the Investors' Day that we have set for ourselves this aspiration of improving the lives of 200m patients.  So we understand that that requires individual healthcare professionals to sit down with patients, talk to them about their disease and talk to them about treatment options and eventually recommend to them an AstraZeneca product.  And so we understand it's our obligation to generate evidence, strong evidence and the kind of evidence that healthcare professionals are going to need, to have that conversation.  And we think 2014 has been a good year for us in terms of generating that kind of evidence.
+The outstanding performance Pascal referred to in terms of NDA approvals.  Four new molecular entities, which we think is at the top of the charts for our industry.  We've talked a lot about rebuilding the Phase III pipeline.  I think we've made good progress there and focusing our R&D spend on our core therapeutic areas.  As I mentioned previously, about 90% of our spend now in 2015 will go into our three core therapeutic areas.
+This slide I showed you at Investors' Day.  There's a couple of updates since we met with you in November from a pipeline point of view.
+The submissions both in the US and the EU for Lesinurad, the submission in the US for Saxa/dapa fixed-dose combination, the approval in both the US and Europe for Lynparza and the approval for Movantik in Europe and the descheduling of Moventig in the US.  So, again, we think some highlights of things that have happened since we saw you in November.
+I've a couple of slides to go through each of our core therapeutic areas with a couple of other advances that have happened since November.
+So first, let's start with RIA.  I think many of you probably saw the data we presented at ACR.  Three key molecules.  Sifalimumab which is an antibody against interferon, the data -- the Phase II date in lupus which we had a positive trial.  It looked like a good molecule.
+Mavrilimumab, the Phase II data -- Phase IIb data in rheumatoid arthritis.  The (inaudible) population, again, hit the key end points and had a favorable safety profile, we think.
+And, of course, the Lesinurad data, the Phase III gout data, which is the foundation for our submission to regulators around the world.
+The other program that has started since we met with you in November is a program that I don't think we've talked much about in an earlier stage of asthma.  These are in genus step II patients.  So in genus step II patients, the standard of care is an ICS plus a reliever, essentially what patients get.
+There's a fair amount of data to suggest that patients are not particularly compliant with their ICS and so as their asthma starts to worsen they just use their short-acting beta agonist so they never really get the anti-inflammatory effect that they need.  So this program, underlying it is the hypothesis that in fact if you gave them Symbicort as their reliever, they would actually get both the fast-acting beta agonist and the anti-inflammatory.  It builds on the SMART concept that we have in many countries around the world that maintenance and reliever therapy that we have with Symbicort which is enabled by the fact that Formoterol is such a fast-acting beta agonist.  So this program has just got underway since we met with you.
+Cardiovascular metabolic.  The regulatory submissions for Saxa/dapa we've started now a program with Farxiga in Type I diabetes with the hypothesis that you would potentially be able to decrease insulin dosages, maybe minimize hypoglycemia, get some of the weight loss and the antihypertensive effects that you get with Farxiga.  So that program is now underway.  And we started the CV outcomes trial for Epanova in a targeted population of patients who have high triglycerides and low HDL.
+The PEGASUS trial, I'm sure many people in the room would like me to talk more about the data from the PEGASUS trial.  You know I can't do that.  But I do invite you to come to San Diego in March where it will be presented at ACC and you can then see the full data package of the PEGASUS trial.
+And, again, we do have many ongoing outcomes trials as we're constantly continuing to generate new evidence on Brilinta.  We'll probably have a CV outcomes trial reading out every year over the next couple of years.
+Some recent highlights of what's happened in oncology.  We've talked about the Lynparza approval.  The label is slightly different in Europe than in the US.  Europe is the maintenance indication.  In the US it's the people that have failed three prior therapies.  But all for patients who have BRCA1 mutant ovarian cancer.  We filed Iressa in the US and have a PDUFA date in the third quarter.
+Some other sort of key milestones of things that have read -- that have completed as we've gone through the remainder of 2014.  We've completed the enrollment in the trial that will support the 9291 approval -- the 9291 filing, hopefully an approval, in the second quarter of this year
+We also completed the enrollment of the mesothelioma study with Tremelimumab.  This is a placebo controlled trial.  That trial is now fully enrolled.
+We've completed the enrollment in the triplet study in melanoma, a BRAF inhibitor plus MEK inhibitor, plus PD-L1.  The concept there trying to ask whether we can combine immunotherapy with these small molecules.  That program we've completed the enrollment.
+And then just say a couple of things about ARCTIC and the ADJUVANT trial.
+So the ARCTIC Phase III trial, I want to be very clear.  There are two arms to the trial.  One arm of the trial is in patients who are PD-L1 positive where essentially we're trying to confirm what we think will happen in ATLANTIC.  So patients get randomized the standard of care for monotherapy, PD-L1.  That part of the trial is open and recruiting.
+The second arm, arm B, of that trial is in patients who are PD-L1 negative and that is a four-arm trial of treme alone, 4736 alone, a combination for standard of care.  That arm has not started to enroll yet.  We now have a clear view of our dosing strategy.  And that arm should open up very soon.  I'm not going to say much more than that dosing strategy.  We'll talk about that at ASCO and I'll talk about that in just a minute.
+So the ARCTIC monotherapy arm is open.  The combination therapy arm should open shortly.
+And then the first patients have been enrolled in the ADJUVANT trial.  To our knowledge, this is the first ADJUVANT trial with a PD-1, PD-L1 inhibitor being run with NCI Canada.  So we're very excited to get that underway.
+And then finally, for the muOX40, we have a Phase I program where we have monotherapy combination with PD-L1 which is already enrolling.  We've now opened up the combination with treme arm.  There's a fourth arm which is a combination with Rituximab which is open but we haven't dosed yet.
+And I think it's important to highlight that now that we have a clear view of our dosing strategy for the combination of 4736 with treme, we anticipate that over the course of this year we could open between -- somewhere around 13, what I call, registration trials.  They could be Phase II or Phase III registration trials.  So they're either ongoing or will open this year.  In that constellation, we think probably about half of those will be combination using the 4736 treme combination.
+This is the exact same slide I showed you at Investors' Day of news flow that you should anticipate as we go through the year.  When I put this slide together, I didn't anticipate that every single row would get a green check.  Somewhere along the way we might get a red X.  But at least so far on the ones we told you in November would read out over the 2015 news flow cycle, the things that are there is green checks.  So I think I've gone through most of these in terms of things we've accomplished.
+The one, the only one that I will just highlight here is the -- it was not on the chart when I showed it to you in November is the uveal melanoma study with Selumetinib.  This is a trial of Dacarbazine versus Dacarbazine plus Selumetinib.  As the events have accrued in that trial, it's now looking like that trial could read out this year.  And depending on when that reads out, it could potentially even by filed this year.  So I just wanted to add that as a new line on our potential news flow.
+And then just to drill a little bit more into news flow in oncology.  Through 2015 we have number of abstracts at AACR.  I've just highlighted a couple of them here.  The Phase I data for our C-MET inhibitor and our PI3 kinase beta delta inhibitor.  At ASCO, there'll be, for PD-L1 monotherapy, we'll have an update on the non-small cell lung cancer population as well as the head and neck population.  And as I referenced to earlier, the triplet combination of BRAF MEK 4736.
+We'll also have an update on the combination study in non-small-cell lung cancer.  This is the Phase Ib dose escalation study combining 4736 with treme to try to set some expectations.  At this point, we've dosed about 70 patients in various cohorts as we've done the dose escalations.  Some started at lower doses.  The more recent patients being enrolled at the -- in the dose range where we think we'll take into Phase III.  And some of them will have a relatively short follow up because they've been dosed more recently.  But it gives you a feel for rough numbers of patients that will be presenting and I think that will help inform you of what our dosing strategy is.
+The items on the right-hand panel are things that we also think but we're not entirely sure when these will -- when the data will come out so I will just sort of take you through them.  As I said, the Phase II data for 9291.  I talked already about the uveal melanoma trial for Selumetinib.
+There's also some data that will come out some time this year in pediatric neurofibromatosis.  Some scientists at the NIH have been studying Selumetinib in that disease and have some interesting data which they'll be sharing with the scientific community sometime this year.
+The ATLANTIC trial, which is our third-line, potentially fast-registration trial, that data should mature as the year progresses.  And there could be an avenue for us to present some of that.
+The treme-meso trial, as I said, is fully enrolled and we have a series of interim analyses to look at the data as we -- as the events accrue.  I think the latest that we would have all the events accrued and be able to report out on that would be the end of the year.  But there's a possibility, depending on how the data comes out, it could come out earlier.
+For the 2014, which is our dual mTOR inhibitor, there's data both in combination with Fulvestrant, [Asodex] and a trial in combination with [Capitaxol] where there's some interesting data in squamous cell lung cancer.
+In the Wee-1 inhibitor, there's a trial comparing standard chemotherapy plus or minus the Wee-1 inhibitor which also may read out this year and some Phase II data for our C-MET inhibitor in papillary renal cell carcinoma.  So there are some other things that could hit your radar as the year progresses.
+So I think, with that, I'll stop and open it up to Pascal to take questions.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Briggs.
+So I will very quickly conclude and move to the Q&A session.  Just in summary, we are very much on track.  I think this is really the message to you.
+We delivered our upgraded guidance exactly what we said we would do.  Our growth platforms are very much on track, growing 15% this year all together.
+We invested quite a lot in 2014, in particular in the last quarter of the year.  That's very clear.  But as Marc said, our investment has peaked.  We felt 2014 was clearly a special year because if you think about it, we had many launches.  It's really rare that one single company has to deal with so many launches.  We had several launches or relaunches in diabetes.  We still have Brilinta in launch mode.  We continued relaunching our respiratory franchise, as you know, that for a period of time in the past had probably been neglected a little bit.  And then we had to start preparing for Lynparza, start preparing for Movantik.  So quite a substantial investment.
+Moving into 2015, I think we are in a different phase where, of course, we're going to have to work on our productivity and then manage our expenses.  We believe we have a plan.  We believe we can do it.
+The pipeline is very much on track.  If anything, in many areas we are ahead of what we expected, but very much on track to deliver.
+And just to remind you, our core EPS in 2015 should grow by, I'd say, by low single-digit percent.  So, essentially, our expenses -- our investment has peaked in 2015 and EPS in 2014 bottomed out and we hope to grow by a low single-digit rate in 2015.
+So I'll stop here and open the session for Q&A.  Maybe Alexandra and then Sachin.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [1]
+--------------------------------------------------------------------------------
+
+          Thank you, this is Alexandra Hauber from UBS.
+Briggs, I just wanted to clarify that I understood something correctly which was you said you're going to start 13 registrational trials for the PD-L1 overall, of which half of it in the combination.  Is that correctly what you said?  Okay, okay.
+And then I know you you're not going to say much more on the dosing of ARCTIC, but maybe you say -- tell us a little bit more how many patients you have now seen in the Phase Ib study.  You said about 40 a month ago.  Where is that number now?
+And on the basis of how many patients will they be able to feel confident to determine or maybe you seem to have already have determined it, but how many patients did you actually then do that dose finding decision?
+Secondly, a question on this huge spike we've seen on SG&A, almost $500m year-on-year increase or quarter-on-quarter increase.  I know some of that was the fee.  I get, conceptually, what you're doing, but could you please give us some color on exactly what those incremental $300m or $400m were spent?
+Then lastly on Symbicort.  We've always seen an impact in the fourth quarter.  And in the press release you've been referring to increased co-pay assistance in anticipation of the -- of the formulary changes.  Can you just give us roughly some color what exactly is that that you're doing so that we -- nobody has -- in terms of the increased co-pay?  Is that similar to the card you have for Farxiga and [Sedual]?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [2]
+--------------------------------------------------------------------------------
+
+          So if you start with Briggs and Marc for the expenses and Luke for Symbicort.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [3]
+--------------------------------------------------------------------------------
+
+          Yes, so the Phase Ib study in non-small-cell lung cancer, where we're doing the dose escalation, as I said, will have somewhere in the order of 70 patients when we present at ASCO.  And that's the data set that we're using to make the decision.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Regarding the -- what you refer to as a spike of SG&A, so I think the -- again, I can tell you that the totality of the increase has been spent behind the growth brands.  So, in other words, no increase has gone towards the established brands.
+The biggest part of -- the biggest part of the increase has gone to diabetes.  And in diabetes you have two factors.  The mechanical integration of the BMS part and there is also an organic growth in launching and promoting Farxiga and launching the dual-chamber for Bydureon.  So that's -- this is the largest part of it.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [5]
+--------------------------------------------------------------------------------
+
+          And just to add, Marc, I think about two launches in diabetes.  Bydureon dual-chamber pen and then Xigduo in the United States.
+On top of it, we've got to 12 months post-launch of Farxiga, so we were able to start with this yr.  So there's an element of BTC that didn't exist before also in the United States.  So -- and there are many other things, as Marc said.  But those are the main important points.
+Luke, do you want to cover Symbicort?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [6]
+--------------------------------------------------------------------------------
+
+          So I think to take it a little bit further back, we'd anticipated that something like this might have happened, so I guess the advantage of anticipation is that we had quite a time to prepare.
+What we're trying to do is to remove the impact to the patient at the point of conversion.  I don't want to give too much color on it.  Because we had this time to prepare, we were able to be able to combine a number of programs together which we are confident will enable us to compete.  So I think we can give a little bit more color around whether that's worked in Q1.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Okay.  Thanks.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [8]
+--------------------------------------------------------------------------------
+
+          Yes, it is really to make sure that those patients who lose cover and access are not disadvantaged and can stay on the product.  And in fact, the early indication we have is quite encouraging, but it's very early days.  So Sachin.
+
+--------------------------------------------------------------------------------
+Sachin Jain,  BofA - Merrill Lynch - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Sachin Jain, Bank of America.  Questions on a similar topic.  So firstly on the CTLA-4 PD-L1 combo, just you said you sorted dosing.  Is there anything else material pending for that study start or is it just administrative here?
+Secondly, on the six to seven combo starts, how many different tumors is that across?
+And then, related, in the different tumors are you using the same dose across the different tumors?  And if you're not, if you could contrast that versus Bristol who I think are using different doses.  So that's kind of one topic.
+Topic two is just on the guidance.  Your earnings guidance is very clear.  I wondered if you could just help me with some of the mechanics in between.  Any color on how much SG&A could fall on any additional kind of on the divestment income over and above Metreleptin.  Thanks.
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [10]
+--------------------------------------------------------------------------------
+
+          Yes.  So for the -- to start the combo study there's more administrative.  I think we have a very clear view of how that will work.  The -- I think for today I probably won't give you a precise answer on the number of tumor types.  What we've talked about previously clearly are lung cancer and head and neck cancer and you know those programs, so I think I'll pause on that one.  And then what was the third part of your question?
+
+--------------------------------------------------------------------------------
+Sachin Jain,  BofA - Merrill Lynch - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          If it is more than two tumors, which I'm guessing it is, is it the same dose across all, in contrast versus Bristol who are using different dosing?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [12]
+--------------------------------------------------------------------------------
+
+          Yes.  Currently, our assumption is that it will be the same dose across all, but that's probably not a firm and final answer just yet.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [13]
+--------------------------------------------------------------------------------
+
+          So returning to your question of guidance for 2015, we try to make it as clear as possible.  We gave you the assumption we are taking on the imminent launch of Nexium generic.  We have also provided a guidance on the sales line and we've also provided a guidance on the EPS side.
+We are not going to provide any specific guidance on any line of the P&L as we did for 2014, as we manage our operating expenses and all other factors affecting our Company together.
+Just a very rough indication, since you asked for it, the SG&A will probably decrease in value and in percentage compared to 2014.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [14]
+--------------------------------------------------------------------------------
+
+          Yes.  Sachin, I think maybe just to add on this.  We give a top line and a bottom line guidance and it's -- we don't want to give more details at this point, not because we want to be difficult, but simply because we have to -- and I know you realize, it's a very fluid environment with a lot of assumptions.  One big assumption is Nexium we assume the launch of generics is imminent.  That's our going-in assumption.  Now exactly when do they launch is not defined, as you know, because they have to build inventory.  They have had approval from the FDA.  That requires the solution tests to be performed on the first batches.  So precisely when -- we know it's imminent.  We know exactly they're going to launch soon, but precisely when we don't know.
+We don't know the pricing strategy that they would pursue, so that we don't know the speed of decline.  So we really want to keep enough flexibility to be able to be entrepreneurial and flexible and redeploy as we have done in 2014.  Redeployed to take advantage of opportunities when they arise.  And so the commitment we give, we give our investors and our shareholders  is we will deliver what we said.  We're going to do it just like we did in 2014.  And we want flexibility in between to be able to be entrepreneurial and adjust to the circumstances.
+James.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Thanks.  James Gordon from JPMorgan.  Three questions please.  One was on Symbicort.  When I look at the Q4 pricing mix in the US, it looks quite a hit at 19%.  So I assume some of that is exceptional to do with the excise fee as well.  So what would be the true underlying negative pricing mix in Symbicort and would that be a good run rate for 2015, or are there reasons it might look quite different for 2015?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [16]
+--------------------------------------------------------------------------------
+
+          So just a quick point, we don't give guidance product by product.  But having said that, I'm sure Luke can give you some more color.
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [17]
+--------------------------------------------------------------------------------
+
+          Yes.  I think it's very much what we said at Q3 which is we would expect pricing pressure.  There were plans that we were prepared not to lower our price to that point, so we've tried to do that.  I think it's fair to say we had a very strong year in 2014 and to see that again in 2015, I think we've signaled that there would be more pressure there.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          And on the pricing, GSK seem to indicate that they had secured some positioning, not just for 2015 but also for 2016.  Have you signed multi-year contracts or could we see another step down?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [19]
+--------------------------------------------------------------------------------
+
+          I'd rather not disclose that at this point because we see that as competitive.  But clearly we -- our aim is to get that mix right.  We see this as a step change.  There is the excise fee of course that flows into that which can distort it a little bit, but again we see this as an initial step change.  I think we're back out there competing for share right now.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [20]
+--------------------------------------------------------------------------------
+
+          You know, James, one thing I said before, maybe just to restate it, is that the impact of the excise fee in quarter four was 4% right across the board.  It's a little bit more for Symbicort actually.  So in Marc's slides, on an annualized basis, it was 2.8%.  So a little bit more than 4% for the fourth quarter is one thing that we should -- you should take into account.
+And in terms of long-term contracts, we see every day that if a better offer comes along long-term contracts are reopened by our customers immediately.  So it's really hard to say I'm going to sign up a very long-term contract.  We have some of those but we always know that people reopen those contracts.  They are the customers in the end, so we try to negotiate but it's not that easy.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Thank you.  And the second question was just on OX40.  I know you've got three products, or three molecules in development and it seems to be getting more and more crowded.  So we know Roche has got one, Pfizer's got one, GSK announced they've got one.  Do you think it is going to be very, very crowded in OX40 and then even more?  Is there going to be a lot of differentiation between all the different products?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [22]
+--------------------------------------------------------------------------------
+
+          Well, Briggs maybe you want to cover this.  We -- as you know, we have three.  We have the murine, the humanized antibody, and then we have the fusion protein.  And the fusion protein potentially would be -- could be differentiated from everything else and be more effective.  The question is what safety profile will we get?  So we will know when we have run the Phase 1 study.  So fusion protein has the potential to be differentiated and the rest is probably a question of combination and a question of speed, great speed.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [23]
+--------------------------------------------------------------------------------
+
+          Yes.  So I think it will be crowded based upon what we've heard from competitors of people entering.  It seems to be an attractive target to many people.
+As Pascal said, we have, and you noted, we have three different things that we want to sort out which one would be the best.  How to differentiate, whether they differentiate, time will tell.
+It was similar I think in the PD-1/PD-L1.  There were hypotheses about one is better than the other and time will tell.  But I do think that it's an attractive target.  We think it is.  And we do think that -- again, we wouldn't be surprised that the real place that they show up is in combinations, and so having available our own CTLA-4 and our own PD-L1 to think about combinations with OX40 we think positions us well, but for sure it's going to be crowded.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Thanks.  And then just a final question which was what that the Farxiga/Forxiga prescription trends look really good, but you still don't -- I haven't seen you report on exactly what the sales are.  And is that because there is some very big discounting or couponing and that's why the sales don't look as impressive as the prescription trends, or are you going to start reporting the sales for 2015?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [25]
+--------------------------------------------------------------------------------
+
+          Well actually no.  It was simply that our competition didn't report sales so we decided not to report sales.  So we will report sales in 2015 no doubt.
+Now the -- for both Symbicort and Farxiga in the first half of this year what we have to deal with is the change in formulary listings that you are well aware of.  And so we have plans to deal with those, but certainly we have built in our plans also a short-term impact on our project area both for Symbicort and certainly Farxiga.  And Q1 sales, we will report the Farxiga sales, well the Farxiga family, Farxiga plus (inaudible).
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [27]
+--------------------------------------------------------------------------------
+
+          So then I'll ask one question from our participants on the telephone and then I'll come back to the room.  Is there a question on the telephone?
+Okay so well the name doesn't show up anywhere.  Okay, so Tim Anderson.  So, Tim, go ahead.  There is nothing on the screen here.
+
+--------------------------------------------------------------------------------
+Tim Anderson,  Bernstein Research - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Thank you.  I joined late, so I apologize if you've already touched on some of these things.
+On mergers and acquisitions, it's a question I've asked in the past.  How much of a priority is it for management to pursue transactions that would specifically pull forward the trough year of 2017.  And I guess the specific question here is are you going to say there's an upper limit to the size of the deals that you would be considering in the next year or two?
+The second question is just on the PEGASUS results that came out that were positive.  Can you just help quantify what that means for Brilinta, realistically in terms of an uptick?
+And then last question.  Right around the time that your call started there's been some news on the wires that Pfizer' is buying for Hospira for $19b.  My guess is that you would probably concur that the odds of Pfizer coming back after Astra now seem even lower than they may have been before, but I'd love to hear your updated perspective on that.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [29]
+--------------------------------------------------------------------------------
+
+          Thanks Tim.  So we'll start with your last question and probably leave it at your own conclusion.  The -- on the Pfizer, no, the answer to your question I don't have it, but I can only deal with probabilities.  And I think it's relatively logical to think the probability of a return has substantially reduced.  I guess that's probably the only thing we could say at this point.
+In term of PEGASUS, Luke, maybe you want to cover this.  Just one thing is that you have to wait.  We have to wait for the detail to be in their label to be able to fully promote that new indication for PEGASUS -- for Brilinta.
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [30]
+--------------------------------------------------------------------------------
+
+          Yes.  And there's obviously a limit to what I can speculate right now because of the status of the data.  But ultimately this should have a positive impact for this product because you've increased confidence on the part of individual cardiologists that are using this in the lab.  When the patient is discharged from the hospital they're more likely to have stronger instructions to continue treatment, so this should have an impact, we hope, on the days of treatment, the length of treatment.
+I mentioned before that many patients are not making it to a full 12 months.  In a number of markets, for example in Europe where you have reimbursement, you have this higher initial conversion and many of these patients stay on for longer.  As I said, 50%.  But a number of healthcare systems stop these patients immediately at 12 months.
+In the US, by contrast, you have less patients coming on initially, but that's changing rapidly.  Once they're on the product, they do tend to stay on for longer, beyond 12 months, which is not something that we promote.
+And I think there's just a broader halo effect if we look across the whole program, and out over a number of years and different indications.  It gives people confidence that this mechanism is doing what they hoped that it would do.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [31]
+--------------------------------------------------------------------------------
+
+          Just maybe to add is that -- a couple of points is, we were always confident in our Plato data and we defended that study.  But at the end of the day we had to accept it was only one study.  And now we have a second study that reconfirms the benefit of this product in ACS.  So hopefully we can hope that this debate is behind us, the controversy is behind us.  And, as Luke said, it will be help people build confidence.
+But the second thing is that over time -- and I say over time because 2015 we cannot really promote this.  We cannot promote this data at all so we have to wait for the label.  But over time it will help us, in particular in the US, because in the US you only have 20% of patients who stay on the drug for 12 months.  In Europe 50%.  And quite frankly it was already the case with -- like this before.  It's certainly very much the case for Brilinta.
+But as we demonstrated for PEGASUS, but also with the help of studies like Apollo, that really shows the patients who have had an event and are not treated with OAP are very much at a high risk of facing a recurring event.  If we use this body of evidence, we have good arguments to convince physicians that they should really make sure their patients stay on the drug.
+Marc, do you want to cover the last point?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [32]
+--------------------------------------------------------------------------------
+
+          So briefly, it's a difficult question to answer, is there a limit to a deal.  I think we don't really look at it in such a way.  For us, we explore opportunities by looking at whether this outside opportunity is aligned with our core strategies.
+The second criteria we use is, is it -- are we going to do a better job than the team in place?  Are we going to be a better owner?
+And the third obviously is the price and the impact on our earnings.  So these are the three parameter we look.
+I don't think they are physical limitations to date today.  The debt market is relatively easy and the cost of the debt is very low.  So this -- and for us the debt capacity, or the limit to the deal is not what we look at.  It has to be absolutely aligned with our strategy.  These are the key areas we look at.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [33]
+--------------------------------------------------------------------------------
+
+          Yes.  I mean our primary focus is really to turn this pipeline into a reality.  We've got a lot of great projects here that can help patients and create enormous value, but a focus on making this happen.  We will continue looking for opportunities because it is clear that we have a bridge between now and 2017.  We have two years to go that are suddenly years where we are making good progress, but we're also facing headwinds with Nexium and Crestor patent expiries.  So if we were able to find an acquisition that would help us bridge to 2017 and build further strength in our core areas, we would do it.
+But as Marc said, the three criteria that we use, we try to follow in a disciplined manner.  We've looked at many, many opportunities and it's really hard to find one that would address our criteria so far, but we'll certainly keep looking.
+
+--------------------------------------------------------------------------------
+Nicolas Guyon-Gellin,  Morgan Stanley - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Nicolas Guyon-Gellin, Morgan Stanley.  Three questions please.  The first one is with regards to the ATLANTIC trial.  In light of the recent developments, how would you rate the probability of filing maybe 4736 on the back of a single ARM trial?  And could you discuss the possible scenarios, depending on BMS label being a third and second line lung cancer?
+The second question is a financial one.  Your guidance of flat reported EPS versus revenue down low double-digit implies a significant SG&A cut to the tune of $1.5b if my maths are correct.  So don't you see any risk of impacting the US primary care oriented growth platform?  And could you give us a few examples of things you can cut without impacting those platforms?
+And the final question is a quick respiratory one.  Any specific reason behind the strong performance of Pulmicort in emerging market in Q4 and is that sustainable?  Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [35]
+--------------------------------------------------------------------------------
+
+          Great questions.  So ATLANTIC maybe Briggs you want to cover, and Marc you could cover the expenses?
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [36]
+--------------------------------------------------------------------------------
+
+          So I think it's fair to say that it's a fairly dynamic environment that we're living in in terms of PD-1/PD-L1.
+I will say that what we've heard from BMS and the read-out of their Phase III trial, the Merck announcements and Roche are sort of what we anticipated evolving in this space, which is why we started ATLANTIC in a third-line population which, as best as we understood at the time we started that trial, was a population that was still available.
+As I've said multiple times, the ability for us to file ATLANTIC of course depends on exactly what happens with our competitors in terms of their filing and their labels and it depends on what data we generate from that trial.  Again, it's a dynamic field and we have to see what data comes together.  But at this point we still think there is a window that allows us the strategy we laid out, which has a fast-to-market strategy with third line.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [37]
+--------------------------------------------------------------------------------
+
+          So Marc, you can go on with the expenses.  Let me just quickly cover the Pulmicort question.  The Pulmicort success is really driven by China.  It's very much a Chinese event and it is really quite an exciting development I have to say because for many reasons.  First of all, it's used in pediatrics, pediatric asthma essentially.  In the last couple of years -- and those kids are treated in nebulizing centers.  In the last couple of years we've gone from 200, 300 nebulizing centers to more than 2,000.  We've helped build more than 2,000 nebulizing centers in China.  And so we've been able to bring Pulmicort to all those kids who actually need to be treated.
+And I think Pulmicort today is one of the biggest products in the Chinese marketplace actually.  It's exciting because we're helping those kids.  Now we're moving to home care treatment.  So we -- the problem is they go to these nebulizing centers, some of them are exposed to infections, of course.  So we're trying to now move to home nebulizing treatment.
+And the last thing is that it actually bodes well for the long-term, because in China patients today are treated -- doctors are treating asthmatic patients during the active phase of asthma.  They don't treat on a maintenance basis.  That's why you see Symbicort and others they are growing, but they're not that enormous considering the size of China.  So if we do a good job educating the medical profession, there's an enormous potential to treat patients on a maintenance basis in asthma and then there's the whole COPD segment, of course.
+Marc, do you want to cover the?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [38]
+--------------------------------------------------------------------------------
+
+          Yes.  Just talking about the $1.5b decrease on SG&A, I think you're forgetting one very important part and we have referred to it at the Investor Day.  I also mentioned it today.  I want to repeat again.  We are going to look and accelerate our exploration for externalization.  So it's probably a part that you are -- you need to take into account in your modeling.  We can't provide you with any clear indication today, but it's going to be an important part of revenues for 2015.
+Then on the structure of the spend, obviously our G&A line is going to continue decreasing.  If you look historically this line has decreased.  It will continue decreasing.  We are re-doubling our effort in containing our cost on the G&A line.
+And then on the sales, marketing and medical, the only indication I can give you is that the medical is going to increase because this is the evolution of our portfolio from the primary care portfolio towards specialty care.  So the medical line is going to increase, but the two other lines are going to be either stable or, for marketing, in reduction.  That's just some indications.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [39]
+--------------------------------------------------------------------------------
+
+          Should I take the next question on the telephone.  Mark Clark at Deutsche Bank.  Mark, do you want to go ahead?
+
+--------------------------------------------------------------------------------
+Mark Clark,  Deutsche Bank - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Yes.  Hi, gentlemen.  I was intrigued by your comment about China now being your second-largest market.  For most of your peers it's a nice to have, but in your case it's now getting quite vital.  So, that being the case, I think probably most of us are not quite as attuned to the dynamics of that market as we would like.  So perhaps you could give us some prognosis for the Chinese market itself.  You talked about some of your individual products like Pulmicort, but for the market itself, because I think I've seen data suggesting that the double-digit footfall through hospitals has dropped to 6%, 7%.  And obviously the government and the regions are looking to cut prices.  So are we now looking at an era of high single-digit growth in China rather than double digits or -- I'd be very interested in your thoughts.  Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [41]
+--------------------------------------------------------------------------------
+
+          Luke, you want to cover this one?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [42]
+--------------------------------------------------------------------------------
+
+          So I think it's going to remain a very attractive market in terms of our business.  Obviously respiratory is very important, but also cardiovascular.  Pulmicort is dominant today.  Symbicort is a relatively small part of our business and one that we're very actively seeking to grow, along with Brilinta and the diabetes portfolio, of course.
+In terms of the outlook for the market, it's clearly slowing, but it's still at a growth rate of around 12% which is certainly not slow.
+In terms of structural changes, I think that's the open debate we've had for a couple of years now.  I think there's a number of people that are of the belief that if the economy further slows, the government will direct funding into healthcare in the interests of stability.  They recognize that they have a structural challenge in the country, whether it is diabetes, cardiovascular disease, or also COPD.  So I think we remain quite optimistic.
+In terms of exact numbers, we wouldn't want to give exact numbers at this point for our business, but it's an attractive market.  In the future it's going to reward innovation.  And again we feel our pipeline is well presented there if we look over the next 10 years.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [43]
+--------------------------------------------------------------------------------
+
+          The 12% market Luke was referring to, we certainly continue outpacing this quite substantially as a company.  And the market is slowing down.  We've seen this before in China.  There was a period of time when it slowed down and then accelerated again.  So it's not because it's at 12% today, which, as Luke said, is a very healthy growth rate in the first place -- but it's not because it's at 12% today we're still there.  It could accelerate again for the reasons Luke was describing which is the government is going to have to invest more in health care and so that's going to help the market.  Private insurance slowly developing, that will help also access.
+And in the end you're going to have tensions between price pressures, just like in every other market, and, at the same time, a volume expansion.  And if you look, for instance, at diabetes, we have, with Onglyza in China, in the half of the country that we manage as a company -- the other half was with BMS and we've now recovered it since October.  In the half of the country we manage, we have 40% share, so we try now to achieve this on a national basis.
+The problem is of course this class of agents is not reimbursed yet, but when it becomes reimbursed we will certainly leverage the market share we've got.
+So we certainly see China as a very, very important market.  As you said, for some companies it's less important, but for us it's very important.  We see it as a very, very big market and the future looks as there would be more room for innovative medicines as well, cancer and others.  And we have now almost 7,000 people in China so that really is going to be a very, very important country, very important market and very important country for us.
+There was another -- line from Seamus Fernandez at Leerink.  Seamus, do you want to go ahead?
+
+--------------------------------------------------------------------------------
+Seamus Fernandez,  Leerink - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Sure.  Thank you so much for the question.  So just quickly to start off, can you talk a little bit about the diabetes market and the combination opportunity of the SGLT-2 inhibitor plus the DPP4 inhibitor.  Maybe how important you think the role in terms of getting combination pricing right is going to play in the competitive dynamic, or do you really think that the product is so differentiated that it will -- that important pricing and discounting won't play a significant role.
+Second question is again on diabetes.  I believe you started a combination trial of the SGLT-2 inhibitor in combination with Bydureon.  Can you talk a little bit about the reasons for initiating that trial?  I know there have been some very positive case reports in that regard, but I would love to hear your thoughts on that and the strategy of bringing those two products in combination.
+And then lastly, the adjuvant trial I think is something that really differentiates AstraZeneca when it comes to the prospects of having a late introduction with your monotherapy.  So can you talk a little bit about the opportunity in the adjuvant setting and how you reach into that market, and really maybe give us a little bit of a better sense of the size of that market as you look at it?  Thanks so much.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [45]
+--------------------------------------------------------------------------------
+
+          Where do we start?  Combo pricing?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [46]
+--------------------------------------------------------------------------------
+
+          So I think just at a macro level, we're very attracted to the concept of combinations.  I think with the DPP4s we've seen good uptick ourselves.  I didn't mention it, but we've had a strong launch of Xigduo in the US, very encouraging.  So to have Saxa/dapa in the portfolio is something that we're looking forward to.
+In terms of pricing structure, I think it's fair to say it's unlikely to be one plus one equals two.  Now whether that is 1.2, 1.6, 1.5 or 1.8, in some degree we're going to inherit that structure because, of course, we're second to the market.  But again we are very encouraged.  We think there's a clear place and it reflects the evolution of the disease and it makes it easier for patients to take this as well as copays, so attractive.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [47]
+--------------------------------------------------------------------------------
+
+          The SGLT-2 plus Bydureon combination, the logic behind it is that some patients who take SGLT-2 regain weight and some experts are speculating there's regulation of glucose and then people gain appetite and they start eating more.  So by using SGLT-2 in combination with GLP-1 you could potentially block this increased appetite and really achieve very, very substantial weight loss reductions.  Because if you look at the effect of the SGLT-2 and the quantity of glucose people lose when they've taken SGLT-2, if you calculate that the weight loss impact, it would be much, much more than what you actually see in the clinical trials.  So the hope is by combining the two, we would see a very, very substantial weight loss so that that would be the ideal combination for those patients who are diabetic and have excess weight.
+Briggs, do you want to add anything to that?
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [48]
+--------------------------------------------------------------------------------
+
+          Yes.  So Seamus, then the question about the adjuvant opportunity is one that's going to evolve because obviously, with the increased screening that people are now doing based upon some of the lung cancer screening trials, there are some who are estimating that those -- the adjuvant trial is IB, III and IIIA, right, so it's really early-stage patients.  And there's a -- with increased screening, it is possible that that population will actually increase over what we see today.  So you'll probably have the standard epidemiology of the presentation by stage, but by the time the adjuvant trial reads out, it may in fact be moving patients into earlier stages.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [49]
+--------------------------------------------------------------------------------
+
+          And as you can imagine, at the adjuvant setting it's going to be very large from what we know from all the products.
+But you know we -- basically what we're trying to do is take a variety of approaches to this immuno-therapy franchise.  One is to find a way to get to the market as quickly as possible, as many of our peers are doing.  Two is to find indications where we would be first and think about the long-term and so the adjuvant is part of that long-term thinking.  And then three, of course, is the combination where, instead of being a challenger and trying to catch up, we could, in the combination setting, we could be actually a leader, leader with another company or true leader depending on what the other combination development looks like.
+Can we return to the room?
+
+--------------------------------------------------------------------------------
+Simon Baker,  Exane BNP Paribas - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Thank you.  Simon Baker from Exane.  Three quick questions.  Firstly on the SYGMA study with Symbicort.  Can you give us a little bit more of your rationale for doing that study now, particularly as we get close to loss of exclusivity in the US?
+I do note from clinicaltrials.gov that there don't appear to be any US sites in that study.  Is that partly explained by where you're targeting this indication?
+Secondly on FX, you very helpfully gave us some more sensitivity on FX.  I just wonder if you could go a little bit further and give us the relative proportions, or some sense of the relative proportions of the currencies in the other bucket?  So Australian dollar, ruble, won, etc.?
+And thirdly, and apologies if I missed this earlier, have you given any guidance on the tax rate for 2015?  Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [51]
+--------------------------------------------------------------------------------
+
+          So two questions for you, Marc and one for Briggs, maybe.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [52]
+--------------------------------------------------------------------------------
+
+          So let me take the SYGMA question first.  So remember I said SYGMA builds off of the SMART indication which is the Symbicort maintenance and reliever.  We don't have SMART in the US.  So you can think about the SYGMA opportunity as a follow on in the markets where we do have the SMART indication which I think addresses your question about where.
+And again, I think, to Pascal's point in the comments about Pulmicort, if you think about some of these earlier stage asthmatics in other markets around the world where there's a need for new therapies, we think there could be a significant opportunity here although probably unlikely in the US.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [53]
+--------------------------------------------------------------------------------
+
+          So trying to answer your question on the relative weight of the other currencies, I believe the five currencies that I mentioned on the table are the five main ones among the others.  I do not recall the exact proportion of it, but I assume that these are the five main ones and that the others would be obviously much more limited.  I can find this information for you.  I don't have it.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [54]
+--------------------------------------------------------------------------------
+
+          I think the ruble and the Australian dollar had a big impact.  The ruble simply -- our business is not that huge but the drop in the ruble, as you know, is enormous.  So we could get back to you on this.  But those are really two substantial ones.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [55]
+--------------------------------------------------------------------------------
+
+          The table gives you the reach of these currencies were impacted by 5%, what could be the impact.  So obviously you want to know the relative weight of it.  I don't have the answer for you.  I believe those are the main ones.
+Regarding the tax rate, you have seen that in 2013 we were roughly at 20%.  16% in 2014 and 2015 is probably going to be between the two.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [56]
+--------------------------------------------------------------------------------
+
+          Any -- yes.
+
+--------------------------------------------------------------------------------
+Naresh Chouhan,  Liberum Capital - Analyst    [57]
+--------------------------------------------------------------------------------
+
+          Naresh Chouhan from Liberum.  A couple of questions, please.  On Crestor, could you please help us with what's still remaining in terms of marketing effort both in terms of DTC and salesforce?
+And then on R&D costs, it would appear to me that there's some downward pressure this year with the PEGASUS study and the Saxa/dapa study now ending.  Do you have some sense of what you feel the upward pressures are through 2015?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [58]
+--------------------------------------------------------------------------------
+
+          Yes, the upward pressure -- and Briggs, jump in if you have more to add -- but the upward pressures are the new projects we've progressed into Phase III but very much oncology as a whole.  And even oncology in particular, that's where the upward pressure is.  Thirteen programs in Phase II, Phase III, this is quite a substantial investment and we have to support that franchise.  So we certainly are putting a lot of effort in this oncology business both from an early development Phase I/II, but also late-stage development.
+Briggs, anything you want to add?
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [59]
+--------------------------------------------------------------------------------
+
+          No I think you hit it.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [60]
+--------------------------------------------------------------------------------
+
+          And Crestor, Luke, I mean I don't know if you have the numbers in mind but it's quite small.
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP Head of Product Strategy    [61]
+--------------------------------------------------------------------------------
+
+          Yes, it's relatively small.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [62]
+--------------------------------------------------------------------------------
+
+          Yes, it's really focusing on select plans and defending at that level.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [63]
+--------------------------------------------------------------------------------
+
+          Now every model in the US look -- shows that you need to promote products until almost the last day before patent expiry if you want to maximize the value.  But of course, you promote very differently and at much, much more -- much, much lower levels.  So investment behind Crestor has reduced very substantially.  Everything goes behind -- not everything, but almost everything, especially in the US and Europe goes behind our growth platform.
+Any more questions?  We have one online.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [64]
+--------------------------------------------------------------------------------
+
+          Mattias.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [65]
+--------------------------------------------------------------------------------
+
+          Mattias.  Mattias, go ahead.
+
+--------------------------------------------------------------------------------
+Mattias Haggblom,  Danske Bank - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Thanks.  Mattias Haggblom, Danske Bank Markets.  Three questions, please.  One of your peers was recently granted breakthrough designation for its anti-PD-L1 antibody in non-small cell lung cancer.  Could you remind me if you submitted a request for your anti-PD-L1 antibody with the FDA or not and if not, why?
+Secondly, can you comment on what your gross to net was in the US during 2014 and what to expect for 2015 as this is very much in investor's mind at these days?
+And lastly, with regards to the Almirall portfolio which was part of your book for the last two months, you state in the report that it generated sales of $30m.  Is that a good run rate to think for 2015 in this region and this opportunity or was there something in particular to take into account during the transition phase?  Thanks so much.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [67]
+--------------------------------------------------------------------------------
+
+          So Briggs, do you want to cover the first question.  Marc, the Almirall question.  The gross to net question, just to be sure Mattias, gross to net of what?
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [68]
+--------------------------------------------------------------------------------
+
+          The US sales.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [69]
+--------------------------------------------------------------------------------
+
+          Total US, okay.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP Global Medicines Development    [70]
+--------------------------------------------------------------------------------
+
+          Yes, so we don't comment on whether we've submitted for breakthrough.  We will obviously tell you if we were to get breakthrough.  What I can tell you is that we continue to have conversations with FDA.  We got breakthrough designation for 9291.  We got breakthrough for some of the antibodies that Pascal referred to earlier in antibiotics.  So we continue to have those conversations and should there be a dataset that they get excited about that they would entertain us applying, I think they would be clear about that.  So that's all I can say about the breakthrough at this point.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [71]
+--------------------------------------------------------------------------------
+
+          Marc.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [72]
+--------------------------------------------------------------------------------
+
+          So on the impact of Almirall, you have -- for the last two months of 2014, the AKlira, one of the brands, we also received approval of -- yes, we received approval on directly and this product is going to be launched.
+You must also take into consideration that we received some revenues and milestones from original partners of Almirall and these are included in other incomes.  These are a substantial amount of money.
+So it's not a -- you have impacts not only on the sales level but also on the other income in the last quarter of 2014.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [73]
+--------------------------------------------------------------------------------
+
+          And the gross to net, I don't know if we disclose this information actually.  I don't think we have in the past.  Thomas, we haven't, no.
+So it is, of course, substantial, but we don't disclose that information.
+Good, so --
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [74]
+--------------------------------------------------------------------------------
+
+          (Inaudible).
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [75]
+--------------------------------------------------------------------------------
+
+          One more question, maybe the last one, Thomas.
+
+--------------------------------------------------------------------------------
+Unidentified Audience Member    [76]
+--------------------------------------------------------------------------------
+
+          It's Matt.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [77]
+--------------------------------------------------------------------------------
+
+          Matt.  Do you want to go ahead, Matt?
+
+--------------------------------------------------------------------------------
+Matt Weston,  Credit Suisse - Analyst    [78]
+--------------------------------------------------------------------------------
+
+          Thank you very much.  It's Matt Weston from Credit Suisse.  A couple of questions if I can.
+The first one relates to the income from partnering and/or divestiture of products.  On a simple calculation, it looks like you're expecting at least $1b of income this year, if we follow the guidance around costs and revenue.  Can you confirm that is the realms of the number that you're thinking of?  But then can you also tell us how you're thinking of 2016 and 2017 on a relative income basis?
+Obviously if you can't afford to invest in these assets, which is why you're looking to partner them, the flow of them should diminish over time.  And particularly as you talk about 2017 being the return to earnings growth, is that from an underlying base without this supplementary income, or you think the operational performance of the business will accelerate so rapidly that it can overcome the hurdle of these one-time gains?
+And then I know we don't like to talk about reported earnings versus core, but I do notice that in Q4 there was a $636m charge in SG&A for the Bristol alliance.  Can you explain what that is?  Have you written down the value of what you acquired from Bristol and if so, why?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [79]
+--------------------------------------------------------------------------------
+
+          So the series of great questions.  Marc, maybe I'll ask you to answer one of those.  But the first question we don't disclose specific numbers.
+I think the one think I would say is that you've got to think about this partnering externalization, however we call it, as a part of our business model.  So it's not a 2015 or 2016 event, it's an ongoing event.
+If you saw what we have coming through the pipeline in pre-clinical from two of our -- two units, you would understand what I'm talking about.  There is a number of projects there and we can't develop everything.
+So essentially, we had two options.  Either substantially reduce research and development and kill a lot of things, or actually decide to indeed take our operating model to its final end which is let those units operate really as biotechs that will actually create value with other companies.  And we see that from the discussions we are having with a variety of people, we see that we can create value.  So why stop those projects when we actually can take them to patients and create value for the Company?  So see this as an ongoing path, sustainable part of our business model.
+Now in terms of numbers, I don't have them here and certainly we will not comment on those anyway.  But it's not a 2015 2016 event.  It's part of the business model moving forward.
+Now the contingent consideration, the BMS, it's actually not bad news in terms of a write-off.  It's actually sort of good news but it's a complex accounting issue that Marc can take you through.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [80]
+--------------------------------------------------------------------------------
+
+          Thank you.  So first of all, let me correct, it's not a write-down.  It's the other way round.  Basically, we need to account for the future payment or future consideration -- contingent consideration that we would have to pay to BMS.  And as we perform our long-term planning, we get these results.  And the mechanical formula tells us how much money we would owe to BMS.  And this year, this amount of -- amount of these obligations has increased.  Therefore, we have to take into non-core.  So it's not a write-down; it's an increasing of contingent obligations, contingent consideration that we will have to pay, obviously, for forecast correct.
+
+--------------------------------------------------------------------------------
+Matt Weston,  Credit Suisse - Analyst    [81]
+--------------------------------------------------------------------------------
+
+          Understood, Marc.  Can I -- a very quick follow-up there.  It's -- it was the surprise that it then jumped so significantly in 4Q.  So do you basically revalue your contingent considerations in the fourth quarter, or in the fourth quarter you substantially increased your expectations for the performance of diabetes and that led to the revaluation?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [82]
+--------------------------------------------------------------------------------
+
+          So the answer to that question is that we do a long-range plan once per year.  We do it in the last quarter of the year.  When we have this basis for calculation, we apply it to the formula or to the royalty rate that we have to pay and we calculate it at that time.  So it's the first part of your option.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [83]
+--------------------------------------------------------------------------------
+
+          It's influenced by the mix of products and the total sales that we are forecasting.  But as Marc said, we do our plan starting in September, culminating to a presentation -- with a presentation to the Board in November and in the course of the last quarter, we revalue the long-range plan and the various parts of that, including diabetes.  And immediately we have to take this charge to the P&L.  Those are the standards.
+I know we've had many discussions on the topic.  We don't decide the accounting standards.  That's the way we have to do it and we just apply them.
+Anything you wanted to add?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO    [84]
+--------------------------------------------------------------------------------
+
+          There was another question on the standardization.  I think what we can say -- we're not going to give you any amount.  But if you use 2014 as a base, what we can say is that it's going to accelerate.  We are going to redouble our effort and it's going to intensify the standardization projects or negotiation we have with third parties.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO    [85]
+--------------------------------------------------------------------------------
+
+          And by the way the -- as soon as we take this consideration, it has an impact also on our tax rate as you can imagine because that's -- that influence -- this contingent consideration has an impact on our taxable earnings and of course the reported tax rate is influenced by this accounting event.
+So I will stop here and then thank you all for your participation and your great questions.  And I wish you a great afternoon.  Thank you very much.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
