@@ -22,7 +22,6 @@ RISK_SYNONYMS = [
     "probability",
     "unpredictable",
     "unsettled",
-    "Word",
     "variable",
     "prospect",
     "unpredictability",

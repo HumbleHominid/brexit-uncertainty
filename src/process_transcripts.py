@@ -82,7 +82,7 @@ def process_transcript(file_path: Path) -> list[str]:
 def construct_output_filename(input_path: Path) -> Path:
     """
     Constructs the output filename in the format:
-        ticker-month-day-year.txt
+        TICKER-YYYY-MM-DD-ID.txt
 
     Args:
         input_path: Path to the input transcript file.
@@ -90,10 +90,18 @@ def construct_output_filename(input_path: Path) -> Path:
     Returns:
         Path to the output processed transcript file.
     """
-    parts = input_path.name.split("-")
-    month = MONTH_LUT[parts[1]]
-    new_name = "-".join([parts[3], parts[0], month, parts[2], parts[4]]) + ".txt"
-    output_file = PROCESSED_DIR / input_path.parent / new_name
+    filename = input_path.stem  # Remove .txt extension
+    parts = filename.split("-")
+
+    # Detect format by checking if first part is a year (4 digits)
+    if parts[0].isdigit() and len(parts[0]) == 4:
+        year, month, day, ticker, file_id = parts[:5]
+        month = MONTH_LUT[month]
+    else:
+        ticker, year, month, day, file_id = parts[:5]
+
+    new_name = f"{ticker}-{year}-{month}-{day}-{file_id}.txt"
+    output_file = PROCESSED_DIR / input_path.parent.name / new_name
     return output_file
 
 
