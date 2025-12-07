@@ -1,0 +1,449 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Full Year 2021 Toyota Motor Corp Earnings Press Conference - Part 2
+MAY 12, 2021 / 5:25AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Masahiko Maeda
+   Toyota Motor Corporation - CTO
+ * Masamichi Okada
+    - 
+ * James Kuffner
+   Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company
+ * Unidentified Company Representative
+    - 
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Hans Greimel
+    - 
+ * Takuro Chiba
+    - 
+ * Unidentified Analyst
+    - 
+ * Unidentified Participant
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [1]
+--------------------------------------------------------------------------------
+[Interpreted] Now ladies and gentlemen, I would like to start part 2 of Fiscal 2021 Financial Performance Press Conference by Toyota Motor Corporation. First of all, let me introduce to you the participants for this part: member of the Board and Chief Digital Officer, James Kuffner; Chief Production Officer, Masamichi Okada; Chief Communication Officer, Jun Nagata; Chief Financial Officer, Kenta Kon; Chief Technology Officer, Masahiko Maeda. 
+Now the member of the Board, James Kuffner, is going to make a presentation.
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [2]
+--------------------------------------------------------------------------------
+Good afternoon. Today, I'm excited to share with you a glimpse of Toyota's technology and strategy with regards to carbon neutrality.  
+Before I begin, I would like to express deep gratitude to the millions of Toyota customers who continue to choose our products and services and place their trust in us.  
+The COVID-19 global pandemic has been difficult for everyone. These strong financial results that we have shared today were only possible due to the hard work and dedication of Toyota Group employees, suppliers, dealers, shareholders and partners worldwide. Thanks to these amazing people, Toyota can continue to create and develop advanced technologies and provide outstanding products and services that fulfill the needs of customers all over the world.  
+The Toyota philosophy was developed to guide our company. At its foundation is mobility and happiness for all. For over 80 years, Toyota has been executing on its vision and mission to produce happiness and deliver safe, sustainable mobility technology to customers globally. As part of that mission, Toyota has been working hard to help all countries and regions around the world achieve carbon neutrality through its products. In addition, Toyota is 100% committed as a company to achieving carbon neutrality by 2050 or earlier.  
+What does carbon neutrality actually mean for the automotive industry? Carbon neutrality for the automotive industry means achieving zero CO2 emissions in all processes throughout the life cycle of manufacturing, transporting, operating, fueling and/or charging and recycling and disposing of vehicles. Toyota has been innovating and investing in technology to reduce emissions and achieve carbon neutrality for over 30 years.  
+In the early 1990s, Toyota committed to achieving the ambitious goal of building a practical mass market vehicle that would have twice the fuel efficiency of a Corolla-class vehicle with the same high reliability and low cost that Toyota customers expect. There were many skeptics at the time. In 1996, Toyota developed and launched its first battery electric vehicle, the RAV4 EV. The RAV4 EV faced significant challenges related to limited range, long charging times and lack of available charging infrastructure. But Toyota engineers used customer feedback and valuable knowledge from the RAV4 EV development to improve both battery technology and power electronics. In 1997, Toyota launched the best-selling Prius, the world's first mass-produced hybrid electric vehicle.  
+Bringing practical HEVs to market was not easy. It involved many innovations in motors, inverters, engines, batteries and electronics. Some of Toyota's innovations in battery technology included materials, manufacturing processes, improved safety and crash worthiness, high-power output performance and better recyclability for sustainable manufacturing. Building upon that experience over the past 25 years, Toyota has remained committed to developing an array of new technologies and products to help reduce carbon emissions.  
+We have successfully developed and launched a wide variety of innovative products, including hybrid electric vehicles, battery electric vehicles, plug-in hybrid electric vehicles and hydrogen fuel cell electric vehicles. The success of the Prius demonstrated that our commitment to carbon neutrality had also created a once-in-a-generation opportunity for innovation and market leadership. And today, Toyota offers the world's largest lineup of 55 practical, reliable and affordable electrified vehicles all over the world with many more to come.    
+Our combined sales volume of electrified vehicles, including HEVs, BEVs, PHEVs and FCEVs, is now more than 2 million vehicles per year. The Atkinson cycle engines in our HEVs and PHEVs are extraordinarily efficient, up around 40%. These efficiency improvements have helped reduce emissions in many parts of the world, particularly those with less green power infrastructure. The net positive impact of Toyota's innovations enabled an estimated reduction in total cumulative carbon emissions of approximately 140 million tonnes in over 20 years. This is equivalent to removing 1.5 million typical passenger vehicles from our world's roads every year over that time period.  
+We are proud of these achievements, but we know we can and we must do better. That is why we are rapidly introducing 15 battery electric vehicle models globally by 2025, including 7 recently announced Toyota bZ models. We are also expanding and improving our product lineup of HEVs, PHEVs and FCEVs. To support all these new products, Toyota will continue to make global investments in exciting new battery technology such as solid-state batteries. Along with more efficient electric motors, these new batteries will help make EVs more practical, safer and more sustainable.  
+Toyota believes the world can achieve carbon neutrality, but there are still many challenges to realizing our dream. Even with perfect battery technology, a BEV will still generate tons of CO2 emissions over its lifetime if it is charged by electricity produced by coal or other nonrenewable energy sources. Another challenge is that not everyone has convenient access to charging infrastructure. I am one of them. I live in an apartment building in Tokyo and have no ability to plug in a vehicle. Fortunately, Toyota can offer me additional choices. For example, PHEVs offer flexibility and can be built with smaller batteries using fewer materials. PHEVs can be driven in zero-emissions electric mode, optimized for the short trips that make up most of the world's driving as well as providing a hybrid mode for longer trips. In addition, Toyota continues to aggressively invest in complementary, new green energy technologies aimed at achieving carbon neutrality.  
+Toyota is the world leader in hydrogen fuel cell technology. Hydrogen is the most abundant element in the universe and can be produced locally at the point of use with nothing but renewable energy and water. Hydrogen can also provide long-term storage of renewable energy for use during peak times. After more than 20 years of research and development, in 2014, Toyota launched the Mirai, our first mass-produced hydrogen fuel cell electric vehicle, which won the World Green Car of the Year Award in 2016.  
+Fuel cell technology is truly magical. As the vehicle moves, air from the outside combines with hydrogen in the fuel cell to produce electricity and water, a pure and simple zero-emissions vehicle that can be refueled in 3 minutes. Our second-generation Mirai was announced last December. We improved performance, comfort and efficiency, increasing EPA range to 647 kilometers or 402 miles.  
+Despite these improvements, Hydrogen energy still faces many challenges related to available infrastructure, overall efficiency and enabling low-cost, clean hydrogen production. Toyota will continue to invest in technology to overcome these challenges. Moreover, passenger cars are only a small part of hydrogen's future potential. Toyota's hydrogen fuel cell technology could help to clean up a large percentage of the world's entire transportation ecosystem. That means achieving carbon neutrality in trucks in heavy transport, trains, buses, taxis, aviation, shipping, forklifts in industrial processes, all of whose combined CO2 emissions exceed those of passenger cars.  
+Toyota has also developed modular fuel cells and a stand-alone fuel cell generator that can be repositioned to produce electricity anywhere on demand. For example, you can use Toyota's stand-alone fuel cell generator to quickly deploy a charging station for a BEV or PHEV.  
+But cleaning up new vehicle sales is just the beginning. There are more than 1.4 billion vehicles in the world today, and most of them have internal combustion engines. Toyota is exploring possible ways to clean up the world's legacy fleet of ICE vehicles that will still be in operation during the next 10 to 15 years. Hydrogen fuel can also be burned as a cleaner fuel. Just last month, Toyota demonstrated a new hydrogen engine prototype that could expand the options for achieving carbon neutrality faster. In the world of motor sports, where the development speed of new technology is rapid, President Toyota, who is a master driver himself, takes the wheel and repeatedly evaluates these vehicles and technology progress. Toyota's work on making ever-better cars now also has the potential to enable more environmentally friendly motor sports.  
+In everything we do, Toyota is and has always been firmly committed to carbon neutrality. Toyota has the world's largest and rapidly expanding lineup of electrified vehicles, consisting of BEVs, HEVs, PHEVs and FCEVs. Because of our unique history of working with electrification for nearly 25 years, Toyota's technology is world-class and strongly positioned to help different countries around the world reduce emissions and achieve carbon neutrality faster. This was all done before mandated rules by governments or the recent global movement and growing awareness of the need for carbon neutrality.  
+Giving back to the world and having a clean future is in our Toyota DNA. We are very excited about the future of electrified mobility and the tremendous, new products and business opportunities that the green economy will create as we make progress towards achieving our goal of carbon neutrality. However, no single company, including Toyota, can accomplish this goal alone. All industries must work together to develop new technology and infrastructure in cooperation with scientists and academia as well as local and national governments. This is a challenge that we are excited about facing because it will not only lead to better products but also help protect our precious planet at the same time.  
+We would like to be a trusted partner to build the best product suitable for people in every part of the world to achieve carbon neutrality faster with Toyota's brand representing quality, reliability, low cost and long-lasting value. Toyota is 100% committed to the global goal of achieving carbon neutrality by 2050 and, as a result, a brighter happier future for us all. Thank you very much.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [1]
+--------------------------------------------------------------------------------
+[Interpreted] Now ladies and gentlemen, we would like to start the Q&A session. (Operator Instructions) And I'd like to request you to ask no more than 2 questions. And the Japanese Q&A will be simultaneously translated, but for English questions and answers, that will be consecutively translated. And therefore, please wait for the translation.  
+  Samira Davis   of Bloomberg. I will switch the screen. So if you see yourself on the screen, please start your questions. So Ms.   Samira  , please?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [2]
+--------------------------------------------------------------------------------
+Hello. Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [3]
+--------------------------------------------------------------------------------
+Yes, we can.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [4]
+--------------------------------------------------------------------------------
+I have one question for Mr. James Kuffner about electrification of vehicles. It seems that there's kind of 2 camps when evaluating Toyota's pursuit of electric vehicles, one that looks at Toyota as kind of behind the pack in developing battery electric vehicles and another that looked at the recent announcement of the bZ electric vehicle plan as Toyota finally announcing the plans that it had been building for quite a long time, so not necessarily behind the pack.  
+I wanted to ask, James, where do you see Toyota standing compared to rivals in regard to development of specifically battery electric vehicles? I know Toyota has quite a strength in hybrid vehicles.
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [5]
+--------------------------------------------------------------------------------
+Thank you very much for your question. I'll make a brief comment, and then I'd like to invite our CTO, Mr. Maeda, to follow up.  
+One of the reasons that I spent some time to explain the history of electrification is that a lot of people don't actually realize that Toyota developed electric vehicles over 20 years ago, and we've learned a lot. It requires a lot of innovation and development in engines and motors and power electronics, all of these things that are needed in order to build a practical electric vehicle and electrify transportation and mobility. 
+And Toyota is always listening to customers, always trying to develop products that are suitable for every part of the world. And we have to remember that the goal is not electric vehicles. The goal is carbon neutrality. And even if we have the best technology, if it's not chosen by customers, it will not have the impact of reducing emissions. And that's the reason why we've chosen to have a full lineup, and we've invested in all of these technologies.  
+But make no mistake, Toyota is really excited, and I believe we're strongly positioned to lead the world in the best, reliable, low-cost battery electric vehicles. As you know, producing batteries has a lot of challenges, and we're trying to overcome them as well as the rest of the industry related to infrastructure. But we should also not forget that mining some of the rare elements that are needed to produce today's batteries, whether it's lithium or cobalt or nickel, these things are also producing emissions.  
+So we have to find a good balance, and that's what Toyota's committed to. We've reduced the size, we've increased power output and we've made incredible   innovations in performance and safety of battery technology. And we're doing that with 25 years of experience of building cars that are electrified. And like I said, we're now selling over 2 million electrified vehicles per year. So I feel very confident that we can continue to lead the industry in changing and producing products that are chosen by customers all over the world that will deliver clean energy and clean transportation.  
+I'd like to ask maybe CTO Maeda-San to follow up.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [6]
+--------------------------------------------------------------------------------
+[Interpreted] Let's wait for the interpretation to follow.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [7]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [8]
+--------------------------------------------------------------------------------
+[Interpreted] Now from my side, let me add some comments. As Dr. Kuffner mentioned, batteries is   one way to realize carbon neutral. In fact, battery vehicles are one way. Realizing carbon neutral is one purpose of electrification.  
+Then how can we achieve carbon neutral? At Toyota, we think environmental technology itself is not worth it if it isn't used widely. Carbon neutral by 2050 or in China by 2060 are the numbers that we are hearing. But way before that, we were developing the first Prius, and even at that time, we think that the technology is only good when it is widely spread.  
+Then the question is how can we make technology widespread.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [9]
+--------------------------------------------------------------------------------
+[Interpreted] You don't have to stop there because you're just being translated simultaneously.
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [10]
+--------------------------------------------------------------------------------
+[Interpreted] And how can you make technology used widely?  High convenience for the customer is important. As we mentioned in Part 1, the technology or vehicles that we prepare will have to be practical for the customers. Worldwide, there are many types of customers. Of course, on a day-to-day basis, there are some people who simply use vehicles as passenger cars, and it may sound like an excessive case. But for example, in the United States, a   1 pound trailer   may be towed by the vehicles. And in the Southern Hemisphere, there are people who go into the mountains and drive on roads where you can't imagine vehicles being driven.  
+Historically, Toyota, even before the days of electrification, has always focused on the convenience of the customers. We have responded to customers' needs, and as a result, we created the current full lineup of products that we have. Towards carbon neutral when we prepared electrified vehicles. It's the same approach. For people who tow heavy trailers, what kind of vehicles would be necessary? Currently, a lot of people think hybrids are the most convenient, and that is represented in the form of sales and units. In the future, we may have good charging stations and we have higher battery performance, some people may see that as convenience.  
+So not just the technology of batteries, but depending on the region, customers will use their vehicles in their own ways. So convenience and environmental technology is to be provided by Toyota. Both will be provided by Toyota. We think that as important.  
+And for electrified vehicles, as a result, we have a full lineup: HEVs, PHEVs, FCEVs,  PEVs. We have this full lineup. And that is because the convenience of the customers and environmental technology are both important. And as we consider this very seriously, we have this full lineup. And in the future we would like to continue to make efforts so that we can realize a carbon neutral with electrification. Thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [11]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you, Ms. Davis, for your question. (foreign language) 
+Mr.   Naoto Ikeda  , please. (Operator Instructions) Mr. [Ikeda], could you start -- please start your question, please?
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [12]
+--------------------------------------------------------------------------------
+[Interpreted] [Naoto Ikeda], freelance journalist. So earlier, Mr. Nagata talked about electrification, and moving toward that, you said that we would require 30x more batteries that you are using currently. If that is the case, procuring that battery, especially the raw materials for the battery production, including lithium, cobalt and nickel included, that was mentioned earlier. Currently, those raw materials are procured for the most part in China, and probably you would need to start thinking about procuring in Japan or from Japan. Toyota alone wouldn't be able to achieve that. It would require cooperation with the government.  
+And what is the current status of the discussion with the government about the procurement of those raw materials for batteries?  
+One other question, which also relates to the batteries. Basically speaking, those batteries could combust substantially. And if you leave unaddressed, it could take fire, and probably it will become costly if you try to control that characteristics of the batteries are taking to fire. So what is the balance of that? And in terms of cost competition amongst rivals, how are you going to maintain your cost competitiveness, trying to control the combustiveness of those batteries?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [13]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you, [Mr. Ikeda] for your question. With respect to the first question, with respect to the production of batteries, So Okada, the CPO, will respond to the first part of your question. And the second question relates to the safety of battery and also the balance with the cost, and Mr. Maeda, CTO, will respond to that question. So Mr. Okada, please.
+
+--------------------------------------------------------------------------------
+Masamichi Okada,   -     [14]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you for your question,   Mr. Ikeda   , and allow me to answer your question. First of all, in terms of the procurement of raw materials for battery production. naturally, as you pointed out in your question, we do have those concerns. And to address those concerns, in relation to batteries, we do have various partners. We do have several partners who work with us for battery creation, and we started making efforts to ensure the procurement of batteries. And as you mentioned, the collaboration and cooperation with the government is required for the procurement of batteries and the requirement of batteries, and that is a very important aspect. And therefore, working with partner is one thing we are doing. And also, we have a partner working with us in our subsidiary, the battery manufacturer. So we work with Panasonic to ensure the certainty of the procurement of materials for batteries.  
+And once we have assured the procurement of raw materials in terms of procurement as well, as Mr. Nagata mentioned, the production volume is expected to increase. I will be repeating, currently, annually, we have 6 gigawatt hours. And in 2030, we have to produce 180 gigawatt hours. And we need to establish newly 60 production lines for those batteries. And to ensure that volume for the past 20 years or so, for hybrid EVs, we produced 17 million hybrid vehicles. And the batteries required for hybrid electric vehicles, the capacity of that, probably 30x that will have to be produced in the next 10 years or so.  
+So as mentioned earlier, in addition to ensuring the procurement of raw materials, we must ensure the appropriate production of the batteries as well. We must ensure the supply is stable and safe supply of that for us to secure the volume as well as the speed of those batteries. We are working closely with multiple number of partners, and that is very important. And also, the subsidiaries for producing batteries, we have PPS and also                . In a sense, the production there is close to in-house production and in the small -- starting with a small capacity and starting with the small basic unit, we are establishing new production lines, preparing that in the short lead time and repeating that frequently. That's what we are trying. And if those facilities for manufacturing is necessary, we are going to produce and manufacture those production facilities as well.  
+And I'd like to share with you some slides. As I mentioned earlier, back in 1997, we introduced hybrid vehicles, and since then, since 1997, the production facilities of hybrid motors and also the production lines with batteries, and for FCEVs, we are producing hydrogen tank manufacturing equipment. For those important protection equipment, starting with the small basic units, by minimizing the required investment, we have been introducing those production lines to be introduced in the short lead time. So those are the efforts that we have made over the years.  
+And this sort of technology and skills that we have accumulated over the years will be applied for the production for the -- and the volume of PEPs and electrification of overall. So the -- within group, we have the businesses of producing production equipment and mobilizing the capabilities of   equipment manufacturers. We intend to have this solid and robust structure for battery supply and procurement.
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [15]
+--------------------------------------------------------------------------------
+[Interpreted] Now this is Maeda speaking. The safety of battery and the cost, the balance between the 2. Let me start by speaking from a broader perspective. When you say battery performance, you are probably talking about batteries as seen from the customers' point of view. What does battery performance mean to the customer? As you mentioned, cruising range or probably deterioration performance, which will have an impact on used car prices, those will be major factors.  
+And to balance that, in the process of using the product, how safe can it be? In the worst case, batteries can burn, but making sure that, that doesn't happen. We have to strike a balance, technically speeding. For example, if you want to extend the cruising range, for volume, how much power can you accumulate? That is energy density. That performance and the deterioration performance and safety, these may sometimes contradict each other. 
+Safety is always important to Toyota. So energy density is not always the priority for us. That will be our approach. Then how do we improve cruising   range? For example, by improving power efficiency, the cruising range can be improved. Of course, improving battery performance is on approach. But you can look at the overall vehicle and improve power efficiency like reducing resistance or reduce the energy necessary inside the vehicle, it can be reduced.  
+And for hybrid vehicle development, we have accumulated that kind of technology over the years. as a result, improving our efficiency will lead to reduction of the amount of batteries to be used. So improving safety and by improving power efficiency and reducing the batteries will -- can be realized together. And that is what Toyota has done over the years. And we will continue to look at things from the perspective of the customer.  
+Now let me go into a little bit more of detail. If I can have Slide 14. Now deterioration of the batteries. What does that mean? I will be going into detailed technical explanation. Allow me to do that. For example, for the batteries, if you want to a sporty drive where energy goes in and out frequently, as   you see on the left-hand side, the electrolyte concentration will vary, and that accelerates deterioration of the batteries. And since we were developing the hybrid vehicle, we've been creating models of this. The volume, current temperature, when these are changed, how do they deteriorate? We did a lot of basic experiments on that. This is what we call model-based development.  
+So we created a control system by multiple monitoring of the battery. And since the introduction of hybrids using these models, we introduced the vehicle control technologies to confirm the accuracy and reliability. Currently, 17 hybrid or electrified vehicles are sold by Toyota, and these vehicles are being used by our customers. At least, to the extent of our knowledge, there were no cases where there were no serious impact on the customers. These are being used socially and reliably by our customers at the moment.  
+So historically, we have accumulated this kind of technology. This is used for hybrid vehicles, and this will be used in the future for battery EVs. That is our approach to this technology.  
+I went into a bit of details, but that is all from my side. Thank you very much.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [16]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you very much   Mr. Ikeda  . Now let us take the next question.  
+From Automotive News, Mr. Hans,  please.  (Operator Instructions) Mr. Hans, please?
+
+--------------------------------------------------------------------------------
+Hans Greimel,   -     [17]
+--------------------------------------------------------------------------------
+(foreign language) May I speak in English, please? My question is a little bit about the battery ramp-up that you have. You have need this massive ramp-up in terms of battery supply by 2030. Can you tell us a little bit about your plans for building and sourcing electric vehicles and electric vehicle batteries in North America specifically?  
+And one other thing about the carbon-neutral policy. Toyota has been talking a lot lately about this hydrogen burning engine that you'll demonstrate later this month at Fuji Speedway and also about e-fuels. How seriously are you investing in these kind of technologies right now? Is that a real pathway forward to carbon-neutrality? Or is that just kind of a buzzword or some kind of distraction right now from the main show?  
+And finally, maybe just if I could ask for an update on the Woven City. When can we expect some new developments on that? When will you announce who's living there? Other kinds of updates you might have.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [18]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [19]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you very much. For the first question, BEV battery sourcing plan will be -- in North America will be answered by Mr. Okada. For e-fuel and H engine, Mr. Maeda; and for the Woven City, Dr. Kuffner will be answering the question.
+
+--------------------------------------------------------------------------------
+Masamichi Okada,   -     [20]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you very much for your question. So your first question was about our battery sourcing in North America. In Part 1, we briefly touched upon this, but in each region, how many electrified vehicles will be produced? That plan is developed. And of course, the batteries will be necessary in each region. And in each region, which vehicle or which powertrain will be necessary? That will have to be identified through dialogue with the customers. And batteries necessary for that is to be produced within that region. That will be an important point towards the future. 
+So you mentioned North America, and the same approach will be applied to North America. For North America, they have vast land, and depending on where you are in the United States, the customers' preference will differ between East Coast, West Coast and Central part. So customer preference, infrastructure are different depending on the regions. So taking that into consideration, we will be supplying vehicles. 
+And likewise, for batteries, hybrids, EVs, for these vehicles, we will be sourcing the appropriate batteries. And in order to do that, we will work through partners, and we may produce in-house. We haven't determined which approach will be taken, but we will consider that so that we can provide supply in a timely manner. That is all from my side.
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [21]
+--------------------------------------------------------------------------------
+[Interpreted] So for the second question, let me answer. Towards the carbon neutral, the hydrogen engine, e-fuel. How serious are we in investing in these areas? Starting with the hydrogen engine. As we announced 2 months ago, the President will drive in May in the endurance race. So of course, we are serious. There's no way we are not serious. 
+As we mentioned before, customer convenience is important, and the customers use the vehicles in various ways. So the options for the customers about carbon neutral shouldn't be limited. That is our thinking. And that is why we are developing various types of cars. Of course, the President is participating in a race. The joy of driving should be enjoyed by many customers. And towards carbon-neutral, hydrogen engine may be one solution. And as we think that way, we are serious about this. 
+This technology may be applied to a large commercial vehicle. That is something that may be possible. And as Mr. Hans, in the United States and Brazil, bioethanol-based, carbon-neutral fuel is already commercialized. This is based on existing technology. And in the future, if you combine that with hybrids, we will be able to contribute to carbon neutral in saving energy. The technology that we have developed so far and the technology that we are to develop from now on can be combined so that carbon neutral does not limit the choices for customers. 
+When we say full lineup, we mean depending on the processes and the way of using the vehicles in each region, we want to provide a wide array of options for the customers. So for any technology, we are very serious about it. That is all.
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [22]
+--------------------------------------------------------------------------------
+Thank you, Hans, for your question. I'll take the   question about Woven City. It's been 16 months since President Toyota announced the Woven City project at Consumer Electronics Show in Las Vegas. And since then, the team has been really hard at work.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [23]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [24]
+--------------------------------------------------------------------------------
+And despite COVID-19, we were able to complete the Phase 1 designs and start the groundbreaking officially this year, February 23. And we are making continuous progress, and we have launched also our website where we've had several thousand inquiries from companies and partners all over the world.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [25]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [26]
+--------------------------------------------------------------------------------
+And we just announced a partnership with ENEOS to develop what we believe will be most advanced city in hydrogen. And we believe that, that is going to accelerate our initiatives in order to understand how hydrogen and renewable energy can play a big part in smart cities of the future. Woven City's goal is to become a living laboratory of mobility   for people, goods and information, and we are continually making updates.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [27]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [28]
+--------------------------------------------------------------------------------
+At this point, we have plans to start inviting   companies to start working with us, and we've also launched our website where you can find continuous updates. So please stay tuned.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [29]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [30]
+--------------------------------------------------------------------------------
+Woven City is going to be, I think, a very important part of accelerating our efforts as a company to become a mobility company powered by software and digitalization and really be a true world leader in this area. There are so many issues were -- around urban development, whether it's traffic or pollution, sustainability. And all of these efforts are connected, whether it's carbon neutrality, safe mobility. We would like to accelerate the development of all of that and transform our company to a mobility company of the future through the Woven City project.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [31]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [32]
+--------------------------------------------------------------------------------
+And this is just part of the larger transformation that we are embarking upon related to software first. I didn't have time to talk about that today, but software first is a dramatic transformation and different way of designing products where we design the software architectures before assembling the product and designing the hardware. And this is going to dramatically improve our reusability of software across many, many different forms of mobility, reduce the development cost and accelerate the features that we can offer to our customers over time. And this is not just for traditional passenger cars but for all kinds of new, connected mobility, personal mobility, flying mobility. And that is going to be something that I hope Woven City can be a flagship project and help lead the world in accelerating that development. Thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [33]
+--------------------------------------------------------------------------------
+(foreign language)
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [34]
+--------------------------------------------------------------------------------
+The digitalization of the software first that's happening in our company on our traditional engineering is all connected to the advanced digital technologies that we will deploy and develop in Woven City. So I believe that they're all part of the strategy of leveraging advanced digital technology and connecting those to real products and getting real feedback in a real situation like Woven City. 
+And that's always been our philosophy, try to test and listen to what customers are experiencing and build products that produce human health and happiness.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [35]
+--------------------------------------------------------------------------------
+(foreign language) .
+
+--------------------------------------------------------------------------------
+James Kuffner,  Toyota Motor Corporation - Director, Operating Officer & Chief Digital Officer of Advanced R&D and Engineering Company    [36]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [37]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you, Hans. So there may be further questions, but since the scheduled closing time has approached, so I would like to ask the next person to be the final person asking questions. May I invite Mr. Chiba-San of Asahi Newspaper. (Operator Instructions) So Chiba-San, please  start your question.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [38]
+--------------------------------------------------------------------------------
+[Interpreted] Can you hear me? Chiba speaking.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [39]
+--------------------------------------------------------------------------------
+[Interpreted] Yes. We can hear you.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [40]
+--------------------------------------------------------------------------------
+[Interpreted] I have 2 questions with respect to decarbonization. You talked about the next-generation battery. And Mr. Nagata, in Part 1, talked about the importance of enhancing the base of a battery technology development. Could you elaborate on that in details? 
+And as of this moment, how are you going to enhance the performance of battery? By when? And how are you going to bring that forward and produce those batteries? Is there any concrete numbers that you can cite? And can you also talk about the all solid-state battery as well? Do you have any concrete timing or prospect of realizing that?
+And the second question relates to the carbon neutrality, and Mr. Kuffner talked about the ICE being made cleaner. And you may be using existing engines, but talking about carbon neutrality, we tend to focus more on electrification. With respect to the development of engine technology, the gasoline, including improvement of the gasoline engine.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [41]
+--------------------------------------------------------------------------------
+[Interpreted] Mr. Chiba, it's very difficult for us to hear your question. The sound is not really coming through. So could you repeat your question once again?
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [42]
+--------------------------------------------------------------------------------
+[Interpreted] I'm totally Sorry. Can you hear me all right? Can you hear me all right?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [43]
+--------------------------------------------------------------------------------
+[Interpreted] Could you repeat your question once again? We have so much noises. If you could speak louder, probably that will help.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [44]
+--------------------------------------------------------------------------------
+[Interpreted] Can you hear me?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [45]
+--------------------------------------------------------------------------------
+[Interpreted] Well, we can hear you.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [46]
+--------------------------------------------------------------------------------
+[Interpreted] I'm terribly sorry. With respect to the battery technology earlier, it was mentioned that you are going to increase the pace of development that was mentioned in Part 1. And I would appreciate your elaborating on that more concretely on that point. How much are you going to bring that forward, the development of battery technology?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [47]
+--------------------------------------------------------------------------------
+[Interpreted] It's been very difficult for us to receive your voice. Very difficult to hear, discern your voice. We cannot hear you.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [48]
+--------------------------------------------------------------------------------
+[Interpreted] Can you hear me?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [49]
+--------------------------------------------------------------------------------
+[Interpreted] Could you say that once again?
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [50]
+--------------------------------------------------------------------------------
+[Interpreted] Can you hear me all right?
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [51]
+--------------------------------------------------------------------------------
+[Interpreted] Right now, we can hear you, yes.
+
+--------------------------------------------------------------------------------
+Takuro Chiba,   -     [52]
+--------------------------------------------------------------------------------
+[Interpreted] I'm terribly sorry. In Part 1, Mr. Nagata talked about the development of battery technology, and he said, Toyota is going to enhance or accelerate the pace of battery technology development. And I would like to hear the details of that to be elaborated. What is the current target or goal you have for battery technology? And how much are you going to bring that forward? And what sort of performance are you aiming at? So if you could talk about that in more concrete and specific terms, I would appreciate that very much. So that's the question one. 
+The second question also relates to carbon neutrality. And you talked about making internal combustion engine cleaner. I think Dr. Kuffner talked about that. And talking about decarbonization, we tend to focus more on electrification technology. But with respect to the development of engines, based upon existing gasoline engines, you may be able to enhance the thermal efficiency of that and improving that aspect. How much investment costs are you expecting for engine development or investing   manpower and   resources  for engine technology? You're not intending to reduce that. I would like you to talk about your approach and concept of engine development. So these are my 2 questions.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [53]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you, Mr. Chiba, for your question. So let me talk about the first question that is today shortening the development time -- lead time for better technology. Mr. Okada will talk about that. And the second question, that is to say the enhancement of ICE or making it cleaner. Mr. Maeda will talk about that.
+
+--------------------------------------------------------------------------------
+Masamichi Okada,   -     [54]
+--------------------------------------------------------------------------------
+[Interpreted] Okada speaking. Mr. Chiba, thank you for your question. Starting with the Part 1, we have been talking about battery in Part 2 as well. And ending -- moving toward 2030, we are trying to accelerate the pace as quickly as possible, and we are going to secure the necessary volume.  
+As we do that, both hybrid vehicles and PHEVs,  customers do support those 2 technologies significantly. And therefore, in terms of supply, we intend to offer those vehicles. And as we do that, we will continue to do batteries for PEVs and also SEVs. So we are working on that, and we accelerate further. So probably in the middle of period between 2020 and 2030, aiming at that time frame, we intend to further enhance our capabilities for batteries for BEVs, ensuring the supply of that and ensure the supply of those batteries that we develop so that we'll be able to achieve the goal that we set for ourselves for 2030. So that's what we are working on in earnest at this moment. 
+With respect to the all solid-state batteries, we're -- it's still in the process of development. And Mr. Maeda will talk about that and supplement that later on. But at this stage, all I can say is it is still in the process of development. We are trying to accelerate the pace of the developing all-state battery as well. And Mr. Maeda will supplement that further.
+
+--------------------------------------------------------------------------------
+Masahiko Maeda,  Toyota Motor Corporation - CTO    [55]
+--------------------------------------------------------------------------------
+[Interpreted] Maeda speaking. And including additional remarks with respect to your first question, I would like to say the following. With respect to all-state batteries -- solid-state batteries, we are developing raw materials for that. So technologically speaking, we still have very   high hurdles to go over. I won't be able to go into great details, but in terms of raw materials that are being developed, the safety and durability are not yet fully satisfied. 
+So at this moment, we are specializing on the development efforts, dedicating our efforts for the development of raw materials that can satisfy safety and durability requirement. As Mr. Nagata mentioned earlier, the pace of battery development is being accelerated. That leads to the shortening of lead time for battery parts as well. 
+As we move towards achievement of carbon neutrality, we talk about the importance of offering greater options of technology. To put it differently, going forward, what customers would prefer and choose in terms of vehicles offering greater convenience, that is not yet clearly defined yet. So given that uncertainty, I mean customers' preference may change in the future, regulations might change in different ways, and that's where we find ourselves, and we'll try to capture those changes as quickly as possible while we work on this development. It's very important for shorten the lead time for development, including the development of battery as well.   
+So considering those factors that you see on the screen, compared with existing Toyota vehicles, the bZ -- in the case of bZ4X, we have shortened lead time development by around 30% and focusing more on the battery is going forward. We are now working hard to that where we can shorten lead time for development by another 10%. That means, as a result, we will be able to be achieve the result that we're aiming at without increasing fixed costs and without increasing manpower to be dedicated for that purpose. 
+And to realize that, this is connected to the ICE as well, I think there are 2 important factors. As Dr. Kuffner talked about earlier, the digitalization is very important in this area as well. As I explained   battery I went into rather technical details. Basically, we use computers simulations in development. And as we engage in development using computer simulations, the development environment itself is going to be digitalized. So working with Kuffner's team, we need to have the robust, solid development for digitalization so that we can accelerate the process of development and achieve the evolution daily. 
+And as we do that, the TPS that Toyota has been accumulating over the years will become very important. In the context of a digital development, digital-based development, many different engineers will work together in engaged development. The drawings can be made by a single person, but in the case of digital development, multiple number will be engaged in the development of software. 
+So as we do that, how the information is flowing, that needs to be streamlined. And that's area where TPS concept or philosophy of TPS can be applied. And if that is done, if that is streamlined based upon TPS, we can enhance the efficiency further leveraging our own strength. And the TPS and digitalization that I just talked about                 to the cleaning of ICEs that was mentioned in your second question. It is related to that as well. 
+First, I talked about the allocation of resources for enhancing efficiency of existing -- thermal efficiency of existing engines. And already, we're earnestly working on that. But as Mr. Ichiba is concerned about, we simply cannot allocate large amount of resources on that. since we have to engage in electrification as well, the amount of resources we can dedicate could be limited, and therefore, even if in the case of development of engines, the digitalization becomes important as well as using TPS concept, and those 2 becomes very important. 
+So when we take both of these into consideration, using digitalization and TPS, we will reduce or minimize the basic unit of development so that   overall efficiency can be enhanced, and that becomes very important. 
+Now why the cleaning of ICE is important. Could you show us Slide #15 for that purpose? Here, in Part 1, Mr. Nagata mentioned about this a little bit. In the case of existing HEVs, when customers are using it, to what extent engine is not used, the engine is stopped, as shown here, starting with RAV4 hybrid version, starting from the left hand before this slide, you have RAV4 PHEVs. And generally speaking, including the vehicle speed is 0, when the vehicle is stationary, between 60% and 90%, the engine is stopped, engine is not running, which means for the rest of the time, the engine is still used. So efficiency of engine when it is in operation need to be enhanced going forward as well.
+So although bit and bit, but the percentage of engine game is stationary by reducing the battery electronic efficiency and being enhanced -- we can enhance the efficiency of engine as well. And by using digitalization and TPS, even with a smaller amount of resources, we will try to achieve the similar result of technological development and taking advantage of that. And the uniquely Toyota way of doing that, we would like to use those development to achieve the carbon neutrality going forward. That's all.
+
+--------------------------------------------------------------------------------
+Unidentified Company Representative,   -     [56]
+--------------------------------------------------------------------------------
+[Interpreted] Thank you, Mr. Chiba. With this, we would like to complete the financial results press conference. Thank you very much for taking time out of your occupied schedule and be a part of this program for long. Thank you very much for your participation.
+[Statements in English on this transcript were spoken by an interpreter present on the live call.]
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
