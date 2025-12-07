@@ -1,0 +1,482 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2020 Barclays PLC Earnings Call
+OCTOBER 23, 2020 / 8:30AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * James Edward Staley
+   Barclays PLC - Group CEO & Executive Director
+ * Tushar Morzaria
+   Barclays PLC - Group Finance Director & Executive Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Fahed Irshad Kunwar
+   Redburn (Europe) Limited, Research Division - Research Analyst
+ * Jonathan Richard Kuczynski Pierce
+   Numis Securities Limited, Research Division - Research Analyst
+ * Jason Clive Napier
+   UBS Investment Bank, Research Division - MD, Head of European Banks Research and Bank Research Analyst
+ * Alvaro Serrano Saenz de Tejada
+   Morgan Stanley, Research Division - Lead Analyst
+ * Edward Hugo Anson Firth
+   Keefe, Bruyette & Woods Limited, Research Division - Analyst
+ * Martin Leitgeb
+   Goldman Sachs Group, Inc., Research Division - Analyst
+ * Christopher Cant
+   Autonomous Research LLP - Partner, United Kingdom and Irish Banks
+ * Guy Stebbings
+   Exane BNP Paribas, Research Division - Analyst of Banks
+ * Robert Noble
+   Deutsche Bank AG, Research Division - Research Analyst
+ * Joseph Dickerson
+   Jefferies LLC, Research Division - Head of European Banks Research & Equity Analyst
+ * Rohith Chandra-Rajan
+   BofA Merrill Lynch, Research Division - Director & Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to the Barclays Q3 2020 Results Analyst and Investor Conference Call. I will now hand you over to Jes Staley, Group Chief Executive; and Tushar Morzaria, Group Finance Director.
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [2]
+--------------------------------------------------------------------------------
+Good morning. As the COVID-19 pandemic grew and the global economy began to contract, Barclays focused on 3 things. 
+First, to preserve the financial integrity of the bank. If we're to maximize our support for the economy and society in this time of challenge, Barclays must first be a strong, profitable business. Second, we wanted to be there for our customers and clients. So we did things like waiving charges and interest payments to help people cope during a very difficult period. And we worked with governments, particularly the U.K. government, to deliver programs to help businesses, big and small, to weather the storm. And third, Barclays needs to embrace and support our colleagues within the bank, recognizing the challenges that we all face on a personal level and on a professional level.  
+To the first point, Barclays generated a pretax profit in the third quarter of GBP 1.1 billion, which means we've earned GBP 2.4 billion of profit before tax in the first 3 quarters of this year. In the face of extreme stress for the U.K. and U.S. economies, for Barclays to maintain its profitability through the first 9 months of the year clearly supports the basis of our strategy as a diversified developed markets universal bank. 
+With tangible equity of some GBP 48 billion, we closed the quarter with a CET1 ratio of 14.6%, representing the highest level of capitalization in the bank's history. Distribution of excess capital to shareholders remains a priority for this management team. And the Board will decide on full year dividend and capital returns policies in February. Our liquidity coverage ratio stands at 181%. And we have impairment reserves today of some GBP 9.6 billion. Barclays is today highly capitalized, liquid, well reserved for impairments, diversified in its business and profitable.  
+In the third quarter, Barclays U.K. returned to profitability following its loss in Q2 to generate a modest GBP 196 million of profit before tax. While revenue was still off some 16% versus the same quarter last year, it improved slightly versus the second quarter. With reduced impairment to GBP 233 million, Barclays U.K. produced a return on tangible equity of 4.5% for the quarter. The profitability of Barclays U.K. will most likely be the principal challenge facing the profitability of Barclays as a group in the near term.  
+Close to 0 interest rates, that we provide many core banking services for free, lower charges for overdrafts and the elimination of certain banking fees will all challenge our business. The strategic conundrum for major banks in the U.K. today is not new market entrants but maintaining profitability, given the state of the industry in which we operate. That said, we are encouraged by the progress we are making in delivering a digital bank to U.K. consumers and to small businesses across the country.  
+In our International Consumer, Cards and Payment business, or CC&P as we refer to it, we returned to solid profitability in the third quarter with a return on tangible equity of 14.7%. Following losses in the first and second quarters, the business generated a profit before tax of GBP 165 million in the third quarter. With signs of recovery in the U.K. economy beginning, revenues from our payments business were up over 30% versus the second quarter. And U.S. card revenues were up 7% also versus the second quarter. The strength of our International consumer business plus our overall payments franchise is evident in its profitability. Importantly, our delinquencies remained broadly stable, and we booked an impairment of just GBP 183 million in the third quarter.  
+The Corporate and Investment Bank delivered GBP 1 billion of profit before tax in the third quarter. Over 85% of the bank's profitability in the last 3 months came from the CIB. This performance was led by our markets business with revenues of just under GBP 1.7 billion, up 38% in dollar terms versus last year. The Corporate and Investment Bank's return on tangible equity was 9.5% in the third quarter. We continue to focus on improving the profitability of the corporate bank and of our coverage bankers as I appreciate there is still more to do. But this profitability represents a good performance from the CIB. 
+The second priority was to help consumers and businesses deal with the pandemic. We have dropped fees or waived interest equivalent to some GBP 100 million of revenue since the crisis began. This has directly relieved some of the financial pressures faced by our U.K. customers and clients. We've also granted over 640,000 payment holidays globally across mortgages, credit cards and personal loans. And Barclays created a Community Aid Package of GBP 100 million to make grants to charities, helping those most impacted by COVID-19. Tens of millions of pounds in support has already been distributed.  
+Alongside these efforts, Barclays has partnered with the U.K. government to administer programs providing direct financial support from Bounce Back Loans to small businesses to underwriting commercial paper issued by major employers in the United Kingdom. We have helped extend GBP 24.6 billion of financing since the pandemic began. We have also been extremely active in supporting businesses and institutions to access the global capital markets, including helping raise over GBP 1 trillion of new issuance across the second and third quarters.  
+On climate change, we have been working extremely hard since our AGM in May to develop detailed plans for implementing the resolution passed overwhelmingly by our shareholders. We are looking to publish an update on progress with our climate strategy, together with defined targets before the end of the year. We understand that now is the time for Barclays to stand behind our customers and clients as they manage their way through this virus. We also know there are still many challenges to be faced. 
+Finally, we are indebted to the 88,000 Barclays employees, who have committed themselves to the performance of the bank through the first 9 months of an unprecedented year. We have endeavored to support them in every way we can as a company, from giving leaves for colleagues to tend to family members in distress to canceling all redundancy measures for the last 6 months, from investing and refurbishing our physical spaces to provide a safe environment from which to work to providing the technology to allow 65,000 people to work from home. 
+Our colleagues have given their all to ensure we can run this bank safely and soundly. And we, in turn, have backed them. This is a trying time for all of us and it will continue to be so. But my hope is that Barclays will live up to its 330-year heritage and emerge from this pandemic with pride in what we have done and how we have helped. Tushar?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Jes. As usual, I'll make some brief comments on the first 9 months and then focus on the third quarter performance for the rest of the call. 
+As Jes mentioned, the results for the first 9 months continue to show the benefits of our diversified business model. Despite the impairment charge of GBP 4.3 billion, 3x the previous year, we reported a statutory profit before tax of GBP 2.4 billion, generating 7.6p of earnings per share. Litigation and conduct was just GBP 0.1 billion in the 9 months, where we had a large PPI charge in Q3 last year. So I'll reference the numbers excluding litigation and conduct as I go through the results. 
+Profits for the year-to-date were down on last year, driven by the increase in the impairment charge. But income growth of 3% against a 1% decrease in cost delivered positive jaws of 4% and an improved cost:income ratio of 59%. The income growth reflected a 24% increase in CIB, more than offsetting income headwinds in the consumer businesses. Overall, we reported an RoTE of 3.8% for the 9 months. Our capital position strengthened further to reach a CET1 ratio of 14.6% at the end of September with RWAs down GBP 8.3 billion in Q3. TNAV increased from 262p to 275p over the 9 months.  
+Moving on to the Q3 performance. Group income decreased 6% in Q3. CIB again reported a year-on-year increase, driven by the performance in markets, offset by the expected income headwinds in BUK and CC&P. While CIB income for Q3 was down on the levels of H1, the consumer businesses reported increases on Q2 as we had guided. Cost increased slightly, delivering a cost:income ratio of 65%. 
+The impairment charge of GBP 608 million was well down on the Q1 and Q2 numbers, and we saw limited flow into delinquency in the quarter. Net write-offs in the quarter were just GBP 0.5 billion and GBP 1.4 billion for the 9 months. I'll say more on impairment in a minute. But first, a few words on income and costs.  
+The quarter again showed the benefits of diversification of our sources of income with a decline on Q2 with some recovery in the consumer businesses. However, conditions remained challenging for those businesses with reduced balances in a low rate environment as we'll show on the next slide. 
+We've highlighted here the headwinds from balance sheet reductions in U.K. and U.S. cards, which continued in Q3, although we saw some stabilization during the quarter. We saw signs of recovery in consumer spending in both the U.K. and U.S. through the quarter as lockdowns continued to ease. 
+However, uncertainty remains after the conversion of that spending recovery into interest-earning balances and on the effect of further government restrictions through the next few months. Any spending recovery should have a quicker transmission to income levels in the U.S. -- in U.S. cards due to the higher interchange income we earn on card spend in the U.S.  
+We put on the slide a reminder of the headwinds in the U.K. that we quantified at Q1. When I come back to the U.K., you'll see that margin compression eased in the quarter following the repricing of deposits in Q3.  
+Looking now at costs. Although costs were up slightly at GBP 3.4 billion, we remain very focused on cost efficiencies, particularly in the light of the low interest rate environment. The COVID pandemic has resulted in additional costs for the group in the short term, both direct costs and through the suspension of headcount reductions we had planned. I would remind you that costs in Q4 will include bank levy. 
+Overall, we would currently expect costs for the full year to be broadly flat on 2019. However, the pandemic is also changing some of the ways in which we work. And this will open up additional cost opportunities going forward. As a result, we are, of course, evaluating actions to reduce the structural cost base over time, which would result in additional charges. But the timing and size of these are still to be determined.  
+I've mentioned that the impairment charge in Q3 was well below the Q1 and Q2 levels with lower charges in each of the businesses. The continued reduction in unsecured balances was a major factor feeding into the lower charge. We updated the macroeconomic variables, or MEVs, used for our IFRS 9 modeling in the quarter. However, this generated little by way of additional book-up in the charge. Assuming no significant change in the MEVs we are using nor in effectiveness of support schemes and absent an increase in single name corporate defaults, a similar impairment charge in Q4 would be a sensible estimate.  
+We continue to see limited effects of the pandemic on arrears rates, partly as a result of support programs. We would expect an increase in delinquencies as we go through 2021. But given the significant book-up in provision taken in H1 and the expectation of some economic recovery in 2021, we would expect a lower charge for 2021 than 2020. In CIB, we had some single name charges, but our conservative positioning, including credit protection measures, kept the charge below the Q1 and Q2 levels. 
+We've shown on the next slide a breakdown of how we built up the Q3 charge and the MEVs underlying the expected loss calculation. We've shown the chart for the last few quarters split into the impact of COVID-19 scenarios and weightings, single name wholesale charges and the balance of the charge, excluding those impacts. As I mentioned, we have updated the MEVs slightly this quarter, notably extending the period of elevated unemployment in the U.K. but don't have a significant book-up this quarter.  
+Taking a step back from the level of the Q3 charge, it's important to look at coverage ratios to see the full extent of our cumulative protection against downside risk. On this slide, we summarize the main loan books, impairment bills and those resulting coverage ratios. Balances have gone down in Q3 for wholesale and unsecured, but we have broadly maintained coverage compared to 30th of June. You can see that our coverage ratio has increased at the group level from 1.8% to 2.5% over the 9 months. And that's flat on the 30th of June. 
+The wholesale coverage has almost doubled over the first 9 months to 1.5%, and a large portion of this is in the selected sectors which we consider to be more vulnerable to the downturn, which I'll cover shortly. The other major area of focus continues to be the coverage on the unsecured consumer books. But the ratio has increased from 8.1% to 12.2% overall in the year-to-date. Again, that's broadly flat on the 30th of June. Coverage is 23.8% on stage 2 balances, over 90% of which are not past due. 
+We split out the unsecured portfolios in more detail on the next slide. And I'll just highlight the coverage of the U.K. cards portfolio of 16.4% and 28.5% on stage 2 balances. As I said at Q2, we think we are well provided despite the continuing uncertainty as to the speed and extent of the economic recovery, particularly in the U.K.  
+A quick word next on payment holidays. We set out on this slide the continuing roll-off. As you can see, a very significant portion of the unsecured balances that were granted payment holidays have now rolled off. And many of these are returning to regular payment schedules as their payments become due. Holiday balances for U.K. and U.S. cards were just GBP 120 million and GBP 90 million, respectively, at 30th of September. We have 3% of the mortgage book still on payment holiday but with an average LTV of just 63%.  
+Turning now to wholesale coverage on selected sectors. We've shown here the breakdown of our wholesale exposures by type plus the exposure to these sectors -- to those sectors which we feel are particularly vulnerable to the downturn. The balance sheet exposure of the sector -- of the selected sectors is GBP 18.6 billion, down GBP 2 billion from 30th of June. And our overall coverage ratio across these sectors has increased from 2.3% to 4.2% over the first 9 months. 
+As I highlighted at Q2, we have synthetic protection in place covering circa 25% of our exposure. This protection has been effective in reducing our wholesale impairment charges. For example, the first 9 months, it reduced our impairment charge by over GBP 300 million. As I've mentioned before, we've been happy to sacrifice some income in order to reduce the downside on credit risk in this way, which is one of the reasons our corporate lending income line remains lower than it'd otherwise be.  
+Turning now to the performance of the individual businesses. We mentioned in the first half some of the income headwinds BUK is facing. And these are still reflected in the Q3 performance with income down 16% year-on-year, in line with consensus. Although we saw some recovery in spending in the quarter, as I showed earlier, unsecured balances have not increased with interest-earning card balances down 19% year-on-year. Mortgage balances, on the other hand, were up year-on-year and up GBP 1.2 billion on the second quarter with an improvement in pricing. 
+There was also further increase in BUK business banking lending as Bounce Back Loans and CBILS reached circa GBP 10 billion in aggregate. Overall loan balances grew by GBP 2 billion in the quarter to GBP 204 billion. Deposit balances grew further in the quarter, resulting in a loan-to-deposit ratio of 91%. NIM was up slightly at 251 basis points. And we expect a similar level in Q4, in line with our previous guidance. 
+Costs increased 15% year-on-year as COVID-related costs more than offset efficiency savings. That included circa GBP 30 million of quarterly costs in our partner finance business, which was transferred from Barclays International earlier in the year. Impairment for the quarter was GBP 233 million, up year-on-year but well below the GBP 583 million in Q2. As I noted earlier, arrears rates at September 30 do not yet reflect the economic downturn.  
+Turning now to Barclays International. The BI businesses delivered an RoTE of 10.5% for the quarter, up slightly year-on-year with incoming costs and impairment all broadly flat. I'll go into more detail on the businesses on the next 2 slides. CIB delivered an RoTE of 9.5% in Q3, up slightly year-on-year as another strong performance in markets more than offset the increased impairment provision. Income was up 11% at GBP 2.9 billion on a flat cost base, delivering strong positive jaws. 
+Markets income increased 29% in sterling, resulting in the best-ever Q3 on a comparable basis and up 38% in dollars. FICC increased 23% with a particularly strong performance in credit, reflecting wider spreads. Equities had its best-ever quarter in sterling, increasing 40%, driven by equity derivatives with high levels of client activity and volatility. 
+Banking fees decreased 11%. Strong performances in debt and equity capital markets were more than offset by lower fee income in advisory, which was impacted by a reduced fee pool and a strong Q3 '19 comparator. Corporate lending income wasn't affected as significantly as in previous quarters by mark-to-market moves in loan hedges and leverage loan marks. Reported income of GBP 232 million did include some net benefit from these items this quarter. 
+Costs were flat, resulting in a cost:income ratio of 59%. Impairment increased year-on-year to GBP 187 million but was below the Q1 and Q2 charges. RWAs reduced by further GBP 5 billion in the quarter to GBP 193 billion, lower again than anticipated. I'll come back to that when I talk about capital progression.  
+Turning now to Consumer, Cards & Payments. Income in CC&P was down 23% year-on-year, driven principally by the significant reduction in U.S. card balances, which were down 21% year-on-year in dollar terms. In addition to affecting balances, lower consumer spend volumes were also a headwind for interchange in cards and payments income. As mentioned earlier, we have seen some recovery in spending in Q3, benefiting those income lines. 
+The decline in card balances did stabilize towards the end of the quarter. But it's too early to guide on the quantum of potential balance growth over the coming quarter. Costs were down 10%, resulting in a 58% cost:income ratio. Impairment was GBP 183 million, well down on previous quarters, reflecting lower balances with arrears rates slightly lower in the quarter.  
+Turning now to Head Office. The Head Office loss before tax was GBP 191 million, up year-on-year but down significantly quarter-on-quarter. The negative income of GBP 127 million reflects the main elements I've referenced before, legacy funding costs, residual negative treasury items and negative income from hedge accounting. And those elements are expected to continue in Q4. As in Q2, costs of around GBP 69 million were a little above the usual run rate of around GBP 50 million due to the inclusion of a further portion of the Community Aid program of GBP 100 million we announced at Q1. 
+Moving on to capital. We began the quarter at a CET1 ratio of 14.2% and the ratio increased strongly to 14.6%. This reflected capital generation from profits and a further reduction in RWAs. Profits net of impairment contributed 26 basis points to the ratio. IFRS 9 transitional relief didn't move significantly this quarter as the bulk of the impairment charge was not eligible for relief. But spot and average leverage ratios were above 5%. I'll say more about the way we're looking at our capital flight path in a moment. But first, I'll go into more detail on the RWA bridge.  
+Here, we've analyzed the GBP 8.3 billion decrease in RWAs. As in Q2, anticipated pro-cyclical impacts in the quarter were limited with a GBP 3.3 billion increase in credit risk RWAs from asset quality deterioration. This increase was more than offset by the GBP 7.4 billion of decreases in credit risk RWAs. This reduction reflected a GBP 3.9 billion decrease due to book size, including further net repayments of revolving credit facilities and lower retail lending, net of government schemes, and also GBP 3.5 billion of regulatory tailwinds, including the SME support factor.  
+Counterparty and market RWA movements were less material and FX decreased RWAs in sterling terms but also reduced the CET1 numerator. Our plans for running the businesses assume some pro-cyclical effects on RWA still materialize at some point, although this may come in 2021 rather than in Q4. The other headwind I would highlight is the effect on capital -- the other headwind I would highlight is the effect on the capital numerator of impairment on defaulting balances as the charges are not eligible for the transitional relief introduced in Q2.  
+Looking at the next slide at our capital requirement. We've shown here a reminder of our current capital requirement and how it is reduced to reflect the removal of the countercyclical buffer in Q1 and the reduction in Pillar 2A in Q2. As a result, our MDA has reduced to 11.3% since the start of the year, so our Q3 ratio of 14.6% represents a very comfortable buffer over the MDA level despite the future uncertainties.  
+With regards to headroom, our capital ratio has been strengthened over recent years to put up in a position to absorb precisely the type of stress we are now experiencing. In this uncertain environment, we will manage our capital ratio through this stress to enable us to support customers while maintaining the appropriate buffer above the MDA. As I emphasized at Q2, the buffer that we consider to be appropriate will evolve over time in regard to the expected flight path of both our ratio and our capital requirement. 
+We believe we are generating surplus capital and that both we and our peers will be discussing this with the regulator in the course of Q4 as the PRA has indicated. In summary, we're carrying a significant capital above our regulatory threshold and would be comfortable for our CET1 ratio to reduce over the coming quarters, but it's too early to give definitive guidance on the flight path. 
+Finally, a slide about our liquidity and funding. You can see here some of the key metrics showing we are well positioned to withstand the stresses that are developing and to support our customers. 
+So to recap, we were profitable again in Q3, generating a 5.5% RoTE despite the continuing effects of the COVID pandemic. Although some income headwinds across the consumer businesses are expected to continue in 2021, we are seeing gradual improvement from the Q2 levels. We continue to see the benefits of our diversified business model coming through with income growth in the CIB again in Q3 and our franchise is well positioned for the future.  
+Cost efficiency is a key focus going forward, given the low interest rate environment we are facing. The pandemic has increased costs in certain areas, but it's also changing some of the ways we work. And we expect this to be -- we expect this to result in opportunities for further efficiencies in the future. We've taken very significant impairment charges in Q1 and Q2 but a much lower charge in Q3. 
+Our funding and liquidity remains strong and put us in a good position to support our customers and clients during this difficult period. Although we may see further headwinds in Q4 and into 2021, our strong CET1 ratio of 14.6% puts us in a good position. While I won't comment further on the timing of future capital distributions at this stage, the Board firmly recognizes the importance of capital returns to shareholders and will decide on dividends and capital returns policy at the end of the year. So we'll update you then.  
+Thank you, and we'll now take your questions. (Operator Instructions)
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question comes from Jonathan Pierce of Numis.
+
+--------------------------------------------------------------------------------
+Jonathan Richard Kuczynski Pierce,  Numis Securities Limited, Research Division - Research Analyst    [2]
+--------------------------------------------------------------------------------
+I've got 2 questions, please. The first is just a broad one on impairments. Just trying to get a better sense as to what you are thinking into next year, accepting still considerable uncertainties. I mean is your thinking at the moment, the way this will work next year, we'll continue to have a sort of normal underlying charge of some GBP 600 million to GBP 800 million that we've been seeing in the last few quarters, but any increase over and above that as things genuinely deteriorate will be covered in the reserve -- by the reserve releases that you've built in the first half of this year, assuming the models are correct, of course? So therefore, I don't know, are you kind of thinking that next year, the impairment charge, all else equal, probably will be something in the order of GBP 3 billion. Just trying to get a better handle on what you're thinking about next year in terms of impairments.  
+The second question is away from these results actually. It's more about these 2 10% bonds that you've got maturing in the middle of next year and (inaudible) GBP 3 billion across the 2, I think. So it's quite a significant interest expense that is not, as I understand it, being taken in the Head Office. Those were issued 12 -- maybe 12 years ago now. Are they still hedged from a rate perspective? Or are we actually talking about a gross GBP 300 million drop in interest expense in the middle of next year when those bonds get redeemed?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [3]
+--------------------------------------------------------------------------------
+Yes. Thanks, Jonathan. Why don't I take both of them? In terms of -- is my line clear? Yes, sorry. In terms of the impairment, the way I think about it is the sort of the building blocks that you're very familiar with, you'll have your own views on the sort of economic environment that we find ourselves in next year. If it's consistent with our current forecast, then we wouldn't expect any sort of material change in terms of book-up or release necessarily. So that's one thing, and you'll have your own views on that.  
+But second thing is just -- so assuming that the economic forecast play out as we've got forecast, you're right to sort of say that the book-up that we have ought to be digested over the course of next year. The slight complexity is that this is an expected loss that we've taken. So there will be some names that both on the consumer side and the wholesale side that will default and some names that will cure. If that all happens at exactly the same time, they need to have a very smooth sort of impairment profile back, in the words you described, sort of your typical underlying level. Chances are though that it probably won't be quite that smooth. You'll probably have defaults happening at a quicker pace than you normally have cures. And that's just us probably being conservative in holding on to credits rather than curing them so quickly. 
+Having said that, if you look over a sort of a multi-quarter period, maybe 4 quarters or something like that, then I think the book-up ought to be digested and there have been sort of no net effect over the year. But during the course of the year, it may be a little bit lumpy. The other thing that, that can sometimes get accentuated is if there's any tall trees on the corporate credit side in wholesale. Those are unlike consumers, where you've got millions and millions of consumers. So the sort of statistics around them work well with corporate credits. There's just a fewer number. You sometimes get your timing mismatches as tall trees default. But the large number of corporate credits don't necessarily cure quickly.  
+Away from the results, your second question, on the expensive legacy debt. Yes. No, you're right to point that out. They are expensive, and we're looking forward to no longer having them, sort of remnants of yesteryear. We do hedge the interest rate risk. But some of this will get refinanced. Of course, we've talked about how much MREL we sort of net issue over the course of the year. And in terms of the interest rate hedging, Jonathan, we do tend to manage this on a portfolio basis. So I wouldn't necessarily just sort of just think about it on a security-by-security basis. I'll just caution in terms of sort of overstating, if you like, the tailwind from necessarily those securities dropping off. But it is -- of course, it is a tailwind, I just wouldn't want you to overstate it.
+
+--------------------------------------------------------------------------------
+Operator    [4]
+--------------------------------------------------------------------------------
+The next question comes from Joseph Dickerson of Jefferies.
+
+--------------------------------------------------------------------------------
+Joseph Dickerson,  Jefferies LLC, Research Division - Head of European Banks Research & Equity Analyst    [5]
+--------------------------------------------------------------------------------
+Very solid quarter there. I just have a question on the CET1 glide path into next year. Could you kind of quantify a range that you have in your mind that you're budgeting for some of the regulatory headwind in terms of basis points? And then could you also opine upon the buffer to MDA? So we've had this CP17/20 out on this Tuesday, looking into the usability of buffers and also the point of holding excessive management buffers. And you're currently 330 basis points over your MDA. So I guess some view on how that plays in as well to the capital that you'll want to hold versus distribute.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [6]
+--------------------------------------------------------------------------------
+Yes. Thanks, Joe. Why don't I take both of them? Our sort of flight path into next year, look, it's hard to give you a sort of a basis point number on headwinds. But there are some sort of things that everyone ought to be aware of. And hopefully, we've trailed them well but just call a couple of them out again. We had a PVA benefit, a technical benefit that was introduced this year under the rule book. That will go away in Q1 next year, so you probably want to see that as a headwind into Q1. 
+I would remind folks on IFRS 9. You've really got sort of 2 things going on in IFRS 9. You've got the original transition relief. We're going to step into sort of the next year, so we'll step down in that sort of first portion of transition relief. And then the second portion of transition relief as names, as we talked about on the earlier question from Jonathan, migrate from stage 2 into stage 3, there'll be a capital effect then.  
+The other, I think the gist of your question is also on the credit side, particularly. We probably haven't had quite as much a pro-cyclicality as we anticipated. We saw another sort of GBP 3-odd billion or so in Q3. And we've taken a bunch of management actions in anticipation of that, which has been more than offsetting that. I still think there's probably more headwinds to come. These will be sort of default grade downward sort of shifts and similar-type items on the counterparty credit side and on the traditional credit side but sort of pretty hard to give a number on.  
+We've had some natural kind of tailwinds against that. For example, the flowback of revolving credit facility. I think we're probably largely done with that actually. Our draws are now sort of back to pre-COVID levels or even a touch better, capital markets being so strong. So that's why I sort of said that we've had a very strong sort of run in capital. I'll just be a little bit careful, people don't over extrapolate that. The other thing I'd say, Joe, is -- and for everyone else out there, I mean, we do typically go back in capital in Q1. It's something we do most years and are very comfortable doing that, tends to be the most profitable quarter of the year. So we do like to put capital to work then.  
+But when I sort of look at that all in the mix, I still think we're going to be a reasonably capital-generative institution. Some of those headwinds that we will experience next year, if we really think we're in a recovery year, and certainly most people expect some form of growth and tempering of unemployment, then we ought to be reasonably profitable. And so of course, that's the sort of the balancing act here. You've got some perhaps tailwinds to capital when profitability is hard to come by. You've got some headwinds and that will be swapped with a better sort of a profit running to next year. So we are confident of our capital generation, but just caution folks not to overextrapolate.  
+In terms of buffer to MDA, yes, I won't give again a precise sort of number or what's the sort of buffer to MDA we'd be comfortable with in any 1 particular quarter. All I would say is that it will vary over time. And you're seeing that this year, of course. We would always want to run a comfortable buffer above MDA. We talked about it in our scripted remarks. We do think distributions to shareholders are important, and you need to have a sort of a comfortable buffer above MDA to allow you to do that. And so that is something that's important to us.  
+The consultation paper you refer to, I think it's a bit too early to comment as to whether that's going to really change our thinking about capital levels. I think, to be honest, we're in the midst of the COVID-19 sort of situation at the moment. I think when we get to the other side of that, we have a better sense of where the land lays and probably after Brexit as well, the PRA may make some other sort of comments on what they expect U.K. banks to do in a sort of post-Brexit environment, where they're more in charge of the rule book. I think that will be the right time to be talking more directly about that.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+The next question on the line comes from Alvaro Serrano of Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Alvaro Serrano Saenz de Tejada,  Morgan Stanley, Research Division - Lead Analyst    [8]
+--------------------------------------------------------------------------------
+Two for me. One, on the -- you mentioned still revenue headwinds in BUK. Can you help us with sort of the headwinds you see, obviously, still from the structural hedge? Help us quantify that versus presumably the tailwinds that come from mortgage volumes and mortgage pricing, how that's at play and help us quantify maybe what the headwind -- or get a head around what the headwind might be there.  
+And the second question on costs. Again, you said you're evaluating cost initiatives. I'm thinking, excluding the investment bank, which is for me at least, it's easier to get my head around. But if I think about BUK or the U.S. business, CC&P, can you help us -- talk us through how much would be infrastructure or give some color versus headcount reduction because you now don't need the distribution network you might need pre-COVID? So maybe, I don't know if you can quantify at this stage, but at least headcount versus structural sort of network and things like that. Can you comment on that, please?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [9]
+--------------------------------------------------------------------------------
+Yes. Thanks, Alvaro. Why don't I take the first one and Jes can talk about how we're thinking about costs. On the revenue sort of headwinds, tailwinds for the U.K. business, yes, I mean, in terms of on the headwind side, I would remind people that the structural hedges, this is -- people have their own view on what the rate environment is. But if it's -- as we have it at the moment, our sort of fixed receipt swaps will grind into lower fixed levels. That's a headwind. And you can see how sort of swap rates have come down over the course of, say, the last 12 months or something like that. And we've sort of called out some numbers on the slide, where I think you've already got there, Alvaro. So I think that is one headwind. That also has a sort of an effect for NIM as well, sort of be a dilutive effect as the fixed receipts earn less.  
+I think another thing in terms of headwind, I think the NIM, but as an income matter as well on a year-on-year comparison as well, we haven't really seen our unsecured balances. We've seen them stabilize, but we haven't seen them grow. I think it's going to take some time for them to grow. I think, first and foremost, on a very positive side, we've seen consumers deleverage quite well. So they're anticipating tough times and that's really positive. And hopefully, you'll see that come through impairment. On the second thing, you can see our deposit levels are super strong as well. I mean at Barclays, it's a striking number. We have almost GBP 0.5 trillion of deposits now at Barclays, which just shows how powerful savings sort of rates have been across consumers and corporations. So that will lessen, you would expect, the need for revolving credit. So that will be a headwind into next year as well. 
+Now on the flip side, you did point out mortgages. I think that is a bright spot. Application levels are running at pretty robust levels and somewhat probably fueled by the stamp duty relief. And pricing has stayed pretty competitive. I guess the only challenge though with mortgages, it's sort of you will get the net interest income benefit, but it comes through a little bit later. So I'd say for NIM as well, of course, if you're growing your secured book relative to the size of your unsecured book, then that's a headwind for reported NIM. So just on the math of all of this, you can see that there's downward pressure on NIM going into next year. But mortgage looks like a pretty decent bright spot. Jes, you want to talk about costs?
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [10]
+--------------------------------------------------------------------------------
+Yes. Let me -- thanks for the question. Let me start by saying we, as a management team, we put restructuring this bank behind us over a year ago. And when we think about taking the bank forward, what we want to look for is growth. And I think in the midst of this terrible pandemic that we're generating profits every quarter, hitting the highest levels of capital, being very liquid, significant impairment reserves, this is when you look to invest in the business and that's what we're doing. If you look at the IB, we have one of the lowest cost:income ratios in the industry. And given that we've taken our market share in the markets business from 3.5% to 5%, we want to continue to invest there. So I wouldn't look at performance in the IB around reducing costs because I think costs are quite low versus our revenues. But can we continue to drive revenue growth there? 
+To the CC&P, I know we flipped back in the third quarter to roughly a 15% return on tangible equity in that business. The payment volumes were up some 30% versus the second quarter. In our U.S. card business, we've announced 2 really good co-brand partnerships, 1 with AARP, which for those elderly people who live in the United States, it's quite a program; and then the Emirates airlines, one of the biggest international carriers, when people start flying again, that should hopefully be a good co-brand card for us as well. So we've got a good level of profitability there, and it's one of the business that we want to invest in. The challenge is in BUK. And we have the headwinds of close to 0 interest rates in the U.K. We have the fact that a lot of banking services are delivered for free in the U.K. So there will be some pressure. 
+We've been very focused, however, on dealing with our consumers and small business clients in the U.K. and our employees to deal with all of them in the face of the pandemic. So we announced early on a 6-month break from any redundancies in terms of FTEs. We thought that, that was the appropriate thing to do. We have done some modest branch closings that have been in line with our program set out before COVID-19. It's really reflecting the fact that, as you sort of point out, our customers are increasingly going digital. And where branches aren't really being used, it doesn't make a lot of sense to maintain them. But it's at a modest pace, and we're -- and we recognize the importance, particularly when we're the last branch in a town to deal appropriately with that. With 55,000 people working from home, I think every business, and I'm sure yours, is looking at one's future real estate program. 
+But we really don't know, I don't think yet, what all of this means. It's going to take a while to really address the outcome of having 2/3 of our staff working from their home kitchen tables. There is some tech spend, which I think we can focus on. We've been trying to get much more productivity in our tech spend before. So we'll keep an eye on the costs in BUK. I think there's not going to be any -- there's no need for any major restructuring. But given the profitability challenges, I think, we'll have for a little bit, we will be focusing on that. And -- but I wouldn't expect any grand statement from us.
+
+--------------------------------------------------------------------------------
+Operator    [11]
+--------------------------------------------------------------------------------
+The next question comes from Rohith Chandra-Rajan of Bank of America.
+
+--------------------------------------------------------------------------------
+Rohith Chandra-Rajan,  BofA Merrill Lynch, Research Division - Director & Senior Analyst    [12]
+--------------------------------------------------------------------------------
+I was wondering if I could just follow up on the revenue outlook for the consumer businesses. So firstly, just in terms of that mortgage repricing, is it sort of reasonable to think, given that we've had already a couple of quarters of much better new mortgage spreads, that it's probably the middle of next year by the time the proportion of the book on those better spreads starts to support the margin in BUK?  
+And then secondly, I guess, just differentiating, I suppose, between the credit card evolution in the U.S. and the U.K., particularly the -- so number one on that, can you talk a little bit about the trends that you saw through Q3 and the first month of Q4, first 3 weeks of Q4, and then how you see -- how you compare the outlook between the 2? So Jes just mentioned the co-branding deals that you've done in the U.S. So when do they come online? And how would you compare the outlook for the U.S. and the U.K. cards businesses, please?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [13]
+--------------------------------------------------------------------------------
+Yes. Thanks, Rohith. Why don't I cover them? In terms of mortgages and sort of how that flows into net interest in sort of margin upward pressure, so on the positive side, the churn rate is actually positive now. So we've been in the past where we've been sort of cannibalizing our margin as the back book sort of materials into front book. It's actually positive now. And it's actually meaningfully positive. It's about as wide as I've seen in recent times. So that's positive. 
+The only reason I would sort of just caution people to not get a bit too sort of ahead of themselves on this is if we originate in any typical year, and I'll give you really broad numbers, somewhere GBP 5 billion to GBP 10 billion of net mortgages in a typical year, we've got a mortgage book of about GBP 140 billion. So it takes a bit of time for that sort of churn, that grind to sort of really have upward pressure on NIM. 
+At the same time, if the card book actually declines, let alone sort of flatlines, and of course, you've got some quite significant downward pressure because that's so much a higher margin. So I think the spirit of your point is right, Rohith, but it does take a bit of time. I think in terms of your timeline, will it sort of have net positive pressure on NIM the back end of next year? Maybe. It feels a bit early to me. I think it takes quite a bit of time for it to churn through, just the law of numbers there really.
+
+--------------------------------------------------------------------------------
+Rohith Chandra-Rajan,  BofA Merrill Lynch, Research Division - Director & Senior Analyst    [14]
+--------------------------------------------------------------------------------
+Could I ask on that, Tushar? So you talked about a net number that's GBP 5 billion to GBP 10 billion a year. But actually, there's a lot of the book that will be refinancing. It's not a net number, it's just a refinancing, it all balances. Is that more positive than sort of the picture you just painted?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [15]
+--------------------------------------------------------------------------------
+Yes, it is. But again, you've got to just look at the relative size. So when I'm talking about the churn margin being wide, you've got to remember how much are we making on a card business, and it's a fraction of that. And secondly, so there's that sort of the massive downward pressure from the card business and there's some upward pressure. And again, the size, I think if you're sort of printing net somewhere like GBP 5 billion to GBP 10 billion, maybe you've got GBP 20 billion of gross, and I'm giving you very, very round numbers, it will vary year-on-year. So yes, you're right, it's a very good point. It's going to be a little bit more sort of powerful because gross numbers are larger. But still given the churn margin is positive, but it's nothing like as wide as the credit card margin is saying the other way. So it just takes a bit of time. 
+Sorry. Let's go down to credit cards and the evolution there, a similar story in many ways. We saw card balances decline a lot and then plateau. We're still seeing that plateauing effect. I think it will take some time for both balances to recover. I think in the U.K., we haven't really hit peak unemployment yet. So we've probably got to go through that. We've got a lot of cash on our balance sheet and still government support schemes going on. So I think the desire for revolving credit is going to take a little bit of time to come through. 
+On the U.S., we're probably through peak unemployment, we think. We've got the Thanksgiving and Christmas period, which is a little bit more constructive. The challenge for us is, of course, our partnership cards are probably overweight in the travel, leisure, entertainment sort of sector. So we're working very hard to ensure that spending on that card is something that is desirable for those cardholders. AARP, the one that Jes mentioned, will close next year. And Emirates will be a book that will take a bit of time to grow that, of course, given travel at the moment is relatively muted. But I think we feel constructive but -- in the medium term rather than sort of very near-term, I'd say, is how I characterize it.
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [16]
+--------------------------------------------------------------------------------
+And one thing I would just add, staying there for a second, is something that we are investing in quite heavily on the technology front is point-of-sale financing and I think the growth that installment lending is going to have relative to the credit card portfolio. So for instance, we've launched a new app in our German business, where we're the largest credit card underwriter there, where when you make a purchase with your Barclays credit card in Germany, you get the option of using your revolving line of credit or you can pay over 6, 10, 12 months at fixed installment numbers. And the truth is, Germans tend to borrow in installments more than from credit cards. And I think you'll see over time, an evolution of point-of-sale financing as a partner to what we do in the credit card business across our platform.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+Your next question comes from Jason Napier of UBS.
+
+--------------------------------------------------------------------------------
+Jason Clive Napier,  UBS Investment Bank, Research Division - MD, Head of European Banks Research and Bank Research Analyst    [18]
+--------------------------------------------------------------------------------
+Can you hear me okay?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [19]
+--------------------------------------------------------------------------------
+Yes. You're fine.
+
+--------------------------------------------------------------------------------
+Jason Clive Napier,  UBS Investment Bank, Research Division - MD, Head of European Banks Research and Bank Research Analyst    [20]
+--------------------------------------------------------------------------------
+Super. So the first question, this is to come back on the questions we've heard already around the outlook for restructuring and costs. Just one of the things, I guess, we've seen in previous crises is businesses find it quite difficult to invest as much as they would like during downturns. And I guess with distributed working as it is, there might be a risk that you come into 2021 with some catch-up to do. Consensus currently has costs down year-on-year next year, presumably linked to softer expectations around revenues in the CIB. Are you comfortable that expenses in aggregate in 2021 will decline? That would be the first question. 
+And then secondly, noting some of the questions we've already had around what looked like very good margins in mortgages compared with where they've been, I guess, if we look at the overall returns in BUK, I guess, the issue is not that liability spreads are low. It's that once you take into account all the costs of gathering those liabilities, the GBP 0.5 trillion in deposits that you have, that they might be nonexistent and that actually credit spreads might need to be even wider if you're going to return to above cost of equity returns there. I wonder whether you'd talk about where you see product level returns on the credit side, please? Are you comfortable that flow pricing is adequate in the main to get you to that above 10% RoTE that you've re-endorsed today?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [21]
+--------------------------------------------------------------------------------
+Yes, thanks. Why don't you go ahead, Jes?
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [22]
+--------------------------------------------------------------------------------
+I'll start, then I'll pass it to Tushar for the tougher part of the question. Again, one of the advantages, I hope, where the bank finds itself today versus where it's been in previous situations is in the face of the COVID-19 pandemic and a very tough economic environment, that we grow our capital base the way we've done, that we build the equity buffer the way that we've done, that we generate the profitability that we've levered our managers. We don't have to sit back as a management team and say, "Hey, do we need to do a major restructuring?" We don't. 
+Now obviously, you always want to be running as efficiently as you can. To your specific question about the CIB, something that we've been saying and we've demonstrated amply, I think, last year, one of the characteristics of an investment bank is you know you have variable revenues, but you also have variable compensation, which about -- which allows you to calibrate your cost to your revenues. And I think you've seen us do that over the last 3 to 4 years. So -- and then you do have to appreciate that a lot of the costs we have this year are to make sure this bank is functioning properly, given the pandemic. 
+We've had to go into 35,000 homes and install routers and broadband connections and get people computer screens and telephone hookups to get -- to make this bank work. We're going into over 700 branches almost every day with full sanitizing and solutions to make sure that our employees in those branches are safe and the customers walking in those branches are safe. Flip side, we're saving money because not everyone is flying on jets all the time. So I think there's some room to always invest our money more prudently. But I think it's more investing wisely as opposed to looking at any sort of big cost overhaul. Tushar?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [23]
+--------------------------------------------------------------------------------
+Yes. I think -- yes, exactly, it's very much as Jes said. I think to follow on from Jes' point on costs to help sort of as you think through sort of next year's costs, now our exit rate this year is probably not where we would have preferred to have it. We were quite public in putting a moratorium on headcount reductions over the course of the last 6 months or so. And we've got no grandiose plans to announce anything around there either, given that we may be going into further lockdowns and what have you. So our headcount numbers are probably higher than we would have expected it to be. We're incurring, as Jes mentioned, a whole bunch of operational costs just to keep our businesses functioning in difficult times. So we probably do have a sort of an elevated, if you like, exit rate than we would ideally have. 
+And as Jes mentioned, the restructuring that we sort of highlight, it's really just kind of -- we've learned a lot through the pandemic as well. As Jes mentioned, there's different ways of working that we didn't think were possible. We're examining them, evaluating them as I'm sure every company and financial institution is. I think that ultimately will result in a much more efficient cost base for ourselves. But we want to be sort of careful and deliberate around any decisions we make around the utilization of, say, for example, real estate, et cetera. So we'll keep you posted as we make those decisions. 
+On BUK product-level margin, certainly mortgages at the moment, for example, pretty healthy returns. Even with the changes in risk weights that are coming down the pipes from the PRA, I think returns on front book mortgage is very healthy. Cards, you know about, mostly it's a very healthy returning business as well. So I'm not as concerned on, if you like, asset side margin. One thing is just can we generate enough assets just given the liquidity that we've got? You can see our loan-to-deposit ratio is continuing to decline in Barclays U.K. It's almost at 90% now. So probably it's going to be sort of hard yards until the balance sheet starts sort of growing meaningfully again. But I'd say the margin on our balance sheet, certainly for front book business, is definitely looking attractive, if that helps, Jason.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+We have a question from Guy Stebbings of Exane BNP Paribas.
+
+--------------------------------------------------------------------------------
+Guy Stebbings,  Exane BNP Paribas, Research Division - Analyst of Banks    [25]
+--------------------------------------------------------------------------------
+Firstly, can I just come back to BUK cost specifically and check if there's anything in the third quarter that was particularly lumpy that should disappear. I know you referenced the principal finance transfer and the elevated servicing costs. But these are presumably here to stay somewhat. And it's clearly a division we're seeing quite a lot of top line pressure but also quite a lot of pressure to the cost base. And I'm conscious that consensus for next year, excluding the levy, is below GBP 4 billion versus a run rate this year of GBP 4.2 billion. So I'm just wondering if it's reasonable to think you can take necessary actions to bridge that gap or if the elevated exit rate you referenced might make that quite challenging.
+And then the second question is just on your disclosure on rate sensitivity on Slide 36, which I'm struggling a little bit conceptually with. I would have assumed that as we go to negative rates, the impact of the reduction in base rate becomes proportionately more impactful, if you like. But if I'm reading the slide correctly, it looks like, at least by year 2, year 3, that actually the next 15 basis points as you go negative to capture a negative 25 is proportionately slightly less painful than the first 10 basis points. So I'm just wondering if I'm interpreting that slide correctly and if that is, how you would expect it to work through in practice.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [26]
+--------------------------------------------------------------------------------
+Yes. No, thanks, Guy. Let me start with BUK costs, just take the questions in the order in which you gave them. Yes, I mean, a lot of the exit rate sort of pressures that I've mentioned are -- some of them are definitely in BUK. So that's something we will have to deal with and digest as we go through next year. In terms of any one-off items in the third quarter, not really, not that we'd call out, we've called out the partner finance. That's probably, I think, for where our costs were slightly above most expectations, half of that was probably driven by the partner finance sort of geography shift, if you like. 
+And there was a little bit of sort of restructuring that's constantly going on in those businesses that can be a little bit episodic. We don't call that out because it's -- it will ebb and flow quarter-by-quarter. But there's a little bit of that in there. And that's probably why most people's estimates will be a touch lower than we were. So look, I won't comment on next year's consensus for BUK cost. But hopefully, you've got some of the building blocks there at least to sort of do your own modeling on that. 
+The rate sensitivity, this one is a slightly more tricky one. We put it out there because, obviously, it's of interest and many banks do put it out there. The challenge is, of course, it's a minus 25 basis point parallel shift. Unfortunately, it almost precisely won't happen. I mean who knows what curve shape will happen. But it will have a different effect if short rates are negative and long rates are positive. It will have a different effect if short rates are negative and long rates are further negative, sort of downward sloping, deeply negative curve. And then the other thing, of course, is on the liability side, our Everyday Saver account, which is our sort of most popular deposit product, I think, we pay 1 basis point of interest at the moment. So we're not assuming a significant capacity to reprice. 
+So I'll just caution people to not perhaps use that as it gives you some information that it's definitely going to be painful if we go into a negative rate environment, when both long rates and short rates are negative. But in terms of -- just be a little bit careful as it's parallel shifts and we're making some very broad assumptions, none of which we know may be -- it's very hard to know. For example, we don't really know what central bank policies will be around negative rates. Will there be tiering? Will there be other forms of TLTRO and TFS schemes that will be different? So all of that stuff is very much unknown. 
+Final thing I'd say just, Guy, which we did have on an earlier slide, I'll just remind people, that one of the benefits of diversification is that we're probably less exposed to U.K. NIM than some other of our peers. We've got on a slide that 37% of our top line is net interest income. So you can see that the 2/3 of the business is away from net interest income, so that gives us a little bit of protection as well. Thanks for your question, Guy.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+The next question comes from Chris Cant of Autonomous.
+
+--------------------------------------------------------------------------------
+Christopher Cant,  Autonomous Research LLP - Partner, United Kingdom and Irish Banks    [28]
+--------------------------------------------------------------------------------
+Two, please. First, a quick one on tax. The effective tax rate this year is 18% so far. Could you just remind us what your current guidance is on the group effective tax rate? And also, how that might change if Joe Biden wins the U.S. election and brings in a 28% U.S. tax rate? 
+And then on cost, I'm a little bit confused about the sort of tension between the RNS flagging potential restructuring charges above and beyond your cost guidance, on the one hand, and on the other, saying you wouldn't expect any grand statement on cost and no big cost overhaul. Jes, you remarked that the CIB is running with an industry-low cost:income ratio. I don't know whether I'm misinterpreting that. But it seems to indicate upwards pressure on costs next year, and you talked about the need to try to grow around that. Is that correct? Should we be expecting CIB costs to rise next year? Obviously, you've had a stellar year this year in terms of the cost:income.
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [29]
+--------------------------------------------------------------------------------
+Let me take the last question. Because I think the cost:income ratio for the CIB shouldn't really move that much. I mean obviously, they've had a very strong year. And like other banks have said, we don't really see a linear correlation between variable compensation and variable revenues. It's more nuanced than that. So unless there was a significant change in revenue forecast, I wouldn't expect any significant change on the cost side. Tushar?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [30]
+--------------------------------------------------------------------------------
+Yes. And the tension about -- we just want to -- we're doing a lot of thinking, a lot of examining on things that we can do to make ourselves more efficient. But we want to be very deliberate and careful before we come to any sort of final decisions around this. The kind of -- the danger is, you sort of extrapolate from today into sort of way out in the future and start changing your -- the way you work until you fully really understand on the other side of this particular sort of medical situation what's the right way to be running the company. But it is something that I think will lead to efficiencies and will lead to benefits. And really, that's what we're alluding to. But we haven't completed that work. And when we do that, we'll certainly update you. 
+Just on the other question, Chris, we're guiding to 20% effective tax rate. That's excluding litigation and conduct, as we've done in the past, for this year. In terms of U.S. tax rises, yes, look, we'll see. I mean that's speculating on elections and all that. It's way beyond my skill set. But if tax rises do happen in the U.S. or anywhere else for that matter, that will have a fairly straightforward effect on us. The only thing I would say is that you have this sort of slightly peculiar effect where it will have a beneficial effect on the value of our deferred tax assets. So you'd have a balance sheet sort of asset that you'd create. And as you know, accounting-wise, that will go through your tax line at the point in which that happens. But then you'd have a negative, if you're having a higher effective tax rate along the back of it, so yes.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+The next question comes from Ed Firth of KBW.
+
+--------------------------------------------------------------------------------
+Edward Hugo Anson Firth,  Keefe, Bruyette & Woods Limited, Research Division - Analyst    [32]
+--------------------------------------------------------------------------------
+I guess 2 detailed questions. Number one, on the restructuring charges, can we just be clear then? So if you have restructuring charges at the full year, are you saying you'll absorb that within your cost target? Because I guess that's a message I'm getting from you.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [33]
+--------------------------------------------------------------------------------
+No. Just to be very clear, we will be broadly flat year-on-year on cost. Where we could do any specific restructuring, we would call that out separately away from the GBP 13.6 billion broad guidance that we've given.
+
+--------------------------------------------------------------------------------
+Edward Hugo Anson Firth,  Keefe, Bruyette & Woods Limited, Research Division - Analyst    [34]
+--------------------------------------------------------------------------------
+Okay. Great. And then the second one was in terms of just the NIM, overdraft fees, I can't remember, did you have them in the NII? I thought you did. So shouldn't we see those come back in Q4? That was just one point. And then...
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [35]
+--------------------------------------------------------------------------------
+Yes. Go on, keep going.
+
+--------------------------------------------------------------------------------
+Edward Hugo Anson Firth,  Keefe, Bruyette & Woods Limited, Research Division - Analyst    [36]
+--------------------------------------------------------------------------------
+And then I guess, yes, the other point was whatever the interest rate sensitivity works out, whenever you've shown it to us in the past, it's always been around sort of 2/3 is in year 1 and then it sort of grows up to the full amount by year 3 or so. For the 65 basis point cut we had in the first half, is that all the sort of projection we would expect, so sort of this year, about 2/3 of the impact and then we should expect that to grind on over the next 2 years? Or is it -- has it worked differently in reality this time? So just how that works through.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [37]
+--------------------------------------------------------------------------------
+Yes. On the overdraft in net interest income, yes, I mean, it will come back. Of course, a little bit like revolving credit balances. We've had less utilization of overdrafts, all for the same reasons as people are less using credit cards, more cash in their balance sheet and a lot of sort of government schemes that have been very supportive. So yes, it will come back, but it won't come back at anything like the same level we had previously. 
+In terms of the grinding effect of lower rates, yes, I mean this -- I think that's reasonable. The thing that takes sort of the effects you've got is you've got assets that reprice relatively quickly, if not instantaneously. This time around, there's a delay effect in repricing liabilities, which you know about because of the FCA rules on having to notify deposit holders before we change their rate. And then you've got the grinding-down effect of the structural hedges. And that grinding-down effect is -- it really depends on kind of where swap rates are at the point at which they refinance. 
+So if you sort of have the kind of what we've seen at the moment, a relatively sharp decline in long rates and short rates together, so pretty much both are at the 0 bound, you'll continuously have that grinding effect in your structural hedges over the next 2 or 3 years. In effect, if curve starts steepening partway through that, then obviously you'll be sort of -- or stop having that grinding effect at some point, so -- but yes, those are the dynamics.
+
+--------------------------------------------------------------------------------
+Edward Hugo Anson Firth,  Keefe, Bruyette & Woods Limited, Research Division - Analyst    [38]
+--------------------------------------------------------------------------------
+So it's a structural hedge rolling off rather than anything to do with price in the balance sheet?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [39]
+--------------------------------------------------------------------------------
+Yes, that's right. Yes. And someone asked a question earlier on, if you've got gross mortgage refinancing, there's some tailwinds that we're seeing at the moment. But yes, it's so difficult to predict because it's so much driven by long-term outlook for mortgage pricing and also long-term outlook for swap rates. So it's really hard to give precise guidance. You'll have your own views on that.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+The next question comes from Martin Leitgeb of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Martin Leitgeb,  Goldman Sachs Group, Inc., Research Division - Analyst    [41]
+--------------------------------------------------------------------------------
+Yes. Could I follow up on the question on negative rates? I believe the Bank of England recently asked banks whether they're prepared for negative rates. I just wanted to ask you, is Barclays as of now prepared to implement such negative rates? Or would it still take some time? And do you think the broader market is prepared? 
+Or would that also take some time to be ready? And are there any other levers you would have outside of gearing and outside what the central bank might offer to offset a negative impact from negative rates? Could there be a scenario where we could see actually mortgage pricing going up in order to try to offset some of the impact via higher asset yields?
+And my second question, just in terms of Brexit and the implication for Barclays' ambition in a post-Brexit world, and I think after the 2016 referendum, we have seen Barclays losing market share in U.K. cards. Could there be a scenario that you would try again to increase that market share in cards? Or the other way around, could there be a scenario where Barclays would see a larger pan-European base, a larger pan-European business as (inaudible)?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [42]
+--------------------------------------------------------------------------------
+Yes. Thanks, Martin. I'll ask Jes to cover sort of your questions related to Brexit. On negative rates and operational readiness, so we've had some experience in this already obviously with European rates already negative in our commercial banking business, that's something sort of we're used to. So operationally, we are ready. Where the rest of the industry is, I mean, I don't think I should be the person commenting on that. I'm sure everybody is doing what they need to do. But we're ready if necessary. 
+Only thing that was really -- the -- in terms of pricing, maybe. I think, look, one of the bright spots has been mortgage margin has been very disciplined across the large lenders even though there's an abundance of liquidity out there. But I do think once you've got virtually no lever left on the liability side, I think most lenders will look at the asset side margin very closely to try and manage their NIM. So it's a fair point. 
+Will it mean that lenders will be able to literally widen margins as rates go more negative? I think that's very hard to say. I mean these are all untested. And I think it really boils down to the precise situation you find yourself in. But Jes, do you want to comment on Brexit?
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [43]
+--------------------------------------------------------------------------------
+Yes. Maybe before I get to Brexit, I think there's a real question as to the impact ultimately of negative interest rates. I mean we're already close to 0. And I think we have put the pedal down almost as hard as we can in terms of monetary policy to generate economic growth. And there are so many consequences that are sort of really -- not really known if you go into the negative rate territory. But it cannot be seen as a real sign of confidence, I don't think, in an economy, if you're running with negative interest rates. So let's see. I think it's an instrument that they need to consider. But I think the Bank of England has shown the right degree of questions about whether you want to go there. 
+Vis-à-vis Brexit, the cost to revenue impact of Brexit has really been something that we've been -- that we've borne over the last 3 years, I mean, from increasing our staff all across Europe to remanaging all of our risk models, all of our systems to take care of greater flow relicensing, every branch across Europe to be a branch of our bank in Ireland as opposed to London. That's been a fairly significant expense to be able to run this bank in Europe 3 months from now as we were doing 3 months past from now. 
+We are very committed to Europe. It's a very important market for us. Being awarded with one of the lead managers on this eurobond issued by the European Union, which is part of EUR 100 billion program, very successfully priced EUR 17 billion on Monday, to all the corporate relationships we have across Europe, the corporate bank is a very important market for us. We are a clearer in euros. That business is very important and providing that opportunity to our corporate clients. So we are very much committed to our European franchise, and we'll stay there. 
+I've talked earlier on about our card business in Germany, which is very profitable and expanding the range of what we'll be doing there. So we've had to deal with the reregulation of the banking industry over the last 10 years. And setting up a ring-fenced bank in the U.K. was extremely costly to do. Dealing with our U.S. business and the IHC and having to operate that was very costly. But I think what we've demonstrated is we will spend the money to maintain our business footprint in the areas which are strategic for us. And clearly, Europe is a very important, strategic priority for the bank.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+The next question comes from Rob Noble of Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Robert Noble,  Deutsche Bank AG, Research Division - Research Analyst    [45]
+--------------------------------------------------------------------------------
+I just wanted to round off the kind of loan book discussion. Business banking and corporate loan growth is kind of good in Q3 but slower. How much of it is on the government guarantee schemes? And when they end, does that book start running backwards? Or will it run backwards but also a higher yield because there's no more government guarantees? 
+And then secondly, just on the structural hedge. So it's only increased GBP 7 billion, but obviously you had massive deposit inflows and they're very highly liquid. I just wonder if the strategy had changed there, are you not -- are you not hedging all of the balances that are coming into you that you would normally hedge?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [46]
+--------------------------------------------------------------------------------
+Yes. No, thanks, Rob. On the loan book business banking, the numbers here are really quite stark. We've had -- I think for our numbers, it's getting -- approaching GBP 10 billion now of Bounce Back Loans in our small business bank. That is a few years of lending in terms of sort of overall production. So I don't think you'll have this, if you like, refinancing because they're quite long term though. The government has extended the term as well. So I don't think you'll have the refinancing of loans into higher rates. So yes, I'm not sure I'd sort of think about some sort of refinancing uptick. Your second question, you're a little bit hard to hear, Rob, could you just mind repeating that?
+
+--------------------------------------------------------------------------------
+Robert Noble,  Deutsche Bank AG, Research Division - Research Analyst    [47]
+--------------------------------------------------------------------------------
+Sorry. It's just the structural hedge balance has increased GBP 7 billion in the quarter, but you've taken in massive deposits. I was just wondering if you're hedging all of the balances that you would normally. And obviously, your interest rate sensitivity has increased in the quarter. So I'm just wondering if there's any change in strategy in there.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [48]
+--------------------------------------------------------------------------------
+Yes. I mean, yes, the line is not great. But I think I've got the gist of the question, Rob. We do look at the stickiness of the deposits coming in. And we've definitely had a dramatic inflow of deposits. We haven't sort of substantially resized the size of the structural hedge accordingly yet. But we will continue to reevaluate the stickiness and recalibrate as appropriate. It feels a bit early at the moment, I think. The deposit sort of inflow has been quiet in recent times, only a couple of quarters worth. So I think it's something we'll keep under review.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+The last question we have time for today comes from Fahed Kunwar of Redburn.
+
+--------------------------------------------------------------------------------
+Fahed Irshad Kunwar,  Redburn (Europe) Limited, Research Division - Research Analyst    [50]
+--------------------------------------------------------------------------------
+Just a follow-up on BUK, I appreciate there's a lot of questions on it. But if I look at your 3Q exit rate and versus 2021 consensus, it implies a 5% uptick. And if I put it under context of business banking, which is basically back at pre-COVID income levels, which feels unsustainable, but also your structural hedge, which is now annualizing at GBP 1.2 billion net of floating rate, which is on the average life would be a kind of GBP 200 million drag a year, how should we think of the 2021 BUK number versus this 3Q exit rate? 
+And then on the payment holidays, there's been a massive drop in payment holidays. I think it's down 70%. And you only give the consumer balance this time of around GBP 17 billion down to GBP 4.5 billion. Last half, you did GBP 21.9 billion, so there's GBP 5 billion of nonconsumer balances on payment holidays. (inaudible) has the drop in those GBP 5 billion of nonconsumer payment holidays been of the same magnitude of the consumer balance drops and have the payoffs on those businesses, when customers will come back on, have they paid as frequently as well as the consumer ones have, which you gave in the presentation?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [51]
+--------------------------------------------------------------------------------
+Yes. Fahed, let me do them in the reverse order. In terms of payment holidays, it's been a pretty decent experience on both the consumer side and away from the consumer side. I think you're probably referencing one of our slides that has the full roll-down, Slide 19 there, so have a look at that. But I think probably this may be touch wood, fingers crossed and all the usual caveats, maybe the last time we talk about payment holidays. It's not really a credit issue for us, I think, at this stage, unless that will change, of course, but I think that's broadly behind us. 
+In terms of top line for BUK, I won't give you a sort of direct comment on sort of consensus or how to think about your modeling. But I think you've got the right building blocks there. You've got a decent sort of business banking performance. Some of that, of course, is very much driven by Bounce Back Loans and what have you. Mortgage growth is good. I don't think you'll see card balances recover much. Having said that, I don't think you'll see them decline either. I think it's just a waiting time. And hopefully, they do start recovering. But I think it will take a little bit of time. 
+I do think you'll have the sort of grinding effect of structural hedges if the curve steepens. And it's sort of interesting how volatile the sterling curve has been in recent times. We've had some quite steepness and then it flattens off again. So that's a little bit hard one to know. But if it stays very, very low, there'll be sort of a headwind sort of grinding down into that on mortgages, I think we've talked about with positive churn and net growth. I think that's probably -- Jes, anything else you want to add?
+
+--------------------------------------------------------------------------------
+James Edward Staley,  Barclays PLC - Group CEO & Executive Director    [52]
+--------------------------------------------------------------------------------
+I just want to say, Fahed, it's good to hear that you're working successfully from home. So it uplifts all of our spirits.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [53]
+--------------------------------------------------------------------------------
+Okay. With that, thank you all very much. Look forward to speaking probably over the next week or so. I hope everyone stays well, but I'll end the call there. Thanks, again.
+
+--------------------------------------------------------------------------------
+Operator    [54]
+--------------------------------------------------------------------------------
+This presentation has now ended.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

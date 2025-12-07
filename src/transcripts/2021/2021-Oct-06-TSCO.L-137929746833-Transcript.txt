@@ -1,0 +1,674 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Half Year 2022 Tesco PLC Earnings Call
+OCTOBER 06, 2021 / 8:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Imran Nawaz
+   Tesco PLC - CFO & Director
+ * Ken Murphy
+   Tesco PLC - Group CEO & Executive Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * James Robert Anstead
+   Barclays Bank PLC, Research Division - Director
+ * James Robert Grzinic
+   Jefferies LLC, Research Division - Equity Analyst
+ * Fabienne Caron
+   Kepler Cheuvreux, Research Division - Head of Food Retail Sector
+ * Robert Joyce
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Clive W. Black
+   Shore Capital Group Ltd., Research Division - Head of Research
+ * Andrew Philip Gwynn
+   Exane BNP Paribas, Research Division - Senior Food Researcher & Analyst of Food Retail
+ * Nick Coulter
+   Citigroup Inc., Research Division - Director
+ * Andrew Ian Porteous
+   HSBC, Research Division - Analyst, European Retail
+ * Thomas Davies
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Xavier Le Mené
+   BofA Securities, Research Division - Head of European Food Retail Equity Research and Director
+ * William Woods
+   Sanford C. Bernstein & Co., LLC., Research Division - Analyst
+ * Victoria Petrova
+   Crédit Suisse AG, Research Division - Research Analyst
+ * Sreedhar Mahamkali
+   UBS Investment Bank, Research Division - European Head of Food Retail Equity Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and welcome to our interim results presentation. I'm joined today by our CFO, Imran Nawaz. Good morning, Imran.
+This morning, I'll give some brief reflections on our first half. Imran will then talk you through the financial performance. And after that, I'm going to speak about our strategic priorities and performance framework going forward. Of course, we'll make sure there's plenty of time for Q&A at the end.
+Now it's just over a year since I joined the team at Tesco. And before we talk about the half, I wanted to reflect on the progress we've made over the last 12 months. First of all, in an extremely competitive U.K. market, I'm delighted that we've grown market share. This is the result of our absolute focus on customer satisfaction, which has stepped forward across all areas. In particular, we have delivered a consistently strong price proposition and maintained great availability despite some significant industry challenges.
+Secondly, we've strengthened our digital platform. Combining our digital assets with our unrivaled store network enables us to create even more value for customers, our suppliers and in our own operations. We've retained a significant proportion of the customers we gained online through the pandemic. And with more than 20 million Clubcard households and nearly 7 million regular app users, we are better placed than anyone to benefit from the profound shifts underway in retail.
+And lastly, all of this is underpinned by our commitment to sustainability, which we know is increasingly important to all our stakeholders. We have put sustainability at the heart of our business and made it a core consideration in all of our decisions.
+As I said in April, customer satisfaction is always first and foremost. We've made great progress, seeing improvements across every metric. I'm particularly pleased that our consistently strong value proposition is being recognized and that we've been able to maintain a great shopping trip despite the supply chain challenges in the industry. This shows that we're getting the basics of retailing right and is a huge testament to our colleagues who continue to work day in, day out to give customers a fantastic experience. You can also see the impact of this great work in the year-on-year improvement we are making in our brand's Net Promoter Score.
+I'd like to take this opportunity to thank the whole Tesco team sincerely for the fantastic work they do. When we get it right for customers, we see the results in our performance against the market. From a very strong base last year, we've seen market share gains month-on-month throughout the first half. We're also winning more of our customer shopping missions.
+As you can see here, we're gaining against all the key competitors. Customers are recognizing the tangible improvements we're making in our offer, which is driving outperformance against the market. I believe that Tesco is an outstanding business and one that can create significant value for shareholders. With the executive team and senior leaders in the business, we've been working over the last 12 months to refine the strategic priorities that will enable our success over the coming years, and I'll come back to these shortly.
+We are also sharing the framework we will use to guide our actions and track our progress. We are aiming to grow both top and bottom line, maintaining sector-leading margins. And in doing so, we will generate retail free cash flow of between GBP 1.4 billion and GBP 1.8 billion per year. How we use that cash is incredibly important, and we have taken great care to test every element of our capital allocation framework. As a result, we have made a number of changes, which Imran will take you through once he's presented his review of the first half.
+Driven by our strong performance and consistent with the framework, I'm really pleased to confirm the launch of our first share buyback. We see this as an ongoing multiyear program, with the first tranche of GBP 500 million being completed within the next 12 months. We'll provide an update on our progress when we see you in April.
+Over to you, Imran.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Ken. Good morning, everyone, and thank you for joining us. I'm now 5 months into the new role here at Tesco, and I want to thank everyone for the fantastic welcome I've received. Tesco is a brilliant business, and I've been really impressed by the amazing people here.
+In my first few months, as I've been getting familiar with the business, I have visited many of our stores and distribution centers as well as Booker and the bank. As Ken mentioned, I've also taken the opportunity to refresh our capital allocation framework. And consistent with that, we have today announced an ongoing share buyback program.
+I am very committed to being open about what's driving our results. Therefore, you'll see as we go through the presentation, we have made a few small changes to the way we talk about performance, with a focus on driving transparency and simplicity in all we do. I will call these out where relevant. Throughout my presentation, percentage growth rates are expressed in constant currency unless stated otherwise.
+Looking first at performance across the group. We have made good progress in all our key metrics with a really strong start to the year. Group sales grew by 3% on a 1-year basis and by 10% on a 2-year basis, with a strong performance across all regions as we continue to benefit from elevated sales as a result of the pandemic.
+Group profit increased by 41% to GBP 1.5 billion. This reflects sustained strong sales, a reduction in COVID costs and a return to profitability in the bank, partially offset by the effect of GBP 249 million of business rates relief in the prior year. As you will remember, we went on to repay this in the second half.
+One of the changes we have made is to introduce a simpler retail free cash flow measure to provide a more consistent and predictable way of operational cash performance. We have removed some of our more volatile cash flows relating to acquisitions and disposals, property transactions and exceptional cash items. Based on this simplified measure, retail free cash flow was GBP 1.5 billion in the half, up GBP 746 million driven by our profit recovery, the elimination of the U.K. pension contribution and a strong contribution from working capital. Around GBP 400 million of this is expected to unwind in the second half.
+In line with our policy, we will pay an interim dividend of 3.2p per ordinary share, which is in line with last year. As a reminder, our interim dividends are set at 35% of the prior year full amount. Our headline earnings per share of 11.22p represents an improvement of 54% driven by the growth in profit.
+Net debt at the end of the half was GBP 1.7 billion lower than at the year-end, including the strong retail free cash flow generation in the half.
+This slide shows a summary of our key sales and profit numbers by segment. Total retail sales were GBP 26.9 billion with profit of GBP 1.4 billion. As you can see, both sales and profit grew across all segments.
+Tesco Bank returned to profitability, generating GBP 72 million of profit in the first half compared to a loss of GBP 155 million in the prior year, and I will come back to this later on.
+Over the next few slides, I will cover the performance of each of these segments in more detail, starting with sales before moving on to profit.
+Sales have shown good momentum in each of the U.K., Ireland and Booker businesses. In the U.K., like-for-like sales grew by 1.2%, ahead of our expectations. We grew market share and retained a higher proportion of last year's elevated sales volumes than we originally anticipated. Growth stepped up from 0.5% in the first quarter to 2% in the second quarter, including a contribution from events such as the Euro 2020 and the benefit from staycations.
+In Ireland, whilst our 1-year like-for-like sales declined as we traded over a particularly high impact of stockpiling in the prior year, our 2-year like-for-like sales remained strong, up 12.2%.
+In Booker, 1-year like-for-like sales grew by 11%. We saw a sharp recovery in catering sales as the hospitality industry reopened and a resilient performance in retail against a very tough base.
+Now focusing on the U.K. We have seen very different drivers of performance in each quarter, so I'll briefly break it down by channel and then category. As you can see from the chart on the left, in large stores, like-for-like sales growth in the first quarter included the impact of stockpiling in the prior year. Like-for-like sales in the second quarter improved to 6.9% as we retained a higher proportion of sales than anticipated, as I had mentioned earlier, and we maintained very good levels of availability even as industry supply chains came under strong pressure.
+In online, like-for-like sales growth was strongest in the first quarter where we had not yet reached the full ramp-up of capacity in the prior year. We then saw sales decline in the second quarter versus last year's exceptional demand. We are pleased that we have maintained the majority of the new customers we gained, with over 700,000 more of them shopping with us than pre the pandemic.
+In convenience, like-for-like sales declined as we traded over a particularly strong performance in neighborhood locations last year. However, our performance did strengthen throughout the half, reflecting a significant recovery in footfall to our city center Express stores.
+Now looking at sales by category. On a 1-year basis, the impact of customer stockpiling resulted in a decline in food sales in quarter 1, recovering to growth in quarter 2. Compared to pre-pandemic levels, food sales are, of course, up very strongly as customers continue to consume more meals at home.
+Overall, we are very pleased with our nonfood performance as well. Customers have started to reappraise our nonfood offer and are buying these categories with us more often. In the first quarter, we saw strong demand in general merchandise compared to the prior year when customers were prioritizing spend on essential categories. The decline in the second quarter reflects a stronger base along with the reopening of nonessential retail in the current year.
+Clothing has performed exceptionally well throughout the half as we lapped the impact of the prior year lockdown and attracted over 1 million more customers to shop our offer.
+In the Republic of Ireland, sales were 12.2% higher than pre-pandemic sales with a strong performance across all categories and channels. On a 1-year basis, our sales declined by 2.6% as we traded over a strong performance in the prior year, reflecting the particularly marked impact of stockpiling in Ireland. We continue to see strong growth in our market-leading online business where we have grown market share, increased geographic coverage and expanded Click & Collect locations from 28 to 36 stores.
+Moving now to Booker. Booker is an important business for us, and I have made sure to spend plenty of time with the team and get to know the operations over the last few months. Booker sales have grown strongly on both a 1-year and 2-year basis. Performance versus last year was driven by the sharp recovery of catering sales, which grew by 54.4% as the hospitality sector reopened for outdoor dining in April and indoor dining from mid-May. This included a strong performance from Best Food Logistics where most of our customers were closed for much of the first half last year.
+Given the level of COVID distortion, I have included some monthly charts here on a 2-year basis. We are really encouraged by the pace of recovery in our catering business. And as you can see on the chart on the bottom right, sales started to exceed pre-pandemic levels from June onwards. This was supported by great prices on key volume lines. We work hard to mitigate the impact of significant supply chain challenges, including a high number of colleagues required to isolate due to COVID-19 as well as the shortage of HGV drivers.
+The strong recovery from the catering business more than offset the decline in sales to our retail customers due to significant demand in the base as customers shopped closer to home during the initial stages of the pandemic. I'm pleased that retail sales were almost 20% higher compared to pre-pandemic levels. We have invested in price on key customer lines and expanded our range in response to increased demand.
+In Central Europe, like-for-like sales were up 1.4% on a 1-year basis and 0.3% on a 2-year basis. In the first quarter, trading conditions remained variable with a particular impact in the Czech Republic due to restrictions on nonfood.
+All 3 markets delivered sales growth in the second quarter as customers returned to our large stores following the easing of COVID-19 restrictions, which previously encouraged shopping locally.
+Online sales continue to do very well and were up 24.7% on last year. We hold market-leading positions in 2 out of our 3 markets.
+Moving on to profit. As you can see on this graph, retail operating profit improved by GBP 194 million year-on-year to GBP 1.4 billion driven by our U.K. and ROI segment. I'll break the movement in each segment down in more detail on the next few slides.
+In the U.K. & ROI, profit growth of 16.5% was driven by sustained sales growth and lower COVID costs, which reduced from GBP 533 million last year to GBP 122 million this year. This year's costs relate primarily to colleague absence, maintaining a safe environment in stores and some additional costs in relation to elevated online sales. In addition, we saw a significant recovery in fuel sales and a greater participation of higher-margin nonfood sales. Our operating efficiencies allowed us to offset inflationary headwinds. Growth was held back by the benefit of business rates relief in the prior year of GBP 249 million, which was repaid in the second half last year.
+In Central Europe, profit was up 18.6%, reflecting strong sales performance, lower COVID costs and higher mall income. These benefits were partially offset by the retail sales tax in Hungary being in place now for the full period this year compared to just 4 months in the prior year.
+In Tesco Bank, we saw a return to profitability in the half. You'll remember that last year's performance was significantly impacted by the provision we took for potential bad debts, reflecting the macroeconomic environment in light of COVID-19. This year's profit also includes a GBP 12 million contribution from Tesco underwriting, which is now fully consolidated following the acquisition that we completed in May. As you can see from the ratios on the slide, the balance sheet remains strong.
+This slide gives you more detail on the components of our statutory profit performance, which increased by 109% as higher exceptional items and tax charges were more than offset by a reduction in finance costs.
+We incurred exceptional charges totaling GBP 154 million in the half. This was driven by GBP 193 million settlement relating to historic shareholder litigation claims. I am pleased to say that we can now draw a line under this issue.
+Net finance costs in the half were GBP 158 million, including a fair value remeasurement credit of GBP 180 million primarily relating to the mark-to-market movement on inflation-linked swaps. This was a significant change to the prior year. Before fair value remeasurements, net finance costs were GBP 23 million lower than last year at GBP 338 million as we continue to actively manage our debt portfolio, achieving lower rates of interest.
+Our tax charge in the half was GBP 313 million, up from GBP 154 million in the prior year, which reflects the growth in operating profit with both years at similar effective tax rates. In the half, we also incurred a one-off charge due to a revaluation of our deferred tax liability. That was following the increase to the U.K. corporation tax rate from 19% to 25%.
+Let's move now to the cash performance in the first half. Based on our simplified definition, we generated GBP 1.5 billion of retail free cash, and I'll now talk you through some of the major components.
+Our total working capital inflow was GBP 556 million driven mainly by a significant recovery in fuel sales and the recovery of Booker's catering business on top of the usual Booker seasonal sales peak. We expect a total working capital unwind of around GBP 400 million in the second half as the seasonal benefit reverses and based on our expectations that some of the elevated sales we have seen in the first half in the U.K. will fall away.
+CapEx in the half was GBP 495 million, and we have provided the usual breakdowns by region and type in the appendices.
+We paid GBP 314 million of interest costs, of which GBP 207 million related to the finance charges on lease liabilities and GBP 107 million to interest paid on bank debt.
+The cash tax paid in the half was GBP 49 million. This is after a GBP 60 million benefit from the one-off contribution following the disposal of our Asia business last year. It also reflects a benefit from the new super deduction on certain capital investments which was introduced in March '21. In addition, we purchased GBP 55 million of shares in the market to offset dilution from our share schemes. 
+Finally, capital repayments of leases in the half were GBP 286 million.
+Looking now at the movement in retail free cash flow year-on-year. We generated an additional GBP 346 million of cash compared to last year, excluding the circa GBP 400 million working capital benefit, which we expect to unwind. The additional cash was mainly driven by higher profits and the elimination of U.K. pension contributions following the GBP 2.5 billion one-off contribution made last year.
+For transparency, I've included this next slide to describe the performance of items now outside our simplified definition of retail free cash flow. The net business acquisitions and disposals line shown here includes the proceeds from the sale of our business in Poland to Salling Group, which completed in March. We generated GBP 72 million of net proceeds from property transactions. This includes gross proceeds from property of GBP 109 million primarily from the sale of properties in Poland which were not sold as part of the corporate transaction in March. This was partly offset by the buyback of one large store in Barry for a cash consideration of GBP 37 million. Exceptional items principally cover the amounts paid to date from the GBP 193 million settlement of historic shareholder litigation claims that I mentioned earlier. The remaining GBP 88 million has already been paid in the second half. Whilst we're not planning on incurring any exceptional costs going forward, if any do arise, for example, as we accelerate our cost savings plan, we will, of course, continue to highlight these to you.
+On the previous definition, therefore, we generated GBP 1.6 billion of retail free cash flow compared to GBP 0.6 billion in the prior year.
+I'm now pleased to share our refreshed capital allocation framework. We've conducted a detailed review, focusing particularly on the appropriateness of our leverage target, the application of our dividend policy and our ability to return excess cash to shareholders.
+The first element, reinvesting in our business and our customer offer, is unchanged. And CapEx will remain in the range of GBP 0.9 billion to GBP 1.2 billion per year.
+For the second element, we are introducing a new headline leverage metric of net debt to EBITDA. We will target this to be between 2.8 and 2.3x, consistent with a solid investment-grade balance sheet. Whilst we continue to place great importance on the obligation we have to the members of our pension scheme, we are removing the IAS 19 pension deficit from the leverage calculation used for the purposes of capital allocation. This deficit creates material volatility which could not be accurately predicted and had no bearing on our near-term cash obligations for our long-term unwavering commitment to our pension scheme members.
+Third, we can confirm it is our intention to pay a progressive dividend, meaning we aim to grow or at least maintain the dividend each year. We will broadly target our dividend payout ratio at around 50% of earnings.
+The fourth and the fifth elements are unchanged. We will continue to consider inorganic growth opportunities, including property buybacks where economically viable. And we will return surplus cash to shareholders, as we have shown this morning with the announcement of our first GBP 500 million buyback of shares.
+Now let's turn to the balance sheet. Total indebtedness was GBP 10.7 billion, down GBP 2.3 billion since the year-end. This was primarily driven by a reduction in underlying net debt due to our strong cash generation. We also saw a reduction in the IAS 19 pension deficit due to the impact of market movements on our pension assets. Finally, lease liabilities reduced to GBP 8.2 billion, reflecting the sale of our Polish business.
+Our total indebtedness ratio was 2.8x compared to 3.6x at the year-end, reflecting this reduction in indebtedness and the increase in retail EBITDA.
+Our new leverage ratio, net debt to EBITDA, was 2.7x compared to 3.3x at the year-end. And fixed charge cover was 3.1x at the end of the first half, up from 2.9x at the year-end. Net finance costs, lease interest payments and lease capital repayments all declined in the first half.
+Finally, this is a comprehensive slide covering all of our guidance, and I just want to touch on the key updates. As you have seen today, we have reported a strong performance in the half, and as a result, we are upgrading our profit guidance for the full year.
+We now expect to deliver retail profit of between GBP 2.5 billion and GBP 2.6 billion. This is based on an assumption that some of the elevated sales that we have seen in the first half fall away and that we do continue to invest in our customer offer.
+We now expect to deliver profits in Tesco Bank of at least GBP 120 million. The precise amount clearly remains highly dependent on the economic outlook.
+This slide also reflects the updates to the capital allocation framework that I have outlined, including the updated leverage ratio, the intention to pay a progressive dividend and the announcement of our share buyback program.
+Thank you very much for your time. I'll now hand back to Ken.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Imran. I'm going to spend the second part of my presentation looking to the future. Specifically, I want to help investors understand how we are thinking about the business going forward and the principles guiding our decisions. I'm not going to set out all of our detailed plans nor the specific actions we will take. I want our customers to see the changes we make before our competitors and believe that this is the best way to protect value for all other stakeholders in the business. What I do want to do is give you a sense of the huge opportunity we have to capitalize on some of the profound shifts underway in the sector.
+So to the priorities: magnetic value for customers, I love my Tesco Clubcard, easily the most convenient and save to invest. Taken together, these will enable us to redefine value, increase loyalty and access both new income streams and capital-light growth while ensuring we maintain cost efficiency in everything we do. For me, these priorities are about maintaining focus on doing the basics brilliantly and then overlaying that with new opportunities to accelerate growth.
+I'll now talk about each priority in turn, outlining our overarching thinking and then sharing some of the key themes within each one. These priorities are rightly focused on our U.K. retail business today given its impact on our total results. But I can assure you, they are equally relevant for other parts of the group. And indeed, we will increasingly need the capabilities of our other businesses to deliver on our ambitions.
+Starting with magnetic value. We all know that value is a combination of price, quality, including sustainability and, of course, the customer experience. This strategic driver is all about doing the basics brilliantly, providing reliable value that removes customers' needs to shop elsewhere combined with positive reasons to shop more with us, great quality product and great innovation, looking to solve their everyday problems and make life just a little easier.
+On price, I said back in April that we would double down on our commitment to low prices, and I absolutely meant it. We have continued to invest in the 3 key elements of the value proposition: Aldi Price Match, Low Everyday Prices and Clubcard prices. 80% of our customers shopped all 3 of these during the first half. Together, they give our customers confidence that the core lines they buy are competitively priced and provide unbeatable value to Clubcard members while maintaining promotional participation at a level that works well for both us and our suppliers.
+The quality of fresh food remains absolutely critical to customers, and we start from a great place. We know, however, that we can't stand still. We are working with our supplier partners to bring new innovations to market and to ensure that the quality of everything we sell is protected all the way from farm to fork.
+You've heard from me previously that supporting customers with healthy, sustainable diet is a real driver for me personally. I genuinely believe that Tesco can play a role in democratizing nutrition and benefit from doing so. At the start of the year, we launched ambitious commitments on health across all of our markets. For example, in the U.K. and the Republic of Ireland, we are aiming to increase the proportion of healthy products we sell from 58% to 65% by 2025. And we're aiming to drive a 300% increase in the sales of plant-based meat alternatives. We continue to develop new products that deliver on both health and convenience such as our new beautifully balanced range of prepared foods. We've also invested to make sure our Plant Chef range of family favorites are price matched to the equivalent meat-based products.
+On sustainability, just over a week ago, we announced ambitious new climate commitments. We brought forward our own operations' net zero group target to 2035 to be in line with the U.K. And we've launched a new goal to be net zero across our entire value chain by 2050, aligned to a 1.5-degree pathway.
+Customers see packaging as the #1 issue for us to address, and we'll continue to take a leadership position. We've now launched soft plastic recycling in all our U.K. large stores, and we've delivered a market-first in Central Europe with recyclable packaging across the whole of our household category. We've also recently announced a new service in 10 stores with Loop to test consumer appetite for reusable packaging on over 80 high-volume products.
+We can make a very tangible difference in the way we distribute and deliver our products. We use a higher proportion of rail to distribute our products than any other food retailer in the U.K., including a dedicated train service bringing fresh food to our distribution network from Spain. We transport 65,000 containers by rail each year, saving over 22 million road miles, with plans to increase this to 90,000 containers in the near future. We are also aiming to have a fully electric home delivery fleet in the U.K. by 2028.
+Turning to our second strategic priority, I love my Tesco Clubcard. More than 20 million households have a Clubcard, and that's an amazing base. Going forward, we'll be making even greater use of the insight this gives us, to personalize the shopping experience with our most frequent Clubcard customers that will have access to enhanced rewards. Combining Clubcard with our online grocery business, our nearly 7 million regular app users and the capability offered by dunnhumby, we've created an unrivaled digital platform. We can use that to create additional value and increased loyalty, making sure that the more customers use Tesco, the more useful Tesco is to them.
+We can also use that same digital platform to access new sources of revenue, reinventing the way we work with our supplier partners. This last year has given our digital ambitions a massive boost. I shared some of this data with you in April, and I'm delighted to say we've made even more progress.
+Clubcard Prices has been instrumental in driving an enhanced customer perception of the Clubcard value, plus an increase in penetration with Clubcard now being used in over 80% of large store transactions. We have also launched Clubcard Prices in our Express format, which has been really well received by customers. And we've seen an increase in the number of active app users from 2.5 million last year to over 6.6 million this year.
+With an ever stronger platform, we have new opportunities to personalize the offer for customers and make the Clubcard work harder for them. The insight we have from our customer data enabled us to spend over 4.5 million uniquely personalized offers and coupons in the half. And this will be something we look to take even further.
+We have strengthened and simplified the range of exclusive deals customers can access with our reward partners. All deals are now 3x the value of Clubcard points across the full range of partners. We've also made some exciting new additions to our offering such as Disney+.
+For me, one of the most compelling and unique opportunities for Tesco is to bring together the various different elements of the group to provide an unrivaled offer for customers. I'm, therefore, particularly pleased that we've launched Clubcard Prices for Tesco Mobile in September, and they'll soon be coming to Tesco Bank. We also launched a trial of ClubCard Pay+ in March, which we are now making available to more customers.
+I see dunnhumby as a real opportunity for Tesco. In a world where data analytics, customer insights and personalization are ever more critical, we have an amazing capability set right here as part of the Tesco family.
+Working with insight gained from over 700 million customers worldwide, dunnhumby has an incredible data set of over 18 billion records per week. It partners with over 70 retailers in 29 markets and drives growth for well over 1,000 consumer goods companies. Through dunnhumby, we give suppliers access to a platform, enabling them to receive unrivaled insight into how customers perceive their products. I believe that we are at the foothills of what dunnhumby can do for Tesco, its supplier partners and its many retail and consumer goods clients around the world.
+You'll remember, I spoke in April about the digital platform we've created. As I've already mentioned, that platform has been further strengthened by our progress over the last 6 months. While many of the opportunities I have touched on so far are about maintaining and building on existing strengths, the digital platform presents an important new opportunity to access incremental income streams. These will support our economics as we navigate some of the shifts underway in retail more broadly.
+Our digital platform will be at the heart of a reinvention of our supplier strategy. For example, providing suppliers with the opportunity to market their products on our website in a highly targeted way, giving customers an increasingly relevant offer. We also see the potential for suppliers to provide access online to a tailored range of additional products direct to specific customers. We will focus on improving supplier returns on their marketing investment and improving the hit rate of their innovation pipeline.
+The third priority is easily the most convenient, accessing incremental capital-light growth through our online and convenience businesses. We already have a very strong position in both channels and see further opportunity for growth, meeting customers' shopping needs, whatever, whenever and however they want to be served.
+As you know, our online sales already exceed GBP 6 billion. Even following the exceptional performance last year, we still saw growth in the first half, retaining the majority of the customers we served during the pandemic. Our extensive store network and flexible model means we have fantastic position in the market, with online market share maintained year-on-year and exceeding that of our store footprint.
+Our scale in online also supports the efficiency of our model. With more than a 10% increase in the number of our picking locations in the half, we're even closer to the customers we serve, helping to optimize deliveries. We have really worked on our Click & Collect model, which is more profitable for us than home deliveries, and this now accounts for around 20% of our online sales. We also opened our second urban fulfillment center in Lakeside in May, which is delivering productivity benefits in line with our expectations.
+I firmly believe that we can continue to grow from this exceptionally strong base. I see future acceleration in online as a way to sweat our existing infrastructure and asset base as well as providing our customers with ever more convenient ways to access our offer and as I mentioned before, provide us with a source of incremental profit.
+In a crowded market, on-demand is an area of test and learn for us. Our focus is on developing the right offer for Tesco customers in a way that complements our existing online business. We piloted Tesco Whoosh in a small number of Express stores earlier this year. Local customers can order via the Tesco app or tesco.com for a 60-minute grocery delivery service. Products are delivered via bike, moped or car for a fixed fee, which customers can still earn Clubcard points, use their coupons and take advantage of in-store offers. Most importantly, Tesco retains the direct relationship with the customer. We have just expanded Whoosh to around 50 Express stores, with more opening every week. If successful, we see this as a platform we can also offer to Booker retail and catering customers.
+We are also testing and learning other propositions. One Stop is expanding its partnership with Deliveroo to cover about 450 stores, and Booker's retail partners are working with a variety of delivery providers.
+To be clear, we are not in a race towards on-demand, and we're absolutely not about winning the most customers at the expense of margin. This is an area we'll continue to challenge ourselves to look at in a range of different ways, focusing on learning at pace rather than rolling out aggressively.
+And now coming to our convenience stores. After online, convenience is the fastest-growing food retail channel, and we have a very strong platform. Our current offer is made up of 2,600 Express and One Stop convenience stores and our wholesale relationship with 90,000 Booker franchise stores. We have converted 89 metros to better reflect how our customers shop, and we're delighted with the early results of rolling out Clubcard Prices into Express.
+During the pandemic, we saw fewer customers in our city center stores, but our local neighborhood stores really came into their own as we strengthened the ties between Tesco and the local community. We believe there remain many capital-light opportunities to open new stores where Tesco is underrepresented. And we've set out here our store opening program for this year across Express, One Stop franchises and Booker partners.
+Finally, save to invest. We only want to spend money where it adds value for customers and where we'll make a real difference. And we've already identified a number of material savings. As a minimum, we want to offset the impact of cost inflation on our business each year and ideally create additional headroom that will allow us to invest in competitiveness and growth.
+Having conducted a detailed review, we have identified significant opportunities to simplify, be more productive and reduce costs. In total, we can already see around GBP 1 billion of savings across goods not for resale, productivity improvements, delivery network optimization and central overheads. We see Tesco Business Services, our shared services center in Bengaluru, as playing an increasingly important role going forward. We are also looking at opportunities to automate standard processes and routines so that we can invest our efforts where they can add the most incremental value to customers and to the business.
+In sharing these priorities, I hope I have given you a sense of what we are going to focus on going forward. Tesco has many unique advantages such as the scale and reach of our store estate, our ability to reward loyalty through Clubcard and our world-class food expertise. And together, these mean we can anticipate and respond to changes in the market, meeting customer needs better than anyone.
+Our strategic priorities enable us to build on this already strong base. Magnetic value for customers and save to invest will ensure that we do the basics brilliantly and operate as efficiently as possible. I love my Tesco Clubcard and easily the most convenient are all about growing our business by unbeatable digital convenience and loyalty platforms.
+We want to make it easier for you to understand how this all comes together in terms of performance, and so we are sharing the framework that we will use to guide our actions and track our progress over the coming years. As you can see from this slide, it is about a combination of growth and cash. We are seeking to grow the top line underpinned by increasing customer satisfaction and adding those capital-light opportunities in convenience and online.
+As I said in April, market share matters in food retail, and we are aiming to grow or at least maintain market share in our core U.K. market. We are also seeking to grow absolute profits in quantum terms. We will use our assets across all channels in the most efficient way possible and add in new revenue streams generated from our digital platform.
+As I mentioned just now, we will target productivity savings to at least offset inflation and ideally create headroom to invest in our other strategic priorities. By doing this, we are clear that we can generate between GBP 1.4 billion and GBP 1.8 billion of retail free cash flow each year. We will flex our approach to reflect the changing market, and our progress on each element is very unlikely to be linear. But we want to give shareholders the reassurance that the generation and use of cash is something we take very seriously.
+Before I close, I want to share our refreshed purpose. Our purpose of serving shoppers a little better every day has been a guiding force for our business, and it has enabled us to stay focused on doing the right things for our customers.
+As I hope is clear from today's presentation, our customer focus is unchanging. We are now bringing this together with a more explicit recognition of our broader commitments to the communities we serve and our planet. Our priorities in these areas already guide the actions that we take day in, day out. And so it's only right that these should equally be reflected in our new purpose: serving our customers, communities and planet a little better every day. We've had an incredible response from colleagues to this new purpose. I'm sure that it will be a motivating force for the entire Tesco team as we move towards creating value for our stakeholders in our business.
+In summary, I'm delighted with the performance over the last 6 months, not just the sales and profit growth but the underlying improvements we have made to further strengthen our business. This strong performance has enabled us to increase our guidance for the full year. It also gives us a fantastic platform to launch our strategic priorities to enhance our competitiveness, accelerate our growth and generate cash.
+Imran and I have set out what we hope is a clear investment proposition for you underpinned by ongoing capital returns. We are aiming to create sustainable long-term value for every Tesco stakeholder, consistent with our new purpose of serving our customers, communities and planet a little better every day. Thank you.
+Imran and I will now take whatever questions you may have. As always, we're really keen that everyone gets a chance to ask their questions. (Operator Instructions) So without further ado, let's open up the call to questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question comes from Andrew Porteous of HSBC.
+
+--------------------------------------------------------------------------------
+Andrew Ian Porteous,  HSBC, Research Division - Analyst, European Retail    [2]
+--------------------------------------------------------------------------------
+
+          Congratulations on a great set of numbers. A couple from me. Interested in sort of progress on the digital platform, firstly. Can you just talk about what you're seeing? How important are app users versus non-app users? Is there anything you're seeing there? And how can we think about the next steps of building that online platform?
+And then secondly, a question around margin, I guess. I mean I appreciate the strategic framework. And subject to you guys meeting your ambitions on market share and customer satisfaction, do you think there are still opportunities to expand the margin? I note that the U.K. margin probably is still in the mid-3s pre-IFRS 16.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Andrew. I'll deal with the digital platform first. So we've seen great progress this year on building out our digital platform. If you think back to pre-pandemic levels, we were serving just under 1.2 million customers online on a weekly basis. Now we've got an active user base of almost 2 million, about 1.9 million customers. And they've really stuck with us post pandemic, and we continue to see really high demand for our online proposition. And that's quite a sticky proposition and has really been embedded into their behavior. So that's the first thing to say is that we're really pleased with the continuing relationship we've built with customers through the pandemic and beyond.
+The second thing is that using Clubcard Prices, we've really started this digital transformation of the Clubcard experience. And so if you cast your mind back 12 months, we had about 2.5 million app users that were active on Clubcard. Today, we stand just shy of 7 million active app users. So this is really tremendous progress.
+But really, we're in the foothills of exploiting that in terms of making sure that customers can be much more dynamic in the way they interact with the Clubcard, that we can increasingly personalize their experience, make the card work harder for them and their individual needs. And that's really how we are planning to evolve the card over the next 2 to 3 years.
+In terms of margins, I think that for us, given our ambitions around growth, given our ambitions to be really strong on value for customers, we're not focused on margin expansion, but we're focused on maintaining what are already market-leading operating margins for the business.
+Imran, is there anything you'd like to add on the margin?
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [4]
+--------------------------------------------------------------------------------
+
+          No, look, I think that's right. I'm happy with where the margins are. You've seen the performance framework we laid out. And what we are really focusing on that is driving absolute profit growth because, ultimately, that's what turns into cash. And I think that's the algorithm we want to run, and I think it's the right way to make sure we maximize value.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+
+          We'll take our next question from Andrew Gwynn of Exane BNP Paribas.
+
+--------------------------------------------------------------------------------
+Andrew Philip Gwynn,  Exane BNP Paribas, Research Division - Senior Food Researcher & Analyst of Food Retail    [6]
+--------------------------------------------------------------------------------
+
+          Two questions, if I can. So firstly, just going back to the cash point. If I heard right, excluding exceptionals, so -- but you weren't really expecting any exceptionals coming up. So just to clarify on that point. And then maybe just some of the other sort of non-EBITDA movements in there. Is there a big opportunity in working capital, for instance?
+And then the second question, I think, is more for Ken. It doesn't take much effort to see plenty of disruption in the market. But clearly, what the press reports and the reality could differ quite significantly. So just wondering what your take is on where we are at present.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [7]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Andrew. I'll take the cash flow question. Look, we've simplified the definition. What we're trying to do is just to be very clear with the market on what does the underlying business generate in terms of cash. So for that reason, from the definition of cash flow, we've taken out any sort of property buybacks, any disposals that we would benefit from, but at the same time, also any exceptionals.
+The concept of exceptionals is not something I love. I mean we'd like to minimize them. They do occur from time to time as they did this half, but we will continue to isolate those for you. In the performance framework, to that point, that excludes anything in terms of exceptionals or anything in terms of income that we get from any property disposals that we may have.
+In terms of your second question, how to think about working capital over the framework, the way I'd like to think about it is as you grow the top line, you should see some sort of working capital benefit as well simply by being more efficient. Growth helps that way, and that's what we've built into our assumptions. Some sort of, if I was to put a number on it, maybe GBP 100 million a year of working capital inflow is sort of the central case assumption.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [8]
+--------------------------------------------------------------------------------
+
+          Thanks, Imran. Andrew, on your second question around disruption, I think that the sales performance speaks for itself. So as you can see, we are in growth across all our businesses with the exception of the Republic of Ireland. But even within that business, we've got a 2-year like-for-like of over 12%. And the 2-year like-for-like in the U.K. retail business is 10% with a 1-year like-for-like Booker of 11%. So by any standards, this is exceptional performance. And our supply chain has held up fantastically well under the pressure of those additional sales. So that, I think, speaks volumes for the resilience of our supply chain and the capability and the relationships we've built with our supplier base.
+The media, of course, have published a number of articles around various elements of disruption. We are obviously seeing challenges on a daily basis, but we're coping amazingly well with those challenges. And we absolutely will continue to do so into the foreseeable future.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          We'll take our next question from Sreedhar Mahamkali of UBS.
+
+--------------------------------------------------------------------------------
+Sreedhar Mahamkali,  UBS Investment Bank, Research Division - European Head of Food Retail Equity Research Analyst    [10]
+--------------------------------------------------------------------------------
+
+          I've got 2 questions and a very short follow-up on the free cash flow, please. So first one, on the capital allocation framework you've talked about, the inorganic growth opportunities that you mentioned, can you perhaps talk through your thoughts there which sectors and markets should we be expecting you to spend time on? And equally, on the other hand, I'm just wondering how central is the role of rest of Eastern Europe and also perhaps the bank for the free cash flow-led investment basis of Tesco. And again, just to supplement there, do you really need to own 100% of dunnhumby to benefit from the insights of the business? That's the first one.
+Secondly, Ken, you talked about new nonretail revenue streams as a way of leveraging the vast digital platform that you referred to a few times now. I wonder if you could talk specifically about retail media, advertising revenue streams potentially. Are there any numbers that you've seen that you can share with us at this stage? Two questions.
+Just a quick follow-up on free cash flow. The range is GBP 1.4 billion to GBP 1.8 billion. I just wonder, Imran, what is the flex here? What are the drivers to get from GBP 1.4 billion to GBP 1.8 billion? What are the moving parts? If you could just talk us through to the extent you can, that would be very appreciated.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [11]
+--------------------------------------------------------------------------------
+
+          Sreedhar, you've managed to slip 3 -- at least 3 questions into that one. But what I'll do is I'll ask Imran to answer the last question first, and then I'll come back to the first 2.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [12]
+--------------------------------------------------------------------------------
+
+          Right. Okay. So the modeling we have is clearly one of the things that -- and you've seen it in the first half is we have a big working capital swing in the first half. You saw we have around GBP 400 million. So there is a bit of tolerance for that built into our range.
+The way I think about sort of that GBP 1.4 billion to GBP 1.8 billion is you start with a solid profit growth that we see year-on-year. I mentioned before the working capital inflow of probably around GBP 100 million or so. I'm thinking the CapEx of GBP 0.9 million to GBP 1.2 million, potentially move closer to the GBP 1.2 million range given the strategies we have; interest costs between GBP 200 million and GBP 250 million; and then the rent that we pay, around GBP 1 billion or so; and then obviously the tax at 26% in the outer years. That's sort of, if you wish, the mechanical approach that we have.
+Stepping back from it, this year is demonstrating that a disciplined approach to cash and cash flow can deliver results, and that's what we've been doing and I've had a sort of terrific reception from the team around that in the company. And I feel that just by focusing on cash and making a number out there that we want to hit, we'll deliver that disciplined approach as well. So I feel that's sort of the mechanical add-up, if that helps you, Sreedhar.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [13]
+--------------------------------------------------------------------------------
+
+          Thanks, Imran. So Sreedhar, on your first 2 questions, I think that in terms of inorganic growth, we're really thinking about bolt-on acquisitions, so acquisitions that either enhance our core proposition, build out market share where we have gaps and in the areas of digital marketing and insight, et cetera, where we think that there's a lot of value that can be added. So we have no specific targets in mind at this moment, but we will update you as and when we do.
+In terms of the role of the businesses within our portfolio, we're very happy that these businesses are complementary to what we want to achieve. The strategy and the new purpose, I hope you will see really focuses on leveraging the capabilities across the group to maximize and optimize the group effect and the benefit of being part of that group. And we're starting to see that in a number of areas. So that's how we see it.
+
+--------------------------------------------------------------------------------
+Operator    [14]
+--------------------------------------------------------------------------------
+
+          We'll take our next question from Clive Black of Shore Capital.
+
+--------------------------------------------------------------------------------
+Clive W. Black,  Shore Capital Group Ltd., Research Division - Head of Research    [15]
+--------------------------------------------------------------------------------
+
+          Again, well done. Two from me. I wouldn't normally ask this question, but the Chairman of Tesco went on British television and said that he was expecting 4% to 5% inflation. And so I just wondered if you could clarify his meaning in terms of what Tesco expects to absorb and what shoppers should be anticipating from an inflationary perspective given there are clear pressures there.
+And then secondly, can -- you spent a lot of time on this digital platform today. I just wondered, could you give some indication of what that could mean in terms of materiality of earnings in due course, please?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [16]
+--------------------------------------------------------------------------------
+
+          Thanks, Clive. So on the first one, my understanding is that our Chairman really responded to what could inflation be in the U.K. in general, and it was a hypothetical possibility, not a sense of expectation. In the first half of this year, customers -- Tesco customers actually saw deflation because we extended Aldi Price Match from 250 lines this time last year to 650 lines. We have a platform of Everyday Low Prices of an additional 1,600 lines. And of course, we extended Clubcard Prices into our convenience format. So all in all, customers are actually seeing better prices from Tesco in the first half of the year.
+Obviously, there are lots of different challenges coming down the pipe, whether it be commodity inflation, energy costs, transport costs, et cetera. And we work really hand in glove with our suppliers to manage and mitigate this to make sure that we deliver the best possible value to our customers.
+In terms of your second question around the digital platform. So this, for me, is really around resetting the relationship with customers and indeed with suppliers. It's a very, if you like, broad strategy in terms of what we're trying to achieve. I think what's been demonstrated by the behavior of customers since the pandemic through our dot-com platform is that if you build a strong relationship online with customers, it's very sticky, and this has been borne out.
+The Clubcard element of the digital strategy is really trying to move from a physical, either paper-based coupon, card-based push relationship to a much more interactive, conversation-almost-based relationship with the customer through a digital platform where we can be much more tailored in our approach and much more responsive in our approach to customer needs.
+Now this isn't something that we have up and running today. This is a 3- to 5-year ambition that we're building towards and adding functionality and features to every quarter. And as we do so, we'll update you. I really don't want to go into the details because there is a philosophy in Tesco that we like our customers to see these before our competitors do. So as and when we launch them, I'll be very happy to give you more detail, Clive.
+
+--------------------------------------------------------------------------------
+Clive W. Black,  Shore Capital Group Ltd., Research Division - Head of Research    [17]
+--------------------------------------------------------------------------------
+
+          Okay. Ken, can I just come back on the first question, please? A number of industry participants have said that they anticipate that inflation will feature -- food inflation will feature in the U.K. in the forthcoming quarters. Is that a message that Tesco would concur with, though?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [18]
+--------------------------------------------------------------------------------
+
+          Our job, I think, Clive, is to manage circumstances and situations as they arise and to work really closely with all our partner suppliers to make sure that we continue to give great value to customers. And that's something we continue to do day in, day out. And I think that the last 6 months have illustrated if you stay focused on those basics, you really get rewarded by the customers and through the performance, and that's what we continue to do.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          We'll take your next question from Xavier Le Mené of Bank of America.
+
+--------------------------------------------------------------------------------
+Xavier Le Mené,  BofA Securities, Research Division - Head of European Food Retail Equity Research and Director    [20]
+--------------------------------------------------------------------------------
+
+          Two questions, if I may. The first one, I just looked at your revised full year guidance, and it seems that actually it's only driven by the stronger-than-expected H1 sales and profit, so implying potentially no revision for H2. So why are you still cautious in a way given the strong H1 you had? The reason behind your cautiousness, that would be interesting to know.
+And the second actually question will be on the assets that you've got, and it's more for Imran, so you joined the company 6 months ago, taking your financial hat, so how do you see the current portfolio of countries and assets? Do you think that all the assets are relevant today for Tesco?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [21]
+--------------------------------------------------------------------------------
+
+          Okay. So I'll take the first question, and then I'll pass on to Imran. We're really pleased with the first half performance. It has definitely exceeded our expectations. And it's a combination of a number of factors. Some of them have been market tailwinds and some of them have been through the excellent performance of the Tesco team as a whole in terms of its focus on value, its focus on great service and great availability.
+So while we feel really confident going into the second half of the year in terms of Tesco's relative position, we do see some of the tailwinds we experienced in the first half falling away. And if you overlay that on top of the fact that the second half was exceptionally strong last year because we were in a full COVID lockdown for much of the second half of last year, we are expecting a modest decline in like-for-like sales in the second half. But we remain incredibly confident of Tesco's relative performance in the market. That said, I'll pass on to Imran to answer the second question.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [22]
+--------------------------------------------------------------------------------
+
+          Sure. And just on the guidance portion, just to build on that, the central case, as Ken mentioned, is as COVID unwinds, we need to understand the customer behavior, and that's really the main reason why you see the first half, second half from a financial perspective, so fully in line.
+In terms of the broader question you asked, look, I spent the first -- I'm here 5 months now. I spent a lot of it going to stores, visiting the bank, visiting -- spending time at Booker, Central Europe. It's been a big learning exercise. I am very impressed by the power of the group when it comes to procurement, when it comes to copying fast from each other great ideas. And ultimately, the strategies we outlined, in my view, apply to all of them. So I'll give you a finance example since you asked me on.
+Safe to invest is something that I expect everyone to do, the bank, Central Europe, Booker and obviously, core U.K. and core Ireland. And to me, that's sort of a benefit that you get because you can leverage services and to provide it to a bigger population if you focus.
+The biggest job that we have to do is make sure we make the right capital allocation decisions as to who has the best ideas, who has the best return and what's best for group. And that, to me, at this point in time is the job ahead. It's why we laid out a framework to say, look, we can live with the capital guidance that we have to generate a perfect return for the company and create value for our stakeholders. That's sort of my first months -- first 5 months in perspective.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+          We'll take our next question from James Grzinic of Jefferies.
+
+--------------------------------------------------------------------------------
+James Robert Grzinic,  Jefferies LLC, Research Division - Equity Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Ken, Imran, I just had one. It's really for you, Ken. I guess one of the big achievements of Tesco in recent years has been driving more discipline in how the industry prices the delivery offer to customers. Do you think there's a lot more you can do in leading the industry to a more rational place on that front? Is that something you spend a lot of time on?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [25]
+--------------------------------------------------------------------------------
+
+          You're speaking particularly about online delivery, home delivery?
+
+--------------------------------------------------------------------------------
+James Robert Grzinic,  Jefferies LLC, Research Division - Equity Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Yes. I mean digital services in general, but yes, I mean the greater proportion of that being home delivery.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [27]
+--------------------------------------------------------------------------------
+
+          Yes, that's something we continue to evolve. I think that, clearly, the pandemic changed customer behavior fairly substantially. And we obviously suspended certain elements of that for a period because we felt it was appropriate in the circumstances. And of course, we've moved recently back to more of a dynamic model to make sure that we optimize utilization. And we've also seen really strong growth in our Delivery Saver option, which, of course, means that customers for subscription will get free delivery. And I think that those models are working well in the marketplace now.
+The other thing, of course, is that we want to optimize Click & Collect. This is something, again, which experienced enormous growth during the pandemic. It settled down now at about 20% of our online sales. We'd like to grow that over the coming years, but we're very conscious that we have work to do to make the customer experience an even better one end-to-end for the Click & Collect experience. So that's something that we think is an important part of the total distribution model for dot-com.
+
+--------------------------------------------------------------------------------
+James Robert Grzinic,  Jefferies LLC, Research Division - Equity Analyst    [28]
+--------------------------------------------------------------------------------
+
+          Understood. I guess just to follow up on that, Ken. So the revenue base -- incremental revenue base that you're getting through dunnhumby, a greater utilization there, will that be the only major driver to the online economics? Or do you think pricing of the service can still play a part in terms of a more rational pricing, even more rational than we're seeing right now?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [29]
+--------------------------------------------------------------------------------
+
+          So we think there are a number of different ways that we can build out the economics of the digital platform. But I think we should start from the perspective that actually our digital fulfillment today is built on our existing -- for the most part, our existing infrastructure insofar as we service the majority of our dot-com business from existing large stores that use existing resources and team capabilities, existing stock. And so it is really all about optimizing the asset utilization of Tesco as a whole. That's the kind of starting position.
+The second thing is we see a number of different opportunities to optimize profitability digitally. I think one for sure is the dunnhumby platform and the ability to demonstrate to suppliers the value that can be created through a much more targeted approach to their marketing, building a much more strong relationship with customers that are actually engaged and interested in their categories and getting involved with them in a much earlier stage in their innovation cycle so that we can improve the hit rate of their innovation, reduce their go-to-market costs, drive better sales, better conversion for their marketing activities.
+And I think that's quite a powerful opportunity for suppliers. And for Tesco, it unlocks a budget that today we get nothing of as such because all of our -- most of our conversations with suppliers are trade marketing. And really, this is all about unlocking the above-the-line marketing and innovation budgets of our suppliers by demonstrating superior value.
+The third area, of course, is efficiency. I've already mentioned Click & Collect, which is a great efficiency opportunity. But we think also the UFCs in time will provide an opportunity not only to optimize the cost of fulfillment but to reduce the time from order to fulfillment, significantly increase capacity of stores. And we're already at 90% in many of our stores in terms of utilization. So we have a lot of headroom for further growth in those stores, and UFCs will deliver that possibility. So I think there are a number of fronts that I feel excited about the opportunity on the digital platform, and media is just one.
+
+--------------------------------------------------------------------------------
+Operator    [30]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Rob Joyce of Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Robert Joyce,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Two from me as well. Just to follow up on an earlier point in terms of focusing on absolute profit growth. Should we take that to mean that the sort of midpoint of guidance this year, the sort of 2 point, I think, 67, if we take that midpoint, is a number you would build from -- you'd look to build from next year and beyond?
+And then the second one, just to understand what you -- to follow on what you just said there, Ken. I wanted to understand that you said you really aren't getting much of this retail media, I think, nothing at the moment in terms of retail media income from suppliers. And just looking to size that, I mean, Kroger have talked this year about that being an incremental GBP 100 million to GBP 150 million this year alone. Is this an opportunity which is in the hundreds of millions?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [32]
+--------------------------------------------------------------------------------
+
+          Rob, I'll take your second question first, and then I'll hand over to Imran for the first question. We prefer not to speculate about the value at this stage. But what I can tell you is we're in the foothills of it, and I believe that there is a significant price to go after. We'll update you as and when we start delivering.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [33]
+--------------------------------------------------------------------------------
+
+          And maybe I'll take the second question then on profit guidance. Again, as Ken mentioned, we had a great first half, ahead of our expectations. Staycations, euro, doing a fantastic job on availability, frankly, as well, which, kudos to our team, has really been a big driver of that.
+Second half, we now need to figure out what do customers do, what is the benefit or the impact of COVID unwind? Is there going to be one? And the central case assumption we have is there will be some of that in that portion of the year.
+Key question, of course, then is what does that do to the profitability of the business? And that's why we've given you a fairly tight range of GBP 2.5 billion to GBP 2.6 billion. I mean, mathematically, you can go to the midpoint. I'm looking at the range as the range and saying it could be GBP 2.5 billion or it could be GBP 2.6 billion. That's roughly how I internally think about it.
+
+--------------------------------------------------------------------------------
+Robert Joyce,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [34]
+--------------------------------------------------------------------------------
+
+          And Imran, very -- I understood on this year. But I'm just thinking about beyond. If you're looking at you've got a multiyear plan, do we think growing profits from here is a good aspiration?
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [35]
+--------------------------------------------------------------------------------
+
+          Look, I think I want to get through the second half, understand truly what customers are going to do, how the world evolves. It is rather uncertain out there. What I would draw your eyes or your attention to is the fact that we've laid out a midterm framework on how we want to judge our performance and how we see it. And that clearly does call for we want to grow the top line, we want to grow profits and we want to be able to generate that cash. And that to me is the important piece, is that there is an underpin that we want to hit. And clearly, next year, we'll have to see that, and that's very much predicated on the second half of this year. And we'll talk to you in April when we meet again.
+
+--------------------------------------------------------------------------------
+Operator    [36]
+--------------------------------------------------------------------------------
+
+          Our next question is from James Anstead of Barclays.
+
+--------------------------------------------------------------------------------
+James Robert Anstead,  Barclays Bank PLC, Research Division - Director    [37]
+--------------------------------------------------------------------------------
+
+          Ken and Imran, 2 questions, please. Firstly, you're announcing now that you're targeting GBP 1 billion of gross cost savings over the next 3 years. I wonder if you can reassure us that is a faster run rate than you've been achieving in recent years, even though, I guess, it must have been quite difficult to measure cost savings during the pandemic. But I presume that is a step-up versus what you've been doing recently.
+And secondly, you're relatively unusually not working with Deliveroo or Uber Eats in your main chains. If I look at most of your big peers, they're doing that. So I wonder if that's a decision based on you thinking the economics aren't attractive. Or is it a reflection of you really putting a lot of value on this direct relationship with your customers?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [38]
+--------------------------------------------------------------------------------
+
+          Thank you, James. I'll take the second question and pass to Imran to answer the first. So the first thing to say is that we're very interested and curious about the on-demand mission. We watch it very closely. And of course, through our Whoosh platform, we are actively working the model. And having started with a one store trial in Wolverhampton, we then expanded to 19 stores, and we're now at 50, with an ambition to be at 100 by Christmas and in most of the major conurbations. And we've been really pleased with the results of it. But it's very early days. And so we still very much consider it a trial.
+We don't think that the customer themselves has made up their minds yet about what kind of proposition they really value and they're willing to pay for and which ones they don't. So we're adopting a curious but active mindset to this mission.
+The second thing to say is that we are actually working with partners largely again to learn. So we have an active partnership with Deliveroo through our One Stop chain of convenience stores. Very importantly for us, though, our relationship with our customers is key, and maintaining that relationship directly is really crucial, whatever solution we end up coming to and whatever partners we end up working with.
+So really, that's all I would say on demand for now. I'll pass over to Imran to talk about our cost savings.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [39]
+--------------------------------------------------------------------------------
+
+          Yes. So the question is on the GBP 1 billion and how does that compare to what Tesco normally generates. I mean I've obviously looked at that because I think it's a good question on that front. And the way I got to the GBP 1 billion, why that number makes sense, is we worked with the team to figure out, well, there's going to be an inflation on our operating costs and we want to have some fuel to reinvest into the priorities that we laid out. And the good thing is being efficient and driving cost savings is actually in the DNA of this company. We're really good at it. And it roughly equates to that GBP 250 million to GBP 300 million a year that the business has been generating pre-COVID already. And so this is a question of calling out what we do well and making sure we don't stop and we continue to do that. That gives me the confidence that it's achievable.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          We'll take our next question from Victoria Petrova of Crédit Suisse.
+
+--------------------------------------------------------------------------------
+Victoria Petrova,  Crédit Suisse AG, Research Division - Research Analyst    [41]
+--------------------------------------------------------------------------------
+
+          Congratulations with great results, and I promise I will be short. I have 2 super short questions. First is on cost inflation. We're obviously getting multiple press releases around all sorts of costs. Could you please let us know what of -- out of your cost line items was subject to the highest inflation? And also, maybe you could provide any short comment around personnel expenses and how you address cost inflation there. Obviously, you mentioned automation, but maybe something else around it.
+And my second super short question is on cannibalization of off-line versus online post COVID lockdowns. Have you seen any massive change? Your last comment was that cannibalization stood at around 30%. Is it the same? Is it different? How should we look at it?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [42]
+--------------------------------------------------------------------------------
+
+          Thanks, Victoria. Let me start with the last question first. So actually, our cannibalization rates in the first half of this year were de minimis. So last year, our online sales peaked at just over 15% of sales. They've settled down now just under 14%, around 13.9%. So still incredibly strong on a 2-year basis.
+The real star performer, particularly in the second quarter, actually, has been our large store format where we've seen very strong growth. So we don't believe there's a whole lot of cannibalization going on between our channels at this stage.
+I will pass over to Imran to talk a little about the cost inflation lines.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [43]
+--------------------------------------------------------------------------------
+
+          Sure. So when you look at -- I mean it's the stuff that you read about every day, right? We're seeing inflation in certain commodity type items. We have it on the distribution side, the further HGV shortage driver you've seen publicly, we're paying a bonus to bring people in. I look at all of that as inflationary pressure, and that's sort of what we're working very hard with our suppliers to manage and mitigate as much as we can. And that's the work we've done. We've done very well in the first half, and we aim to continue into the second half. That's how I see it.
+I think the second question was on personnel expenses. I mean the reality is, as you know, we're ramping up for Christmas. And we're actually hiring, I think, was it 30,000?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [44]
+--------------------------------------------------------------------------------
+
+          30,000, of which half are already...
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [45]
+--------------------------------------------------------------------------------
+
+          Yes, 15,000 are already sort of in place. So it's actually more that we needed to bring people in because, ultimately, servicing Christmas in the right way is the most important thing right now in this business.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [46]
+--------------------------------------------------------------------------------
+
+          And just to finish on that last point, we're really proud of the fact that we are a very competitive payer in the market and we look to look after our colleague incredibly well. So since 2014, we've increased wages by over 30%. Just this summer, we've agreed with our colleagues and their unions a pay rise of 2.7%. So we feel we're in a sensible place with our colleagues on pay, and we continue to monitor and review it on an ongoing basis.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Our next question is from Nick Coulter at Citi.
+
+--------------------------------------------------------------------------------
+Nick Coulter,  Citigroup Inc., Research Division - Director    [48]
+--------------------------------------------------------------------------------
+
+          Two questions, if I may, please. Firstly, with apologies, it's a bit of a crystal ball question. But when you talk to the sales drivers in the midterm, is the key driver, is it taking core share in store? Is it channel shift? Is it convenience infill? Is it Booker? I'm just trying to get a sense of the broad materiality of the drivers of growth in the midterm, please.
+And secondly, just to clarify a previous question, would you consider bolt-on M&A to enhance or leapfrog your capability in some of the new areas of digital? Or I guess, conversely, which areas do you think that you need to build capability in from an organic perspective?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [49]
+--------------------------------------------------------------------------------
+
+          Thanks very much, Nick. So I think that one of the beauties of the Tesco platform is its ubiquity insofar as we are really strongly represented in every channel the customer would wish to shop. And therefore, we're actually agnostic about where the growth comes from. Our ambition is to build a kind of a master relationship with the customer through the digital platform and through the Clubcard and let them decide how they want to shop, let them decide which products and which offers are most valuable to them, let them decide which channels are most convenient to them and then reward them for progressive shopping behavior. So we can't predict -- as you rightly say, my crystal ball has been on the blink for a while now -- with any confidence what will happen from a channel perspective. All we know is that no matter what they do, we're well positioned to respond.
+In terms of M&A activity and our kind of desire to make sure that we're right there when those demand missions crystallize, we obviously are very confident in our own technical capabilities. And as I said earlier, that customer relationship is really critical for us. So our Whoosh platform operates really well for customers. We've had some great feedback from it. And importantly, it's technically designed to integrate seamlessly with our supply chain platforms, our store platforms, our billing platforms, our dot-com platform and, crucially, our Clubcard platform. And it's very hard to acquire that. So that's why we chose to build this ourselves, and we're very pleased so far with the results. That said, we would never rule out future M&A, we will continue to monitor it very, very closely and respond as and when it makes sense.
+
+--------------------------------------------------------------------------------
+Nick Coulter,  Citigroup Inc., Research Division - Director    [50]
+--------------------------------------------------------------------------------
+
+          So there's nothing in terms of ad tech or marketplace or some of those newer areas that the legacy dunnhumby expertise might not have the capability in?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [51]
+--------------------------------------------------------------------------------
+
+          Yes. I mean, I think in dunnhumby specifically, for sure, as and when opportunities present themselves on digital capabilities that we don't have today, we would be definitely open to that. We have a new CEO joining us in January. And of course, once he's had a chance to get himself bedded in, we'll be happy to give you an update the next time we speak, probably at the preliminaries next year.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Your next question is from Fabienne Caron of Kepler Cheuvreux.
+
+--------------------------------------------------------------------------------
+Fabienne Caron,  Kepler Cheuvreux, Research Division - Head of Food Retail Sector    [53]
+--------------------------------------------------------------------------------
+
+          Two questions from me. The first one regarding online sales and the share that you gave of 13.9%. So is it fair to say that the online sales on an absolute level was flat on H1 over H1 at over GBP 2.8 billion? Would be my first question.
+And the second question, you said so you had no price inflation at Tesco, more of price deflation given of Aldi Price Match and the Clubcard, but you had some operating cost inflation. So can you share with us the operating cost inflation that you had in H1 and how much do you expect to be in H2, please?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [54]
+--------------------------------------------------------------------------------
+
+          Thank you. So we experienced actually pretty strong growth in the first quarter online because we still had some residual lockdown impacts. And then we went into a modest decline in the second quarter, in quarter 2. So from memory, we had a very, very modest decline in sales in the half online.
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [55]
+--------------------------------------------------------------------------------
+
+          Yes. I mean it was the second quarter where we declined. On the whole, for the first half, we were actually flat to slightly ahead in totality once we added up all the numbers.
+In terms of your second question, Fabienne, so look, I mean, in the first half, when you look at the profit bridge that we had in the presentation, we had strong sustained sales. We had significant recovery in fuel sales, which was not unhelpful. From a profit perspective, we had greater sales from higher-margin nonfood, whether it was GM or clothing, and that helped us offset together with the cost efficiencies that we started to mitigate most of the inflationary impact. I don't want to sort of give all the numbers because then it becomes a bit of a laundry list of items. But on the whole, we delivered our profit growth that way.
+As I think about the second half, clearly, the cost inflationary pressures will continue, they're not going away. And we're going to try and figure out how do we navigate that as successfully in the second half as we did in the first half, albeit that the second half in absolute at the current guidance is lower in absolute.
+
+--------------------------------------------------------------------------------
+Fabienne Caron,  Kepler Cheuvreux, Research Division - Head of Food Retail Sector    [56]
+--------------------------------------------------------------------------------
+
+          Okay. But can you help us regarding the range of cost inflation? Are we talking about 5%, 6% in H1 and more in H2?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [57]
+--------------------------------------------------------------------------------
+
+          Yes. I think -- well, I mean, clearly, the reason why I'm not giving sort of the step-up in inflation because the reality is it's a very moving picture right now. As you can imagine, the CO2 situation or whether it's the freight and the distribution and the volume needs that we have, it's still working itself through. So rather than give you here is a definitive number, my angle is much more, there is a challenge that the industry is facing, we're one of them, inflation, and we're needing to manage that together with our suppliers as well. And that's the approach we're taking.
+
+--------------------------------------------------------------------------------
+Operator    [58]
+--------------------------------------------------------------------------------
+
+          Our next question is from Tom Davies at Berenberg.
+
+--------------------------------------------------------------------------------
+Thomas Davies,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Two questions from me. Firstly, following up from Andrew's earlier question, with the GBP 1 billion gross savings outlined, what cash costs do you expect to extract this? And I guess depending on the answer to that, if you require cash costs to release continuous cost savings, aren't those exceptional costs then inherently recurring and should be included in the free cash flow target?
+And then second question, what elements in the supply chain do you think are exhibiting hysteresis? And what elements do you think are just temporary pressures?
+
+--------------------------------------------------------------------------------
+Imran Nawaz,  Tesco PLC - CFO & Director    [60]
+--------------------------------------------------------------------------------
+
+          Okay. So let me take the first question. Look, on cash costs to incur the savings, look, as we indicated in the earnings release, the ultimate aim is to do it through business-as-usual activities and avoid incurring exceptionals. But I'm not going to stand here and tell you we won't incur any. I first want to sort of execute the program, and you have my commitment that we will continue to report those very black and white. So you will understand what they are and why we incurred them. And that's pretty much what Tesco has been doing.
+As it comes to the definition of free cash flow or adjusted free cash flow, I think the feedback I got in sort of the rounds talking to yourselves and talking to investors is it gets a little bit muddled if you add property decisions, proceeds from selling a store or buying another one or having exceptional costs. And we decided, well, why don't we remove the noise and give people clarity what does the underlying cash flow generation of the business that you're running. Everything else after that is a choice. And I think that's why we've done what we've done.
+If I'm very honest with you, it makes life a little bit harder because in more recent years, it's actually been a net positive, i.e., we've actually sold more stuff than we incurred in exceptionals. So this makes life a little bit harder for us, if I'm honest. But it's the right approach, and I think it's a much more clean base for investors to understand and for yourselves to understand our true performance.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [61]
+--------------------------------------------------------------------------------
+
+          Thanks, Imran. In terms of your supply chain question, Tom, we see the majority of the supply chain issues as temporary. Now how long is temporary? That is something we don't know. I think what's really important, though, is that we are maintaining a fantastic level of availability despite all the challenges we've seen over the summer. And we have very strong plans in place to continue doing so right the way through Christmas and beyond.
+So the short answer is that I think these are for the most part temporary. I think markets and businesses and even countries adjust to conditions and respond accordingly. I think that will happen in this case, too. But the time frame is a difficult thing to judge.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our next question is from William Woods at Bernstein.
+
+--------------------------------------------------------------------------------
+William Woods,  Sanford C. Bernstein & Co., LLC., Research Division - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          The first one is could you just comment on the performance of the economy or value private label ranges? From the data we're seeing, it appeared to have underperformed in the recent months. I'm just wondering what's happening there.
+And then secondly, in terms of the supply chain questions that have already been asked, just building up in terms of Christmas preparations versus a typical year. How far have you progressed with your stock buildup in your stores and your warehouses? And can you say that consumers won't see any shortages over the Christmas period?
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [64]
+--------------------------------------------------------------------------------
+
+          Thanks very much. So look, the first thing to say is that the performance in total speaks for itself. So we have outperformed the market in both volume and value terms. So that for me suggests that we -- the portfolio of products and the value, particularly the value propositions, are actually performing very well in the market.
+What might be distorting the read somewhat is that demand for premium products is elevated. As people stay home more, eat out a bit less, you are seeing elevated demand for our Finest range, and Finest is performing incredibly strongly this year and is outperforming the average for sure. So it could be a mix effect, but I don't see any underperformance in our value range. That would be the first thing to say.
+The second is that the distribution shape of getting stock into our stores this Christmas is a little different from last year. It's spread a bit more evenly. We front-loaded it last year, and this year we're spreading it a little bit more evenly. We have absolutely concrete plans in place to make sure that, that happens on time. And we have no plans to disappoint customers this Christmas. We are planning on it being a great Christmas.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          There seems to be no further questions at this point. So I'll hand back to Ken Murphy for closing remarks.
+
+--------------------------------------------------------------------------------
+Ken Murphy,  Tesco PLC - Group CEO & Executive Director    [66]
+--------------------------------------------------------------------------------
+
+          Thank you very much. Thank you -- on behalf of Imran and myself, I'd just like to say a huge thank you for taking the time this morning to listen to our presentation, for all the great questions that you asked for us. And we're looking forward to speaking to you when we give our Christmas update and then, again, when we present our final results next year. So in the meantime, take care and good luck, and hope you have a wonderful Christmas.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

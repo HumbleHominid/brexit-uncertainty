@@ -1,0 +1,484 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2019 Tomra Systems ASA Earnings Presentation
+OCTOBER 21, 2019 / 6:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bing Zhao
+   Tomra Systems ASA - Director of IR & Strategy
+ * Espen Gundersen
+   Tomra Systems ASA - Deputy CEO & CFO
+ * Stefan Ranstrand
+   Tomra Systems ASA - President & CEO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Unidentified Analyst
+    - 
+ * Knut Erik Løvstad
+   Kepler Cheuvreux, Research Division - Equity Research Analyst
+ * Martin Stenshall
+   Danske Bank Markets Equity Research - Senior Analyst
+ * Eivind Sars Veddeng
+   DNB Markets, Research Division - Analyst
+ * Marcela Klang
+   Handelsbanken Capital Markets AB, Research Division - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen. My name is Stefan Ranstrand, the CEO of TOMRA Group. We are here to talk about the third quarter 2019. Together with me, I have Espen Gundersen, our CFO; and we have Bing Zhao, our IR responsible. 
+The quarter was stable, good. We had a growth, around 6% on a group level, partly helped by currencies, but generally good. No big events in the quarter. We had stable gross margins around 45%, slightly improved there. Operating expenses, indicating that we are investing, so they are increasing. We are investing both in collection with ramp-ups and also in the areas of recycling, where we have quite a lot of activities, and I will talk partly about it today. 
+We ended up with an earnings EBITA of NOK 414 million, an all-time high in order intake in Sorting Solutions, predominantly driven by strong order intake in food. 
+We have talked about the market before, and I will go through quickly for you, the big events. So if we look into Collection Solutions, we are operating since inception of the group in the traditional markets. Here, we see a stable environment, both in Europe and in North America. We do have invested quite recently in buildup in Australia, and that is driving the growth in this part of the business, and it's going quite well. 
+In the Sorting Solutions, we have experienced, and we are experiencing good momentum in the recycling sector. Started, can say a couple of years back with the China National Sword, where China said, we will no longer accept waste to be imported into China and countries rather, please take care of your own waste. And we recognized that there was a big underinvestment that has happened in the years when it comes to recycling. 
+And even today, I tell you, recycling, it's to a large degree, not even worth the reward of recycling. There's talk about recycling, but very much is not recycle. It's being burned, it's being shipped, it's being landfilled. So there's a long way to go. 
+So we experienced good momentum in this sector. We will see quarters going up and down, but in essence, it's a strong and robust sector for us. 
+The more troublesome sector, as we discussed earlier, was our situation in food. And again, an outside event jumping into our business or impacting our business is maybe the right word, and that was the trade war between China and the U.S. So I would talk a little bit about that, but I'm glad to report to you that we had a positive development in the quarter. 
+So if I go into Collection Solutions, we have a slight growth in Europe. Nothing eventful. It is replacement going up and down in markets. But as you know, the markets are fairly penetrated. We have gone beyond the replacement cycle in Germany, and we are in a stable, but not negative environment, as you can see. So a slight increase in revenues of about 2%. 
+North America, again, very stable market. We've been operating there for many, many years. It's a high penetration degree. We are well positioned. Our systems are working, and we experience a stable situation, which in itself is a good thing. 
+So the drive is really coming from Australia. We invested in 2017, end of '17, December 1, we went live in New South Wales. That system is up and running. We have about 500 collection points or 1,200 RVMs installed there, and we see continuous improvement in the collected volumes. So there's a really positive development for us. And of course, now as we are established with an organization with infrastructure, additional volume on top of what we have is a good contributor to the system as such. So we are experiencing this growth, and I think we can expect growth for some time more in the state of New South Wales. 
+Queensland, rather small investment. We have about 10 stations there. The system was introduced pretty much 1 year back. It's been also a good development for us, but it's by size, quite much smaller than that of New South Wales. But again, a good system. So we are pleased with our investments we have done down under. And it's far away. It took a lot to do it, but I'm pleased to see that our operations, our strategy to build our position there is working well and it's paying off. 
+European Union, June this year announced their single-use plastic directive. The law was announced. Of course, that is one of the biggest events ever in the Collection Solutions, where it says that by 2025, all European member states have to collect 77% of all the PET bottles, they say. They say also that by 2029, 90% of all plastic bottles being sold in the European Union have to be collected. And every new bottle being produced needs to contain a minimum of 30% recycled content. That's a strong message. It do not only point that you have to collect the objects, it also points that you have to recycle. So the circular economy element is part of this. 
+I would start in another corner of the world, like Western Australia is something we have announced earlier. So Australia seems to be on a path to, so to say, also become deposit friendly. We have seen New South Wales. We have seen Queensland. There is a system in Southern Australia, there's a system in Northern Australia, and now Western Australia is embarking on introducing a system as well. They have gone through the traditional process and are now at a phase in which they are appointing -- they have appointed operator and are starting to prepare for the operational phase by appointing the collectors. We are evaluating this, and we are working on it. So of course, it's close to us. But it's nothing more to say for me on that point right now. We do expect, however, a start mid next year. 
+Scotland has gone through the phase. They have been very clear on that they will introduce a deposit system. Draft regulation was submitted to the parliament after the consultation period in September this year. And they are, as we understand, working on final details of the final legislation and the framework. So there, we expect estimated startup in 2021. We have been very close to that market, we have been running some pilots, so are well aware of the system, and we are curious to see what comes out after the final decision they make in process here. 
+Portugal, in December 2018, decided to publish a law. So quite early here. They have been working on a decree for system. They will run some pilots in the country that will be implemented here. It's announced to be June 2019. So we are curious to see about that. And we, on ourselves, have run some pilots already to test out the ground, and there, we're expecting a startup early 2022. 
+England, again, major market here, have also announced their commitment. They have gone through a consultation process. They have further now launched a circular economy bill, which again will phrase the framework within deposit legislation will fit. So it's moving on in the right way. So this happened in October. So it's, I would say, no derailing there. But yet, we are still waiting for the findings after the consultation process, which has ended, and which they are now evaluating. 
+And then we have the last country, which we can report around here some progress. It's France. Here, the Ministry of Environment went out in June and stated that they consider a deposit return scheme. Here, I understand there's quite a lot of internal evaluation debates going on. So at this point in time, there's really not much more for us to say around that. We really need to observe. And of course, if needed, continue to support them with facts and experiences, which we are -- have collected over all these years. So that's the status of the deposit market development. But again, a positive situation for us in the collection business. 
+Sorting Solutions, if you recall, after the first quarter, we flagged an uncertainty in the food market. We could note that many of our customers in the North American market, in particular, were somewhat concerned about the market conditions. The reason was obvious. There is a trade dispute going on between United States and China. U.S. has been exporting vast amounts of food to China. It's a well-established business. In 2017, one report said that about $20 billion of food was exported to China from United States. That went down in 2018 to $16 billion. So it's a decline from $20 billion to $16 billion in 1 year. And the forecast for 2019 is, I think, $11 billion. So it's a decline from $20 billion down to $11 billion, a decline by $9 billion of exports in a short period of time. 
+Obviously, that leads to an uncertainty. There is a capacity to process. There is a need to sell what has been processed and a big market is disappearing or a significant market, at least $9 billion, is disappearing in a short period of time. 
+We noticed that, that led to delays from our American customers when it comes to investing in new processing capacity. However, having said that, we knew also that there will not be a stop because if you have planted trees for nuts or fruits or if you have planted bushes for berry, you need to process it when it grows up, and we see that coming. So actually, we have seen a positive development in the U.S., that's nice. In addition to that, we have also seen what we did anticipate that China will not stop eating food because -- just because the U.S. is not able to provide them with that. So they would need to look for other sources. One source is to accelerate the food or agri business in China, which we are cautiously or closely following. That's very important for our long-term perspective. Another area is to source from other regions. And here, we have seen, in particular, Latin America and Australia being able to step in and supply parts of what was exported by U.S. to China before. 
+So we have seen in this period now, an improved situation in North America, where our customers have come to a point, well, I can't delay my investments anymore. I still see the uncertainty in the market, but I can't delay. I had to invest in order to take care of the food that's now coming new onboard since new plantations. And we have seen a strong development, in fact, in other markets where they are stepping in and delivering China with food products. 
+Having said what I just now said, I think we should still see that there is an uncertainty around the sector. The new equilibrium, whatever that would be, needs to be found, needs to be developed. But we are ready and maybe it's even an advantage for us. We have a global footprint. When the U.S. customers do not invest as they used to, when other markets have to step in, well, the advantage for us, we are there. Some of our competitors might not be everywhere in the same setup. 
+So that's the market we have here. We do not see a downturn in this market, but I just want to say that we need to observe the development because this trade situation is looming over the industry as such. 
+In the recycling sector, we are experiencing continuously good situation. There are ups and downs. In this quarter, we had somewhat slower order intake in recycling, but that's just how the projects are coming in. Overall, we are positive about the sector. And we continue to invest, expanded our sales force quite dramatically, and we embark on many projects under the umbrella of circular economy. 
+And one of them is our decision to join the alliance to end plastic waste. Plastic waste is one of the biggest challenges we are facing on this planet. This week, here in Austria, there would be an Ocean Conference and plastic is a major part of the ocean challenge we have, next to overfishing and warming waters, et cetera. But the plastic is definitely a big, big portion of that. 
+TOMRA, we do not see ourselves as significantly contributing to the problem. We rather see ourselves as one of the solutions to the problem. By collecting, so like we do now, north of 40 billion objects, bottles and cans every year, we are preventing plastic from flowing into the oceans. So that's one example for how we see that we contribute. But demonstrating how collected material either through our reverse vending machines or through a waste management process can be recycled and reused, we are also showing the industry that there is a possibility to build what we call a closed loop. And that is the concept we are following in the so-called circular economy. Therefore, by being part of this alliance to end plastic waste, which is the biggest initiative in the world when it comes from the industrial side to end plastic waste in environment, we are seeing this as a great opportunity and we're very proud to do that. 
+So there's a lot of drivers to end plastic wastes. We have seen regulating -- regulatory drives like European Union. That's definitely one driver why they introduced that, that is to end plastic waste, the single-use plastic directive. We have a number of thought leaders, if I may call Ellen MacArthur Foundation a thought leader in the context. They are, of course, educating us, showing us facts, using science to demonstrate what's wrong and what can be done, and driving commitments for, for instance, sustainable packaging. 
+We have NGOs, global or local, active in many dimensions. So there are many stakeholders in there, but there's no big industrial initiatives anywhere that can match up and compare to that of the alliance to end plastic waste. The alliance, I can see quite a lot of members being listed here, and TOMRA is being one of them. We are in the executive committee, which is the formal body where we are part of identifying the strategy for how the alliance will work and also defining on which initiatives, which projects should the alliance work towards. And we are clearly very active here. As part of our vision statement to lead the research revolution, we tell ourselves, if we can help these companies, if we can transform these companies to start reducing plastic and finding an alternative way from this linear economy into a circular economy, we are definitely revolutionary. And going actually beyond our own capabilities, transforming other companies and minds into doing this. 
+So I'm really very proud of that, that we have this prominent role and the alliance to end plastic waste will invest -- is committed to invest $1.5 billion in finding solutions to end this problem. It is, of course, important also to show it's possible because plastic is a fantastic material. What is not functioning is the systems and that's what we want to build here. 
+So with that, I just want to highlight, this is an important part of our strategy. So we are continuing to invest in the recycling sector, both in operational matters like expanding our sales in R&D, but also stepping up and beyond the traditional TOMRA landscape in order to build what we call a circular economy and collaborate with others to get there. 
+With that, I feel it's the right time to hand over to Espen, and he will talk about the financial situation and the outlook.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Stefan. As always, let's start with currency. Also this quarter, positive effect from currencies, both the dollar and the euro has strengthened, which consequently has a positive impact on our P&L, which we'll see on the next slides. 
+Please also see that we have slightly adjusted the exposure on the P&L, the other column, meaning not euro, not dollar, is increasing in part as a consequence of more Australian dollar. Not significant changes. But this quarter, we had done adjustment on that one. 
+As Stefan said, 6% growth or 2% growth currency adjusted in the quarter for the group. It's Collection that drives the growth. Sorting is overall rather stable. 
+Gross margin slightly up, increased in both business areas, if you allow us to include this month's, but also increase in operating expenses related to some is currency, but mainly it's about ramp up costs and future-oriented costs as such. Bottom line, NOK 408 million, it's an 18% EBITA margin. 
+Collection Solutions, as I said, representing the growth in the quarter, 5% currency adjusted. Europe or Central Europe is up 2%, which is good. It's been down some quarters now. And now it has turned around, not big figures, but still it's a slight improve in Central Europe. But the significant growth is, of course, when we took rest of the world, which is mainly Australia, both Queensland as well as New South Wales has a year-over-year growth in revenues. 
+Slightly improved gross margin if you include the decimals. Operating expenses is up NOK 24 million ramp up and bottom line 2017, which is actually 22% EBITA margin. 
+The margin in collection is usually highest in third quarter because of the vacation mainly affecting in Norway, and to some extent, Nordic, you don't have the 1-month salary in July and consequently, that improves the margin overall. 
+In Sorting Solutions, stable overall, both when you go down to the business streams as well, meaning both food and recycling is stable. 
+As we have talked about, order intake in food in U.S. has been somewhat slower, and then that we'll also start to see it on the revenue side, 10% down currency adjusted in Americas, but offset by other regions, in particular, Europe and rest of the world, which is Australia and New Zealand. 
+Gross margin slightly up, including the decimals, but also an increase in operating expenses. Also in this area, we have a lot of future-oriented costs, for instance, what we invest in circular economy and part of those initiatives that Stefan talked about, which is also likely have ramped up in collection. We also have some initiatives in this business area that we hope and believe we'll generate further revenues in the future. 
+Looking at the order situation, first quarter with above NOK 1.2 billion in revenues. So it's -- order intake, sorry. Order intake and revenue slightly below NOK 1.2 billion, and consequently, the conversion ratio has been above 1, more intake than revenues. And for that reason, we also see an increase in the order backlog, which ends at NOK 1.4 billion by the end of the quarter. 
+The conversion ratio for fourth quarter is assumed to be between 85% and 90%. As I always said, this is not guiding, it's just about giving you an indication of when we are going to execute upon the order backlog that we currently have in pipeline. We will never send a profit warning if you're outside the range. So that has been said. 
+Balance sheet. We had somewhat slow cash flow in second quarter. Now in third quarter, it's improved again. Okay, cash flow in the quarter, in line with what we have on average in the third quarter, NOK 438, though influenced NOK 68 million with -- from IFRS 16. So if you're looking at the curves, please look at the blue one, the red one is doved by IFRS 16 is not representing apples-and-apples compared to previous quarters and years. 
+Looking at the balance sheet, it's slightly about NOK 2 billion up compared to same period last year. Half of this, exactly, more or less, is stemming from IFRS 16, you see it on tangible noncurrent assets increasing within more NOK 1 billion with corresponding increase in interest-bearing liabilities. 
+So that's (inaudible) 25% round figures is coming from currencies. The remaining 25% is from other balance sheet items are mainly working capital. 
+Inventory is the item that increased most, which is 19% up. There is currency elements here, remember the balance sheet is calculated on the end of quarter figures or current exchange rates. So the dollar is, for instance, up 11% from end third quarter last year. 
+But we have done some strategic decisions when it comes to sourcing. There is some long lead component, up to 18 months actually, which is inventory. So it's also about introducing new products in new markets and you have to build up spare parts, inventories and so on.  So that's probably the main important explanation. And if you go down to the details, you will see a spare part. It's a group that increased more than working and probably there are some unfinished goods. 
+So the working capital is still higher than it was 1 year ago, but it's slightly down compared to end of second quarter, if you adjust for currencies. And consequently, an okay cash flow for the quarter. 
+Bond issue. Today, we have only bilateral loans with DNB or DNB and SEB combined. Going forward, we assume that TOMRA will be more leveraged. We will need more financing and consequently, we need more than 1 source, and we want consequently to introduce TOMRA in the bond market. So this is the first time we do that. It's -- one significant loan is maturing in April, next year. So we see, in general, we have a rather short maturity on the existing loans. So we will, therefore, during fourth quarter, do a bond together with DNB and SEB up to NOK 1 billion and up to 7 years. Exact how much and how long will be depending upon the interest from the investors. 
+It might be a tap on because we are to pay dividends, of course, in May next year. So we maybe not do everything now, do some of this at a later stage. But I think most probably, it will be a combination of 3 and 5, maybe also 7 years, but again, dependent upon the interest and on the terms that we are being offered here. 
+In general, we have a low gearing in TOMRA. Even though we have done significant investments, both in the respect of BBC in 2018, Compac in 2017, extraordinary dividend this year, and also investments in Australia, both New South Wales and Queensland, we still have an interest-bearing debt on EBITA along 1 with the cash flow in fourth and first quarter, this will also continue to go down. 
+Okay. Looking forward, Collection is -- or has the last quarter been very stable; the base business overall, no significant changes. The growth is stemming from Australia. Going into next quarter, the same situation is assumed to continue. Stable in base, some growth from Australia, and we continue to add cost when it comes to ramp-up preparation. 
+We said in the beginning of the year that we would guess NOK 100 million year-over-year increase, and we have been rather stable, around NOK 25 million every quarter also this quarter. 
+So let's see where we end up. But around that, maybe. I'm also going into 2020, one should assume more or less the same situation. Stable in base business, strong growth may be still from Australia. There's no really big new deposit markets opening up next year. I wish there were, but there are more kind of the year after. But okay, Western Australia is out there, it will represent some opportunity, but it's a small state, 2 million citizens. So we will, of course, try to get the footprint in there, but let's see what comes out of that. But I guess, 2020, in that respect, will not be very different from 2019 when it comes to overall performance. 
+Sorting, as Stefan said, it's good momentum in recycling. Somewhat slower order intake this quarter, but overall, we are not concerned about that. I think the momentum in recycling is good, and it's only about timing. Should -- still there is a trade war ongoing, there are some uncertainties out there, but you have also turn on the optimism one notch, so to say. So we are slightly more positive on the development in food compared to what we had maybe 3 months ago. 
+When it comes to the performance in fourth quarter, I've already given you the ranged indication and by that, you should have an idea how the P&L for fourth quarter will look.
+I think that completes the presentation, and we open up for Q&A.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [1]
+--------------------------------------------------------------------------------
+
+          Okay. Just let's start with a question from the audience then. Knut Erik from Kepler Cheuvreux.
+
+--------------------------------------------------------------------------------
+Knut Erik Løvstad,  Kepler Cheuvreux, Research Division - Equity Research Analyst    [2]
+--------------------------------------------------------------------------------
+
+          I just wanted to get your opinion about this debate that has been going on in France, that goes on sort of the recycling versus reuse. I mean there are some fractions I suppose that promotes this reuse concept rather than recycling. And in today's society, with bigger bottling plants and shipping, it's further and further away from the bottling plants. Is it really economically possible to bring it back to talk about the reuse rather than the recycling?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          So in general, you can say that the hierarchies to everybody or the strategy we want to follow and the European Union following is reduce, reuse and recycle. So definitely, reducing packaging, reusing material is ideal. But of course, there are limits. And systems need to be changed. So if you think of a machine or equipment, if you want to reduce a component, it needs to be reducing a new design. If you think if you come to a new era, it needs to be designed in a way that it fits that and this is not always possible. But there are options and we do in TOMRA. For instance, many components, which are used in our machines instead of scrapping them, we take them in, refurbish them and reuse them. So I think the notion is absolutely correct, but it's not going to -- it's not new and it's not going to change the landscape itself. And especially if you go into packaging material, consumer -- post-consumer packaging material, you can imagine, this concept of reuse is not so easy. And you really need to go to the point where people have their own plastic containers and you go to store and filling that one and wash it and refill, but that's quite a long way, I think, from the reality. So we embrace it. It's part of every hierarchical structure. How quick and to what extent this can be implemented is nothing I can answer on, but it doesn't take away the core problem that we need to recycle.
+
+--------------------------------------------------------------------------------
+Marcela Klang,  Handelsbanken Capital Markets AB, Research Division - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Marcela Klang from Handelsbanken. Could you maybe talk a little bit about potential deposit market outside the Europe, such as China. Is anything happening there in the coming 5, 10 years in your view or North America? And what is TOMRA -- how is TOMRA positioned to take part in this?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          Yes, so outside of Europe, the opportunity is there. I should maybe have mentioned, by the way, I missed that the alliance to end plastic waste is putting most of its effort into Asia. That's where we have the biggest inflow of plastic into the ocean. So the area is very, very important. That goes for many emerging markets like Africa and Latin America, too. China has been our focus in the emerging market strategy since quite a long time. We have built a strong presence there. We have some 300 employees in China, serving the different TOMRA businesses, but definitely also the area of container deposit and circular economy is something we focus on in regard of China. 
+Now we also know that the Chinese government with their 5-year planning, that's the framework of how they operate. They lay out 5-year plans. They talk about environment friendly, they talk about circular economy, and there is also words about EPR and about contained deposit, but nothing is set in stone. Nothing is legalized at this point in time. And I don't believe that it would be 1 national system. It will rather be local systems, maybe on the province, maybe starting even with the city. So that's a journey we have to evolve on. 
+Our strategy is to be there. We have even -- we are one of the leaders in the recycling sector in China as we speak. So there, we are strong. We have a joint venture in the collection business. So we are designing products. We are having local service, and we have local sales capabilities in China. So you can say we are ready, and it's important because if it comes, it can become quick and it can become big. So we need to be ready if it comes. And it's part of all the buildups we are doing in operating expenses, positioning ourselves in markets like that. 
+And I'd rather see China as the -- one of the early adopters or something like that because the whole economic system is more advanced. We also see that parts of India have already passed the legislation even on content deposit. We have evaluated there. We've been there, and we are also quite active in India for your information. But we have seen that those systems were not something as they are drafted today that we would be investing in. So those are part of -- yes, we go in and do invest in markets. 
+So we do even take throughput leasing markets, but, of course, we are very cautious when we do it, and we do disregard those markets where we think that we don't have an investment security. So I do believe personally that an area to observe, and for us, strategic important is to try to get something up and running in China. And here, I think if we could establish some pilots, sizable real pilots, they could be instrumental for the region. Because as we speak, a lot of delegations are coming from different parts of the world, to beautiful Norway, to Germany, to Sweden to observe and look into the systems we have established here. But then they go back and realize, well, Norway is not Indonesia or Norway is not India, how do I transform that into -- these concepts into our local, so to say, market condition and society? 
+Therefore, if we could establish something in, so to say, developing world, that would be so meaningful for us. So that's really our strategy even to try to establish something in that part of the world. And I think China is it. So we are prepared. We're investing. We have gone beyond just only being there. We are even doing R&D locally, and we have sales and service established, so we can serve the region. I hope that answers the question.
+
+--------------------------------------------------------------------------------
+Marcela Klang,  Handelsbanken Capital Markets AB, Research Division - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Maybe on the different topic. The strong order intake in food in the third quarter. Was there anything temporary in these special projects? Or could we expect a spillover in the coming quarter?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [7]
+--------------------------------------------------------------------------------
+
+          So I think on the food side, we do see good uptick in the markets outside of U.S., and I think we should expect that to continue to fill the gap, so to say, of supply into China, what U.S. did before. So let's assume that, that market sentiment is positive and remains positive. When it comes to U.S. in itself, I -- we have observed a better quarter now than the past couple of quarters. We see good activity level in tests. And so on, we do have test centers. And by the way, part of our working capital is also our buildup of test centers so that our customers can come in and test. So if I look at these indicators, it doesn't look bad, but I prefer to stay a little bit cautious because it is an uncertainty, and it's -- if you imagine that you have $9 billion of food products, which you need to position somewhere else, it goes into economics, it goes into the investment sentiment. So please accept that we cannot be more precise than that.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [8]
+--------------------------------------------------------------------------------
+
+          I think we continue with a couple of questions from the web.
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [9]
+--------------------------------------------------------------------------------
+
+          We have Martin here. Okay.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [10]
+--------------------------------------------------------------------------------
+
+          Yes. Okay.
+
+--------------------------------------------------------------------------------
+Martin Stenshall,  Danske Bank Markets Equity Research - Senior Analyst    [11]
+--------------------------------------------------------------------------------
+
+          First, about the ramp-up in infrastructure collection of about NOK 100 million this year versus '18. I was wondering if you could please comment on what we should expect in terms of continued ramp-up in OpEx space in next year?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [12]
+--------------------------------------------------------------------------------
+
+          I did not answer on that. I didn't comment on the outlook, and that's because we don't know. Internally, we use more and more rolling forecast now because it's a dynamic world and what we invest in ramp-up is a consequence of those opportunities and the timing of those opportunities out there. So we are currently not prepared to be precise on that. I hope that can be more precise next time we meet because then we are already into that year and we will continue to invest, and it will be over time continue to increase. That's by nature and they get closer to these more significant markets. But how much is unfortunately not something we are prepared to say now because we actually don't know exactly.
+
+--------------------------------------------------------------------------------
+Martin Stenshall,  Danske Bank Markets Equity Research - Senior Analyst    [13]
+--------------------------------------------------------------------------------
+
+          And then if you could please be able to comment anything about what you expect in terms of financing new solutions? So to let's say, how they could be set up in Europe in terms of return to retail or some kind of a leasing model? Are there any indications of what we should expect in Europe?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [14]
+--------------------------------------------------------------------------------
+
+          That's a broad question because there are so many markets. And I'm confident that you will see both traditional sale service markets, and you will see [triplet] markets, and you maybe will see combination of them also and it's -- each process is unique. It's the government, together with the stakeholders in the market at the end decides how to do this. And TOMRA is not something one that there would be large influence in this respect. We can talk about the pros and cons of the different models, but it's up to the government that they have to decide of the models. So I cannot say more than that, I think you'll see both. And I'm -- let's see where we end up because, again, we don't know really.
+
+--------------------------------------------------------------------------------
+Martin Stenshall,  Danske Bank Markets Equity Research - Senior Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Just to follow-up on the question here regarding, let's say, new initiatives or debate in other parts of the world. You talked about Asia, but I'm a bit surprised that we haven't seen more or less, let's say, from the U.S. because of, let's say, strong push for consumers and also what's happening in the political agenda in Europe? Are you seeing any change in the U.S. in terms of how to cope with the plastic problem?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [16]
+--------------------------------------------------------------------------------
+
+          One thing I can say is that we see good activity in the recycling in the U.S. So that's one sign. It's -- one thing is to collect, but at least apart from the littering problem is to handle the waste you have collected through curbside or house of waste collection. So that we see when it comes to new CDLs, I don't see that there is anything major on the agenda for right now. Of course, we have been there for so many years. We're always observing and monitoring, but there's no major developments there right now.
+
+--------------------------------------------------------------------------------
+Eivind Sars Veddeng,  DNB Markets, Research Division - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Eivind Veddeng, DNB Markets. Two questions. Just one on the working capital, there's been some concerns in the market, I would say, lately, regarding growing inventories, receivables in connection with the situation in the U.S. I was wondering if you could add some light on that from your perspective from -- because when I do the math, I don't really get it to add up. So it would be interesting to hear your comments on that one? 
+And also, secondly, on Australia, it's been 2 years. How does the market look versus your initial business case?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [18]
+--------------------------------------------------------------------------------
+
+          You said you don't manage to make it add up, meaning you don't feel that our explanation is good? Or the other -- concern from other ones is good.
+
+--------------------------------------------------------------------------------
+Eivind Sars Veddeng,  DNB Markets, Research Division - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          No, I just wanted to hear your comments on how do you see the inventory situation. It will relate to the U.S. on the receivable situation?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [20]
+--------------------------------------------------------------------------------
+
+          Yes. Okay. Working capital is fluctuating. We have an increase in both receivables and inventory as we point out that I also touched upon in the presentation. Inventory is the one that increases most, 19%. I mentioned the 2 most important drivers, which was spare parts, long lead times in that respect. And also new products in new markets. 
+Overall, we are not very concerned about the situation. It's -- it is very seldom, it's hard to produce a machine without having a customers for it. And if we sometimes do, where we are in standard modules, more we start to produce on. So when you start the production, you know what customer that's going to have this machine. So it's not an exposure in that respect. So maybe that's some of the concern. So it's been somewhat higher now than it was 1 year ago. But we have been on this level historically also. So it's is fluctuating. And I'm not prepared to promise it will go significantly down, but I think there are reasons to believe that we managed to do better in the future also. 
+On the receivable side, it's again fluctuations around the norm, which is not today very much outside what you have been historically doing. Maybe some regions, some specific order with slightly different payment terms, but the overdue in general has not changed at all. So I think, again, at least from our side, we are not concerned about situation.
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [21]
+--------------------------------------------------------------------------------
+
+          May I just fill in the few words on that. So we have 2 businesses, right? We have the collection business, where we don't have a lot of long-term orders, except for if we have a new market like New South Wales, where it's clearly, how you get this order, and you deliver 1,100 machines. So it's very much a sales and service model. So if you think of any market like Germany or so, we are, so to say, waiting for a call up. We are working with some clients, some retail chains. They might make a frame agreement with us and say, look, for this year, we anticipate to buy so and so many machines. We agree, based on that on a pricing and then it's really up to each and individual stores when they will execute. And that can come with fairly short call-off time sometimes. So we actually do maintain some kind of base inventory level of standard machines as Espen said, so we are ready to supply in. I tell you that's even helped us in some cases to gain markets because, suddenly, the customer have a product. They want to do something. They have not communicated so well in advance, so suddenly they are needed quickly, and we're ready to deliver and that's an advantage for us. So that's actually part of the model. There's no big fluctuations here, it's -- unless you have a big replacement rates like we had in Germany, then we have to think a little bit more advanced into it. Otherwise, it varies a little bit up and down. And so -- but there's no indication of any different momentum here, and that's how we operate. 
+In the Sorting Solutions, it's actually different. Here, we are not producing as a standard. So it's not like we have a factory always producing a lot. We are very lean. We have a lot of suppliers. There are some components that are more sensitive. We notice that some electronics and some sensors, we actually need to buy in advance to be ready because we noticed a capacity shortage in the supply. But again, this is quite small, but it's that we can even think long term, 6 months, 12 months to make sure we have the components when they're needed. 
+And here, we are normally, before we even accept an order, we have a down payment on the order. And before we produce, we have a clarity on that -- this, we have the down payment and we have the shipment. It could be that we have produced, and the customer might be delayed. So we can be sitting a couple of months more in our store ready to be produced, and that can affect our revenue. And of course, working capital, but these are natural fluctuations. But the important thing is to -- don't think that we are, so to say, standout producing and putting a storage. And if the working capital goes up, it is a sign that now something is going south here. It is so that we are producing against an order. And before we start producing, we even have a down payment. So that's really -- I think we could explain it that way. I hope it helps.
+
+--------------------------------------------------------------------------------
+Eivind Sars Veddeng,  DNB Markets, Research Division - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Second question was on Australia (inaudible)
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [23]
+--------------------------------------------------------------------------------
+
+          Sorry. Can you repeat the (inaudible) Australia question.
+
+--------------------------------------------------------------------------------
+Eivind Sars Veddeng,  DNB Markets, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Yes, it was on Australia. It's been 2 years. I just wanted to ask you how it is versus your business case initially?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [25]
+--------------------------------------------------------------------------------
+
+          It's doing good.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [26]
+--------------------------------------------------------------------------------
+
+          (inaudible) from Anaxo Capital. It seems the strong order intake in food in the U.S. in Q3 was a result of pent-up demand or the catch-up bottle effect, if you like. Can you say anything about -- to what extent was that? And have you seen this continue into Q4?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [27]
+--------------------------------------------------------------------------------
+
+          I think I can say what I said before, and nothing more. What we can see is that we have a continuous high activity level in our test centers. So we see not -- it was not a single moment. We see that there is high inquiry level out there. So that's more than that, we can actually not say.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [28]
+--------------------------------------------------------------------------------
+
+          Okay. Just one more question, and then we need to start on the questions from the web.
+
+--------------------------------------------------------------------------------
+Unidentified Analyst,   -     [29]
+--------------------------------------------------------------------------------
+
+          Sorry for taking up time. I got one question about the T-9 and if I remember correctly, you produced -- you started to market the T-9 series, well before the German replacement race begun so that you capture that market that increased your market share. Now we're seeing a lot of new markets opening up in Europe, the T-9 has, let's say, it was wed in and started to sell, let's say, back in 2013. And let's say, by the time new markets open up, that will be 7 years old. So my question is then should we expect you to sell the T-9 into new markets in Europe. I just know gain on back of the fact that you have a well-running platform or product series? Or should we expect you to actually to maybe launch a new one to really have an edge over new competition may be seeing large markets opening up?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [30]
+--------------------------------------------------------------------------------
+
+          Yes. So the question was are we fit for the future with our technology in a way, and especially with upcoming European markets? So what we can see going forward is that we will see more demand for smart city solutions. So that's a sector we look into. That was not so much in the past. So if you take London, for instance, that is a different density of people, then you have find in any of the cities in Germany. So that's one element. We are also seeing that we are facing different types. So take New South Wales. It's not identical to the traditional store landscape, which we have in Norway or Sweden or Germany for that matter. So we are more having outdoor solutions and parking lots that are more like -- yes, bigger actually in the capacity to store. So there are hybrids coming up. So our strategy is really to work on serving the different sectors, and we have developed a common module of technologies that are applied in the different sector. What we also see more, maybe you dream of a new T-9, maybe you have to think more software also for the future. So we see also that as an element where we add more value, not by hardware, but by more intelligent data usage and the consumer knowledge and so on. So actually, I think the traditional way of looking at the product development is shifting to a broader set of solutions and also to a different type of combination of hardware and software. 
+For us, it's important that we can scale this. So we have focused on delivering modules that can be used in different applications, like you know, we have done in Sorting Solutions all the years that we have a standard set of components that we use in different ways. But that, we actually increased our flexibility. You can call it the platform technology, which we have embarked on since a couple of years back, giving us flexibility. Of course, the ring, like the core novum, with a T-9 was actually the in feed. The ring is continuously being developed. And it's -- but it's still well protected and still state of the art in its functionality.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [31]
+--------------------------------------------------------------------------------
+
+          And we start with 2 questions from Thomas [Southuwe]. So the first one, I think you touched upon, so we can be short. But still, can you say anything about future introduction of container deposit systems in Asia?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [32]
+--------------------------------------------------------------------------------
+
+          I think we elaborated on that. So we move on to the next question, please.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [33]
+--------------------------------------------------------------------------------
+
+          Yes. So the next one would be, could you also say something about the recently announced container deposit system decisions in Latvia and Malta?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [34]
+--------------------------------------------------------------------------------
+
+          Would you like to step in, Espen? So we don't get one voice here.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [35]
+--------------------------------------------------------------------------------
+
+          Yes. No, it's definitely some markets in Europe that works on deposit. Let me rephrase it. It's actually no market within EU that doesn't -- one way or the other is looking how -- into how this should be compliant with the single-use plastic directive. And the deposit is, as you know, the best and maybe the only way to reach those targets. So there are markets, which maybe is not on our slide here, which is working on this. And those markets mentioned are also markets with bid processes. Malta is just the one that's the closest, which maybe we'll introduce already within 1 year's time or something. But it's a small market. We have a distributor there. We are not present itself. So -- it represent some opportunities, but still a chain in a regular market will be bigger than the [multiseal] opportunity. But of course, it's a market, and we will be there, I will try to capture it, but it's more than the big context.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [36]
+--------------------------------------------------------------------------------
+
+          Thank you. And then we continue with several questions from Mikkel Nyholt, Carnegie. I think this one, we also discussed, but I'll read it. Could you elaborate on your procurement activities and the fluctuations of the inventory?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [37]
+--------------------------------------------------------------------------------
+
+          I think we have talked about that in 2 rounds now. Yes.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [38]
+--------------------------------------------------------------------------------
+
+          And then elaborate a bit on the OpEx builds currently ongoing? Is it manpower, a state equipment or lobbying representation marketing that drives the most? Is that all fixed or some variable?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [39]
+--------------------------------------------------------------------------------
+
+          It's a lot about people, and it's a combination of investments in the markets, meaning investment in people, getting feet on the ground in those markets that are closest to materialize and educating them and also get them connected into the processes we are working on. But there's also about people centrally on R&D and sourcing and so on to be prepared for the ramp-up and the new opportunities. So we are -- also have the back office in order. So it's a combination.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [40]
+--------------------------------------------------------------------------------
+
+          And a follow-up. With all these build up and still long until new large deposit markets open, how much can you cut costs to work towards your 18% margin target?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [41]
+--------------------------------------------------------------------------------
+
+          Yes, it's -- if you start to talk about collection and collection are on 18%, it's actually on 22% this quarter. So -- and then it's -- the 18% group target is at the end of the period in 2022, 2023. It's food that needs to improve the margins to get there. And when it comes to cutting cost in collection, it will be a very shortsighted strategy to do that. And we really need to invest to be prepared for all of those opportunities out there. So I don't think that's a very relevant question when it comes to collection really.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [42]
+--------------------------------------------------------------------------------
+
+          Thank you. And then next question on the EU single-use plastic directive. What could prevent all EU member countries to opt for a deposit system before 2025?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [43]
+--------------------------------------------------------------------------------
+
+          Well, the European Union, I think, has been very firm in their legislation. So I think -- it's not a debate ongoing on that. That was heavily debated before it was launched, the SUPR, the single-use plastic directive. There was a long debate process. And actually, they altered the outcome of it. So I think today, we have to assume that, that's well and good with the different member states and in different instances in the European parliament. 
+Therefore, I take that more or less as a given that it will be implemented. So I think what we have to observe. Now there will be some early adopters. There will be some later adopters. But I do assume that all other members that will come out within a period of time of 2 years with some kind of concept of how they will do implement and reach the targets. And that is to be seen. But we see that there are discussions ongoing in many places. We only communicate the ones where we feel that we -- there is a substance, and there is a progress in the process where we've got some real formal commitments in order not to create an uncertainty or high [peer], which is beyond what we are able to communicate about. So we are -- by tradition a bit, I would say, conservative in our communication. But for sure, we have invested also part of the OpEx buildup. We have invested in more people to be out and consult. We don't talk about lobbying, but we talk about consulting, sharing on know how, sharing our experiences, demonstrating up and running systems, also guiding on what is the right design of the system and so on, because it all looks different for different market conditions. So we are active in that, but I don't think we can clearly say more than we are at least positive about the future here.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [44]
+--------------------------------------------------------------------------------
+
+          Thank you, Stefan. On Sorting Solutions, could you pinpoint a bit deeper on what kind of companies and industries that are driving the growth? Is it public authorities, small and local corporates or bigger and global conglomerates that have raised their activities?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [45]
+--------------------------------------------------------------------------------
+
+          Right. So if I start with the recycling, which we are on a longer-term growth here really, it was a quarter with low order intake, but I think we were clear on that. We don't see this as a change in momentum. The momentum is there is good. Here, we are serving -- we see demand increase in all geographies. And we see demand increase in all the sectors we serve. So it's nothing pointing out, and maybe that gives a rather stable situation in the recycling business momentum. 
+When it comes to the food sector, we are serving everything from smaller packers, smaller growers all the way up to the big conglomerates, which are the big brands. I don't see here either a shift or difference. We have some areas, like in the potato sector, we have experienced in the past, they go a little bit in cycles, almost. So they are quite massive investments when you go invest in say, new french fries facilities, quite big and one time. And in fact, we even see it sometimes on the sector. Last year was quite active there. This year is a bit less active. It's more decoupled from the market sentiment. It's more actually following the cycles of the producers in that regard. So it coincides to be negative for us when we had the other uncertainty, but that's just how it is. But beyond that, we see good momentum in most sectors. And then, of course, the food is a real-life sector is not constructed. So if you have a bad year, a bad crop, it will affect the business. So -- but that's -- that we would always need to know. But of course, it's not global, it's more regional or local fluctuation. So I think -- I hope that answers the question.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [46]
+--------------------------------------------------------------------------------
+
+          Yes, indeed, Stefan. And then a question from Doug [Taycosette] also on the new deposit markets. Government bodies in Malta, Slovakia and Lativia have announced upstart of collection systems. Any comment from TOMRA? I think we already touched upon Malta and Lativia and then it's...
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [47]
+--------------------------------------------------------------------------------
+
+          Same for Slovakia.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [48]
+--------------------------------------------------------------------------------
+
+          Yes, follow-on with a question from Pete [Moon]. How well is TOMRA positioned in case of no-deal Brexit? Can a no-deal Brexit create additional business opportunities for TOMRA in respect of increased sale of plastic sorting machines in a sense that U.K. cannot export plastic to Europe with a profit?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [49]
+--------------------------------------------------------------------------------
+
+          Yes. So when it comes to Brexit, of course, we have evaluated the opportunities and risks with that and more focusing on the risks, obviously. So U.K., number one, is not a major market for us. So we are actively, we're recycling. We are active there with food. Until now, we have no collection business there, really more than that we are active in preparing for it. So there is -- the way we can see less downside risk when it comes to our businesses, we have ramped up our inventories a bit to be able to provide spare parts if there will be a trade disruption, and you cannot import anymore. So that we have done as a precaution. So then, of course, when it comes to the further investment sentiment in either the food or recycling business, there I have to pass because we're really -- it's difficult to predict how the situation will evolve or erupt, if you have a no-deal Brexit.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [50]
+--------------------------------------------------------------------------------
+
+          Very clear, Stephan. And then a final question from Thomas [Southuwe]. Could you comment on the new partnership with Marel?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [51]
+--------------------------------------------------------------------------------
+
+          We -- I don't know. Yes. So Marel is the leading supplier of integrated solutions for processing of meat, poultry and fish. It's an admirable company based in Reykjavik, Iceland. And culturally, they are very close to us. Same kind of thinking, same kind of approach and it's long term. We evaluated together with them the opportunity to corporate. TOMRA has since a number of years, served the meat market with our QVision technology to a mixed success. So if you say mixed rather than not very successful, we have recognized that the sector do not want to be served with a machine, the sector is rather looking for whole integrated -- an integrated solutions. But we do have the strong technology. We have an edge here. So a frustration, you have the machine, but you cannot place it. Marel being the #1 and a highly respected company in this sector, has been evaluating, how do we -- what is our core technology, what is our core focus. And how do we become leaders also in the sensor side, which is an important part in both sorting and also analyzing the produce. So as a result of our 2 challenges, we came together and discussed, can we do something better together. And the ambition is that Marel is using TOMRA technology in their processing lines. And we, as TOMRA, do not serve the meat market directly. So that's now a transition phase where we step out from direct serving the market and will -- with the platform of Marel serve it indirectly. 
+So you can -- like you saw in the old computers, Intel inside on a computer, it's our technology inside of their platforms. That will be their, so to say, branding. And it would be a labeling of TOMRA on it, but not -- we are not the primary business partner of all the customers there. I have big hopes on this. We are very committed to this. It's an excellent way for us to serve a market, which we really don't have the know-how and the power to serve because we missed so much components, and we are not in a -- so to say, pole position for doing that. So we do not embark on that. And on the other hand, we are very pleased that our technologies -- we can leverage our strong technology base and continue to build on our concept of scaling our R&D investment. So that is really where we want to go. And we have big hopes, and we are very committed to this corporation.
+
+--------------------------------------------------------------------------------
+Bing Zhao,  Tomra Systems ASA - Director of IR & Strategy    [52]
+--------------------------------------------------------------------------------
+
+          Thank you very much. Do we have any more questions from the audience? Okay. If not, then we conclude this presentation. Thank you all for coming, and thank you for listening into the webcast.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

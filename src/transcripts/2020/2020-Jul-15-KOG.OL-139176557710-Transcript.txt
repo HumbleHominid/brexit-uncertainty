@@ -1,0 +1,268 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2020 Kongsberg Gruppen ASA Earnings Presentation
+JULY 15, 2020 / 6:15AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jan Erik Julseth Hoff
+   Kongsberg Gruppen ASA - Group VP of IR
+ * Geir Haoy
+   Kongsberg Gruppen ASA - President & CEO
+ * Gyrid Skalleberg Ingerø
+   Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and welcome to the presentation of KONGSBERG's results for the second quarter 2020. The results will be presented by our CEO and President, Geir Haoy; as well as Executive Vice President and Chief Financial Officer, Gyrid Skalleberg Ingerø. (Operator Instructions) 
+So with that, I'll leave the floor to Geir Haoy.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Jan Erik. Good morning, and welcome everyone on the call, and thank you for joining us today. As you know, COVID-19 is still very much an issue, and that's part of why we are doing this webcast. Here in Norway, we are fortunate that things seem to have become more normalized, allowing us to gradually return to office, of which I'm very glad, of course. But we know that this is not the case for all regions where KONGSBERG operates. There is still a high uncertainty on the way forward. And unfortunately, we do not know the answer to how the situation will develop. To handle some of the uncertainty, KONGSBERG is preparing for different scenarios. And as we have seen so far, we are able to adapt and to stay ahead of the curve.
+This has been a very special first half year. And I would like to use the opportunity to thank all my almost 11,000 colleagues for the way they have handled the situation and their impressing efforts during this ongoing pricing. Every one of them in every part of the business have been doing extraordinary work, and because of this, we have been able to run the business and combat the coronavirus so far in a good way. And let's not forget, KONGSBERG -- we did this -- and let's not forget, we did this as a new KONGSBERG after integrating almost 4,000 new colleagues from Commercial Marine and Kongsberg Aviation Maintenance Services. This makes me extremely proud to be a part of the KONGSBERG team.
+That said, KONGSBERG does not operate on our own. Our partners, our customers have met the situation together with us with great engagement and focus on finding solutions. We have also, together with our industry partners, been in close dialogue with the governments in several countries, actively promoting relevant projects and other initiatives, which can be accelerated and thereby mitigate some of the economic effects of COVID-19. One example -- and here, I would like to thank the Norwegian government for the funding of a new research vessel to the Norwegian Institute of Marine Research. This is an important project for the maritime cluster, which is badly affected by the situation. Of course, we are hoping for more of the same, that projects, which are ready to be put into execution mode, are accelerated for value creation, generate activity, build competence and secure jobs.
+Gyrid will come back to the details there, but let me take some key numbers. The order intake of approximately NOK 6 billion in the quarter. I'm extremely proud and happy to be able to report a book-to-bill of above 1. This is mainly driven by the sensors and robotics, Remote Weapon Stations and our composite production at Arsenal. And I think this underlines that KONGSBERG is a diversified group. And even without many significant single orders, we are able to deliver a solid order intake in a challenging time and in a challenging market.
+When it comes to the revenue, as we saw in the first quarter, our defense business is steady even under these circumstances. With a strong backlog, we are confident that we're going to see growth in KDI going forward. In our maritime business, the aftermarket has been positive, the last quarters, but now we see somewhat slowdown in the aftermarket, which is affecting our revenues. Also, we see that certain upgrade project, the scope is reduced where customers are settling for must-have only. So in general, I would say it's a more challenging maritime market.
+We delivered a strong quarter. We are delivering EBITDA close to 13%. And particularly, the margins in the defense area were especially high this quarter, especially due to a good -- especially due to good project execution in KDI, but I would also say, in general, very good operational performance across the entire group. And again, thanks to all our employees for outstanding work.
+We have continued to have high focus -- cost focus. We delivered on our cost initiatives. Some of these cost initiatives are short term and due to the COVID-19 directly. We have stopped less -- some of the less critical projects internally. We have done some temporary adjustment on the capacity and, basically, a full stop in travel. We also have some more sustainable long-term savings. I think we are going to see change in the travel pattern going forward, and we definitely see also that there will be more remote and -- remote support and services.
+I'm also pleased to see that we continued to deliver on the value capture program. Savings of the second quarter here was NOK 160 million. It takes us to -- year-to-date, we have now delivered NOK 295 million. I'm, therefore, very confident that we will at least deliver according to what we have communicated earlier an annual cost reduction of NOK 500 million.
+We have also signed some very important strategic agreements. The MOU that we signed with Boeing in the second quarter for the maintenance of the P-8, and we have also signed a teaming agreement with Patria for delivery of the turret mortar solutions for future U.S. Army mortar programs. And we have also done 2 acquisitions. These are smaller acquisitions, however, not less strategic important, one for KDI and one for KDA. And I will come back to this later in the presentation.
+Last quarter, I said that we are expecting more COVID-19 effects on the results going forward, which is true for this quarter. I said KONGSBERG is a diversified group with business areas operating in markets which are different from each other. Our defense business came into 2020 with a very strong position, and this is still the case. And we have also signed some significant contract in Q2 despite the current situation. The first one is the RWS to the Canadian Army. We have signed this with General Dynamics, where we're going to deliver the remote -- protector remote weapon stations at a value of NOK 500 million.
+We have signed -- or BAE Systems has selected KONGSBERG to deliver the MCT turret for the U.S. Marine Corps' ACV program. This is a down-selection. That means that there is no more competition, but the contract is still not signed.
+There's a very strong order intake in the F-35 program, the composite components. We have signed a contract with Northrop Grumman for NOK 800 million. And we have also signed air-to-air pylons with Marvin Engineering for approximately NOK 140 million.
+But it was not only the defense signing contracts, KONGSBERG also in this quarter strengthened our digital position. KDI concluded a NOK 250 million contract for delivery of the real-time data aggregation and visualization software. This is the largest single contract KDI has signed since the establishment in 2016.
+There were also many highlights for the maritime business even in a challenging period. And I will, here, give a special credit to KM, the new KM, for successfully realizing multiple cross-sales opportunities. We have multiple cross-sales in the LNG sector -- in the LNG market in the shuttle tanker area. We have also had success with cross-sales in the subsea area, where we have sold one particular LARS system to one good customer. We have signed HUGIN contract, and we also have a significant MMO contract with -- for Hydroid, where we're going to do an upgrade of the fire and gas systems there, approximately NOK 100 million.
+With a risk of repeating myself, I must say that I'm very impressed with our performance this quarter. Our customer, our partners and, not least, my colleagues have demonstrated great adaptability during the period. And I think the Q2 shows that we have so far been successful in carrying out our tasks and dealing with a challenging -- challenges related to the COVID-19 outbreak.
+For the maritime business area, despite challenging market and restriction related to COVID-19, the maritime business area delivered good financial results. With offset by multiple cost initiatives and solid operation, we delivered an EBITDA of NOK 267 million and an almost 8% EBITDA. I think this is better than what we anticipated when we entered into the second quarter. But here, we are, of course, monitoring the development in the new building and aftermarket closely.
+For the digital business area, we are continuing to gain momentum in the energy area and -- where we also then signed our larger contract ever for the digital business. For the dynamic Digital Twin, Kognitwin, so-called project that we delivered to Shell Nyhamna, the number of user license has gone 5x from 50 user license to 250 user license in the quarter. And I think that -- proving that our solution creates value for our customer. So on the positive side, we see that our digital solution can provide our clients with significant savings. On the other hand, we see that some have decided to set everything on hold due to the current oil price.
+KDI have also concluded a bolt-on acquisition and have acquired COACH Solutions. And this is to broaden our digital portfolio related to the connected vessels.
+I have already talked about the contract we have signed within the defense area, but I will underline that they are strategically important for us and represent significant potential going forward. We have also concluded the acquisition of Patria Helicopters in Bardufoss, and this is to consolidate the helicopter MRO business in KDI and KAMS. By this, we can now offer a one-stop MRO support to the NH90 for the Norwegian Army and Air Force. And again, I'm satisfied to see the organization managed to deliver results -- such good results despite the situation. I think it shows the strength in our organization.
+So although we are maneuvering some rough waters for parts of the business, other parts are doing quite well. Due to the COVID-19 situation, we, unfortunately, had to temporarily lay off some of our competent colleagues. But lately, we have managed to recall a significant number and for KDI -- KDA, all employees previously laid off are now back in operation. And we are, of course, working every day to continue this trend.
+We have also restarted our recruiting campaign, which we launched end of last year, and this is to continue our planned ramp-up and to be able to deliver on our defense backlog. And we are now especially in -- searching for about 100 software developers or engineers, among others.
+I mentioned the acquisitions. And I guess, contrary to many that -- what many would do during a situation such as the COVID-19 has created, KONGSBERG acquired 2 companies in the quarter: one for our digital business and one for our defense area. Both our acquisitions -- both acquisitions are strategical moves and in line with our ambition to strengthen and expand our digital frontrunner position in our core market and also our position within maintenance, repair and overhaul in the defense segment.
+The COACH Solutions is a software-as-a-service company, providing commercial shipping fleet with an entry-level vessel performance software solution. This allows users to increase fleet performance by reducing consumption of fuel and other consumables, saving costs and time on the operation of their ships. The COACH Solutions is complementary to the KDI's Vessel Insight product range, targeting the low-mid end market, while the current Vessel Insight target upper mid to the high end market.
+For the Patria Helicopter acquisition, KONGSBERG has systematically taken steps to increase our MRO ability and competency within aviation platforms. With a minority share acquisition of Patria back in 2016, following by the acquisition of AIM in 2019, which is today known as Kongsberg Aviation Maintenance Services, KAMS, our MRO competence has increased substantially. And this is leading to signing of strategically important agreements with the Norwegian Air Force and continues -- strongly contributes to support their operational needs and also increase their combat readiness.
+Since we established our presence with Bardufoss in Norway last year, we have drawn upon the capability of Patria Helicopters, especially their competence with NH90 helicopters. The Patria Helicopters has now been renamed to Kongsberg Aviation Maintenance Services Bardufoss, and (inaudible) Bardufoss is the key hub for the Norwegian air defense helicopter operation. So it's a great pleasure for me to welcome even more resourceful competent colleagues to the KONGSBERG team.
+I will not spend too much time on the COVID-19 today. So as I already said, although we, in Norway, feel a relief of the days becoming more normal, we do not take the seriousness of the global situation lightly, and we are paying daily attention to how this is developing. We are unwavering our #1 priority. That's the safety and well-being of our employees. This comes first, along with protecting our business and deliver to our customers. Of course, I'm satisfied to see that employees in some regions can gradually return to office and that we can welcome back to work a number of colleagues who have been temporarily laid off, but we are not letting our shoulders down completely. We are represented in 40 countries, and the circumstances people and businesses must relate to every day varies greatly. We continue to engage proactively with the governments to promote value-creating initiatives and activities. And we have seen positive results coming out of ours and others' efforts. Of course, we continue to hope for more here.
+While the crisis put strains on the entire organization, we have also gained proof of our adaptability, determination and the increasing relevance of our digital offerings. We have learned that we can do many of our tasks in different and more -- even more efficient way working remotely and collaborating via digital platforms to a wider extent. I think one good example is, a couple of weeks ago, KONGSBERG organized its first-ever company-wide digital town hall meeting, where we invited all our 11,000 colleagues, and I must say that, that was a very positive experience being able to reach out to the entire organization at once. And I think this period has shown us that -- and we feel all that we are even more connected than ever before. At the same time, many of us probably have learned just how much we cherish the discussions you can have with the colleagues next to the coffee machine. However, these are all experience that we will take with us and learn from when we all are adapting to the new normal.
+And by that, I will invite my excellent CFO, Gyrid, and she will take us through the financial results.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Geir, and good morning, everyone. I would first like to extend Geir's thank you for the impressing effort all my 11,000 colleagues have put in over the past months' extraordinary situation.
+To keep up the work remote, to have focus on contract deliveries and, at the same time, be able to build financial strength have given us a solid second quarter and also a first half year of 2020. The Q1 figures were only, to a limited extent, impacted by COVID-19 situation. In the second quarter figures, we can see some clear patterns on the order intake and revenue in maritime, and that some projects have delayed, affecting the top line in defense somewhat. At the same time, COVID-19 has helped us to put the spotlight even more on cost efficiency and the new ways to solve challenges. The cost reduction year-on-year is amazing. On top of the value capture program for integration of Commercial Marine, KONGSBERG has NOK 150 million in cost reductions that can be directly linked to COVID-19 actions that was early put in place. 
+If you look at the financial result for the second quarter, you can see on the slide here, if you start with the order intake. This quarter, we had a lower order intake than Q2 last year, down by 35%, but still we delivered a book to bill of 1. Second quarter last year, we had some large orders like NASAMS Australia in defense and Awilco in maritime.
+Geir has already mentioned important orders, but even without any significant single orders, we are able to deliver a solid order intake of more than NOK 6 billion in a challenging time in a challenging market. Also, we can see that certain upgrade projects that's -- the scope is reduced, where customers are settling for must-have only. In general, it's a more challenging maritime market. But we had -- while we had NOK 336 million in cancellations in Q1, we had no cancellations this quarter. And on top of that, Kongsberg Digital delivered the best quarterly order intake ever on NOK 428 million this quarter, which gives a growth in order intake in digital of 25% with a book to bill of 2.
+Moving on to the revenues. KONGSBERG delivered flat revenue this quarter combined with a decrease of 6% in maritime, a minor increase in digital and a growth of 10% in defense. Even with 10% growth on the top line in defense, the business has suffered somewhat on revenue recognition from delays in deliveries, but we expect that to catch up in the third quarter.
+Regarding our maritime business, the aftermarket has been on a positive trend for the last quarter. But now we have experienced a slowdown, especially on the spare volume. Spare volumes are down by 25% compared to monthly revenue in first quarter and all divisions in maritime experienced some slowdown on the top line except from sensor and robotics. The first half year of 2020, KONGSBERG has delivered NOK 12.7 billion in revenues compared to NOK 9.5 billion last year, a growth of 34%.
+We delivered an EBITDA of NOK 772 million this quarter with a strong margin of 12.9%, up NOK 330 million from the last year. In the EBITDA for the second quarter, we have booked NOK 23 million in the integration and restructuring costs, while we last year had NOK 85 million on the same items.
+Several factors have contributed to a strong profitability in the second quarter. Focus on project execution, operational excellence and efficiency, and travel restrictions have forced us to find new way and more efficient way to work. Assessments have also been made on the remaining cost for deliveries of air defense projects, which have resulted in higher margins in the defense area. Focus on project executions has been #1 priority. We entered into 2020 with a record high order backlog and to be able to deliver on that, project execution will continue to be the key. But the main contribution to uplift the profitability this quarter is the combination of cost control from COVID-19 initiatives in all business areas, combined with a strong ongoing value capture program in maritime.
+The first half year of 2020, KONGSBERG has delivered NOK 1.4 billion in EBITDA compared to NOK 824 million last year, a growth of NOK 600 million year-on-year or 72%. NOK 462 million in EBIT, up from NOK 127 million last year. We now have complete comparable figures year-on-year, as the Commercial Marine transaction had closing 1st of April 2019. No extraordinary items on EBIT this quarter.
+If we look into the order backlog and the order intake, almost stable order backlog, down with NOK 400 million from last quarter due to currency effects, but still a strong order backlog of NOK 33 billion. Out of the order backlog today, NOK 10.7 million will be delivered already this year. With focus on project execution, this will be transferred into revenue during 2020. If we add on the revenue from the first half of the year, we have already NOK 12.7 billion. We end up at the year-end with a top line of NOK 10.7 million added on NOK 12.7 billion with NOK 33.4 billion for 2020. On top of that, you can add on revenue from the aftermarket with a slowdown around NOK 1.5 billion each quarter that will give you a good guidance. Last year, we had a revenue of NOK 33.3 billion in revenue, excluding Hydroid. So we still see growth in 2020.
+Cash flow development. We entered this quarter with a cash at bank at NOK 9.54 billion, with proceeds from -- on NOK 3.6 billion after the closing of Hydroid late March. The investments this quarter of NOK 250 million is mainly due to expansion of our aerostructure factory, which is actually one of the main contributors to increased activity for KONGSBERG. In digital, we have also closed a bolt-on acquisition and acquired COACH Solutions, as Geir mentioned.
+Cash of NOK 772 million from the second quarter EBITDA and increased working capital of NOK 800 million. But I want to bring to your attention the working capital, which has an underlying reduction in trade receivables, while the increase mainly consists of changes in trade payables and other liabilities.
+In our cash position as of June 2020 of NOK 8.6 billion, you should also be aware that we have NOK 2.4 billion in prepayments from customers, and the cash also includes almost NOK 1 billion in tax related to the Hydroid sale that has not yet been paid. With uncertain times ahead, we are, at the moment, comfortable that we have a solid position to meet the next quarters while we monitor the development regarding COVID-19.
+Working capital. This is probably one of the KPIs that show hard work from the whole organization during COVID-19 months. Since March, we have had focus on measuring 3 KPIs: daily cash control, outstanding on trade receivables and quality in order backlog. In maritime, this quarter, trade receivable had a reduction of NOK 774 million. We have not seen major challenges with customer payment during the second quarter, but follow-up on payments from customers are still #1 priority.
+The focus from the organization in maritime to deliver on the working capital has, as you can see from the slide, been high on the agenda. In defense, we received several payments from customers throughout the first quarter. NASAMS Qatar was the largest one with NOK 1.4 billion. We still have a negative working capital of 16% at the end of second quarter in defense.
+Some more details on the maritime. Kongsberg Maritime got NOK 3.9 billion in new orders this quarter with a book-to-bill of 1.02. This is 22% decrease in order intake. Order intake in maritime had cancellations of NOK 336 million first quarter but had no cancellations this quarter. And the value of the order backlog is still NOK 12.1 billion. Out of the order backlog, you can see on the right-hand side here, it's -- out of the order intake of NOK 3.9 billion this quarter, sorry, the aftermarket accounted for 43% of the new orders. That is up from 34% in second quarter last year. And out of the order backlog of NOK 12.1 billion at the end of the second quarter, NOK 5.67 billion will be delivered in 2020. In the first half year, maritime has delivered a revenue of NOK 8.3 billion. That gives a run rate so far in 2020 of NOK 14 billion before we add on the aftermarket.
+A decrease in revenue offset by good operating performance with increased profit and margin is the key in maritime. Maritime had a decrease of 6% on the top line this quarter, and all divisions have seen reduced operating revenue. If you look at the first half year of 2020, Maritime has an increase of 40% or 7% increase if we include Q1 pro forma revenues from Commercial Marine. Maritime delivered NOK 267 million in EBITDA this quarter with a margin of 7.1%. In the first half of the year, maritime has implemented several action plans to reduce the financials and operational effects on COVID-19. Furthermore, cost in relation to travel has been minimal since the start of the pandemic. In total, these savings amounted for more than NOK 100 million up on top of the savings from the value capture program.
+The EBIT margin is up to 2.2% from a negative EBIT last year. Q2 last year was the first quarter with integration of Commercial Marine, and here, you can clearly see the picture of the turnaround case.
+We have been monitoring the value capture since we did acquisition of Commercial Marine. As you know, we measure annually effects, and for the first quarter this year, we had an annual effect of NOK 135 million. Positive effect for the second quarter is NOK 160 million, and that gives a total of NOK 295 million in the first half of this year. And KONGSBERG is on track to meet its target while delivering NOK 500 million in savings by end of 2020. That's on top of the COVID-19 cost reductions.
+The most intensive ongoing task in the program now is restructuring of the Deck Machinery division.  485 employees have now left KONGSBERG in connection with this program; and 18 out of 20 locations are closed, 15 of them through [cool] location, and 3 have been exited 100%. There is [NOK 17 million] left of the integration cost that we had initially [framed] on NOK 450 million. This is mainly cost related to legal setups.
+Some more details on the defense area. Decreased order intake compared to second quarter last year and continued high order backlog. In the second quarter last year, we had 2 large orders for NASAMS Australia and F-35. Order intake for those 2 last year was in total NOK 2.9 billion. While NASAMS and F-35 orders were main drivers last year, aerostructure together with LARS system have been main drivers for new orders this quarter.
+Book-to-bill for the quarter is below 1 with 0.89. NOK 4.6 billion of the order backlog will be delivered this year. Defense has already booked a top line for the first half year for almost NOK 4 billion. That gives a run rate of NOK 8.6 billion at the moment compared to a revenue of NOK 7.2 billion last year. Delays can occur in deliveries in terms of supply chain, and travel restrictions can influence and delay new negotiations. Otherwise, defense has seen limited financial impact of COVID-19 year-to-date.
+Revenue growth of 10%, driven by several large programs on air defense system, F-35 programs and the CROWS programs. Defense suffers somewhat on revenue recognition from delays in deliveries, but we expect that to catch up in the third quarter. For the first half year, defense have a revenue growth of 24%. Defense delivered NOK 474 million in EBITDA with a margin of 23.6%, which is extremely strong. NOK 715 million with a margin of 18.1% for the first half year is also very strong. Focus on project execution, combined with cost focus related to COVID-19 and focus on efficient and increased deliveries from the large order backlog has given a solid financial performance in this quarter from the defense area. EBIT margin are up compared to second quarter and explained by the same contributors as cost focus and project executions.
+So let's look at the outlook for the next year.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Gyrid. I think when we -- looking ahead, I think the most certain factor is that there will continue to be uncertainty in all the markets. And I think also that KONGSBERG's activity and results will continue to be affected by the pandemic. In parts of the world, governments are easing up on the restriction, while other parts, they are as tough as ever. It's also worrying to see that regions who have opened up are closing down again due to the flourish of the virus. There is also uncertainty related to the development of the oil price going forward and -- which will affect investment level in several segments. But one cannot rule out that this may also provide opportunities in other segments where KONGSBERG has strong positions.
+Good project execution, in general, and particularly, in one certain air defense project partly explains the extraordinary good results for KDA this quarter. We expect this to continue and positively impact also the results in the next quarter as well. In the defense, we have maintained operation at a relatively normal level. And although some delays may occur, business is quite steady. In several quarters, we have shown figures of the significant potential ahead related to nondefense programs. And so far, we cannot see that this has lessened significantly as a result of the current situation.
+The maritime market has been challenging for a longer period, partly due to the low vessel contracting, in general. The trend has continued into 2020 with no immediate improvement in sight. However, our maritime business is also exposed to market not directly affected by the vessel contracting, partly offsetting the impact on our maritime order intake.
+Our Digital business has invested significantly in establishing new as well as strengthening existing positioning -- positions related to the digitalization of core areas. A decline in oil companies' investment level, both due to the COVID-19 and the current oil price may, of course, affect our order intake for the digital business. Nevertheless, consequences of the current situation emphasize the needs for and the strength of the Kongsberg Digital and the remote solutions that we are offering.
+In general, KONGSBERG is overall an ocean expert, and we have technology to transfer into a more sustainable future. And I firmly believe that we, as a company, have the product, solutions, services and the technology to stay relevant in this market and to make a difference to people, customer and the society overall.
+Finally, I'm very confident that we will come out of this situation strong -- as strong -- as stronger and even a more unified company.
+So by that, thank you for listening in on our presentations. And then I will like to invite Gyrid back on the stage, and we can open up for some questions from the webcast.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [1]
+--------------------------------------------------------------------------------
+
+          Yes. We have a few questions from the webcast. First, a question from Sveinung Alvestad, Arctic Securities. 
+You have a substantial amount of cash in the balance sheet, and you delayed an extraordinary dividend of NOK 10 per share. Any news on this or the announced share buyback program?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [2]
+--------------------------------------------------------------------------------
+
+          Of course, financial strength, it's key in uncertain times. We have ongoing -- or our Board has ongoing discussions on that one. So we will come with an update when we release the 3Q figures on that one.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [3]
+--------------------------------------------------------------------------------
+
+          And then a question from Lars-Daniel Westby, Sparebank 1 Markets. 
+You say in your presentation that the aftermarket was impacted by COVID-19 in Q2 and year-to-date, revenues from global customer support and services account for 42%, up from 39% in Q1. With increased share of revenue from global customer support and services and your comments in the report that aftermarket order intake fell particularly towards the end of the quarter, how could this affect the margins in maritime for the remainder of 2020?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [4]
+--------------------------------------------------------------------------------
+
+          If you look at the aftermarket, there was an increase, like I said, from 34% of the total last year to 43% this year on the second quarter. And in terms of the slowdown that we see in the aftermarket, it has mainly been on the spare parts at this time. And we believe that all our customers still will need services, and they will also have new way of work on the remote services from the aftermarket. In terms of the margin, they are somewhat affected on the currency, which have been quite positive for us. So if you see a very much stronger Norwegian krone, it will affect somewhat. But in terms of the margin in total, we try to make efficiency of everything we do, and then we need to have more focus on the cost control and how we deliver the services we do.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          I think maybe I'd add here that we see a decline, as Gyrid said, in the spare parts, but this will also -- we have seen it before that this is also varying throughout the quarters. We see also that customers are now going in for dry dock for upgrades. So I think, in general, as we said, we are changing the way we are supporting our clients, and that should also help us to maintain margins when it comes to support and services by the remote solutions that we have established with many of our customers.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [6]
+--------------------------------------------------------------------------------
+
+          Second quarter -- from Mr. Westby. How much of the NOK 100 million savings within maritime in Q2 is short term? And will better project execution in defense and aerospace affect the second half and lead to 20%-plus EBITDA margins in the second half as well?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [7]
+--------------------------------------------------------------------------------
+
+          I can promise that we have tried to calculate that how much is short term and how much is long term. What we are trying to isolate is how much is related to COVID-19 efficiencies and how much is related to the value capture and also ordinary cost focus. So in terms of that, I think that we have to come back to the split on that one. But it's obvious that a spotlight on cost that we have been able to put throughout the months with COVID-19 had a very positive effect on KONGSBERG. So some of that new way, the new normal, as we call it internally, we will be -- have some benefits from that going forward also. He also has one question on the margin in defense.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [8]
+--------------------------------------------------------------------------------
+
+          On defense -- will the positive effects that you saw in defense lead to these high margins in the second half of the year as well?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [9]
+--------------------------------------------------------------------------------
+
+          I should wish, but I think 24% in defense is a bit high. But, of course, we will see some increase in the margins from the point that we had on the Capital Markets Day last year, where we have 15% to 16%. We will see a small uplift from that going forward, I think.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [10]
+--------------------------------------------------------------------------------
+
+          And then a few more questions. One from Mr. Kenneth Sivertsen, Pareto Securities. 
+Could you please provide an update on the potential Qatar vehicle program?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+          Yes. The program in Qatar is continuing. We are -- obviously, we were -- we had to bring some -- our people from Qatar back to Norway when the COVID-19 crisis appeared. We expect that we will have people back on the ground, I would say, maybe beginning of September. That is at least the plan. But we continually have dialogue with the clients, and we are continuing working on the program. And there is, I would say, no signs that this program will be delayed or even stopped. So I would say the good dialogue is going very well. Obviously, in this type of program, it's difficult to say exactly what the timing should be for conclusion of such a program.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [12]
+--------------------------------------------------------------------------------
+
+          And a question from Christopher Møllerløkken, Carnegie.
+The margin in defense and aerospace indicates a clean EBITDA margin around 16%. This relates to the question you were asked earlier, Gyrid. And would those 16% be a fair assumption for the margins within KDA going forward?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [13]
+--------------------------------------------------------------------------------
+
+          Yes, I think so, at least.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [14]
+--------------------------------------------------------------------------------
+
+          The final question from [Frédéric Touissant].
+Can you provide some more color on the strong order intake at Kongsberg Digital, the type of deliveries, if it's new or existing customers, et cetera?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [15]
+--------------------------------------------------------------------------------
+
+          Yes. We -- obviously, we are not able to say anything about the client here. This is, I would say, an existing customer, and we are providing digital real-time data solutions for some of their assets. It's not so much I can say about it further than that this is truly, I would say, underlying that digital solutions in the current situation is really giving savings to that type of operation.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - CFO and Executive VP of Legal, Compliance & Property    [16]
+--------------------------------------------------------------------------------
+
+          What is also quite interesting here is when you see that all companies have to have focus on investments, our remote services is coming high on the agenda. So we have a lot of dialogues around that.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [17]
+--------------------------------------------------------------------------------
+
+          That was the final question from the webcast.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [18]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, and I wish all of you a continuous good summer. Hopefully, the weather will be better also in Norway. Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

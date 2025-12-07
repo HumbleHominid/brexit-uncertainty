@@ -1,0 +1,606 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2021 Kongsberg Gruppen ASA Earnings Presentation
+OCTOBER 29, 2021 / 6:15AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jan Erik Julseth Hoff
+   Kongsberg Gruppen ASA - Group VP of IR
+ * Geir Haoy
+   Kongsberg Gruppen ASA - President & CEO
+ * Even Aas
+   Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability
+ * Egil Haugsdal
+   Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Maritime
+ * Hege Skryseth
+   Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital
+ * Gyrid Skalleberg Ingero
+   Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property
+ * Eirik Lie
+   Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [1]
+--------------------------------------------------------------------------------
+Good morning, and welcome to the presentation of KONGSBERG's third quarter results. 
+After CEO Geir Haoy and CFO Gyrid Skalleberg Ingerø have presented the quarterly highlights, we will give you a deep dive into KONGSBERG's ESG focus and our targets. Over the past few weeks, we have met with customers as well as discuss the topic of ESG together with our top management. The deep dive will follow directly after we close the Q&A session. Questions for the Q&A session can be submitted through the webcast and will be answered at the end of the presentation. 
+With that, I'll leave the floor to CEO Geir Haoy.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+Yes. Thank you, Jan Erik, and welcome, everyone, to this third quarter presentation for our results. I hope that many of you also will watch the ESG session, which Jan Erik just referred to. 
+For parts of the world and most of KONGSBERG business, things are starting to normalize. For other parts, restriction due to the COVID-19 are still affecting the society and business operations in general. However, our results today supports our claim of being able to steer through these rough waters on a steady course forward. Unnecessarily to say, but I'm extremely proud of our teams and all of my colleagues around the globe. And yet again, I want to underline that I have a strong confidence in the company and our prospects going forward. 
+But before we look at some of the highlights and the results for the quarter, I'd just briefly touch upon some significant events which took place after the closing of the third quarter. 
+A week ago, we announced a contract with the Norwegian Defence Materiel Agency, or Forsvarsmateriell in Norwegian. Here, we are to supply the Joint Strike Missile, the JSM, for the Norway's fleet of the F-35 fighter aircrafts. This is a contract valued at almost NOK 4 billion. The partnership between KONGSBERG and the Norwegian Armed Forces and the Norwegian Defence Research Establishment, in the definition, development and test of the JSM has been a critical factor in developing a missile with such advanced capabilities. The development of the missile has been ongoing since 2008. And this contract completes development and test, and we enter a full rate production phase. This program secures employment and business for KONGSBERG and our extensive supply chain partners for many years to come. 
+Also, at the beginning of October, the U.S. Marine Corps awarded a contract to Kongsberg Protech System U.S. to deliver remote weapon systems as part of the Marine Air Defense Integrated System, so-called MADIS program. This frame agreement has a potential value up to USD 94 million, and it follows a contract which was awarded in September 2020 with the U.S. Marine Corps for KONGSBERG to be -- to test and verify the interfaces in the U.S. Marine Corps.
+Then let's have a look at the figures. KONGSBERG continues to deliver strong results and performance throughout the entire organization also in the third quarter. Our growth is profitable, the revenues are increasing, and we have achieved an EBITDA of NOK 1.1 billion and also a solid 17% margin. Those of you who have followed us through some periods knows that we are somewhat careful with the adjectives, but a record is a record. And this time, it applies to our order intake of NOK 15 billion in the quarter. 
+All our business areas contribute to the order intake. It's mainly driven by the industrial cooperation we have entered into with Germany for the delivery of the ORCCA combat system elements to the submarines and also to deliver Naval Strike Missiles to both the Norwegian and the German Navies. 
+On the maritime side, we see higher activity especially within the offshore wind segment, contributing to our order intake. The majority of the offers that we give today are related to offshore wind, and I will come back to some more details on the next slide. 
+However, this is showing how we are starting to take a firm position in this growing and a sustainable market, where KONGSBERG contributes both with expertise and technology to the entire value chain. Also, we are continuing our upscale of our digital activities with a continued rollout of our ship to cloud solution, the Vessel Insight, and our digital twin solution, the Kognitwin, increasing revenues of Kongsberg Digital by 20% during the quarter. 
+KONGSBERG has a great ambition when it comes to reducing our climate footprint. Therefore, we have committed us to setting a target according to the Science Based Targets initiative. The aim is for 2/3 of our suppliers by spend to do the same within 5 years. The commitment entails targeted work to reduce the group's greenhouse gas emission and also our climate footprint. We will share more about this in the ESG session later today. 
+Now I think it's time to have a look at some of the contracts signed in the quarter. We have, as usually, signed quite a few agreements in Q3, so I'll only mention some of them. The submarine and missile contract has a combined value of NOK 8.2 billion. This is an important and strategic milestone which further strengthened our foothold in Europe and create value, activity and innovation for decades to come. Also, this puts us in an exclusive position for future deliveries over our combat system to marine systems, submarines programs globally. 
+I mentioned the growing offshore wind market, and we are very pleased to have secured another substantial delivery through COSCO Shipping Offshore for the Denmark-based service provider, Cadeler. Here, we will deliver our industry-leading technology package for 2 wind turbine installation vessel. And this is a contract valued at EUR 49 million. Our integrated solution here will be crucial to the delivery and also the operation of these new vessels. And it confirms our leading position in advanced offshore wind vessels globally. 
+We have also signed a contract with VARD shipyard. This is to supply our comprehensive and integrated system solution, which also includes our latest permanent magnet thrusters. This is for installation of 2 new offshore wind farm and maintenance vessel. And the construction service operation vessels are to be built by -- build for Rem Offshore. And it will make the shipping company the first in the world to install the PM thruster package of this size from KONGSBERG. 
+We have also signed several agreements in the quarter for our digital business area such as with ExxonMobil to install and evaluate our dynamic digital twin, Kognitwin. This is a contextualized digital twin solution containing dynamic simulation and collaboration capability for a new asset in ExxonMobil's Guyana portfolio. 
+We have also signed another new customer committing us to deliver of 2 digital twins. And we have also signed agreements with the Olympic Subsea. We have signed agreement with Güngen and also Island Offshore to roll out the Vessel Insight on these companies' entire fleet. 
+There also have been good activity within the space segment. Kongsberg Defence & Aerospace has signed a contract with Thales Alenia Space to deliver antenna mechanism technology to the new radar observation system for Europe. This is a part of the Copernicus program, the European Union's global monitoring of the environment and security. 
+And then we are also very pleased that KONGSBERG have signed an agreement with Lockheed Martin Aeronautics to supply horizontal and vertical tails for the F-35 program. And this contract is worth NOK 122 million. 
+Just one second. There is something wrong with my -- yes. Okay. Here we are. 
+I already said quite a bit about the offshore wind market already, and so I will try to not repeat myself. What I will say is that the demand for product, systems and solutions supporting a more sustainable maritime industry puts KONGSBERG in a very good position. We deliver an extensive portfolio, enabling our customers to optimize operation, increase energy efficiency and reduce emission and also then for them to really step up their sustainable efforts. 
+For example, we have been working with COSL Drilling Europe and drilling equipment provider NOV to reduce expenditure and emission in drilling operation. This has proven very successful with a 25% reduction, that we now have signed a third rig with COSL in the quarter. 
+Another customer that we will deliver turnkey solution to is the Siem Offshore, where we will supply an integrated propulsion, electro and automation package for Siem's eco-friendly bulk carrier. This is a gas-powered ship which can be fueled using either zero-CO2-emission LBG, liquid biogas, or conventional LNG. 
+However, offshore wind is not the only Maritime segment that we see more positive trend. Also the aftersales market is developing positively, and we are seeing substantially increased activities related to the new-build market within -- and also within the Sensors & Robotics. 
+Earlier this quarter, we moved into new and bigger facilities for our marine robotics assembly operation in Horten. And this is due to several -- to the growth over several years. And it demonstrates an increasing demand within the segment of autonomous underwater vehicle as well as unmanned surface vehicle. The USV segment is an exciting and also a promising market going forward. I think this will optimize how we conduct ocean survey unmanned and autonomously with 0 emission in combination with the AUVs. I'm also very pleased to announce that we have signed our first contract for HUGIN Superior. And we have also, so far this year, approximately NOK 1.4 billion in gross sales following the acquisition between Kongsberg Maritime and Commercial -- the acquisition of Commercial Marine. 
+For our defense area -- business area, we are doing well. As I think we have understood, we have a record-high order intake, and the order backlog now is at 30.1 -- NOK 31.2 billion. Significant activities related to both missile production, weaponization for the CROWS program and several NASAMS air defense programs and also continue of deliveries for the F-35 program. 
+I think execution is a keyword for our Defence business in this quarter, and it will also be that going forward. We are not only securing contracts, but we are also delivering on them. We are now reaching full production rate for many of our programs. And all parts of the organization are contributing to -- in this with determination and hard work. 
+Also, we are seeing good activities within the Space segment. And this is a segment where a lot of interesting things are happening. Not only are we delivering technology to the 2 next-generation European operational metrological satellite system, we are also contributing to the new high-priority Copernicus radar observation system for Europe as a part of the Copernicus program. 
+And the Norwegian Parliament has given the green light for Andøya Space satellite launch site in Norway. This is an important milestone for Norway and KONGSBERG. We have been a partner with Andøya Space for decades, and we believe this launch will open up for new industrial and commercial opportunities. 
+On our digital area, we are experiencing increased demand as well both for the digital twin solution, the Kognitwin, and also our ship to cloud solution, Vessel Insight.  The Vessel Insight rollout has been slightly slower than we expected, but we are now seeing a positive development for 2021. And recently, we signed 3 fleet contract for the Vessel Insight, among others. 
+As many of you know, we have been working closely with Shell International in the last years -- year, where we have digitalized their assets. Now we are also entering into a strategic partnership agreement with Shell International Exploration & Production to collaborate and accelerate digital solution and transformation for the well delivery and performance. 
+Also, we have secured several proof-of-concept agreements for test and evaluation of our Kognitwin with different owners -- ship owners and application partners. 
+The Maritime Simulation segment is also picking up after experienced lower activity due to the pandemic. Now it's opening up, and we have secured several contracts, I think 4 contracts, this quarter. So we are very pleased to see that we are turning the curve also on the Simulation business. 
+Then I will leave the floor to Gyrid to take us through the financial figures.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [3]
+--------------------------------------------------------------------------------
+Thank you, Geir, and good morning, and thank you for listening into our 3Q webcast. Next time, we will see you in person. That will be good again, I think. 
+Geir has already touched up on the main financial highlights for the quarter, a record-high order intake and 17% EBITDA margin. In addition, I have to mention the continued strong growth in Defence and 15% EBITDA margin in Maritime. 
+Main focus this quarter has been to secure contracts to increase the order backlog, search for opportunities in offshore wind, use all possible ways of logistics to secure deliveries of components, hunt for new employees and to ring-fence the OpEx gain we have experienced from COVID-19 period. We also see a continued healthy return on capital employed, development up to now 28.7% at the end of 3Q, also this time driven by increased operational performance. 
+So then look into the figures. KONGSBERG had an order intake of NOK 15.3 billion this quarter. This is more than 3x the order intake in Q3 last year and gives a significant uplift to our order backlog. The main driver is, of course, the submarine and NSM contract to Norway and Germany that we have signed in July. But I'm also very pleased to see a book-to-bill of 1.3 in Kongsberg Maritime for the quarter. So far in Q4, we have already announced a close to NOK 4 billion contract with the Joint Strike Missile, meaning that we have secured strong book/bill also for the next quarter, the fourth quarter. This, combined with the positive trend and the growing order backlog we now see in Kongsberg Maritime, it gives room for optimism. 
+Book/bill year-to-date is 1.5. And our backlog has grown to NOK 44.9 billion during the quarter. The large backlog gives strong comfort in the short and medium term. In addition to what is secure in the backlog, we have aftermarket business in Maritime, where most of the orders are not reflected in the backlog. The same applies for the recurring revenues in Digital as well as the order backlogs we indirectly own through our associated companies. 
+With regards revenue, we have seen an aggregated growth of 7% compared to Q3 last year. I will come back to the details, but the majority of the growth comes from Defence. I'm also very pleased to see good growth in Digital this time by 20%. 
+Last quarter, I said that optimism and willingness to invest was slowly coming back in the maritime industry. This trend has continued in the third quarter, and we saw it in the order intake that I just talked about, and we will see it in the revenues from the aftermarket during the quarter. Close to NOK 6 billion out of our current backlog are for deliveries already in Q4, meaning we have already secured growth for 2021. Looking beyond this and into 2022, we have already secured NOK 17 billion for deliveries next year, corresponding to some NOK 14.9 billion a year ago, meaning prospect for continued growth next year are excellent. 
+We delivered an EBITDA margin of more than NOK 1 billion with a 17% EBITDA margin during this quarter. This is NOK 130 million or 1.2 percentage points higher than last year. Kongsberg Maritime has 15% EBITDA margin, and Defence, as we have promised last quarter, continues to stay about 20%. 
+Despite only limited quarter-on-quarter growth in Maritime, the business area managed to improve the profitability level substantially driven by both full year effect from the Value Capture program, a positive development in gross margin and still lower OpEx from COVID restrictions. Aftermarket accounted for 51% of the revenue this quarter and contributed to more -- to a more preferable project mix. 
+The level of traveling is gradually normalizing, and people have, to a great extent, moved back to their offices. We expect a slightly higher cost level going forward due to that the situation is now normalizing. That said, we have full focus utilizing the experience we have gained over the past 1.5 years to see how the company can benefit efficiency-wise by utilizing some of the new ways of work. 
+And then the cash. The cash flow in the third quarter shows high cash conversion from operation. We have managed to keep the working capital at more or less the same level. And the movements in other cash items are normal but minor. We have NOK 6.5 billion in cash at the end of this quarter, out of which NOK 1.7 billion is prepayment from customers. 
+We are currently running a share buyback program that will continue into 2022. We started the buyback in mid-August and had by the end of the quarter bought back approximately 220,000 shares for a total amount of NOK 53 million. 
+Then over to Kongsberg Maritime with an excellent book-to-bill, of course. Kongsberg Maritime won orders of NOK 4.9 billion in the quarter and continues the positive trend we have seen so far in 2021. This applies to a book-to-bill of 1.3, which is a good signal for the future. The order backlog is now NOK 12.9 billion, which is 13% increase compared to a year ago. 
+The order intake in 2020 was NOK 15.9 billion, and currently, the running 12 months order intake are at NOK 17 billion. From the chart to the left here, you can see trends over the last 5 quarters increasing the comfort also for growth next year. Order intake in Maritime will still fluctuate driven by large single contracts. But looking at Q3 also, when excluding the major orders, book-to-bill is above 1, another signal for a positive trend in that market. Out of the order backlog of NOK 12.9 billion, NOK 2.7 billion are for deliveries already now in Q4. This is below the level we had a year ago, and it is a clear result of the low contracting we saw in the market during the first COVID quarters. And then again -- and without that, KONGSBERG is a light cycle -- late-cycling company. Increased ordering we have seen in 2021 are mainly affecting then our 2022 deliveries. 
+And then last time, I had a slide about the aftermarket, so I wanted to also provide that one with you for this time. Last quarter, I mentioned that the aftermarket business fell by 20% from Q1 last year to Q3 the same year. The aftermarket is an important driver for both growth and profitability in Kongsberg Maritime. And in the third quarter, the Global Customer Support division accounted for 51%, as I said, of the revenue but also close to 40% of Maritime's order intake. So it's a very key contributor. It is therefore good to see activity from the previous quarter continue, and that activity from global customer support area is up by 16% compared to the cycle low level from 3Q last year. 
+Over the past quarter, we have gradually seen that both traditional service as well as sale of spare parts have increased. We also see a drive for upgrading vessels toward hybrid and more environmentally friendly solutions. Even though many industries, including maritime, face bottlenecks such as increasing commodity prices and component shortage that might influence negatively on new building, we also see positive signs such as increased shipping rates in several markets. Typically there, it's LNG and the container market. Increasing rates in some markets is leading to higher profits among many different kind of ship owners like for bulk and for container. In the end, this leads to ordering of new builds, and new builds are up this year. That's an evidence. 
+The positive drive with regards to offshore wind is also an area where Maritime over the past years have proved to have a strong position with several major contract wins. From the pie chart on the right side, you can see that orders from offshore wind and Seaborne and Pax adds up to close to 50% of the new-build orders so far this year. 
+Despite relatively low quarter-on-quarter growth in Q3, the underlying activity trend is positive with increased activity within areas with short lead time from order to delivery such as aftermarket, as I just mentioned. Deliveries on new-build projects in the quarter are somewhat low, but this is mainly due to the low level of contracting we have seen especially over the first quarters of COVID-19. We have seen from the contracting so far in 2021 that this will improve going forward. 
+Maritime delivered NOK 560 million in EBITDA this quarter with a margin of 15%. The margin is driven by a favorable project mix and also confirms the saving we have managed to obtain through the integration of Commercial Marine. The challenge going forward will be to obtain the cost level and utilize the experience we have gained with COVID also from future -- for future processes. 
+In addition, we see the situation with the component storage affecting our industries, not only maritime. We are following the situation closely and doing measures wherever we are able to. I think it's a common challenge for everyone. 
+So let's look at Defence. Defence continues to grow. The backlog and with the NOK 10.3 billion order intake in the quarter, the business area now has a backlog of NOK 31.2 billion, corresponding to 3 years backlog at current levels. NOK 3.1 billion of the order backlog are to be delivered already in Q4, meaning that we are at a record-high Q4 when it comes to revenues and at around NOK 10 billion for 2021 for a full year. The huge increase in order backlog have grown by close to 50% so far in 2021. Execution of this backlog also requires more resources, and the business area has hired about 100 new employees since we released the second quarter in July this year. 
+Q4 has also started well when it comes to the order intake for Defence. Last week, we announced a NOK 4 billion contract with Norway for production of the Joint Strike Missile. This is an important milestone for us as Norway has been the main driver and funder of development of this missile back to -- since 2008, actually. 
+Defence continues with double-digit revenue growth and 20%-plus margins. The revenue of NOK 2.3 billion are 17% higher than Q3 last year. It is high activity throughout the business area especially for deliveries of CROWS to U.S. Army, components to F-35 Joint Strike Fighter as well as for several NASAMS programs, where the largest one now is still the Qatar program. The top 15 projects announced accounted for 67% of the revenues this quarter. 
+Reported EBITDA in Defence was NOK 461 million, actually down by NOK 12 million compared to Q3 last year. But keep in mind that Q3 last year, we reported NOK 150 million in positive special items, showing that underlying, we have a very solid improvement also this quarter. 
+Last quarter, I promised you continued growth, strong margins from Defence. We delivered 20.4%, and the prospects are good for the coming quarters as well. However, keep in mind that we currently have been delivering on a favorable project mix in Defence, so you should not expect margins at this level over a long cycle. The component situation that I also touched upon talking about Maritime is also an area of major focus for Defence. Even though we have managed to navigate the situation so far, we have close dialogues with our supply chain and have taken recourses with regards to critical parts. Despite this, we believe that the EBITDA margin for Defence for 2021 as a whole will remain at the same level as for the first 3 quarters. 
+And then some words about Kongsberg Digital. With regards to Kongsberg Digital, we're pleased to see that the business area now are growing both in revenues as well as in recurring revenues. NOK 221 million in revenue correspond to 20% increase compared to Q3 last year and 23% increase in recurring revenue, signals that Digital is now growing on the right KPIs. 
+As Geir mentioned, we have signed up 3 new fleet rollouts for Vessel Insight during the quarter. These are not necessarily affecting the P&L immediately but build comfort around Digital going forward. 
+With regards to digital twin, the area are developing healthily. Maritime Simulation have been an area that have faced major challenge during COVID-19. In Q3, we have once again seen positive signs with regards to the simulator market. And Maritime Simulation are in Q3 reporting growth both in revenues and in order intake. 
+Kongsberg Digital are currently putting a lot of effort into scaling up the business both in terms of employees and investments. Recruitment on new personnel is ongoing, and number of employees in Kongsberg Digital have increased by approximately 10% during the last quarter. 
+Continued strong efforts are also put into sales campaigns. And even though we do not really see the financial effects on an aggregated level yet, the operational KPIs are now really moving in the right direction. 
+And then what you probably are very curious about. With regards to the process around the future state of Kongsberg Digital, we are moving forward and still considering on both partner models as well as potential listing to realize the full potential of Kongsberg Digital. 
+So with that, let's have a look at the outlook for the company. So Geir? Thank you for listening in.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [4]
+--------------------------------------------------------------------------------
+Thank you, Gyrid, for enlightening us on the financial achievement for Q3. Let me see here if I can get this -- there. There we are. 
+Yes. So what Gyrid just has shown you in lines that it's every reason to have confidence in KONGSBERG both when looking at our performance and also our financials. For the group, we have a sound balance sheet and an impressive order backlog of almost NOK 45 billion at the end of Q3 2021, of this which we expect to deliver on NOK 6 billion during Q4. We believe in a positive market development going forward even though challenges in supply chain and other uncertainties linked to the pandemic may impact our markets. 
+Our defense area has delivered a very strong quarter and are ideally positioned for significant international programs. The high level of activities contributes to future growth for the group overall. 
+It's known that the maritime market has seen some challenging -- challenges during the last periods, but there are grounds to say that we are moving in the right direction. The higher level of activity in some segment with the increased rate of new builds being contracted provides increased optimism. However, we are monitoring closely development of the raw material prices and its possible impact on new contracting. 
+We are continuing our investment in our Digital business area, where we have and had and still have aggressive progressive -- aggressive growth plans. When it comes to the digital twin, the growth is progressing as planned. And with regards to the Vessel Insight, we have seen that decision processes and the rollout have been somewhat slower than what we aimed for a few years ago. But there are several reasons for this. But the shipping market in general has been weak for several years, and also the COVID-19 has also hit this market hard, leading to many shipowners postponing investments. However, the positive developments we have seen in several Maritime segments has also turned out positive with regards to the Vessel Insight. 
+So to conclude, I'm very satisfied with the quarter. The group continues to deliver strong results, performance and also profitable growth. And then combined with a record-high backlog and strong industrial position, I have a positive view going forward. 
+So thank you so much for listening in. Now I will open up for the Q&A. And Gyrid, you will join me for that.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [1]
+--------------------------------------------------------------------------------
+Yes, we have a few questions from the viewers. The first questioner is [Ludwig Kelder]. How do you expect global supply chain issues to impact Kongsberg over the next 12 months?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+I think as both Gyrid and myself expressed is that we are concerned about overall supply chain and especially on the component side. We are monitoring this very closely, and we are taking actions. We have been taking actions early, and we are continuously monitoring and taking actions where we can take actions. So unless we will see this lasting for, let's say, a long period, I think we will handle this in a good way. But obviously, if this will continue 12 months or more, it will also have an impact on KONGSBERG.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [3]
+--------------------------------------------------------------------------------
+As I said also, we are hunting for all ways to do the logistics, and we are asking the same question internally to try to monitor all the way. But it's a challenging situation for all companies, I think, today.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [4]
+--------------------------------------------------------------------------------
+Okay. Second question, how do you expect the new IMO requirements that becomes effective in 2023 to impact within KM in the next couple of years?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+I think, first and foremost, that will, of course, be good for the climate. But that will also open up opportunities, which we already see. In fact, there are ship owners already investing in hybrid solutions and also consider other means to take down their emission. So I think this regulation coming into effect in 2023 will be positive for our, let's say, technology solutions. So it's good for the climate. It's good for KONGSBERG.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [6]
+--------------------------------------------------------------------------------
+Thank you. And then a question from Hans-Erik Jacobsen, Nordea. You seem to guide for somewhat lower margins within KDI for next year, 2022. Given the very high order backlog and the positive outlooks, why will margins be down next year?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [7]
+--------------------------------------------------------------------------------
+I think as I said, the new order that we got now last week of NOK 4 billion for the Joint Strike Missile with Norway, for example, will have lower margin in the long run than the project mix that we see today. So when you have a higher missile -- a lot of missile projects, then that will make a pressure on the margin. But you also see that a higher order backlog from the Norwegian Defence are a pressure on the margin in the long run. So today, we have a very favorable project mix, and that will not continue over years. But at least for the next quarters, I think it will be very positive.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [8]
+--------------------------------------------------------------------------------
+Thank you. And then a few questions from Kenneth Sivertsen, Pareto. Congratulations with another stellar quarter and impressive order intakes. The KM, Kongsberg Maritime, guidance for 2022 indicates margins above the current levels. That's above the previous guidance. Is this driven by increased sales and service requirements? And am I understanding it correctly?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [9]
+--------------------------------------------------------------------------------
+I don't think we have guidance to the margin on Kongsberg Maritime at the moment. What you saw now in this quarter, we have 51% of the revenue coming from the aftermarket, which is normally a very favorable mix. We also have approximately 20% from the subsea market. And that's also a very profitable mix in terms of the revenue in total. And we have the full year effect of all the cost efficiency program that we have had earlier. But we have not said anything about the guidance on Maritime. We still have 13% at end of 2022. But we will come back with the guidance on the whole company when we are releasing the Q4 figures and looking into the next year.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [10]
+--------------------------------------------------------------------------------
+On KDI, order intake seems to be a bit below sales during the quarter. How do you -- how firm is the target you have for 2024?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [11]
+--------------------------------------------------------------------------------
+Yes, that's a good question actually because we are not looking at the order intake in KDI at the same way now because you -- if you look at the order backlog, we are counting the recurring revenue and looking that this is growing steadily. 
+We have had challenge with Maritime Simulation over the COVID period for the 1.5 last year. So I think it was a very positive now to see that they are coming back. And that's probably also one of the reasons why we see a decrease in the order backlog that we are -- or the order intake. But we will now see that the order intake in Maritime Simulation will also increase, and then we will be back on track for that area as well.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [12]
+--------------------------------------------------------------------------------
+And with regards to the noncontrolling interests of NOK 76 million in the quarter, what is driving this?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [13]
+--------------------------------------------------------------------------------
+It's the reassessment of the acquisition purchase price when we did the KAMS acquisition 2.5 years ago. So it's just a technical part.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [14]
+--------------------------------------------------------------------------------
+Okay. And then the final question from the webcast. With regards to the HullSkater, product establishment that you have in cooperation with Jotun, when will this be rolled out to the market? And what is the commercial potential for such a product?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [15]
+--------------------------------------------------------------------------------
+Huge, I hope.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [16]
+--------------------------------------------------------------------------------
+Yes. As probably some of you know, we rolled -- or we announced this cooperation 12th of March, actually, in 2020. That was a special day, I think, for Norway. But I think that as we see the world is opening up again, we see that we can travel, we can visit the ports because that is where the customer are or we need to talk with the ports to allow -- to be allowed to actually install the HullSkater. So I think the efforts from the sales team from Jotun, of course, will be much more active going forward. I strongly believe in this product because this can make a huge difference for -- on the climate and also for the vessels to save fuel. 
+So it's just a matter of now coming out to the customer, meet the customer, get the HullSkater install on as many vessels as possible. So when restrictions now are lifting, then I think we will see more activities in that area as well. The potential here is, of course, huge. I cannot give you any specific number here. But obviously, it's a huge market out there. It's 100,000 -- maybe not 100,000 vessels applicable for HullSkater, but there is a number of vessels out there that this will be a product that they can rely.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [17]
+--------------------------------------------------------------------------------
+I just received one more question here. Gyrid, you mentioned cross-sales of NOK 1.3 billion income for Maritime.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [18]
+--------------------------------------------------------------------------------
+NOK 1.4 billion. NOK 1.4 billion.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [19]
+--------------------------------------------------------------------------------
+NOK 1.4 billion. Which subsegments -- from which subsegments did you see the large part -- larger parts of this cross-sales?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [20]
+--------------------------------------------------------------------------------
+I think this is mainly coming from -- if you're asking about the product side, it's from the proportional and engine side, and it's also from the Deck Machinery side where we have managed to together with our, let's say, integrated system, add-on CM products into the complete package. If you are talking about segments, I think it's a market segment then it's into LNG, and it's also into, I would say, offshore wind, for example, and also research vessels.
+
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [21]
+--------------------------------------------------------------------------------
+Thank you. That concludes the questions from the webcast.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [22]
+--------------------------------------------------------------------------------
+Thank you. Then I thank you for listening in the -- on this third quarter presentation. Then I really hope that all of you will follow the ESG session that will follow immediately after this. Thank you so much.
+
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [1]
+--------------------------------------------------------------------------------
+Kongsberg has a vision, world-class through people, technology and dedication. As a high-tech industrial company with more than 11,000 employees serving customer, partners and communities in 40 countries, we feel a great sense of responsibility to always strive to the best-in-class wherever we operate or whatever we do. This also applies when it comes to our ESG commitment. Internally, we are continuously taking new steps to improve transparency, equality, accountability and our community engagement. We have also sharpened our focus on ESG reporting, and come up with new targets for lowering our internal environmental footprint. 
+While it's clear that this work is an ongoing process, Kongsberg will continue to have ESG on top of the agenda. People are our most important input factor to succeed. We have a strong focus on about hiring the right employees as well as keeping them. This means that the factors such as employee's satisfaction and HSE are on my agenda, basically every day. Being socially responsible also means that we are aware, and take part in all the communities we are involved in. 
+We have offices at more than 100 locations in close to 40 countries. And no matter whether you work for Kongsberg in Norway, the U.S., Spain, South Korea, China or any of our other locations, we aim to have the most determined innovative, reliable and collaborative employees. Kongsberg has over decades, developed a very comprehensive compliance framework. The framework is deeply rooted in the Board, the management and all the way through their organization. The framework is subject to third-party audit every third year to make sure that we continuously have a world-class compliance framework in place. You can read more about this framework at our website under Responsible Business Conduct. 
+Our compliance system builds on our guidelines and business ethics, which obliges our Board members, manager, coworkers, all temporarily hired personnel and consultants, market representatives, lobbies and others acting on behalf of Kongsberg to comply with the laws and regulations as well as our internal guiding documents. We, in the conduct of all our activities, are committed to maintain our business conduct framework throughout the entire value chain as well as high safety, ethical and quality standards. We believe such a commitment is integral to running a transparent, sustainable and successful business. 
+Export control and sanctions are among the main risk and focus areas for Kongsberg, and an important part of the compliance program. Many of our product and systems are classified as military or dual-use technology and is, therefore, subject to export control. Compliance with the legal obligations related to export control and sanction is our cornerstone in our license to operate and to conduct business in a responsible manner. 
+Looking beyond social and governance aspects. I strongly believe that Kongsberg is a part of the solutions to climate changes. We shall ensure competitive long-term value creation in balance with the Paris Agreement. We shall aim for net-zero by 2050, and a 1.5-degree scenario as an ambition. And by joining the science-based targets initiative, we ensure that our low-carbon transformation is aligned with climate science. 
+Many of the technologies we have pioneered over the past decades, our technologies, our customers, and the world need to move toward a more sustainable future. Our space industry are monitoring the world's health. Our green vessel upgrades and hybrid and zero-emission solutions reduces vessels emissions significantly on the seas. Our offshore technology are key to build and operate floating wind parks, and we have world-class ocean exploration technology to enable more sustainable harvesting of the ocean. 
+To us, there is both a considerably sustainability potential and a considerable commercial potential going forward. The UN Sustainable Development Goals represent a global agenda to address the most pressing challenges facing our world. We recognize the importance and the urgency to this global initiative, and how Kongsberg can play an important role on climate action, ocean health, surveillance, clean energy and sustainable development. 
+Kongsberg has been honored to be invited to the UN on several occasions to discuss sustainable ocean and enabling technologies. We take pride in this work and are enthusiastic and dedicated to being a part of the solution. 
+In 2018, I was challenged by the Norwegian Prime Minister to sign a ball with the 17 sustainable goals. The ball was cosigned by several other industrial leaders. The consideration of Norwegian Enterprise and the consideration of trade unions among others. I believe strong, long-lasting partnership is the key to reach the sustainable goals. 
+With me in studio today, I have Even Aas. He is responsible for communication, public affairs and sustainability on a group level. Even has many years of experience working with sustainability, environment and climate. 
+So Even, do you take the ball?
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [2]
+--------------------------------------------------------------------------------
+Yes, definitely. But usually, Geir, a football symbolize, hope, passion and opportunities. But this ball has really turned into the most important mall today. It symbolizes the 17 UN goals, as you said.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+They were challenged.
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [4]
+--------------------------------------------------------------------------------
+They really were challenged. And the world is a crossroad today. And we have to turn words into action. Actually, we had to walk to talk. So we all have to commit to all the 17 goals, both the business world and the rest to have a sustainable goal.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [1]
+--------------------------------------------------------------------------------
+So Even, in your perspective, how do you believe Kongsberg can make a difference?
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [2]
+--------------------------------------------------------------------------------
+Remember, Kongsberg is a unique technology company. Kongsberg is an ocean expert. I usually use 3 figures to illustrate the importance of the ocean. It's 70, 80 and 90. So imagine guys, if this ball is the world, 70% of this ball is covered by oceans. And if this still is the world, 80% of all the world goods are seaborne, and 80% of our income is related to the ocean. And not to forget, 90% of this ball is under-explored. 90% of all the mass is in the world and we utilize only 2%.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+That's not much.
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [4]
+--------------------------------------------------------------------------------
+No, and the world is starving. So let me use some examples. Today, the fish stocks in the world are threatened. 70% of all catch today is illegal. And we can -- with our technology, we can help the world to solve that challenge.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+Using our space industry.
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [6]
+--------------------------------------------------------------------------------
+Yes. That's right. And when it comes to green shipping, when it comes to offshore farming, when it comes to offshore wind, we will play a very important part.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [7]
+--------------------------------------------------------------------------------
+And you mentioned exploration under the water.
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [8]
+--------------------------------------------------------------------------------
+We are in the forefront when it comes to sound in water. And if you pinpoint one particular of the 70 goals, where we can really make a difference, it's goal number 14.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [9]
+--------------------------------------------------------------------------------
+Life below water.
+
+--------------------------------------------------------------------------------
+Even Aas,  Kongsberg Gruppen ASA - Group EVP of Public Affairs, Communication & Sustainability    [10]
+--------------------------------------------------------------------------------
+That's right. So I truly believe, we have a very important role to play, and we will make a difference.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [11]
+--------------------------------------------------------------------------------
+Thank you, Even, for sharing your perspectives on these topics. Then I will leave the floor for our CFO.
+
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [1]
+--------------------------------------------------------------------------------
+The evolving market and regulatory trends are challenging us to become even more sustainable and more socially responsible. And it's not enough to only make our own business more sustainable. To succeed, we need to roll out throughout our entire value chain. In Kongsberg, we do not see the ESG challenge as a cost. We see it as a major opportunity that will drive growth and contribute to long-term competitive advantage. It will also be a prerequisite, both to come to the contract negotiation tables to get funding, to attract investors, to receive attention from suppliers, and last but not at least, to be able to hire the best people, as Geir has touched upon. 
+We, as a company, will need to utilize the new business opportunities, which come along in the wake of the green shift, not only to increase our revenue and maintain our profit, but to stay relevant and continue as a world-leading supplier to our industries. There are millions of small and large initiatives initiated by everything from children to large corporations, nations and international organizations. Everything helps, but to make the real green shift, technology will be the key. For technology to involve, investments need to be made. And for investments to be made in the long term, they not only need to be environmentally sustainable, they also need to be financially sustainable. 
+Kongsberg possesses a major portfolio of groundbreaking technologies today. We are involved from B2C to outer space throughout several industries. We invest heavily in R&D and product development so that we are able to offer products and solutions to our customers that supports their ambitions, and enables them reaching their targets. Today, more than 95% of our R&D spend in Kongsberg Maritime is tailored towards new products and systems that comes towards sustainable solutions. 
+One example is our initiatives towards offshore wind that Egil will touch up on later today. We do already see good progress with almost 20% of Kongsberg Maritime's order intake, from new building market originating, from offshore wind segment so far only in 2021. On the Defence side, we are delivering products and systems that are to be both reliable and technological supreme for the case after its original delivery. This requires a sustainable mindset when developing the systems and in a clear example on circular economy that Eirik will touch upon later. 
+Digitalization. We will be a key to succeed here as well. Just imagine how much better you sold a task the second time you sold it. Imagine if you can utilize not only our own experience, but thousands of others, not only people, but also vessel, heavy assets, machines to have a system guiding you through your operation based on a full experience as well as simulated best practice system. And as you know, Kongsberg already has this technology today. 
+So soon, we will start to report in accordance with the EU taxonomy framework. This framework will involve over time. However, based on current guidelines, Kongsberg's revenue will only be counted for to a limited extent. That's the fact today. That said, when circular economy is implemented into taxonomy, this will most likely increase our share of lion's revenues, especially from Kongsberg Defence & Aerospace. In addition, refitting into and construction of new vessels running on more environmentally friendly fuels should align our revenue stream connected to these vessels. With the current focus on R&D as well as the direction, our industry is smooth, Kongsberg will gradually report increasing taxonomy-aligned revenues. But one challenge with the taxonomy framework is that it helps identify sustainable investments and the revenue streams, but they make no claim about whether these revenues or investments are financially sound. 
+As mentioned earlier, for an investment to be environmentally sustainable in the long run, it also needs to be financially sound. Otherwise, we will not invest. 
+To sum up, Kongsberg is not a part of the race for a more sustainable world with the goal to score high in rankings or just because we are required to. We see that technology will be a requirement to succeed. And Kongsberg, with our world-class technologies, know that we can contribute. We will continue to invest to make our product more sustainable and eco-friendly. And we will take the business opportunities that comes along. Thank you for the attention.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+Kongsberg's operations are, by its nature, very low with regards to direct emission. Despite this, we work every day to reduce the direct carbon footprint we leave. This goes both with the amount of energy we use as well as the source of our used energy. The company has been through major structural changes over the last 3, 4 years. And the way we measure emission, both within our operation as well as outside our operation have evolved dramatically. We have also been through close to 2 years now where the way we work have been affected by a still ongoing pandemic. This means that comparison with historical figures have its limitation. 
+For our future target, we have decided that our best baseline is our recalculated 2019 figures which include full year operation from acquired companies. I mentioned that our own operational carbon footprint are low, but this does not mean that we do not intend to improve. By 2030, we aim to reduce our emission from use of fossil fuels by 50% relatively to the size of our business. This will be achieved through a combination of reducing use of fossil energy, and moving from fossil to renewable energy sources. 
+By 2030, we will also aim for a 100% reduction in internal emission from purchased electricity. This will be achieved in a combination between purchase of certified green electricity and reduce consumption of electricity. Further, we have set a target of 25% reduction in emissions from logistics by 2030, and 30% reduction in emission from business travel by 2030. However, where can Kongsberg really make a difference is throughout the value chain of our operation. To deliver our systems and products, Kongsberg relies on thousands of sub-suppliers all over the world, and our systems are in operation and used from the very deep ocean throughout in the space 24/7. To make a real difference, we need to involve this chain of companies and partners, both in Norway and internationally. And when evaluating our carbon footprint, we take the entire value chain into account. 
+So last month, I personally signed a letter which we submitted to the sign-based target initiative, where I committed Kongsberg. We have also set standards for our supply chain. Our target is that within the next 5-year period, 2/3 of Kongsberg's suppliers by spend are to incorporate sign-based target. This will require major efforts both by us and our value chain, but it is needed if we are to aim for net-zero and the 1.5-degree scenario by 2050. 
+A few weeks ago, Eirik Lie, President in Kongsberg Defence & Aerospace, visited Kitron, an important supplier to Kongsberg. And here is a short movie from that visit. 
+(presentation)
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+As we have touched upon several times today already where Kongsberg can really make a difference is to address our entire value chain. I'm now standing with the President of Kongsberg Defence & Aerospace. Eirik Lie. Eirik, we are standing here now in this brand-new NASAMS productions -- Air Defence production facilities. It looks great.
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [4]
+--------------------------------------------------------------------------------
+Yes. It is. I'm so proud of it and it shows the activity we have in our air defense domain these days. It's full rate production.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+It's full.
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [6]
+--------------------------------------------------------------------------------
+Yes. It is.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [7]
+--------------------------------------------------------------------------------
+I guess you are happy.
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [8]
+--------------------------------------------------------------------------------
+I'm happy, and it shows that this is one of the most important product lines we had.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [1]
+--------------------------------------------------------------------------------
+Yes. And we also talked about the circular economy. And I think where -- can you elaborate a little bit where can Kongsberg Defence & Aerospace contribute to making the world more sustainable?
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [2]
+--------------------------------------------------------------------------------
+Yes. Obviously, this is for KDA, an important matter. And I think it involves a lot of subject areas within KDA, and also the whole value chain. And I'd like to mention that we need to look into how we design our products. And also maybe use more digital technology as part of our product lines. And it's also worth mentioning, and I think maybe the most important is that we include our supply chain as part of this circular economy.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+Yes. And you have a few suppliers.
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [4]
+--------------------------------------------------------------------------------
+Yes. Close to 70% of what we are doing are actually part of the supply chain. So it's important.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [5]
+--------------------------------------------------------------------------------
+And I think we also just heard from the Kitron representative that they said that Kongsberg has quite comprehensive demands to they -- them, and going from nice to have -- to need to have. Could you elaborate a little bit on that?
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [6]
+--------------------------------------------------------------------------------
+Yes. For me, this is a natural transition. We see that when we talk to customers and other authorities. There's going to be -- well, they have expectations. But I think the transition from expectations to requirements will come, and we need to be in front of that. That's why we put more and more demands and requirements on our supply chain. So that's why I think Kitron answers like that. They have seen that we have started on this process.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [7]
+--------------------------------------------------------------------------------
+Right. Kongsberg, we have set quite comprehensive targets for ourselves, how we can contribute to net-zero emission and the 1.5-degree target. Could you say something about how Kongsberg Defence & Aerospace will contribute to reach these targets?.
+
+--------------------------------------------------------------------------------
+Eirik Lie,  Kongsberg Gruppen ASA - Executive VP and President of Kongsberg Defense & Aerospace    [8]
+--------------------------------------------------------------------------------
+Well, first of all, there are several things there. First of all, I think we need to look into our products, and how we can improve those products. And that includes also supply chain. So that's very important for us. And maybe also in the long run, we need to look at how we can develop new materials that can be utilized in this context. And lastly, I would also mention that a dialogue between the customers, ourselves, and the supply chain is highly important how we can find good solution to make a sustainable product line well. 
+One more thing, our MRO activity in KDA, maintenance, repair and overhaul. That's important when it comes to sustainability. Because in this context, we actually extend our lifetime for the products we develop, and that's important in constant sustainability.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [9]
+--------------------------------------------------------------------------------
+Okay. So I'm very glad you mention that it's not only important for Kongsberg Defence & Aerospace, is also important for Kongsberg overall, the MRO activities. So thank you so much, Eirik, for enlightening us on this topic today. 
+Then I think we should move back to the value chain, and to 1 important part of the value chain, our customers. 
+(presentation)
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [10]
+--------------------------------------------------------------------------------
+I'm sitting here now with Egil Haugsdal, the President of Kongsberg Maritime. Egil, we just heard the CEO, [Tommy Wallan], talking about the relationship between Island Offshore and Kongsberg. What is it that make this a successful collaboration?
+
+--------------------------------------------------------------------------------
+Egil Haugsdal,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Maritime    [11]
+--------------------------------------------------------------------------------
+Island Offshore is one of many examples of long-term customers that we work together with to find good, sustainable solutions for the future. So what we do here is what we call peak caving, which really means that we have a battery that is taking over when you need extra energy. So you don't -- you can reduce the engine capacities on the vessel, and it's a lot of energy to save on that. 
+So Kongsberg and Island offshore work very well together because we both are focused and prioritizing sustainability.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [12]
+--------------------------------------------------------------------------------
+So we can see some early movers like we saw on the video here. But when can we expect hybrid solutions to become a business of scale?
+
+--------------------------------------------------------------------------------
+Egil Haugsdal,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Maritime    [13]
+--------------------------------------------------------------------------------
+Hybrid solutions start to become quite a woolen product now, not only for new vessels, but also for upgrades. But hybrid solution is only one of many things you can do to improve the energy consumed for a vessel. We are looking at the whole of the vessel. We can change that. We can improve the efficiency of the propulsion system. We can improve energy systems on the vessel. There is a lot we can do, both on existing vessels and of course, on new vessels. 
+Also, digitalization is a very important area where we really are able to monitor and get information about every detail of the consumable vessel. So Island Offshore is now going to install vessel inside, which will give them a very detailed understanding of how their vessel operates.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [14]
+--------------------------------------------------------------------------------
+Offshore wind has a strong focus today where both bottom fixed and offshore floating wind is to become major markets. You have said that Kongsberg is going to be -- take a part in the entire value chain. What is our position today? And what is our competitive advantages?
+
+--------------------------------------------------------------------------------
+Egil Haugsdal,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Maritime    [15]
+--------------------------------------------------------------------------------
+Over the last years, offshore wind has become very important for us and is today a significant part of our revenue, mostly on fixed installation and on marine operation and special vessels used for this. We see that floating offshore wind will come in as a huge industry. And that is very attractive for Kongsberg. We will be involved in the full life cycle of these projects, from planning and exploration, marine operations. You can just see. It could be hundreds of wind mills in the size of Eiffel Tower, and to have them out installed in the rough environment of the North Sea. It's really a challenge, and we like challenges like this. 
+We will be involved in the marine operation. We will also plan to be involved in the operation of the wind farms for maintenance. And all in all, this is going to be a very interesting business for Kongsberg.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [16]
+--------------------------------------------------------------------------------
+Lastly, Egil, what do you believe is going to be Kongsberg Maritime's major contribution for the world to reach net-zero and the 1.5 degree target by 2050?
+
+--------------------------------------------------------------------------------
+Egil Haugsdal,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Maritime    [17]
+--------------------------------------------------------------------------------
+It's 3 things. And most of all, it's what we can do for our customers. That is significant. But we also have to look at ourselves, and we will take our share. We have a limited footprint today, but we will make sure that we are improving that and taking our share of that. We also have a quite significant supply chain with a number of suppliers. We work close with them and expect them also to do their shareholders. So this is all the way from the supplier to ourself and to our customers. We are really dedicated on this, and we will make a difference.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [18]
+--------------------------------------------------------------------------------
+I was sitting here today with the President in Kongsberg Digital, Hege Skryseth. And it's no doubt that the world are looking into business that are digitalizing the world and also the greener footprint.
+So Hege, today, what does Kongsberg Digital do to push the ESG agenda in terms of both digitalization and environmental footprint?
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [19]
+--------------------------------------------------------------------------------
+I would say that sustainability is very high on the agenda, both within the Energy industry and also within the Maritime industry. And digitalization is a vital part of how to achieve the goals. So it's everything from getting insight, so getting data from the different various assets, looking into how you can improve processes, improve operations and improve sustainability in that sense. And to give you a couple of concrete examples. It's -- on the Maritime side, we see that there is a significant potential to save a few, which is the most important contributor. So up to 15% of fuel is possible to save with various different operational aspects that you put in place due to insight. So insight is vital.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [20]
+--------------------------------------------------------------------------------
+We have a long experience on.
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [21]
+--------------------------------------------------------------------------------
+Yes. Yes, absolutely. And if we look at Energy, I think it's combined. It's not only, of course, to operate the current assets in a more sustainable way, but it's also the energy transition that is happening at the same time. So these integrated energy sources where you, for instance, have wind farms -- offshore wind farms, providing power to offshore assets. Then you have utilities and power plants powered by FSRUs. So it's basically coming together. So I think the existing industries are well set up to actually be able to transform.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [22]
+--------------------------------------------------------------------------------
+And we see a lot of demand on that area now?
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [23]
+--------------------------------------------------------------------------------
+Definitely. And there's many factors that's driving this. It's both their customers of the Maritime industry that do want more green operations, but it's also regulators, of course. And then you have front runners within both Maritime and Energy that we really want to contribute to greener world, and also the significant reduction.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [24]
+--------------------------------------------------------------------------------
+But Hege, both IMO and the International Energy Association have extremely ambition targets for reducing CO2 emission. And I think that comes by Digital have a lot of solution to solve that or at least help on their way.
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [25]
+--------------------------------------------------------------------------------
+Yes. Absolutely. We are quite confident that we can support the industries in achieving this. And we believe it's going to be a combination of both an energy transition and digitalization of the current structure. And then, of course, you also already see it that many newbuilds are entering the market with hybrid fueling, with new fuel types, which is already reducing the emissions. So I think it's a combination of what Kongsberg Maritime bring forward with hybrid fueling, and also what we are bringing forward.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [26]
+--------------------------------------------------------------------------------
+So the combined company is actually giving solutions to a lot of customers today.
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [27]
+--------------------------------------------------------------------------------
+Definitely.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [28]
+--------------------------------------------------------------------------------
+In terms of Norway, we have a good position as a country as well because the history we have in Maritime and with the ocean, we see today that we have maybe a good position for making those solutions for the whole world.
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [29]
+--------------------------------------------------------------------------------
+Yes. I think especially I would put forward the competency level that we have in advanced operations and offshore-related operations, which will also significantly contribute when it comes to, for instance, offshore wind and new type of energy sources that we see emerging. So -- and then I think it's technology that's going to be the native for a greener future. And I think that we both have the competency within Kongsberg. And I also believe that we have the willingness to put forward strong new solutions to support the shift.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [30]
+--------------------------------------------------------------------------------
+200 years of experience, digital -- digitalization in the world now.
+
+--------------------------------------------------------------------------------
+Hege Skryseth,  Kongsberg Gruppen ASA - Executive VP & President of Kongsberg Digital    [31]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingero,  Kongsberg Gruppen ASA - CFO and Group Executive VP of Compliance & Property    [32]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [33]
+--------------------------------------------------------------------------------
+Our goal today has been to give you some more insight on our ESG agenda. I hope this has given you a better understanding of our ESG commitment and particularly when it comes to sustainability and our contribution to deliver on the UN Sustainability Goals. So thank you for joining us today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

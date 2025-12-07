@@ -1,0 +1,699 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2019 Eli Lilly and Co Earnings Call
+OCTOBER 23, 2019 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Anne E. White
+   Eli Lilly and Company - Senior VP & President of Lilly Oncology
+ * Joshua L. Smiley
+   Eli Lilly and Company - Senior VP & CFO
+ * Kevin Hern
+   Eli Lilly and Company - VP of IR
+ * Daniel M. Skovronsky
+   Eli Lilly and Company - Senior VP & Chief Scientific Officer
+ * David A. Ricks
+   Eli Lilly and Company - Chairman, CEO & President
+ * Enrique A. Conterno
+   Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA
+ * Patrik Jonsson
+   Eli Lilly and Company - Senior VP & President of Lilly Bio-Medicines
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Michael Scala
+   Cowen and Company, LLC, Research Division - MD & Senior Research Analyst
+ * Navin Cyriac Jacob
+   UBS Investment Bank, Research Division - Equity Research Analyst of Specialty Pharmaceuticals and Large Cap Pharmaceutic
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Louise Alesandra Chen
+   Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD
+ * Geoffrey Christopher Meacham
+   BofA Merrill Lynch, Research Division - Research Analyst
+ * Timothy Minton Anderson
+   Wolfe Research, LLC - MD of Equity Research
+ * Damien Conover
+   Morningstar Inc., Research Division - Sector Director and Equities Strategist
+ * Umer Raffat
+   Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research
+ * David Reed Risinger
+   Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst
+ * Terence C. Flynn
+   Goldman Sachs Group Inc., Research Division - MD
+ * Andrew Simon Baum
+   Citigroup Inc, Research Division - Global Head of Healthcare Research and MD
+ * Christopher Thomas Schott
+   JP Morgan Chase & Co, Research Division - Senior Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the Eli Lilly Q3 2019 Earnings Call. (Operator Instructions) As a reminder, this conference call is being recorded.
+I'd now like to turn the conference over to the Vice President of Investor Relations, Kevin Hern. Please go ahead.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. Good morning. Thanks for joining us for Eli Lilly and Company's Q3 2019 Earnings Call. I'm Kevin Hern, Vice President of Investor Relations.
+Joining me on today's call are Dave Ricks, Lilly's Chairman and CEO; Josh Smiley, our Chief Financial Officer; Dr. Dan Skovronsky, President of Lilly Research Laboratories; Anne White, President of Lilly Oncology; Enrique Conterno, President of Lilly Diabetes and Lilly USA; Patrik Jonsson, President of Lilly Bio-Medicines; and Mike Mason, incoming President of Lilly Diabetes. We are also joined by Kim Macko and Mike Czapar of the Investor Relations team.
+During this conference call, we anticipate making projections and forward-looking statements based on our current expectations. Our actual results could differ materially due to a number of factors, including those listed on Slide 3 and those outlined in our latest Forms 10-K, 10-Q and any 8-Ks filed with the Securities and Exchange Commission. The information we provide about our products and pipeline is for the benefit of the investment community. It is not intended to be promotional and is not sufficient for prescribing decisions.
+As we transition to our prepared remarks, a reminder that our commentary will focus on non-GAAP financial measures, which exclude the financial contribution from Elanco during 2018 and 2019, and present earnings per share as though the full disposition via the exchange offer was complete on January 1, 2018.
+Now I'll turn the call over to Dave for a summary of our Q3 results.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Kevin.
+Q3 was another strong quarter for Lilly as we continue to deliver robust results and execute on our strategy, which is launching new medicines, advancing our pipeline and driving productivity.
+Revenue grew 3% this quarter or 4% in constant currency driven entirely by robust volume growth from our new products and international operations. Volume contributed 8% -- 8 percentage points of growth despite sizable headwinds from the loss of exclusivity for Cialis in the U.S. and the withdrawal of Lartruvo. Excluding Cialis and Lartruvo, volume growth was an impressive 16%. Our newest medicines continue to be the engine of revenue growth and account for 44% of revenue this quarter.
+We made good progress on productivity in Q3 as our non-GAAP operating margin was 28.6%, keeping us on track to meet our 2019 and 2020 operating margin goals. Compared to last year's quarter, operating margin was essentially flat, reflecting lower gross margin, offset by prudent management of our operating expenses.
+We achieved milestones on several pipeline assets since our last earnings call, including the FDA approval of REYVOW for the acute treatment of migraine with or without aura in adults, the European Commission approval to expand Trulicity's label to include results from the REWIND cardiovascular outcome study, the presentation of registration Phase II data for selpercatinib in non-small cell lung cancer and thyroid cancers and the presentation of overall survival data of Verzenio in metastatic breast cancer.
+Taltz also made impressive progress with its development program this quarter with the FDA approval of radiographic axial spondyloarthritis, r-axSpA, along with its submission in Europe; submission of our non-radiographic axial spondyloarthritis in the U.S. and Europe, which represents a first-in-class opportunity in this indication; and positive results from a head-to-head study in psoriasis versus guselkumab in IL-23 antibody.
+We remain focused on creating long-term value for shareholders as we allocate capital, seeking external innovation that will enhance future growth prospects while at the same time, we returned nearly $1.2 billion to shareholders this quarter via share repurchase and the dividend.
+Moving on to Slide 5, you'll see more detail on key events since our last earnings call in July.
+I would like to highlight today's announcements regarding leadership changes. And I want to congratulate and thank my longtime colleague, Enrique Conterno, for his significant contributions to Lilly. Enrique has done an outstanding job leading Lilly Diabetes over the past decade, really reestablishing our company as a leader in diabetes care with the broadest and fastest-growing portfolio of medicines in the industry. Enrique, Lilly would not be in the strong position it is today without your leadership. Your energy, optimism and thirst for excellence will be missed.
+I would also like to welcome Mike Mason as he assumes leadership for our diabetes business unit. Mike is a 30-year veteran with deep expertise and significant experience in our diabetes business. Mike is a patient-focused leader with a track record of delivering results for Lilly and for patients in the U.S. and Canada. Under Mike's leadership, Lilly successfully launched both Jardiance and Trulicity in the U.S., becoming the diabetes market volume leader during his tenure. Since July 2018, Mike has led our Connected Care and Insulin commercial and development organizations, working to leverage technology to enhance insulin delivery and improve the user experience. Importantly, he has also led Lilly's efforts in building the most comprehensive suite of insulin affordability solutions in the U.S., including the Lilly Diabetes solutions center to support people in need of less expensive alternatives for their medicines. Mike, it's great to have you join our senior leadership team.
+And now I'll turn the call over to Josh to review our Q3 results and provide an update on financial guidance for 2019.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave, and good morning, everyone.
+Slide 6 summarizes our presentation of GAAP results and non-GAAP measures, and Slide 7 provides a summary of our GAAP results.
+Looking at the non-GAAP measures on Slide 8, you'll see revenue increased 3% or 4% in constant currency. Gross margin as a percent of revenue declined 60 basis points to 79.6%. Excluding the impact of FX on international inventory sold, gross margin as a percent of revenue was 78.9%. On this same basis, our gross margin percent declined approximately 140 basis points compared to Q3 2018 driven by the unfavorable impact of product mix due to Cialis and the negative impact of price on revenue, partially offset by manufacturing efficiencies.
+Total operating expense grew 2% this quarter. Marketing, selling and administrative expenses declined 3% as our ongoing cost-containment measures and lower litigation charges versus last year were partially offset by increased investment behind recent launches, consistent with our long-term strategy. R&D expense increased 8%, reflecting higher development expenses for late-stage assets, including selpercatinib and tirzepatide.
+Total operating income increased 3% compared to Q3 2018 as sales growth outpaced expense growth, driving operating income as a percent of revenue to 28.6% for the quarter. As our recent launches continue to drive revenue growth and headwinds from Cialis and Lartruvo sunset in 2020, we expect additional operating margin expansion and bottom line growth. We are on track and committed to achieving our full year operating margin guidance of approximately 28% as well as our 2020 target of 31%. Other income and expense was expense of $25 million this quarter compared to expense of $2 million in Q3 2018 driven by higher net interest expense primarily due to the Loxo acquisition, partially offset by investment gains.
+Our tax rate for the quarter was 11.7%, which is a decrease of 320 basis points compared with the same quarter last year driven primarily by a net discrete tax benefit related to the settlement of certain tax matters. At the bottom line, net income increased 5% while earnings per share increased 10% due to reduction in shares outstanding from share repurchases.
+In summary, in Q3, we again grew volume-based revenue growth and made progress on our productivity goals. In addition to continued solid execution, third quarter also featured impressive performance outside the U.S. as revenue grew 10% in constant currency driven by 12% volume growth. Examples of our ability to launch with excellence. As Emgality and Baqsimi are off to strong starts, the approval of the first medicine in a new class to treat acute migraine, submissions of new indications for our key growth brands in multiple geographies and important clinical data at major medical meetings from our late-stage portfolio.
+Moving to Slide 9. It outlines these non-GAAP measures for September year-to-date while Slide 10 provides a reconciliation between reported and non-GAAP EPS. You will find additional details on these adjustments on Slides 24 and 25.
+Moving to Slide 11. Let's review the effect of price rate and volume on revenue growth. As mentioned earlier, worldwide revenue grew 4% in constant currency driven by volume growth of 8%, partially offset by price. Foreign exchange reduced revenue growth by 1 percentage point this quarter. For the 16th straight quarter, we delivered worldwide revenue growth despite major headwinds from patent expirations.
+U.S. revenue was flat compared to the third quarter of 2018. Volume growth of 5% was led by our newer products: Trulicity, Taltz, Emgality, Jardiance, Verzenio and Basaglar. Excluding Cialis and Lartruvo, volume grew nearly 17%. Consistent with our 2019 financial guidance and in line with Q1 and Q2 results, U.S. price declined 5%. This quarter's decline was impacted by approximately 3 percentage points driven by the net of higher rebates across the segments, offset by modest list price increases and over 2 percentage points from increased funding obligations during the donut hole phase of Medicare plans. We anticipated approximately $200 million of impact for the year, and our actual results are consistent with this projection. However, we are seeing the donut hole impact more concentrated in Q2 and Q3 than prior years and expect a smaller impact in Q4 as our largest product, Trulicity, of course, had a significant impact on the U.S. portfolio's price decline. Trulicity's robust U.S. volume growth of 42% was consistent with first half trends and was partially offset by unfavorable pricing dynamics in the quarter, including disproportionate growth in lower net price segments driven by the access wins we had in 2018 and the increased volume associated with these wins throughout this year, increased funding obligations during the coverage gap in Medicare, late harmonization due to payer consolidation and adjustments to our overall estimates for rebates and discount liabilities across various segments. Combined, these factors had a negative impact on price in the quarter of approximately 20 percentage points. If we exclude these items, Trulicity price declined roughly 5% versus Q3 2018.
+While we don't typically give forward-looking product level guidance and don't intend to change that practice, I do want to provide some perspective on Trulicity over the coming quarters. We expect the Q3 negative factors to moderate substantially going forward as impacts from the donut hole diminish in Q4 and then will be in the base for next year's comparisons. Similarly, as we have driven rapid volume growth in government segments, including the VA and DOD, between Q4 of last year and this quarter, we expect these segments to -- going forward grow more in line with overall sales. Finally, rate harmonization due to payer consolidation is now fully reflected in the base going forward.
+Given the absolute size of the Trulicity rebate and discount liability, we'll continue to see quarterly adjustments to that liability. But as we have seen historically, these are difficult to predict and can be both positive and negative. So taking these factors into account, we think Trulicity's underlying U.S. net price decline of roughly 5% in Q3 is more representative of what we expect to see in subsequent quarters. We have excellent access for Trulicity across all payer segments and anticipate that continuing in 2020.
+Moving to Europe. Revenue grew 8%, excluding FX, driven by 9% volume growth, partially offset by the negative effect of price. Volume growth was led by Trulicity, Olumiant and Taltz.
+In Japan, revenue growth of 6%, excluding FX, was driven by volume with Verzenio, Cyramza, Trulicity, Alimta and Olumiant as key contributors to the growth. We were negatively impacted by purchasing patterns in Q3 in Japan by approximately 4 percentage points, which we expect to largely recover in Q4.
+Revenue in the rest of the world increased 15%, excluding FX, led by 33% growth in China. The same information for our September year-to-date results is at the bottom of the slide.
+As shown on Slide 12, our key growth products were once again the engine of our worldwide volume growth. These products drove 15.4 percentage points of volume growth this quarter, reinforcing our confidence in achieving our 2020 revenue goals.
+Brands that have experienced loss of exclusivity provided a drag of 700 basis points driven primarily by Cialis. As expected, we have seen a rapid erosion of Cialis sales following the entry of generics in the U.S. market at the end of September last year. So we expect this impact to begin to normalize in Q4 this year.
+Slide 13 highlights the contributions of our key growth products.
+In total, these brands generated over $2.4 billion in revenue this quarter, making up 44% of total revenue. Q3 sales of growth products were impacted by inventory burn in the quarter of approximately 17 -- $70 million with U.S. Trulicity comprising approximately $40 million of that total. Our diverse commercial portfolio of new medicines continue to drive growth and is well positioned in large and growing therapeutic areas.
+Within diabetes, Trulicity and Jardiance continue market leadership in the GLP-1 and SGLT2 classes, respectively. In immunology, Taltz continues to perform well in psoriasis, and new indications in rheumatology present opportunities for additional growth. In pain, Emgality continues its impressive uptake, exiting Q3 with a market-leading 46% share of market from new-to-brand prescriptions in the U.S. Within oncology, Cyramza growth has accelerated over the past year, and we are excited for the newly released overall survival data to drive additional use of Verzenio.
+Finally, I would like to highlight our newest launched product, nasally administered glucagon, which is sold under the trade name Baqsimi. Baqsimi is an important new option for the treatment of severe hypoglycemia and, unlike existing rescue therapies, does not require reconstitution to administer. This is a significant improvement in user experience and exemplifies the type of innovation we strive to deliver to patients. The commercial uptake in the U.S. has been strong as Baqsimi already has 33% of new-to-brand prescriptions, and we believe this product has the potential to grow the overall glucagon market.
+Slide 14 shows the year-over-year change in select lines of our income statement. Focusing on our non-GAAP results, foreign exchange rate had a net modest negative impact on revenue and a modest positive impact on gross margin, operating expenses, operating income and EPS.
+On Slide 15, we provide an update on capital allocation. In line with our strategic priorities between our business development activities, capital expenditures and internal investment in R&D, we invested over $11 billion in the first 9 months of the year to drive our future growth. Additionally, we have returned nearly $6 billion to shareholders via dividends and share repurchases. We continue to prioritize investment in the pipeline through both internal and external sources.
+Turning to our 2019 financial guidance on Slide 16. You will see that we've updated our non-GAAP guidance to reflect an increase in our bottom line results for the year. Specifically, we are updating the range for other income and deductions to $50 million of income to an expense of $100 million, reflecting year-to-date gains in our equity portfolio. We are decreasing our tax rate from a range of 13% to 14% to 12% to 13% to reflect the net discrete tax benefit in the third quarter, and we are raising our non-GAAP earnings per share range to $5.75 per share to $5.85 per share reflecting those 2 items as our operating performance expectations remain on track with our prior full year guidance. On a reported basis, the tax rate is expected to be in the range of 13% to 14% and earnings per share for 2019 is now expected to be in the range of $8.59 to $8.69 per share. We continue to progress towards our 2019 guidance and remain committed to delivering on our 2020 goals.
+Now I'll turn the call over to Dan to highlight our progress on R&D.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP & Chief Scientific Officer    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh.
+Slide 17 shows select pipeline opportunities as of October 22. The positive movement since our last earnings call includes the previously mentioned FDA approvals for REYVOW and the FDA approval for a new indication for Taltz; the European Commission approval for Trulicity REWIND and the submission of Taltz for non-radiographic axial spondyloarthritis; the U.S. submission of Ultra Rapid Lispro for type 1 and type 2 diabetes; the U.S. submission of flortaucipir for uses of tau PET imaging agent in Alzheimer's; initiation of Phase III testing for mirikizumab in Crohn's disease; and the initiation of Phase I for 2 assets.
+In addition to the positive milestones we delivered this quarter, we also announced disappointing results from the Phase III SEQUOIA trial of pegilodecakin in patients with metastatic pancreatic cancer. Pegilodecakin plus FOLFOX failed to show benefit in overall survival compared to FOLFOX alone in this difficult-to-treat and deadly cancer. While this is a disappointing outcome for patients, we continue to move forward with pegilodecakin in lung and renal cancer, which we've always viewed as the key indications.
+Moving to Slide 18. Since the last earnings call, we made progress on a number of key events. In addition to the previously highlighted approvals and submissions, Cyramza has been submitted for first-line, EGFR-positive non-small cell lung cancer in the U.S.
+As Dave mentioned in his opening remarks, the third quarter was an exciting one for our oncology portfolio as we shared promising registrational data for selpercatinib at World Lung and ESMO, which showed impressive, objective response rates and durability of response data along with low-treatment-related discontinuation rates across RET fusion-positive non-small cell lung cancer, RET-mutant medullary thyroid cancer and RET fusion-positive thyroid cancer. We're excited about the opportunity for this first-in-class and potentially best-in-class RET inhibitor to help patients with cancer. These are the kind of results we were hoping for when we planned the Loxo acquisition, and we are extremely pleased with the progress at Loxo since then.
+We were also pleased to share the results of the MONARCH 2 study at ESMO, showing that Verzenio plus fulvestrant delivered the largest median survival benefit to date in this setting, extending survival by 9.4 months. We also announced that Taltz demonstrated superiority versus TREMFYA in total skin clearance at 12 weeks for people living with moderate to severe plaque psoriasis and met all major secondary end points. And Olumiant had a positive readout in atopic dermatitis in the third of 5 studies which will support its global submissions. It continues to be a busy and productive year for our pipeline.
+Moving to Slide 19. Last quarter, we highlighted select Phase II opportunities. This quarter, we'd like to highlight select Phase I molecules from our portfolio. As we continue to accelerate our internal discovery and development engine, by year-end, we expect to have delivered more Phase I initiations in a single year than we have in any other year this decade. Importantly, these new Phase I entries represent a mix of internal discoveries from our own labs as well as external innovation that we have brought in through business development.
+We selected several Phase I molecules to highlight today. Let me start with another molecule from the Loxo Oncology acquisition, the BTK inhibitor, LOXO-305, which is a next-generation noncovalent reversible BTK inhibitor that does not depend on interacting with the cysteine 481 residue. We started dosing patients in a Phase I/II study earlier this year in patients with previously treated chronic lymphocytic leukemia, small lymphocytic lymphoma or non-Hodgkin's lymphomas. The unmet need in this space continues to grow. Since as more patients are treated with chronic -- with current BTK inhibitors, more and more patients become resistant or intolerant to therapy. LOXO-305 was built to be potent, selective and have well-behaved human pharmacology. Should these attributes present in the clinic as hope, LOXO-305 could be an important new therapy for these patients. As we announced in September, we plan to present data from the trial later this year. It will be a typical early clinical presentation from a dose escalation trial, including safety, PK and any efficacy assessments that have been conducted.
+In neurodegeneration, last quarter, we initiated with our collaborator, AC Immune, a Phase I study in healthy volunteers for small molecule tau aggregation inhibitor. While still early in development, we're excited about this program and also about the target, aggregated tau. Of course, aggregated tau, along with amyloid plaque, comprised the 2 pathological hallmarks of Alzheimer's disease.
+Accordingly, we remain excited about our 2 Phase II programs aimed at disease modification in Alzheimer's disease, zagotenemab, which is our anti-aggregated tau antibody; and now, especially, donanemab, our N3pG antibody, which is also in a Phase II trial designed to test efficacy in a carefully selected population. Both of these programs are now fully enrolled with donanemab clearing an important interim futility analysis, and we look forward to the final readouts for these trials in 2021.
+Moving to pain. Earlier this year, we acquired the rights to a novel small molecule somatostatin receptor type 4 agonist that's currently in Phase I as a potential non-opioid treatment for chronic pain. The clinical hypothesis here is that the known analgesic effects of somatostatin are mostly mediated by SSTR4, which is found in the dorsal root ganglia. A selective agonist for SSTR4 could therefore have an analgesic effect without purple somatostatin adverse effects. We look forward to the internal readout next year to inform the potential progression to Phase II. Pain is the #1 reason people go to physicians. If you look at the opioid crisis, there's still significant unmet medical need. There's more work to do here. And I'm excited we're a leader in this space with a number of interesting mechanisms now being tested in patients by Lilly.
+Turning now to immunology. We have 3 novel checkpoint agonists in Phase I with first-in-class potential: BTLA agonist antibody, CD200R agonist antibody and our PD 1 agonist antibody. These are all immune resolution agents where instead of dampening down immune system with chronic immunosuppression, we're trying to potentially reset the immune system. These checkpoints exploit insights from immuno-oncology, but they work in a different direction. These are checkpoint agonists that put the brakes on the immune system.
+BTLA is a novel checkpoint receptor that negatively regulates activation of P -- of B, pDC and T cells. Agonism of this pathway has the potential to provide a first-in-class treatment, and our BTLA agonist antibody is currently being studied in Phase Ib in lupus. CD200 is a key immune checkpoint that functions on both innate and adaptive immune system on many cell types involved in autoimmune skin disorders. Our CD200R agonist antibody is in a Phase I trial in both healthy volunteers as well as in atopic dermatitis patients.
+Finally, we know that treatment of cancers with PD-1 inhibitors leads to a variety of autoimmune conditions. It's hypothesized that a PD-1 agonist will suppress activation expansion lymphocytes leading to treatment of autoimmune diseases. Our PD-1 agonist antibody is currently in Phase I. Each of these 3 opportunities represents novel biology, which we are among the first to explore, with the potential for each to move into Phase II next year. We also have an IL-2 conjugate licensed from Nektar Therapeutics, which preferentially stimulates expansion of regulatory T-cells. This potentially first-in-class opportunity is currently being studied in Phase Ib in lupus patients with Phase I data in healthy volunteers presented at EULAR earlier this year, which show the IL-2 conjugate could achieve robust expansion of T-regs. Additional Phase I studies in psoriasis and atopic dermatitis have been posted to clinicaltrials.gov and are expected to start up before the end of the year. We expect to move to Phase II with this molecule in 2020.
+Finally, I'd like to highlight 2 exciting diabetes programs. With our next-generation injectable incretin GIP/GLP glucagon tri-agonist, or GGG, we're testing the hypothesis that adding glucagon to GIP/GLP will have more metabolic activity and stimulate additional weight loss. The initial Phase I study studied the safety of a single injection in healthy participants, and we're now studying multiple doses, including dose titration. We expect this program to enter Phase II by late 2020 or early 2021. Just like the hurdle for tirzepatide to enter Phase III was a meaningful improvement over Trulicity, the bar here will be a step change over tirzepatide itself.
+Additionally, our commitment to oral incretins has continued to increase. As we advance programs to development, we seek to approve upon administration or efficacy. Our first oral incretin program, which we licensed from Chugai last year, is a small molecule nonpeptide agonist, the GLP-1, that entered Phase I earlier this year. Our initial focus will be on PK with the expectation that it should be meaningfully better than a peptide as well as the PD response, which we should see even in Phase I. This molecule could enter Phase II in early 2021. In addition to this approach, we're also pursuing dual GIP and GLP-1 receptor agonist peptides for oral delivery. These programs which are designed to give tirzepatide-like efficacy with a once-a-day oral peptide administration are also progressing preclinically and should enter Phase I next year. We look forward to tracking the progress of these assets over the coming years, and we'll share additional pipeline updates on our next earnings call.
+Now I'll turn the call back over to Dave for some closing remarks.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Dan.
+Before we go to Q&A, let me briefly sum up the progress we've made in the third quarter. We delivered robust volume growth of 8% driven by our key growth products and an impressive performance outside the U.S. We continue to demonstrate our launch capabilities and have a diverse portfolio of commercial products to drive future growth. We advanced our productivity agenda, controlling operating expenses while investing behind key commercial growth drivers and our late-stage pipeline. In addition, we made important progress toward our margin goals as the operating margin improved 60 basis points versus Q2 2019 to 28.6%. We made important pipeline progress, including the initiation of a new Phase III program with mirikizumab in Crohn's disease; sharing new registrational data for Olumiant, Taltz, Verzenio and selpercatinib; submitting new indications for Taltz and Cyramza; and receiving positive regulatory actions for REYVOW and Trulicity. Finally, we returned nearly $600 million to shareholders via the dividend and completed $600 million of share repurchase as well.
+We are proud of our strong business performance and excited about the opportunities ahead for the company. There has never been a more inspiring time to be working on discovering new medicines, and patients and health care providers are waiting the next wave of innovation. We have grown through the headwinds of Cialis and Lartruvo, and we expect our strong business performance to continue driven by our newest products and our relative lack of patent exposure ahead and, of course, by the work of our scientists who continue to redefine what is possible for patients suffering from serious diseases. Looking ahead, we are focused on a strong finish to 2019 as we prepare for next year.
+This concludes our prepared remarks. And now I'll turn the call over to Kevin to moderate the Q&A session.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [7]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. We'd like to take questions from as many callers as possible (Operator Instructions) Leah, please provide the instructions for the Q&A session and then we're ready for the first caller.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) Our first question is from the line of Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Thomas Schott,  JP Morgan Chase & Co, Research Division - Senior Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Just two here. I guess, first, broader 2020 pricing question. You're seeing with your price erosion with the U.S. portfolio this year. Is that a reasonable dynamic to expect in 2020? Or will we see some of these pressure start to ease as we get passed the donut hole fill and some of these kind of onetime items with Trulicity that you mentioned? And my second question was just elaborating a little bit more on Trulicity in terms of access and price dynamics in 2020. The pricing commentary in the prepared remarks is very helpful. I guess with the approval though of oral sema, are you seeing a more difficult payer environment here than the past? Or any signs that payers are more aggressively managing the GLP-1 category?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. We'll go to Josh for the overall 2020 pricing, and then to Enrique for your second question more specifically on Trulicity.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. I think as we look into 2020, just going back to the guidance that we gave in December of last year, we were planning for sort of low single-digit net price erosion across the portfolio for the period of '19 and '20. I think that's what we see right now. We are going to see variability in the quarters. As you mentioned, we've got the donut hole and other things that are particularly I think acute in Q3 of this year. But I think the net as we look and project into 2020, I think the sort of low single-digit price decline is probably a fair place to be, and that's very consistent with how we thought about 2020 goals and our productivity agenda and otherwise.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [5]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique A. Conterno,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA    [6]
+--------------------------------------------------------------------------------
+
+          So Chris, when it comes to Trulicity coverage, we have unprecedented access. We are right now in the mid-90s from a coverage perspective, which is outstanding, and we are projecting that into next year. It is too early for us to be able to say exactly how the discussions of oral sema are going with the payers. Of course, we'll learn more as they basically get further into some of those discussions.
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          And the next caller is from Umer Raffat with Evercore.
+
+--------------------------------------------------------------------------------
+Umer Raffat,  Evercore ISI Institutional Equities, Research Division - Senior MD & Senior Analyst of Equity Research    [8]
+--------------------------------------------------------------------------------
+
+          I don't know how to ask my first one, but I'll ask anyways given all the renewed interest. My question is on the A4 trial. And I know you're using a super high dose of solanezumab tracked over 240 weeks. So my question is this. Since this trial was fully enrolled about a couple of years ago, what have we learned to date from any interim analyses that have been conducted? And I ask because almost every patient in this trial passed the week 76 follow-up. And then secondly, on GLP and tirzepatide franchise broadly. My question is, what's the median duration on therapy real-world on Trulicity currently? And I ask about it relative to the 20-week titration being employed in Phase III. And I'm also curious, is there any observations to date from blinded bases in the ongoing titration regimen?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [9]
+--------------------------------------------------------------------------------
+
+          Thanks, Umer. We'll go to Dan for the sola question, and then Enrique to talk about what we're seeing today with the duration for Trulicity.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP & Chief Scientific Officer    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Umer, for your question on solanezumab in the A4 trial. Of course, this is a trial of solanezumab, as you pointed out, a 4x higher dose than we tested in the original Phase III studies. But what's really interesting about this trial is that we're testing it in asymptomatic elderly individuals who don't have a diagnosis of Alzheimer's, but do have amyloid plaque in their brain. It's a 4-year treatment that's planned, and so we'll get data on this trial in mid-2022. So we just have to wait patiently for those results to see if sola can have efficacy in this very early population.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [11]
+--------------------------------------------------------------------------------
+
+          Thanks, Dan. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique A. Conterno,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA    [12]
+--------------------------------------------------------------------------------
+
+          So the -- when we look at Trulicity adherence, we -- and I think we've shared this before, we tend to see better adherence with Trulicity than with the other products. One of the things that we measure is refill rate. So we measure the second refill rate, the fourth refill rates. Trulicity tends to have better adherence than the GLP-1 class. It tends to have better adherence than insulin, but also better adherence than orals, which is sometimes difficult to believe, but it's -- the value proposition is that simplicity.
+Now it's a complication -- it's a complicated question when we look at medium duration of therapy because we do lose so many patients in the first fill and the second fill across all of the diabetes therapy. Just to give you a sense, by the fourth fill, we are basically -- Trulicity is basically in the 60s. What we basically see though is for patients that have stayed after the first year, we tend to lose about 1/3 of those patients every year going forward after that. So that gives you a certain sense of what is the adherence of Trulicity as you're thinking about modeling this.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Next is the line of Terence Flynn with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Terence C. Flynn,  Goldman Sachs Group Inc., Research Division - MD    [14]
+--------------------------------------------------------------------------------
+
+          Maybe two from me. Just wondering your latest thoughts on the ongoing policy discussions in DC, potential outcomes and impact to your business. And then as we think about Emgality for 2020, I know you don't give a product level guidance, but you've been focused on the second phase of growth here into the primary care market. Any update on the progress there as well as the initial European launch?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [15]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Terence. We'll go to Dave for the policy question and Patrik on Emgality in 2020.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [16]
+--------------------------------------------------------------------------------
+
+          Yes. I wish I could provide a clear answer on the probable outcome of the policy debates in Washington. I think it's really unclear, other than we probably know that the House Bill will probably pass the House completely on partisan lines, and then we'll see from there. There are, of course, a number of initiatives in the various senate committees that the industry is for and Lilly is certainly for. If a version of those came together and passed both chambers, in general, that would be I think a modest positive for us. We see Reform to Part D is an important discussion that should happen, providing an out-of-pocket cap to seniors is an important benefit. And any changes that can positively adapt the donut hole math and other pieces of the benefit, which we're talking about even on this call, that are helpful for products that are more commonly used for conditions like diabetes. So we track that closely. We're very engaged in this whole discussion. And of course, probably given the environment in Washington, the most probable thing is there isn't really legislation happening for some time. But we -- it's important to note to investors, we're promoting changes, in particular the Part D benefit and affordability measures that can impact the pocketbook at the pharmacy counter without throwing out the baby with the bathwater and wholesale change to the U.S. system, which obviously would be hugely damaging to the business model.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [17]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. Patrik?
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP & President of Lilly Bio-Medicines    [18]
+--------------------------------------------------------------------------------
+
+          Thank you very much. We are very pleased with the overall performance of Emgality and we actually became the leader in NRx in Q3 and we've been that for more than 10 consecutive weeks right now and we're also closing the gap in terms of total Rx.
+When we look upon the access to Emgality, it's a best-in-class access with more of a 90% today in the U.S. And we are making steady progress in terms of the claims paid and we're today at 3 -- 3, 4 for the claims being paid. And we are making steady progress in that regards as well.
+We still believe it's very early days for Emgality. We know that we have a population in the U.S. of 6 million preventive -- eligible for preventative treatment. And only 3 million of those are being treated today. And year-to-date, we have approximately 100,000 patients treated with Emgality. So we see a tremendous opportunity also moving forward.
+And also, the prescriber base in the U.S. is still limited. So only 15% of our customers are regularly prescribers of Emgality. So I think that signals very clearly the opportunity we foresee. We're also excited about the opportunity outside of U.S. Migraine is not a U.S. phenomenon. We have 30 million patients suffering from migraine in EU and 9 million in Japan. And only 2 million of those are treated in EU and 300,000 in Japan. It's still very early days. And we have just received the regulatory approval from [European Medicines Agency] (corrected by company after the call). And we are in pricing reimbursement discussion on a country-to-country basis as we believe that the opportunity for Emgality is big also outside the U.S.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+          Next is the line of Geoff Meacham with Bank of America.
+
+--------------------------------------------------------------------------------
+Geoffrey Christopher Meacham,  BofA Merrill Lynch, Research Division - Research Analyst    [20]
+--------------------------------------------------------------------------------
+
+          I just have a couple. Josh, on the SG&A side, are there opportunities for more cost savings looking forward beyond what you guys have talked about post the [Elanco] here? I'm just trying to get a sense for whether the Q3 trends can be extrapolated.
+And then Patrik, another one on the migraine side. So I know obviously early in the REYVOW launch, but can you leverage the access you just mentioned with Emgality to help benefit REYVOW? I'm just trying to get a sense for the commercial synergies looking to 2020. And with the CGRP space being a little bit more crowded, how has the pricing environment been so far?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [21]
+--------------------------------------------------------------------------------
+
+          So go to Josh for SG&A and then Patrik on migraine.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [22]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Jeff. welcome back. On SG&A, yes, I think if you look at what we see in Q3 and what we've been talking about relative to our productivity goals for 2020, we are pretty comfortable with the absolute level of investment we have behind our new launches, even if you look at the last few Baqsimi which I mentioned on the prepared comments, and REYVOW, for example. We're putting those into existing infrastructures and we'll get good leverage there. So we'll continue to invest behind our key launches, but I think the absolute level of SG&A with our ongoing productivity efforts to get more out of each of the promotional dollars we spend, we feel pretty comfortable with that, so you should expect a modest to flat growth going forward on that line.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [23]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. Patrik?
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP & President of Lilly Bio-Medicines    [24]
+--------------------------------------------------------------------------------
+
+          Well, thank you very much. We are also excited with the approval of REYVOW and we are waiting for the DEA to give out overall assessment by January next year and we're launching very early in 2020. Overall, we believe our existing is significant need in the acute treatment of migraine. We know that currently 5 million of Americans are being treated for acute migraine, but 35% to 40% of those don't respond or can't tolerate the triptans and approximately 15% of those are contraindicated for triptans, so that's why we believe it's really a tremendous opportunity. After 2 decades, the launch of new oral treatment for acute migraine.
+We see some significant synergies with Emgality, both in terms of access and the overall infrastructure, and particularly being able to capitalize on the learnings that we have had with the launch of Emgality just the beginning of 2018, but we've rapidly been able to take a leadership position, not just in terms of access, but also in terms of NRx and closing the gap in TRx.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+
+          Is the line of Tim Anderson with Wolfe Research.
+
+--------------------------------------------------------------------------------
+Timothy Minton Anderson,  Wolfe Research, LLC - MD of Equity Research    [26]
+--------------------------------------------------------------------------------
+
+          I'd like to come back to 2020 and contracting and diabetes. I know you were asked this earlier, but you didn't give much of an answer.
+The stock's down 5% today on a beat and raise, I think that reflects concerns about whether you can hit your operating margin guidance in 2020, the outlook for diabetes. So specifically, on diabetes, you're in this window of kind of having an idea of where your coverage is going to be for Trulicity and Jardiance in terms of net live gains or lost and what the price concessions are. So can you just hopefully give us a little more detail on how we should be thinking about Trulicity specifically and Jardiance as well going into 2020 because there have been changes in the competitive dynamics there?
+Second question, just going back to Alzheimer's. It seemed like a couple of years ago, Lilly started to quietly pivot away from thinking that any monotherapy that's anti-amyloid would yield a benefit. And you started to really go down this combination route. Given what Biogen disclosed yesterday and your ongoing work in this area, just how are you thinking about monotherapy in the anti-amyloid space? And really, anything you can offer, your impressions of the Biogen news yesterday would be helpful.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [27]
+--------------------------------------------------------------------------------
+
+          Thanks, Tim. So we'll go to Josh for outlook for 2020 and then to Dan for the question on Alzheimer's.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [28]
+--------------------------------------------------------------------------------
+
+          Thanks, Tim. As we said in the opening, I think if you look at Trulicity and strip out the things that we see in Q3 that we say are concentrated in that quarter, we feel good, as Enrique mentioned, feel very good about the access that we have now and the access we project into 2020. And as we said, you should think about Trulicity at a modest year-over-year price decline, which is really just a function of modest price increases. And we like that the price and the value that GLPs have in the U.S. today, so we'll do everything we can to preserve that. And we feel confident as we head into 2020 that that's a very manageable dynamic.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [29]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh. Dan?
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP & Chief Scientific Officer    [30]
+--------------------------------------------------------------------------------
+
+          Of course, with respect to the amyloid hypothesis in the Biogen data, I think there was a lot of thinking about this when they announced their futility that the main question was whether or not there was evidence that if you removed significant amounts of amyloid plaque from the brain, this could result in a slowing of cognitive decline. So everyone was sort of waiting to see that the very highest doses, whether it was that high level of amyloid removal, what would happen.
+So I think the data we saw yesterday from that respect is an important indicator on the amyloid hypothesis. We've thought for some time that complete removal of amyloid from the brain could be the goal here, doing it in early in the right patients could be important. And that underlied the design of our trial with our plaque removing antibody,Donanemab, which we said should be able to remove plaque more quickly and more deeply than anything else we've seen.
+So I think yesterday's news is rooted to be a little more optimistic about that theory. And as I said before, we're excited to see the results of that Phase II trial.
+With respect to your comment -- question on combination therapy, indeed, we do think that combination therapy is an important avenue in Alzheimer's disease, I think we're the first and probably the only company that tried a combination of 2 disease modifying therapies. Unfortunately, we had to stop that, one of the therapies was a BACE inhibitor, which proven not to be a productive avenue of investigation. But given that we have both tau and amyloid approaches, I think combination in the future is a very rationale approach for Alzheimer's.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [31]
+--------------------------------------------------------------------------------
+
+          Next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          Next is Louise Chen with Cantor.
+
+--------------------------------------------------------------------------------
+Louise Alesandra Chen,  Cantor Fitzgerald & Co., Research Division - Senior Research Analyst & MD    [33]
+--------------------------------------------------------------------------------
+
+          My first question here is, when you first gave your 2020 revenue outlook or your long-term revenue guidance, what did you assume for SKYRIZI and oral semaglutide, and how have those launches proceeded relative to your expectations there?
+And then second question is, how do you think the data readouts from ESMO impact your thinking on the commercial opportunities for Verzenio? Is there more growth left in the U.S.? And how much can your share increase with this positive data?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [34]
+--------------------------------------------------------------------------------
+
+          Thanks, Louise. We'll go to Dave for the 2020 revenue question and to Anne on ESMO data on Verzenio.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [35]
+--------------------------------------------------------------------------------
+
+          Louise, thanks for the question. Of course, we set the 2020 guidance in the middle of 2016. So many of the products we're facing competition from, et cetera, today, were a twinkle in the eye of the inventors back then and including some of our own launches at that time. We set the guidance because we thought there was a distance between what's -- the people who do your work and the company thought about the long-term prospects, not line by line, but looking at a portfolio of opportunities that existed in front of us. Of course, our ability to predict any one competitive situation or a product uptick for Lilly is not perfect.
+But at that time, we did project that we would launch 10 medicines by the end of '19 in the first 5 years of that period, and that -- because of the profound nature of those opportunities, we were confident we would find a way to grow the company. At that point, the pharma business 6%, Elanco a bit slower. We've actually raised that to 7% and I think are closing in achieving that goal despite the fact that probably how we predicted we'd get there isn't the same way we have. But I think that was the nature of the exercise back then. And I think we successfully closed the gap in understanding in terms of what the opportunity for the company to grow was during that time. So we're proud of that achievement.
+If we look at the competitive threats we face across our big products, of course, they're there. I would just point out as well though that Trulicity volume growth in the U.S. was over 40% in Q3. That's in the face of 1.5 years of Ozempic. And that Taltz volume growth was substantial as well in the face of SKYRIZI and Tremfya uptake. And in both those cases, it's important to understand that there is far more growth opportunity left in the classes we're participating in than share erosion threat, to our eyes.
+A final comment on all this, because I know there's lot of interest in the Q3 pricing dynamics on Taltz and Trulicity. Most of those effects were determined early in '18 and are now manifesting themselves in Q3 of '19. Whether it be the donut hole launchings which affect both of them, the rates we contracted on in the commercial mergers that occurred in the payer space or the contracting in the case of Trulicity in what we knew were lower-priced segments, but a good volume, and of course, at the margin are highly productive for us to make sure patients in VA or DOD, those segments, can reach our products.
+So just to put a perspective on all that, a long-winded answer, but thanks for the question.
+And maybe Verzenio, Anne can address.
+
+--------------------------------------------------------------------------------
+Anne E. White,  Eli Lilly and Company - Senior VP & President of Lilly Oncology    [36]
+--------------------------------------------------------------------------------
+
+          Yes. I'd be happy to. So thanks, Louise, for the question. And quarter-over-quarter, our Q3 U.S. sales are up 19% since Q2 and Q3 monthly sales look very strong as well. So we do believe that we're seeing growth from the outstanding survival results that we've released. And we do hope that we'll see some growth for the CDK4/6 market, although maybe in the single digit area.
+For us here at Lilly, this is a relaunch of Verzenio. So the top priority for our team is to ensure that doctors, typically those in the U.S., are aware of the statistically significant OS data, nearly 10 months of survival benefit. And we'll work with them to share that benefit that patients that can have from Verzenio. And we do know that oncologists are data-driven, and we have extremely compelling data and a very strong commercial team that will ensure that we get the word out.
+So we do hope very much to increase our share of market. Obviously, not all the competitors in the space have been able to demonstrate specifically significant results, and so we'll make sure that, that data is well communicated. Particularly, we're going to encourage physicians to identify patients that are likely to do worse. So you probably saw that data that we released at ESMO on where the cancer recurred or when it recurred. And those patients do particularly well on Verzenio with some very robust results. Again, we see that as a differentiator as well from some of that competition.
+And we do know that physicians and patients #1 goal is survival, and we've been able to deliver now, as I said, nearly 10 months of a survival benefit, which is really remarkable in this setting and I think really a bit of a game-changer for this molecule. So we look forward to next year.
+And then just to comment a little bit outside the U.S. in addition to what I said is good growth in the U.S., we're seeing a great portion of our growth come from outside the U.S., particularly in Japan. And we just got the updated data that in combination -- in first line in combination with aromatase inhibitors, we have a 30% share now. And in the second line in combination with fulvestrant, a 45% share.
+So really outstanding work by our Japan team and a good growth there. And then great work in Europe as well, with continued uptake, strong patient uptake in the U.K., France and Germany. And many countries now having reimbursement and off and running. So we look forward to next year with Verzenio and continue to grow based on this, we think, very significant contribution to this important medicine.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [37]
+--------------------------------------------------------------------------------
+
+          Next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+
+          Is the line of Navin Jacob with UBS.
+
+--------------------------------------------------------------------------------
+Navin Cyriac Jacob,  UBS Investment Bank, Research Division - Equity Research Analyst of Specialty Pharmaceuticals and Large Cap Pharmaceutic    [39]
+--------------------------------------------------------------------------------
+
+          You gave a lot of color on Trulicity and the pricing dynamics there. Just on Taltz, wondering if we could get a similar sort of color. Specifically, UNH recently excluded Taltz from its 2020 formulary. Can you just help us understand what -- how the access looks for 2020? As you go into those discussions, do you see any pressure there from some of the other newer entrants?
+And second question, on Jardiance, you have a couple of trials reading out over the next few years, the EMPEROR trials and heart failure. How are you thinking about that opportunity? Are those trials meant to bolster the profile of Jardiance in the diabetes market? Or do you actually view the heart failure opportunities as a individual stand-alone opportunity? And if so, could you help us understand if this could be a blockbuster opportunity by itself? And then associated with that, wondering if the 6-minute function tests are fileable by themselves.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [40]
+--------------------------------------------------------------------------------
+
+          Thanks, Navin. We'll go to Patrick for the question on Taltz and Enrique for the question about Jardiance.
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP & President of Lilly Bio-Medicines    [41]
+--------------------------------------------------------------------------------
+
+          So thank you very much. And access continues to be a challenge in the field of immunology in the U.S. but we will continue to ensure that through a combination of Taltz clear access program and contract with payers that we continue to ensure that patients get the access to Taltz whenever they need.
+If we look specifically into 2020, we expect 2020 to be similar to 2019 and incrementally better in some areas. And we know that not all plans just yet presented benefits -- drug benefit schemes for 2020. But we believe we are entering into 2020 with positive momentum. And with Taltz now replacing Cosentyx as the preferred IL-17 with OptumRx and their co-formularies which is covering than 14 million lives in the U.S. So in essence, we believe 2020 to be very similar to 2019, but with some incrementally better areas.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [42]
+--------------------------------------------------------------------------------
+
+          Thanks, Patrik. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique A. Conterno,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA    [43]
+--------------------------------------------------------------------------------
+
+          So we do see heart failure for Jardiance as a significant opportunity for us. I think you described it as a blocks status type of potential, and I think that's right. Clearly, we do have a lot of opportunity for Jardiance in type 2 diabetes, so heart failure is on top of that block of opportunity in type 2 diabetes.
+We do have, when it comes to the 6-minute walk test, we have a read out later this year. You asked whether we believe that data would be fileable with the FDA, and we believe so, so we believe that we can get the data on our label. Clearly, the outcome studies are also critical for us and they will be coming at the end of next year and then for HFpEF in early 2021. So a very significant opportunity for Jardiance and for patients.
+
+--------------------------------------------------------------------------------
+Daniel M. Skovronsky,  Eli Lilly and Company - Senior VP & Chief Scientific Officer    [44]
+--------------------------------------------------------------------------------
+
+          And this is Dan. I could just also add in that we are studying Jardiance in chronic kidney disease in a Phase III trial that will read out in 2022, just another exciting opportunity there.
+
+--------------------------------------------------------------------------------
+Operator    [45]
+--------------------------------------------------------------------------------
+
+          The next is Seamus Fernandez with Guggenheim.
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [46]
+--------------------------------------------------------------------------------
+
+          So just a couple of quick questions. First off, for the diabetes market. Enrique, can you just help us understand the mix of payers? How that might be changing from a Trulicity perspective in terms of the next incremental script gain? And then similarly, where is Trulicity gaining the most traction incrementally amongst physicians? Is it now really the growth driver growing beyond the endo market and pushing into the primary care physician portion of the market? The reason that I asked that is because I think the mix of payers is really important, relative to the incremental acquisition cost for each script, considering the competition from an oral drug obviously moving and seeking to penetrate the primary care market.
+The other question is really a kind of bigger picture question on business development. I think, Dave, you said in the past that the focus now that Lilly has launched several successful products in the market today is to really reload the Phase II and the Phase III pipeline. Can you just give us a sense of where you are focused? Do you feel like the current Phase I pipeline is sufficient to advance there? Or is the focus more so or equally on areas outside? And maybe you can just give us a sense of where you're most excited about the science going forward.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [47]
+--------------------------------------------------------------------------------
+
+          Thanks, Seamus. We'll go to Enrique first for the question on Trulicity mix of payers and then Dave for your question on business development.
+
+--------------------------------------------------------------------------------
+Enrique A. Conterno,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA    [48]
+--------------------------------------------------------------------------------
+
+          Seamus, Trulicity continues to grow across all payers, so whether it's commercial or Part D. Of course, as we've highlighted, we have disproportionate growth in the VA and the DOD and other types of payers that are -- that tend to be lower priced.
+But as we look at the future, we do continue to expect growth for the product across all of the different payers. When it comes to endo vis-à-vis primary care, we do see the class continue to grow across all segments. And in particular, Trulicity has been growing quite a bit when it comes to reaching more primary care physicians. So a big part of the growth is just having more primary care physicians try new -- try GLP-1 and start using and adopting this important class. And because of the simplicity of Trulicity, it is an ideal product for that.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [49]
+--------------------------------------------------------------------------------
+
+          Thanks, Enrique. Dave?
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [50]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks for the question on capital allocation and BD. You have it right that we see a significant investment in our own labs and our own efforts is very important and we've had good success. Dan commented the Phase I starts this year as an example. But we aggressively want to complement that with outside opportunities, really in all phases of development and across all therapeutic areas.
+Now of course, our opportunities to add value and find value are not uniform across stages of development or therapeutic areas, and so that does skew our work and our effort there. But we are open-minded about all 5 of the TAs we operate in and all phases of development. Where we can add value and find value, those are the most exciting and attractive opportunities.
+Of course, this year, we did our largest acquisition ever with Loxo Oncology on the one end. On the other end, you saw a nice tuck-in to our pain portfolio with the Centrexion deal as another. We don't come at this with any particular financial framework other than finding value. And of course, valuations in biotech have dropped a little bit lately, so that always helps the equation. They've been pretty high over the last 18 months prior to that. So we continue to look at all mechanisms, all TAs, and all phases. And probably because of the number of opportunities, I've said this before, you'll see us active in oncology, that's where a lot of early-stage biotech is, and earlier because that's where more of the opportunities lie.
+
+--------------------------------------------------------------------------------
+Operator    [51]
+--------------------------------------------------------------------------------
+
+          Next is the line of David Risinger with Morgan Stanley.
+
+--------------------------------------------------------------------------------
+David Reed Risinger,  Morgan Stanley, Research Division - MD in Equity Research and United States Pharmaceuticals Analyst    [52]
+--------------------------------------------------------------------------------
+
+          So I just wanted to go back to the targets. So with respect to the 31% operating margin target for 2020 that was reiterated today, The Street isn't quite there, I don't think. I think it's just a tad bit below 31%. What is your sense that The Street is overprojecting in terms of costs, i.e., where do you think the costs will be lower than what The Street is currently assuming?
+And then with respect to the revenue target that was provided in the second quarter slide, are you still comfortable with that $23.6 billion figure for 2020?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [53]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. We'll go to Josh for both of those questions.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [54]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. One, on the targets themselves and margins. I think if you look at how we've progressed since we've established those margins, you've been seeing multiple-hundred-basis point improvements per year and this year, we were  clear in saying that wasn't going to be the case because of the Cialis overhang that we faced this year. So I think when we look out into 2020, and of course, everybody's got different models, I think it's a combination probably of where we see revenue and how we think we can manage costs, again as I mentioned earlier on a prior question, we feel good about the overall SG&A investment that we have. So as we lose the overhang from Cialis and Lartruvo, the volume gains that we are seeing in the new product portfolio and the price that we're projecting, gets us, I think, in a much better growth position on the top line with modest growth on the operating expense line.
+So again, we're confident. We've reiterated -- as you know, we've raised this number a little bit and we've reiterated every opportunity we have that we'll get there. I think it's probably just the function of both top line and modest -- more modest increases in operating expense. But again, that is very much in the context of the competitive dynamics we face and the large growth opportunities we have long-term. We are going to invest behind those.
+In terms of the revenue piece, I think the answer again is the same is you look at how the portfolio's performing on an underlying basis this year, we're confident in the minimum number that we need to achieve in order to get to the 7% compound annual growth rate target that we've outlined.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+          Is the line of Steve Scala with Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Michael Scala,  Cowen and Company, LLC, Research Division - MD & Senior Research Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Dave, for investors who choose to be skeptical, this quarter has provided things to point to. So you explained Trulicity and Taltz, but Basaglar and Alimta also fell short. The beat was tax rate driven as was the 2019 guidance raise. Enrique is departing at a not ideal time. So why should we be confident that the weaknesses are temporary, the tax rate lowering won't create a tough compare in 2020 since one-time factors occur once and that Enrique's departure doesn't portend difficulty ahead in diabetes? So that's the first question.
+And with the stock unusually weak this year and given your confidence in the outlook, why not take this opportunity to be more aggressive with share repurchase? Why isn't this a phenomenal opportunity?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [57]
+--------------------------------------------------------------------------------
+
+          Thanks, Steve. We'll go to Dave for the first handful of questions and then Josh on the share repurchase.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [58]
+--------------------------------------------------------------------------------
+
+          Yes. Great, Steve, thanks for synthesizing the barricades so effectively there. We, of course, have an answer to all of those things. And I -- honestly, I don't think there's been a more interesting or exciting time to be in this company or a more optimistic time. And we went through many of those reasons today. We have a broad portfolio of products that are new in their life cycle, with Cialis behind us, remembering that Cialis is a 6-point growth head wind over the last 4 quarters, that's ending now, coupled with the onetime price effects which we went through today, which we really believe are substantially onetime, either a step down on big mergers with our payers or the 1-year effect of the donut hole, which falls disproportionately on companies like Lilly who have retail-oriented products.
+And then we look ahead in diabetes. I have to be honest. I think the diabetes pipeline, the growth opportunities ahead, whether it be with Jardiance or Trulicity or tirzepatide have never been stronger for the company.
+So I'll let Enrique answer the question on his timing. But I think he is leading on top and there's another level to get to in Lilly Diabetes. That's certainly how I feel.
+I think the -- of course, every category we're in we've talked about, we compete with companies, some of them bigger than ours, some of them more focused because we have more opportunities than the average company out there. And that doesn't mean that every quarter or every line item, we're going to nail our goals. I think we're honest with ourselves about that. But we have more than half a dozen products that could scale in a significant way. And given our base of pharma revenue, I think that continues to offer a unique situation. And then you couple that with margin expansion which we're convicted on, as per the prior question, and given our placement in the league table there, certainly, we have upside on that one as the top line scales. I can't think of a better place to work in this industry to be honest. We've got a great opportunity ahead.
+Now on share buyback, I'll let Josh address that. But certainly, that has been our thinking. We've done aggressive share buyback this year as we think about sources of cash, et cetera, that's clearly on our list. And when we have that discussion with the Board, I'm sure that will be a key topic as we plan capital allocation over the coming years.
+And Enrique, you want to touch on your retirement? I think it's probably worth a mention here.
+
+--------------------------------------------------------------------------------
+Enrique A. Conterno,  Eli Lilly and Company - Senior VP & President of Lilly Diabetes & Lilly USA    [59]
+--------------------------------------------------------------------------------
+
+          Look, I'm sad to be leaving and retiring from Lilly, I'm very proud I think of the business that we've built in diabetes. As good as I feel about building that business together with all my colleagues, I feel even stronger about the bright future that diabetes has and Lilly has ahead. Just as I think about Trulicity and Jardiance, great momentum, leadership-type brands, but with important catalysts when it comes to Trulicity and REWIND and the higher doses. And when it comes to Jardiance, of course, heart failure and CKD on top of the -- with a huge opportunity in type 2 diabetes. And I continue to feel very bullish about what tirzepatide could do on both the efficacy and the tolerability profile. So very exciting time for us in diabetes overall, and I couldn't be more excited about the future of Lilly in diabetes.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [60]
+--------------------------------------------------------------------------------
+
+          Just a couple of points -- it's Josh, on share repurchase, Steve, just to remind everybody. We did a $3.5 billion share repurchase in the first half of this year. We did $600 million in the third quarter. And as you say, when we see opportunities on the margins to create value, we're going to be opportunistic in share repurchase. Of course, we want to be balanced here, as we mentioned in the comments. We want to ensure we've got the capital capacity to invest in the pipeline and business development opportunities when we see them. But yes, you should expect that when we see outside movements, we'll do what we can.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [61]
+--------------------------------------------------------------------------------
+
+          Thank you, Josh.
+
+--------------------------------------------------------------------------------
+Operator    [62]
+--------------------------------------------------------------------------------
+
+          Is the line of Andrew Baum with Citi.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc, Research Division - Global Head of Healthcare Research and MD    [63]
+--------------------------------------------------------------------------------
+
+          A couple of questions, please. In relation to Taltz, you spoke about access for next year. You didn't talk about pricing -- net pricing. Perhaps you could talk to that. Given it's predominantly a commercial market, I'm assuming that rebating we've seen which looks like 40% is only going to go one way, I note that you're 25% higher rebate than consensus and your net price on our calculations at least is down 16% year-on-year. So color on where it goes in 2020 would be helpful.
+And then second, again, on net pricing in relation to Trulicity. We estimate that about 25% of Trulicity is Part D base by volume. I'm obviously coming from a point of view of trying to work out the contribution of the additional donut hole impact versus other factors. If you confirm how close we are to where it is, that would be very helpful.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [64]
+--------------------------------------------------------------------------------
+
+          Thanks, Andrew. We'll go to Patrik for the question on -- or Josh.
+
+--------------------------------------------------------------------------------
+Joshua L. Smiley,  Eli Lilly and Company - Senior VP & CFO    [65]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Andrew. On Taltz, first, I think that the Taltz pricing dynamics are a little bit different than Trulicity. As Patrik mentioned, I think, earlier as we've talked about in other calls, about 1/3 of our prescriptions now just given the access challenges we have are not reimbursed or Lilly ends up being the primary payer. So as we get incremental access, you see interesting price moves here. So we are happy to gain access and pay rebates for that volume because we're transitioning patients in some cases from free product to reimbursed product.
+That being said, there are other cases where the product may not be on formulary but as we work through PA process and other things, we end up ultimately getting 100% reimbursement. So I think if you look at that piece, you're going to see -- it will be a little bit more difficult in Taltz to translate prescriptions to net price. All that being said, I think if you look in the third quarter, the biggest dynamic we saw for Taltz on price was similar to Trulicity in that we saw a prior period adjustment. And again, this is just estimating the rebate liability. And as we looked over the preceeding 12 months as we get invoices in, we had to make an adjustment there that, in total, when we look at the sort of in quarter adjustments, it was about 20 points of price as well. So we don't see that going forward.
+I think as you look into 2020, as Patrik mentioned, we've got some opportunities to gain some incremental access and that will show up as some price concession, but it's more than compensated for in volume. So we see a relatively sort of steady price, but lots of things moving on -- moving around under the water.
+I think on Trulicity, your estimates are good. About 30% of Trulicity right now is in Medicare Part D. We see that probably as pretty stable going forward. And as we mentioned, we are -- we see the pricing environment on a contracted basis as being pretty stable as we head into 2020 as well.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [66]
+--------------------------------------------------------------------------------
+
+          Thanks, Josh.
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          The line of Damien Conover with Morningstar.
+
+--------------------------------------------------------------------------------
+Damien Conover,  Morningstar Inc., Research Division - Sector Director and Equities Strategist    [68]
+--------------------------------------------------------------------------------
+
+          I just wanted to follow up on the Taltz study that showed encouraging data head-to-head versus Tremfya at 12 weeks. And it looks like there is a 24-week endpoint -- secondary endpoint coming up. And my question is, is there any data points coming up after 24 weeks, maybe pushing into 48 weeks? And I ask that because of the ECLIPSE data that showed favorable data from Tremfya versus a different IL-17 but really didn't show the strong data until week 48. And I'm just wondering how you're looking at Taltz positioned against Tremfya in those sort of longer duration of treatment. And then maybe a follow-up to that is, when you position the product for physicians, is the quick response or potentially a longer response more important from your marketing perspective?
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [69]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks. Patrik?
+
+--------------------------------------------------------------------------------
+Patrik Jonsson,  Eli Lilly and Company - Senior VP & President of Lilly Bio-Medicines    [70]
+--------------------------------------------------------------------------------
+
+          Thank you very much. We are extremely excited of this first superiority trial of an IL-17 over an IL-23. We just got the data published a couple of weeks ago, so we are now in the same sort of disseminating this data among health care providers in the U.S. and the rest of the world.
+The first cut was in 12 weeks, as you said, and we shared a -- or showed a superiority, both in terms of onset of action and clearance. The next data cut and the last data cut will be at the week 24. And that is driven by the fact that we have seen also that the IL-23 they peak in terms of efficacy pretty much at that time. If we look into the key attributes, particularly among patients treated for psoriasis, its onset of action is clearance and its durability. And I think this was the third Phase III trial that we actually could confirm that Taltz is superior, both as (inaudible) and now Tremfya in terms of both onset of action and clearance. And we have 5 years data confirming the durability of the efficacy as well. We really believe that there is a lot of good momentum for Taltz right now.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [71]
+--------------------------------------------------------------------------------
+
+          And I would just add, the -- you mentioned another IL-17, but we don't see these 2 IL-17s as similar. And it's interesting to note that all our competitors who are doing IL-17 comparisons are choosing Cosentyx and not Taltz. In fact I'm certain today, no one has actually compared any other psoriasis medicine to Taltz. And I think that tells you a lot about the powerful efficacy that we deliver with this leading medicine.
+
+--------------------------------------------------------------------------------
+Kevin Hern,  Eli Lilly and Company - VP of IR    [72]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. Damien, thanks for the questions. And we'll go to Dave for the close.
+
+--------------------------------------------------------------------------------
+David A. Ricks,  Eli Lilly and Company - Chairman, CEO & President    [73]
+--------------------------------------------------------------------------------
+
+          Great. Well, we appreciate everyone's participation today and your interest in the company. As I said earlier, we've made meaningful progress thus far in 2019, and we're committed to our revenue and operating margin goals in '19 as well as in '20, while we continue to invest in our innovation-based strategy. With the diversified and volume-driven revenue growth from one of the freshest portfolios in the industry and a complement -- complemented by a pipeline full of exciting opportunities, some of which Dan commented on today, we believe Lilly continues to be a compelling investment.
+Thanks again for dialing in. And please follow-up with the IR team if you have questions we didn't address in today's call. Have a good day.
+
+--------------------------------------------------------------------------------
+Operator    [74]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this conference is available for a digitized replay after 11:15 a.m. Eastern Time today through October 23 of 2020 at midnight. You may access the replay service at any time by calling 1 (800) 475-6701 and enter the access code of 472869. International participants may dial (320) 365-3844 and use the same access code, 472869. That does conclude your conference for today. Thank you for your participation. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
