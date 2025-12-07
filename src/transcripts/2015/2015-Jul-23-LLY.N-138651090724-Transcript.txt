@@ -1,0 +1,895 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2015 Eli Lilly and Co Earnings Call
+07/23/2015 09:00 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Eric Siemers
+   Eli Lilly and Company - Distinguished Medical Fellow
+ * John Lechleiter
+   Eli Lilly and Company - Chairman, President & CEO
+ * David Ricks
+   Eli Lilly and Company - President, Lilly Bio-Medicines
+ * Enrique Conterno
+   Eli Lilly and Company - President, Lilly Diabetes
+ * Jeffrey Simmons
+   Eli Lilly and Company - President of Elanco Animal Health
+ * Susan Mahony
+   Eli Lilly and Company - President, Lilly Oncology
+ * Jan Lundberg
+   Eli Lilly and Company - President, Lilly Research Laboratories
+ * Chito Zulueta
+   Eli Lilly and Company - SVP & President, Emerging Markets
+ * Derica Rice
+   Eli Lilly and Company - CFO
+ * Phil Johnson
+   Eli Lilly and Company - IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Scala
+   Cowen and Company - Analyst
+ * Andrew Baum
+   Citigroup - Analyst
+ * Mark Schoenebaum
+   Evercore ISI - Analyst
+ * Tony Butler
+   Guggenheim Partners - Analyst
+ * Chris Schott
+   JPMorgan - Analyst
+ * Jami Rubin
+   Goldman Sachs - Analyst
+ * Tim Anderson
+   Bernstein - Analyst
+ * John Boris
+   SunTrust Robinson Humphrey - Analyst
+ * Vamil Divan
+   Credit Suisse - Analyst
+ * Seamus Fernandez
+   Leerink Partners - Analyst
+ * Gregg Gilbert
+   Deutsche Bank - Analyst
+ * Colin Bristow
+   BofA Merrill Lynch - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, thank you for standing by. Welcome to the Q2 2015 earnings call.
+(Operator Instructions)
+As a reminder, today's conference call is being recorded. I'd now like to turn the conference over to John Lechleiter. Please go ahead.
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Good morning. Thank you for joining us for Eli Lilly and Company's second quarter 2015 earnings conference call. I'm John Lechleiter, Lilly's Chairman, President and CEO. Joining me on today's call are Derica Rice, our Chief Financial Officer, Dr. Jan Lundberg, President of Lilly Research Laboratories, Dr. Sue Mahony, President of Lilly Oncology, Enrique Conterno, President of Lilly Diabetes, Dave Ricks, President of Lilly Bio-Medicines, Chito Zulueta, President of Emerging Markets, Jeff Simmons who is President of Elanco Animal Health, and Ilissa Rassner, Brad Roebling and Phil Johnson of Lilly's IR team. We're also joined by Dr. Eric Siemers. Eric is a distinguished medical fellow for our Alzheimers disease team. He is dialing in from Washington where he is attending the Alzheimers Association International Conference.
+During this conference call, we anticipate making projections and forward-looking statements based on our current expectations. Our actual results could differ materially due to a number of factors including those listed on slide 3, and those outlined in our latest Forms 10-K and 10-Q filed with the Securities and Exchange Commission. The information we provide about our products and pipeline is for the benefit of the investment community. It is not intended to be promotional, and is not sufficient for prescribing decisions.
+Lilly's positive momentum continued in the second quarter, as we delivered solid underlying business performance with productivity improvements driving bottom line leverage, with double-digit operating income and EPS growth. And we again saw significant pipeline progress, including multiple regulatory approvals and submissions along with positive Phase 2 and Phase 3 data read-outs. As usual, I will begin today's call by highlighting key events that have occurred since our first quarter earnings call in late April.
+We seen advances on a number of fronts, starting with commercial milestones. In Japan, we began promotion of Cyramza for gastric cancer. The gastric cancer indication in this market represents a significant opportunity for this product. Here in the US, we began promotion of Cyramza for second-line metastatic colorectal cancer following FDA approval of this indication, the day after our last earnings call.
+On the regulatory front, we achieved a number of milestones. In diabetes, we received approval in Japan for Trulicity, our once-weekly GLP-1 receptor agonist for the treatment of type 2 Diabetes. We also received FDA approval for Humalog U-200 KwikPen for the treatment of type 1 and type 2 Diabetes.
+In collaboration with Boehringer Ingelheim, we received European Commission approval for Synjardy. This is a single-pill therapy that combines empagliflozin and metformin for the treatment of adults with type 2 diabetes. Here in the US, the FDA issued a Complete Response Letter for Synjardy, and Boehringer Ingelheim has already submitted their response. We are pleased the resubmission was granted a two month review, and we're hopeful we will be able to bring this product to market in the US yet this year.
+Moving to oncology, as I mentioned a moment ago, we received FDA approval for Cyramza in second-line metastatic colorectal cancer. We also completed our submission for the same indication in Japan.
+In addition, the FDA Oncologic Drugs Advisory Committee, ODAC, reviewed the data supporting our submission for necitumumab in combination with gemcitabine and cisplatin for use in first-line treatment of patients with advanced squamous non-small cell lung cancer. We were encouraged by the constructive discussion on the benefit risk profile of necitumumab. We believe necitumumab represents a meaningful advancement in treatment.
+And moving to our Bio-Medicines business, we submitted ixekizumab in Europe for the treatment of moderate to severe plaque psoriasis following our US submission in the first quarter. Clearly, this continues to be an exciting and busy time for our regulatory colleagues across the globe.
+On the clinical front, we presented detailed Phase 3 data on three different molecules, and highlighted these data on investor calls. First was the presentation of Phase 3 data for basal insulin peglispro in patients with type 1 and type 2 diabetes at the ADA meeting. As we stated in the past, we've decided to delay regulatory submission to generate additional safety-related data. Next was the presentation of data from the first two of our four pivotal trials for baricitinib in rheumatoid arthritis at the [EULAR] meeting in Rome. We're encouraged by the Phase 3 data we've seen to date and we look forward to the data read-outs from the final two pivotal trials later this year.
+Last was the presentation of Phase 3 data for ixekizumab in moderate to severe plaque psoriasis at the World Congress of Dermatology meeting. We believe ixekizumab has demonstrated a compelling benefit risk profile in clinical work to date, and that ixekizumab could help patients with moderate to severe plaque psoriasis better manage their disease, and improve their quality of life. Further, we believe that the level of efficacy and the safety profile demonstrated by biologic agents targeting IL-17A in psoriasis represent a meaningful improvement to currently available therapeutic options, and could be a catalyst for greater use of biologics in the treatment of this disease.
+Just yesterday, at the Alzheimers Association International Conference, we presented two year extension data from the EXPEDITION-EXT trial. We believe the data are consistent with a potential disease modifying effect of solanezumab on underlying disease progression, and we look forward to completion of the EXPEDITION 3 study in late 2016.
+Apart from these Phase 3 data disclosures, we also had some earlier stage data presentations that garnered investor interest. Specifically, at the ASCO meeting, we presented Phase 2 data for olaratumab in soft tissue sarcoma. While at the American Headache Society meeting, we presented initial Phase 2b data on our CGRP monoclonal antibody in episodic migraine. We are enthusiastic about the opportunity for both of these molecules. Derica will provide an important update on olaratumab later in the call.
+On the business development front, we announced five oncology deals spanning collaborations with AstraZeneca, BioNTech, Dana-Farber Cancer institute, Sarah Cannon Research Institute, and Immunocore. This is consistent with comments that we made earlier this year, that you should expect to see us increase the level of our business development activity through partnerships, licensing and acquisitions at ever earlier stages of development. In addition, we struck a deal with Sanford-Burnham Medical Research Institute in the area of immunology, and we announced a sales collaboration agreement in Japan with Sumitomo Dainippon Pharma for Trulicity.
+In other news, we received a positive ruling from the UK Court of Appeals which held that the Alimta vitamin regimen patent would be indirectly infringed by a generic competitor. This ruling reversed the initial UK Court's decision granting declarations of non-infringement in France, Italy and Spain. We announced plans to establish a new drug delivery and device innovation center in Cambridge, Massachusetts. The Lilly Cambridge Innovation Center in Kendall Square will help attract top scientists and bioengineers, as well as enhance our business development presence in the Boston area. And just this morning, we announced plans to effectively double our research presence at our Lilly Biotechnology Center in San Diego, California.
+On the financial side, we took advantage of very low European interest rates to issue EUR2.1 billion of debt, while retiring $1.65 billion of higher coupon US debt. Finally, in the second quarter, we repurchased $125 million of stock, leaving $3.3 billion remaining on our $5 billion plan. In addition, during the second quarter, we distributed over $500 million to shareholders via our dividend. We remain committed to providing a robust dividend, and to returning excess cash to shareholders via share repurchase. And now, I'll turn the call over to Phil for a discussion of our financial performance for the quarter.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, John. Before I discuss our Q2 results, it may be helpful to review some key features of our presentation of GAAP results and non-GAAP measures. When interpreting our GAAP results and the growth rates versus 2014, keep in mind that 2014 does not include Novartis Animal Health, while 2015 includes the operating results of this business, as well as all the costs associated with the acquisition.
+For our non-GAAP measures, we now exclude amortization of intangibles. And to provide you a better idea of the underlying trends in our business, we've adjusted our non-GAAP measures for 2014 to exclude the expense associated with amortization of intangibles, and to include Novartis Animal Health as if we had closed the acquisition of January 1, 2014. This places 2014 on the same basis upon which we are reporting financials this year.
+Now let's look at our results for the quarter. Slide 8 provides a summary of our GAAP results. I'll focus my comments on our non-GAAP adjusted measures to provide insights into the underlying trends in our business. So please refer to today's earnings press release for a detailed description of the year-on-year changes in our second quarter GAAP results.
+Moving to slide 9. You can see that Q2 revenue was nearly $5 billion. The decrease of 4% compared to Q2 2014 reflects significant foreign exchange headwinds. Excluding FX, our Q2 revenue was [4]% on a non-GAAP basis.
+As we discussed before, this year we will still feel the negative effect of a loss of US exclusivity for Cymbalta and Evista. This quarter sales of those two product in the US declined by over $110 million. Excluding the unfavorable impact of foreign exchange rates and Cymbalta and Evista in the US, the rest of our worldwide revenue increased 6% this quarter.
+Gross margin as a percent of revenue increased 2.5 percentage points, going from 76.7% to 79.2%. This increase was driven by the favorable impact of foreign exchange rates on international inventory sold, which increased cost of sales in Q2 last year, but decreased cost of sales in Q2 this year. Excluding this FX effect, our gross margin percent declined by 1 percentage point, going from 77.2% in last year's quarter to 76.2% this quarter. As on prior calls, you will see a supplementary slide providing our gross margin percent for the last 10 quarters with and without this FX effect.
+We continue to drive productivity improvements across our business. Total operating expense, defined as the sum of R&D and SG&A declined by 7%, or over $200 million compared to Q2 2014. Marketing, selling and administrative expenses declined 8%, while R&D declined 5%.
+The reduction in marketing, selling and administrative expenses was due to the favorable impact of foreign exchange rates, cost reductions in the combined Animal Health organization, and ongoing cost containment efforts across Lilly, partially offset by marketing expenses to support recent product launches. The reduction in R&D expense was driven primarily by the favorable impact of foreign exchange rates.
+As implied by our full year guidance, we do expect the level of R&D spend to be higher for the remainder of the year, as we start Phase 3 trials for tanezumab, our CGRP monoclonal antibody, olaratumab, and additional indications for Cyramza.
+Other income and expense was income of $29 million this quarter, and our tax rate was 20.8%, a decrease of 2.3 percentage points compared to the same quarter last year. This decrease was primarily due to a discrete tax benefit realized in this quarter. Also our tax rate in both periods did not include the benefit of certain US tax provisions, including the R&D tax credit as those provisions had lapsed. At the bottom line, net income increased 20%, while earnings per share increased 22%, reflecting the benefit of our share repurchases. Slide 10 contains non-GAAP adjusted information for the first half of the year, while slide 11 provides a reconciliation between reported and non-GAAP EPS, and you'll find additional details on these adjustments on slide 21.
+Now let's take a look at the effect of price, rate and volume on revenue. On slide 12, in the yellow box at the bottom of the page, you'll see the total revenue decline of 4% on a non-GAAP basis that I mentioned earlier. The significant strengthening of the US dollar against many foreign currencies drove this decline, as you see the 8% negative effect from FX this quarter, with a favorable volume effect of 3%, and favorable price effect of 1%.
+By geography, you'll notice that US pharma revenue increased 3% driven by price, partially offset by volume. And in international operations, Australia, Canada and Europe, or ACE, you'll see that there was a decline in revenue of 19% that was almost entirely driven by the negative effect of foreign exchange, while on a constant currency or performance basis, ACE revenue decreased just 1%. This decrease was driven by a substantial reduction in European Cymbalta sales, resulting from a loss of data package exclusivity.
+In Japan, pharma revenue increased 14% in total, while on a constant currency or performance basis, it increased 37%. The size of this increase was influenced by a weak comparison period. Recall that in Q1 2014, we experienced substantial wholesaler buying in advance of an increase in the local consumption tax, which led to a corresponding reduction in wholesaler buying in Q2 2014. Consequently, the performance growth of 10% for the first half of this year is more reflective of the underlying trends in Japan.
+Turning to emerging markets, we saw a revenue decline of 15%, driven by a negative foreign exchange effect of 12%. On a performance basis, emerging market sales declined 4%, driven by lower sales in China and the negative effect of the Brazil humulin tender we had last year. This quarter, our pharma revenue in China declined 16% driven by lower volume.
+On a non-GAAP basis, which adjusts 2014 as if we had completed the Novartis Animal Health acquisition on January 1 of that year, Elanco Animal Health revenue declined 4%. Excluding the negative effect of foreign exchange, Elanco revenue increased 3%.
+Moving to slide 14, you'll see the effect of changes in foreign exchange rates on our Q2 2015 results. This quarter, as mentioned earlier, FX was a top line headwind, reducing revenue in US dollars by 8 percentage points. In terms of cost of goods sold, however, FX provided a substantial benefit, which led to FX having essentially no impact on operating income and EPS growth. At the bottom of the slide, you can see that our non-GAAP EPS in the second quarter grew 22%, with and without FX.
+Slide 15 shows our pipeline as of July 20, with changes since our last earnings call highlighted, green arrow showing progression, and red arrow showing attrition. In terms of advancement, you'll see that our CGRP monoclonal antibody has moved into Phase 3, with the initiation of pivotal trials in cluster headache, and we initiated Phase 2 testing for an oncology molecule. We also terminated development of our oral glucagon receptor antagonist for diabetes in Phase 2, as well as for five Phase I molecules. With that update, I'll now turn the call over to Derica.
+
+--------------------------------------------------------------------------------
+Derica Rice,  Eli Lilly and Company - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Phil. As on our prior calls, I'll recap the progress we've made on the key events we projected for 2015, and then review our 2015 financial guidance. Turning to slide 16, you will see that a majority of events anticipated for 2015 have already occurred in the first six months of the year, with the vast majority being positive. Since our last earnings call, we've achieved a number of additional milestones.
+We initiated Phase 3 trials for Cyramza in both first-line, EGFR mutation positive non-small cell lung cancer, and in second-line urothelial cancer, as well as for our CGRP monoclonal antibody in cluster headache. As John mentioned earlier, we had a number of detailed data disclosures at medical meetings for basal insulin peglispro, baricitinib, ixekizumab, and solanezumab. You will also see that we updated the regulatory submissions category to reflect Japanese submission for ramucirumab for second-line metastatic colorectal cancer, and European submission of ixekizumab for psoriasis. As we announced on our Ixekizumab investor call, we've added an event to our key event list for the simultaneous submission of ixekizumab in Japan for both psoriasis and psoriatic arthritis.
+Earlier John mentioned the presentation at ASCO of the Phase 2 data for olaratumab in soft tissue sarcoma. These data were compelling, and included a tenth month overall survival benefit in patients in the treatment arm that received olaratumab. I am pleased to announce that based on the ongoing discussions with the FDA, we intend to submit US and European regulatory applications for olaratumab in soft tissue sarcoma based on these data, based on these Phase 2 data. We hope to complete the US submission before the end of 2015.
+As a result, you will see a new item on our list of key events to reflect this positive development. In addition, the FDA has granted olaratumab breakthrough designation. We're pleased that olaratumab is the third ImClone molecule following Cyramza and necitumumab that has generated promising clinical data, and that can help patients with cancer live longer.
+You will also see new check marks to reflect three approvals John discussed earlier, Japanese approval for ramucirumab in second-line gastric cancer and Dulaglutide for type 2 Diabetes, and in the US approval for Humalog U-200 KwikPen. Finally, in the other section, you'll see a green check mark for the positive Alimta ruling from the UK Court of Appeal, and we now have a date for mid November for the appeals hearing at the European Patent Office.
+We noted in the past that 2015 is another year where we're focused on demonstrating successful execution of our innovation-based strategy. We're pleased with the progress we made in the past few years and so far this year, and believe this progress solidifies our near- to medium-term growth prospects.
+Turning to our 2015 financial guidance. We've raised the bottom end of our revenue range to reflect the solid underlying performance for the first six months of the year, and the launch trajectories of Jardiance, Trulicity and Cyramza. We have also modestly increased the range for our non-GAAP other income to reflect net gains on investments realized to date, and added a new line for the GAAP other income that reflects the debt repurchase charge. To reflect the discrete tax benefit booked in Q2, we've reduced our non-GAAP tax rate by about 50 basis points. Our GAAP tax rate also reflects the impact of the debt repurchase and the BioNTech charges.
+At the bottom line, we raised our non-GAAP EPS range by $0.10, and now forecast full year non-GAAP EPS to be in the range of $3.20 to $3.30 per share. Our new GAAP EPS range of $2.20 to $2.30 per share has been updated for this same $0.10 increase, as well as the Q2 charges we booked for the debt repurchase and the BioNTech deal.
+Finally I want to point out we own shares of Receptos, and you've undoubtedly seen Celgene's offer to buy Receptos for $232 per share. At this time, it is not clear to us when a deal may get done, and we've not made a determination of what we will do with our shares. We'll monitor this situation, and we will incorporate any necessary changes into our future guidance updates.
+In summary, while our second quarter revenue reflects the impact of foreign exchange headwinds and the lingering effects of US patent expirations for Cymbalta and Evista, we remain on track to return to growth in 2015, driven by excellent progress in our innovation-based strategy. We had solid underlying business performance, and our continued focus on productivity and cost controls drove strong leverage at the bottom line, while providing the capacity to fully invest in our new product launches and to pursue additional promising pipeline opportunities. This solid business performance was the primary driver for increasing our non-GAAP EPS guidance.
+With tangible results from our innovation-based strategy, we aim to drive revenue growth, and expand margins throughout the balance of this decade. As we discussed in the past, you'll see us sharpen our focus on areas where we are best-positioned to compete and win, and we will continue to find ways to increase productivity, and do the work of pharmaceutical R&D better. This concludes our prepared remarks. Now I'll turn the call over to Phil to moderate the Q&A session. Phil?
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [5]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Derica. Leah, if you could provide the instructions for the Q&A session, we'll get started with caller's questions?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Certainly.
+(Operator Instructions)
+Our first question is from the line of Seamus Fernandez with Leerink.
+
+--------------------------------------------------------------------------------
+Seamus Fernandez,  Leerink Partners - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Thanks for the question. So congratulations on a strong quarter. Derica, maybe you can just, or overall if you guys can give us your thoughts on how you see the progression of Alimta sales outside of the US going forward? Sort of ex, if we just kind of exclude the competitive landscape and think about it independent just with the court rulings, how you see that going forward? And what amount of sales is actually reflected and represented by that, how durable you think that is?
+The second question, as we think about the evacetrapib opportunity, if you guys could give us any additional color you could provide on the number of events, the powering of the study? I know you said 15% power in the past, but historically when we've seen studies like this, it's conservatively powered. So 15% at 95% or 98% reduction would imply somewhere between 1,400 and 1,600 events, so it would be really helpful to understand how conservatively powered your 15% assumption is on evacetrapib? And then lastly, on -- I think, olaratumab in terms of the market opportunity in soft tissue sarcoma, can you just give us a quick update on your thoughts there, in terms of the patient size in the US and then also globally? Thanks a lot.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [3]
+--------------------------------------------------------------------------------
+
+          Great, Seamus. Thank you for the questions. I'll go ahead and actually provide some context, on your first question on Alimta OUS revenue and some of the exposures there, and then Dave, if you'll talk about the second question for evacetrapib powering? And then, Sue if you'll handle the olaratumab question.
+So Seamus for OUS, if we go back to the guidance call early January, we had mentioned that last year we had about $880 million in Alimta sales in Europe. We had indicated about $80 million of that amount would already be subject to loss of exclusivity in markets where we did not have a compound patent, or the longer dated vitamin dose regimen patent. Of the remaining $800 million, about $175 million was represented by Germany, with the rest being the other European countries of which France is the largest by far, followed by Germany, and then Italy and Spain, with UK being clearly the smallest of them. So hopefully, just thinking about rulings we've had so far in Germany and rulings out of the UK Court, that provides you some basis to understand the level of exposure that's there.
+For Japan, I don't have last year's number, but I do have this quarter's number in front of me, since we also have litigation ongoing in Japan. We had $67 million in Q2. We had $57 million of Alimta revenue in Japan in Q1. The emerging markets business is a similar size to Japan, where we had about $63 million in revenue this quarter, about $63 million last quarter as well. So the major exposure really is for OUS, the European, both litigation in specific countries that is ongoing, and as we mentioned on the call earlier, the outcome of the European patent office appeal hearing that will occur in November. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [4]
+--------------------------------------------------------------------------------
+
+          Sure. Seamus, thanks for the question on evacetrapib. What we've said in the past is we're powered to show an effect size on LDL alone, and so your range there is about right. I don't think we've gotten into the exact number of events, and I would remind the investors we extended the trial by six months, which was part of our Q1 communication, which actually adds to the event total that we'll see. So in a sense that may increase the powering of the study, although not markedly.
+So the study was designed to show an effect on LDL alone, using the Oxford curve that we've seen play out through time. We estimate about a 30% reduction in LDL, so thus the mid-teens MACE outcome, and that is looking at the quintuple end point. We also have a minimum threshold for the triple heart endpoints of death, MI and stroke, and we believe we have ample events now, as we look at the data coming in mid next year.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [5]
+--------------------------------------------------------------------------------
+
+          Sue?
+
+--------------------------------------------------------------------------------
+Susan Mahony,  Eli Lilly and Company - President, Lilly Oncology    [6]
+--------------------------------------------------------------------------------
+
+          Yes, with regards to olaratumab. So with the size of the market it's, there's about 11,900 patients who are diagnosed with soft tissue sarcoma in the US. For drug treatment, there's about 5,800 in the US, and then OUS, about 5,000 again. I think the important thing here is that there really hasn't been anything approved or shown in overall survival advantage in about three decades in this treatment, in this treatment type.
+So it's a big unmet need, and we're very excited by the data that we have, and the opportunity to bring olaratumab hopefully to patients. So we have announced that we will be filing based on discussions with the FDA in the US, and we also anticipate doing that in Europe too. We also are planning to initiate a Phase 3 study over the next few months in Q3, and to do some pediatric studies. So as I say we're excited about the opportunity for this molecule.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [7]
+--------------------------------------------------------------------------------
+
+          Just a real quick add-on to that, Seamus. I think clearly, and for good reason there's been a lot of interest in the investment community on immuno-oncology agents that have shown durable responses for a number of patients. While this is not in that nice shiny penny of immuno-oncology, the kind of benefit that we saw for overall survival is quite striking. You're talking about 25 months of overall survival, compared to 15 months on the comparator arm. So while this is a smaller patient population, orphan drug essentially type of patient population, we're very enthusiastic about the data we've shown to date. Leah, next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          The next question is from the line of Tim Anderson from Bernstein.
+
+--------------------------------------------------------------------------------
+Tim Anderson,  Bernstein - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Yes, thank you. A few questions. On solanezumab, obviously the AAIC data presented yesterday, I'm wondering if you can talk about that in the context of EXPEDITION 3? And how you will be -- I should say how or whether you will be incorporating a delayed start design into that trial, and really is that something that you would likely need for approval or is that something that could come later? In other words, is it a regulatory necessity to show results on a delayed start design, or is it more of a labeling matter?
+Second question is on Amyvid, your AD imaging agent, kind of a rounding error commercially, but it seems that PET imaging in the future could have some real value when it helps, when it comes to helping rule in Alzheimer's disease? Is there an unappreciated commercial opportunity of some point in the future with the product? And then, last question just on diabetes. If I look at sales levels of various products, it seemed to track below what I would have expected in different geographies. And I'm wondering if that speaks to an increased level of price erosion that might have impacted results?
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [10]
+--------------------------------------------------------------------------------
+
+          Great, Tim thanks for the questions. Dave, if you can handle the solanezumab EXPEDITION 3 and Amyvid questions? And then, Enrique the diabetes questions, and obviously, Chito, if you want to make any comments in growth in emerging markets for diabetes products, please do chime in. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [11]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Tim, for the questions. I'll try and handle these, and if I get in trouble, my experts also online can help. First regarding the data we showed yesterday on the EXPEDITION-EXT or extension study, this is a very long-term set of data with the drug effect in Alzheimer's. And I think we were pleased to see that the safety of the product continues to look very good in this population.
+We're happy that the delayed start impact we had hoped to see was displayed, in that the later patients coming on to solanezumab after the 18 month blinded period, did in fact not catch up as tested statistically, but also numerically visible, and that the treatment effect appeared to persist. So on the back of that though, it's important to note that, that's only important if EXPEDITION 3 is positive. This does not represent a basis for submission or -- because it's not a blinded assessment. But I think those are encouraging signs for us. And as you know, and we've said many times on calls like this, we think included a number of featured in EXPEDITION 3, which give us a good shot to really thoroughly test the question of solanezumab in mild patients.
+Including your question on PET screening. So I'll jump to that, which is we believe that it's essential to eliminate from these studies, and in clinical practice to just screen for amyloid in patients who have dementia to really define the underlying cause. And, of course, that's consistent with Alzheimer's disease versus other types of dementia. Right now, Amyvid is available commercially in the US and many European Markets. It is not a major product for us today. As you know it's not reimbursed by the CMS in the US, for instance.
+I would frame this, I guess in three ways, it's useful for patients, for treaters, and for our Company. One is, the sales would be expected to increase of Amyvid should disease-modifying agents become available, including solanezumab because I expect most of those labels and/or payer requirements will force patients to have confirmed amyloidosis to be eligible. That's good news but probably still wouldn't be a massive undertaking in terms of revenue impact for the Company.
+But it's also important to look at the PET capabilities we have in two other frames. One is as a drug development tool, and really operationally, being able to manage a clinical network of sites that has ready access to the Amyvid PET has really helped us enroll studies quickly, and make sure that we can scan patients in a timely way, keep them in the study, and synchronize that complicated machine that allows us to get EXPEDITION 3 done, for instance, and future studies like the BACE program with AZ.
+And then finally, and particularly for something like our tau tracer which is in Phase 2, these are very useful drug discovery and scientific tools to help us accelerate and make good decisions about earlier phase Alzheimer's programs. So these are really essential parts of our total Alzheimer's vision, and we'll talk more about that in December at our investor meeting focused on Alzheimer's.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [12]
+--------------------------------------------------------------------------------
+
+          Great, thank you. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique Conterno,  Eli Lilly and Company - President, Lilly Diabetes    [13]
+--------------------------------------------------------------------------------
+
+          Sure. So as we look at our diabetes business, there were a number of one-time events that are impacting the quarter to quarter results. And I thought first I would say, that the underlying business fundamentals are good. Not just when it comes to volume, but we have not seen any significant changes when it comes to contracting or additional price pressures over and above what we're seeing before.
+Let me speak to Humalog for a second. In Q2 of last year, we had significant adjustment related to -- a positive adjustment related to managed Medicaid, that was about 5 points in terms of the impact when we look at the compare of Q2 of 2015 versus Q2 of 2014. We had a little bit of destocking also in the US as we look at Q2, but if we look at the business fundamentals we continue to feel good about our prospects.
+We also had some anomalies when it comes to Tradjenta. And in this particular case, there were two important adjustments that have been made over the last year or so. We made an adjustment in Q3 of 2014, that basically a negative adjustment in Q3 of 2014 for Tradjenta sales, because we had not accrued enough when it comes to our rebates. We were getting more of our business coming from Medicare than we had initially estimated.
+And then, in Q2 of 2015, we had a negative adjustment. In essence, we had overstated some of our sales in the first half of 2014, and we have in a certain way understated our sales in the first half of 2015. To make this simpler, the bottom line is, if we were to normalize for some of these one-time effects, and we were to reassign the accruals to the right quarter, our net sales would be growing in the case of Tradjenta in the US, above 15%. Clearly, we have a very significant volume growth.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [14]
+--------------------------------------------------------------------------------
+
+          Great. Leah, next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          The next question is from the line of John Boris with SunTrust.
+
+--------------------------------------------------------------------------------
+John Boris,  SunTrust Robinson Humphrey - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the questions. With the commercial launch activity heightened in Japan, can you maybe just walk us through the opportunities for Cyramza, Trulicity there? And the type of pricing if you've received any innovation type pricing on Cyramza for gastric cancer there, in your relationship with Sumitomo Trulicity and how you launch there?
+Second question on the CGRP antibody, can you maybe just walk through what the significant points of differentiation are relative to, Amgen and Teva who also have competitive antibodies here? And with the rollout of this earlier than anticipated in cluster headaches, just your thoughts on when you might be in a position to complete those clinicals? And then, the third and final question for John Lechleiter, just on the political front, can you maybe address two issues that seem to be taking center stage in Washington, most notably repatriation, and your thoughts -- whether we're going to see something that happens there along with tax reform going forward? Thanks.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [17]
+--------------------------------------------------------------------------------
+
+          Great. John, thanks for the questions. You've got a good smattering of the management team involved here, so let's see. Sue, if you'll start off talking about Japan, Cyramza, how we're perceiving that, any update we've got on pricing there? We'll stick with Japan, and move over to Enrique for comments on Trulicity, including the recently announced partnership for the commercialization of the product there. Dave, for the CGRP monoclonal antibody questions, and then John for the last two questions on repatriation and tax reform. So Sue, please start?
+
+--------------------------------------------------------------------------------
+Susan Mahony,  Eli Lilly and Company - President, Lilly Oncology    [18]
+--------------------------------------------------------------------------------
+
+          Sure, okay. Yes, so we launched Cyramza on the 22 of June, and we do see this as a really good opportunity for Cyramza, given the unmet need there is in Japan, and given the number of patients who are treated in Japan with gastric cancer. We estimate about 16,000 patience in Japan are treated in the second-line gastric versus, about 6,000, 4,000 to 6,000 in the US. So the opportunity there is great. The feedback that we've got from thought leaders is good, and the initial feedback from the sales force again is very positive. So it's early days, 22 of June launch.
+We did get a slight sales buy-in, but clearly we'll be tracking the sales going forward. From a pricing perspective, yes, we have got the price. The vial price for the 500 milligram is JPY355,000, and for the 100-milligram it's about JPY75,000. So we'll give you the exact details on that, but we feel good about the pricing going into Japan.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [19]
+--------------------------------------------------------------------------------
+
+          Great. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique Conterno,  Eli Lilly and Company - President, Lilly Diabetes    [20]
+--------------------------------------------------------------------------------
+
+          Sure. As we have said before when it comes to Trulicity, overall expansion of the GLP-1 class is critical for us. Just to quote a few numbers in the US, when we look at new patient growth, that number is now close to 50%, 5, 0. When we look at four weeks on four weeks year-on-year or 13 weeks year-on-year, so we are clearly very pleased with that.
+When it comes to Japan, this is even more true. Just because in Japan the GLP-1 class has the lowest penetration in type 2 diabetes of any major market. Now for us to accomplish this, we have decided to partner with Dainippon Sumitomo, in order to have the appropriate reach when it comes to the small clinics, and this is going to be critical for us.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [21]
+--------------------------------------------------------------------------------
+
+          Great, thank you. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [22]
+--------------------------------------------------------------------------------
+
+          Yes, so on CGRP, we're excited about this program. As it was announced today, we did initiate the cluster programs in both chronic and episodic in Q2. We don't have an exact timing at this point for the read-out. It's enrollment dependent John, but we would hope to be able to enroll those studies rapidly given the unmet need, and then be able to submit those to regulators as quickly as possible. We'll give updates, as we begin to see a little more rate on that, and you can look at Clintrials.gov too, which we update religiously on these points.
+That is one of the sources of differentiation we might see for our program versus others which is indications. At this point, I just want to emphasize that there's -- it's a big market. There's about 14 million migrainers who could benefit from a preventive just in the US. And CGRP neutralization appears to have a very profound, and so far looks relatively safe method for alleviating the suffering from this condition.
+So there is probably room for a number of players. Really we are going to have to wait to see the Phase 3 programs play out, and often things like dose selection and frequency, et cetera will be different, and we'll see who comes up with the best data package at the end. Right now, we're focused on execution and getting in the clinic with the Phase 3 program in the coming months, and are excited about the recent Phase 2 read-out we saw.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [23]
+--------------------------------------------------------------------------------
+
+          Jan, do you have anything to add on CGRP?
+
+--------------------------------------------------------------------------------
+Jan Lundberg,  Eli Lilly and Company - President, Lilly Research Laboratories    [24]
+--------------------------------------------------------------------------------
+
+          Well, I think we are seeing several antibodies having more or less similar results, which I think is encouraging for the class as such. Then the studies have been somewhat different in relation to the number of migraine headache days that has been the focus. Some studies have been the episodic classical definition of 4 to 14, others have been 8 to 14, and there could potentially be a difference of the effects of these agents, depending on how many migraine days you have. But think overall, we are very encouraged about this class for this large indication in all aspects.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [25]
+--------------------------------------------------------------------------------
+
+          Great, thank you. John?
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [26]
+--------------------------------------------------------------------------------
+
+          John, thanks for your question. I think speaking for Lilly in terms of the potential for tax reform, we're encouraged by many of the recent soundings that have come from Washington. We've been for as long as I've been CEO and I'm sure before that advocating for corporate tax reforms, we have an uncompetitive tax system in this country. It puts American companies at a disadvantage.
+It actually discourages investment in the United States. So we would be very anxious to see a system that takes a territorial approach to taxation. And if -- as part of that, we enable some repatriation, obviously we would be broadly in favor of that. The devil is always in the details, but we're hopeful that short of comprehensive tax reform that current events, the impetus for the Highway Trust Fund et cetera, might spur action here. And we're more than ready and willing to participate in the constructive discussion.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [27]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, John. Leah, if we can go to the next caller?
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Certainly, and that is Jami Rubin with Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Jami Rubin,  Goldman Sachs - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Thank you. John, just a quick question for you. You had mentioned in your prepared remarks, your growing interest in deal activity but mostly confined to partnerships, licensing deals et cetera. Can you elaborate a little further  on that? And in your mind is there, does this mean that you are not going to make acquisitions, but rather focus on partnerships licensing deals? And if you -- if the answer is, you know you're not -- that you are interested in acquisition activity, is there a limit as to how big you would go and would you consider using your equity just given where your multiple is? I would think that that would be something that would be advantageous to you now.
+And then a question for you, Derica. You've previously guided to the FX benefit on gross margins this year to unwind next year, assuming exchange rates remain constant. Can you update us on what to expect in terms of the magnitude of that impact? Thanks very much.
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [30]
+--------------------------------------------------------------------------------
+
+          Okay, Jamie. I'll start off. Thanks for the questions. I think what we called out at the beginning of the year was, our sentiment favoring deals done at ever earlier stages. I think this is not inconsistent with the trend you see in the industry.
+I think in terms of later stage deals or maybe even larger size deals, we're going to be guided first and foremost by the therapeutic categories where we've chosen to compete. And again, I think we sort of outlined that quite distinctly at the beginning of the year. That would be diabetes, oncology and neuro degeneration with emerging interest and presence in pain, and in autoimmune disease again depending on the outcomes of clinical studies. Obviously, we filed ixekizumab. We fully intend to move into that -- the psoriasis angle from an autoimmune perspective, once we gain approval for that molecule.
+So if you go back, and you look at the deals we've done since I became CEO in 2008, the ones that stand out obviously are ImClone. We think we could have as many as three molecules from that then existing ImClone portfolio, that will eventually be on the pharmacy shelf. That augmented and supplemented a presence we already had in oncology. The second biggest deal in that period of time was the Novartis Animal Health. We have been buyers obviously on the Animal Health side, going back at least to the deal with Monsanto to acquire BST in the middle of the last decade. We very clearly aim to continue to build that business, both through organic and inorganic means.
+In between you have a variety of smaller deals. Avid is a good example of a unique opportunity we saw to acquire technology, that as Dave said earlier gives us a real boost, and I think a competitive advantage in the Alzheimer's space. I think in terms of thinking about what would -- the magnitude of something Lilly might consider. I think that the Novartis and ImClone deals kind of define that. But at the same time, we're not anxious to go out and pay inflated prices for the hot property of the moment. You know there's I think a bit of a bubble right now, with respect to valuations on some of the smaller companies or the smaller entities in biotech. And I think it's better use of our -- better for our shareholders and better use of our shareholders equity to focus first and foremost on our internal efforts, which are quite strong, and I think quite robust in all these therapeutic areas. In which, we will continue to augment and supplement aggressively by these earlier stage partnerships.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [31]
+--------------------------------------------------------------------------------
+
+          Thanks, John. Derica?
+
+--------------------------------------------------------------------------------
+Derica Rice,  Eli Lilly and Company - CFO    [32]
+--------------------------------------------------------------------------------
+
+          Jami, in regards to gross margin we said that, each quarter we try to neutralize the impact of FX in gross margin, by the additional slide that we provide that kind of shows you the normal run rate. And obviously, this year we're running slightly above the mid 70%s. What we said when we -- when I think towards 2016, to focus you all, you should be thinking about that 75% range of gross margin being net of FX.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [33]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Derica. Leah, next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+          Next question is from the line of Mark Schoenebaum with Evercore ISI.
+
+--------------------------------------------------------------------------------
+Mark Schoenebaum,  Evercore ISI - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          Hey. John. Hey, guys. Congratulations on the stock this year by the way. I was intrigued by John's comments that there's a bit of a biotech bubble, since I cover biotech as well. That scared me. You ruined my day. But anyway, actually I do have a question for John, kind of building on John Boris' questions. Just as I know you're very tuned into Washington.
+Just this general question. This comes up all the time, but I feel like the volumes have turned up a little bit, on the price point for cancer drugs, given the pace of innovation there. I'd just love to hear you talk about your long-term view on that, not your one or two year kind of view. But maybe put on your 10 year cap, and just kind of ask the question, are the current price points for cancer drugs sustainable, if the current pace of innovation continues, and how you think the industry is going to react to any pricing pressure you might see?
+And then just on ixekizumab, the IL-17 antibody. Clearly, the AstraZeneca Amgen announcement on the -- the Amgen announcement -- we're were waiting for AstraZeneca, but on their decision to pull out of the partnership because of the side effect profile is a big positive for you guys. I was just wondering if you could speak in, if you'd be willing to speak in more quantitative terms about what that might mean? How many patients you think could ultimately be on the drug et cetera. This looks to me like it could be a multi-billion dollar addition to your out-year numbers, and I just want to know if I'm totally on the wrong track or not? Thank you very much.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [36]
+--------------------------------------------------------------------------------
+
+          Mark, thanks for the questions. So John, if you'll start off, and we'll go to Dave for the ixekizumab question.
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [37]
+--------------------------------------------------------------------------------
+
+          Hi, Mark. I'm sorry if I ruined your day. I'll try to make it up in some way (laughter).
+
+--------------------------------------------------------------------------------
+Mark Schoenebaum,  Evercore ISI - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          No problem.
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [39]
+--------------------------------------------------------------------------------
+
+          Okay. With respect to -- a lot of media attention and political kind of attention to the price point for cancer drugs. Look, I think first and foremost up to the point where we have data, which does not include this year, we did a study that dates back to last year looking at the proportion of drug spend, as part of the total cost of total cancer care. It's remained remarkably consistent over a long period of time. So put another way, while today we hear a lot about the cost of cancer medicines, I am not sure I've ever heard anybody complain about the cost of that long stay in the hospital that many of our drugs, these cancer drugs help to minimize, or to eliminate. And that's because hospital stays are covered by insurance.
+I think the question is, what's the cost to the patient, and how can we ensure that more patients have access that -- affordable access to cancer medicine, just like they've got through their insurance policies, affordable access today to other forms of care that are required for people with cancer. In terms of how we look at this in the long haul, I think we're going to have to wait and see how this plays out. We are already seeing in many of these classes two or more competitors emerging.
+We know when other classes of medicines, the diabetes will be one example we're familiar with, we see intense competition that has resulted in lower net effective prices based on negotiations that we must undertake with payers and insurers in that space. Obviously, we haven't sort of seen that play out in quite the same way in oncology. But I think we should be encouraging innovation, because innovation begets competition, rather than discouraging innovation by threatening things like price caps, et cetera.
+For a cancer patient, cancer medicines particularly some of these new what you might call breakthrough therapies that we all know about, represent the highest quality and most medically effective approach we have in our armamentarium of any other intervention. So the calling these out for -- being simply based on price, fails to look at the incredible value that these drugs bring. Not just in terms of avoiding or minimizing other system costs, but in terms of getting patients that precious additional time and quality of life that is so important.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [40]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, John. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [41]
+--------------------------------------------------------------------------------
+
+          Yes, so Mark thanks for the question on ixekizumab. As it was mentioned in the call text, we have submitted in the US and Europe, and shortly in Japan and other major markets. We're excited about the program. In terms of our assets, that's what we're focused on, which is we see a drug here that is providing a whole new threshold of efficacy for patience suffering from moderate to severe plaque psoriasis. We've reported PASI 100s as high as 40%, and PASI 90s in sort of unprecedented range as well.
+So we think we've got a great asset, and we had a special call in June about this and answered a number of questions about the psychiatric safety. And as we said then, we don't see an imbalance numerically or statistically across arms, whether it be active, comparators, or the two doses of Ixekizumab. So we're proceeding through the regulatory process. Of course, we need to get through that with all of the caveats.
+In terms of the market opportunity in psoriasis, depending on how you count it with PSA or not, I think you would say there's a $4 billion to $6 billion opportunity right now globally. And I would just point out, that in our estimates, less than ... the treatment rate with biologics in moderate to severe plaque psoriasis is probably less than half of RA. So there's just a huge amount of possibility for growth of biologics as a class in this space. Our vision for that is that the newer, more effective therapies will be a great way to drive interest in greater treatment in the dermatology community.
+We think patients will demand it through time. And the caveat there is, of course, the normal access and regulatory processes are what stands between us and that opportunity. We don't know what will happen with the -- I guess former Amgen asset. We're focused on our program, and we think there's ample growth for a number of assets in psoriasis, and we like our product.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [42]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. Leah, if we can go to the next caller?
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Certainly, it's the line of Chris Schott with JPMorgan.
+
+--------------------------------------------------------------------------------
+Chris Schott,  JPMorgan - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Great. Thanks very much for the questions. Maybe the first one on solanezumab, and more broadly on Alzheimer's. I guess, coming back from AAIC, some of the feedback from the meeting is that the ARIA signal seem -- seen from some competitive products is largely asymptomatic, and may be able to be treated through. I guess, I would just be interested in your thoughts on ARIA, and what that could mean for the competitive landscape? And maybe part of that answer, if you could talk a little bit more about you guys targeting monomer A beta versus plaque, given that do you have products going after both in the pipeline?
+Second question was a longer term question on diabetes. There has been some market concern that this category only becomes more competitive over time, and you're going to see even more price pressure going forward. You guys obviously have a differentiated portfolio. But how do you think about the risk of an even more conservative payer environment in this category going forward? Thanks very much.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [45]
+--------------------------------------------------------------------------------
+
+          Great. Chris. Thanks for the question. So first, for the Alzheimer's disease, the ARIA signal and is this treatable? Maybe I'll ask Jan if you want to start off with a few comments, and then Eric we may see if you have additional comments that you'd like to add to that. Jan, certainly if you want to talk about the plaque specific approach that we've got in the clinic, and then Enrique for the price pressure in the diabetes segment.
+
+--------------------------------------------------------------------------------
+Jan Lundberg,  Eli Lilly and Company - President, Lilly Research Laboratories    [46]
+--------------------------------------------------------------------------------
+
+          Yes. Well, in relation to ARIA signal that was reported, I think first it's clear that Biogen has much more of that than solanezumab, which you know I think is a key difference right now. Secondly, it was claimed that you can treat through it. On the other hand, Biogen also had drop-outs I think to a large extent in their trials. So it still needs to be seen in a larger situation than in Phase 3, whether this really holds true. And my view is that if you have an agent that doesn't have very much of this, that's a competitive advantage for solanezumab.
+If you look at the types then of monomer A-Beta to antibodies versus plaque antibodies, we have both two selective agents then in Lilly. Solanezumab targets then the monomer A beta, which is then a precursor in a way then to the plaque. We have an agent in Phase 1 called N3pG which is a pyroglutamate plaque-specific antibody. And in pre-clinical experiments we have seen, as a monotherapy for N3pG, very good, clear and [?] amyloid deposits in transgenic models than of Alzheimer's disease in mice. And it's even more efficacious if you combine it with an oral BACE inhibitor, where you more or less have a total clearance of amyloid from these mice brains.
+What we also have seen in the preclinical experiments for N3pG, the plaque specific antibody that did not give micro-hemorrhage which is kind of related to the ARIA signal of the brain edema that the Alzheimer patients have. And so, we hope that we could have a plaque specific antibody with less impact than on brain edema, than what we currently see with the Biogen molecule.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [47]
+--------------------------------------------------------------------------------
+
+          Great. And Eric, do you have anything you'd like to add for the discussion around the asymptomatic nature of ARIA-E, ability to treat et cetera, or do you feel it has been adequately covered?
+
+--------------------------------------------------------------------------------
+Eric Siemers,  Eli Lilly and Company - Distinguished Medical Fellow    [48]
+--------------------------------------------------------------------------------
+
+          Yes, I'll briefly mention I think these are relatively early days in terms of the field sort of understanding how that may be managed. Fortunately with solanezumab, we really haven't had to deal with the issue too much because it's just a 0.5% in placebo-treated and 1% in solanezumab-treated, without really any associated symptoms. But for other molecules, where you do have ARIA that may be asymptomatic in two-thirds of people, but it's still symptomatic then in one-third of the people. So that's something that I think broadly in the field we'll just need to get more experience with.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [49]
+--------------------------------------------------------------------------------
+
+          Thanks, Eric. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique Conterno,  Eli Lilly and Company - President, Lilly Diabetes    [50]
+--------------------------------------------------------------------------------
+
+          Sure. It's difficult to speculate when it comes to the payer environment and diabetes. But I think it's helpful for us to be able to look back, at meal-time insulin because that was the first class in diabetes that was under pressure, when it comes to the narrowing of formularies, and that started some time in 2009.
+Through this period from 2009 to today, what we have been able to see is that Humalog, we've been able to have fairly stable net prices for Humalog over this period. If anything, they are slightly up, but clearly not much. So I would say that yes it is likely that there's going to be narrowing of formularies in other segments, in the diabetes space. But I do not expect a significantly different behavior when it comes to some of the net prices and how meal-time insulin actually behaved. So that's basically what I would offer there.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [51]
+--------------------------------------------------------------------------------
+
+          Great, thank you. Leah, if we can go to the next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Certainly, it's the line of Steve Scala with Cowen and Company.
+
+--------------------------------------------------------------------------------
+Stephen Scala,  Cowen and Company - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          Thank you, I have three questions. Even at the high end of your new EPS guidance range, it implies a slightly down second half after a very strong first half. Other than a tougher compare in Q4, what is driving the second half weakness? It seems like Lilly is setting up for a better than expected second half as well.
+Secondly, on Jardiance, the CV outcomes data in Q3 -- since it is Q3, is the data in house, how will it be released? And Enrique, are you anything but very confident in the data? And then lastly, what does the lowering of the ADAS-cog delta at the end of EXPEDITION 1 and 2, from the 2.01 in March to the 1.83 in July, tell us about the patients enrolled and/or how they changed over time? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [54]
+--------------------------------------------------------------------------------
+
+          Great. Steve, thank you for the question. So clearly, Derica to you on the first question related to the guidance and the second half performance. Enrique, for the Jardiance CV outcomes, and then Dave, if you want to kick-off the response for the ADAS-cog question we received. Derica?
+
+--------------------------------------------------------------------------------
+Derica Rice,  Eli Lilly and Company - CFO    [55]
+--------------------------------------------------------------------------------
+
+          Good morning, Steve. We've had really solid underlying performance in the first six months of this year, and we expect that solid performance to continue for the second half of this year as well. What you should see also in the second half of the year, and I'm going to kind of reflect on some of the comments that Phil made in his remarks, where in the second half, we do expect to make incremental investments in our R&D pipeline, given the positive data read-outs that we've seen.
+So we talked about the start of Phase 3 trials for tanezumab, our CGRP monoclonal antibody, olaratumab, as we highlighted earlier, as well as the intent to invest in additional indications for Cyramza. And as we continue to see more positive data read-outs, you'll see us fully investing in our pipeline opportunities. At the same time as you heard Sue say we're in the midst of launching in Japan for Cyramza, as well as the ongoing launches in other geographies. So we will fully invest behind that as well. So we really are expecting our top line momentum to continue. You'll see us continue to drive productivity gains, but what that does is it gives us the capacity to make these kinds of investments, while still returning to growth this year and margin expansion.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [56]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Derica. Enrique?
+
+--------------------------------------------------------------------------------
+Enrique Conterno,  Eli Lilly and Company - President, Lilly Diabetes    [57]
+--------------------------------------------------------------------------------
+
+          So we expect to see the data this quarter, to see the data soon. As we have said, once we have the opportunity to see the data we will issue a top line press release with the results. We are planning to showcase those results in September at EASD, but that's as much as I can share right now.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [58]
+--------------------------------------------------------------------------------
+
+          Great. Thank you. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [59]
+--------------------------------------------------------------------------------
+
+          Yes, as it relates to the question of the, I guess, the final end point displayed in the pooled mild EXPEDITION 1 and 2, 2.5 years ago, versus what was displayed yesterday, you're right there is a small difference. I think you mentioned it there, in terms of what those absolute numbers are, and the difference. The reason for this -- and I'll try to put this in very lay terms -- is the statistical technique that is both preferred by the FDA sort of by consensus, and we use in Alzheimer's studies, is called MMRM. It's different than other techniques you may have seen like LOCF.
+What it does is, it relies on all of the data available to estimate the missing data, and this technique is thought to reduce type-1 error, it's what the FDA prefers. It's a technique we use in both assessments that you're referring to. Because the second assessment includes more data, that is the continuing patients, the number does move around slightly. The core data underneath it is identical. That data was locked in 2012, and it's the same data.
+What we're doing is estimating missing data using the statistical technique. So I'm not sure there's much news or read-through with that. But if you'd like to learn more, Steve, we can set up a background on why that occurs. The bottom line take-away is I think the same, that there is a meaningful difference at the end of the 18 months, and that difference persisted through the open label extension.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [60]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dave. Leah, next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [61]
+--------------------------------------------------------------------------------
+
+          The next question is from the line of Andrew Baum from Citigroup.
+
+--------------------------------------------------------------------------------
+Andrew Baum,  Citigroup - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Thanks. Just returning to the question of the building out your immuno-oncology franchise, would you mention some of the deals you've done? I know you've hired at least two very experienced immune-oncologists. Some of your competitors are engaging in rather more frenetic activity in this area. So along those lines, three questions. Number one, in terms of preclinical, one wouldn't normally ask about compounds, but one would like to move fast in this category? Is there anything close to the clinic from your preclinical portfolio within the next 6 to 12 months? And second, what is Lilly's interest in adoptive cell therapy, given you hired an individual who was closely aligned in that area? And then finally, should we assume that you're largely done in the build-out in IO? Or as I suspect you're just getting going in terms of building out the franchise? Many thanks.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [63]
+--------------------------------------------------------------------------------
+
+          Okay, great. Thank you very much for the questions. I think, Sue if you want to handle those? Jan feel free to chime in if you'd like to complete any of the answers. Sue?
+
+--------------------------------------------------------------------------------
+Susan Mahony,  Eli Lilly and Company - President, Lilly Oncology    [64]
+--------------------------------------------------------------------------------
+
+          Yes, sure. So as you seen, we have had a lot of activity. I wouldn't say it's frenetic, I think that's the word you used, frantic. But we have got focused activity in three areas in our R&D portfolio and strategy. We're focused on cell signaling, the micro environment and immuno-oncology. And we will continue to focus on those areas because we believe that it's going to be rational combinations of molecules within those three areas, so it's going to be important in the future.
+With regards to immuno-oncology, as you've said we have a number of announcements we made on collaborations over the past 12 months or so, and it's really in two areas. One is in partnerships to combine our pipeline and marketed products with IO agents. In fact, we have seven trials either planned or ongoing in combination with IO agents with four different companies. And then we have our own clinical development, where we have three agents in clinical development: our TGF beta, a small molecule inhibitor, our CXCR4 inhibitor and CSFR1 antibody. And then we do have a number of agents in discovery. I don't know if Jan wants to comment more, but we have a number of agents in discovery, and we do see we can be bringing some of the IO agents out over the coming months and years.
+So I think on the cell therapy, yes, it's an area we look at. It not an area that we are driving at this point in time but I think we need to look at all areas in IO and we see this as the -- the IO, there's so many unknowns at the moment in IO, and our view is this is a long term plan. We're going to be smart in where we focus. We've really looked at T-cell redirection as an area, and you can see the number of deals that we have done are in that area. And I think that covers the question. Anything you want to answer or add, Jan?
+
+--------------------------------------------------------------------------------
+Jan Lundberg,  Eli Lilly and Company - President, Lilly Research Laboratories    [65]
+--------------------------------------------------------------------------------
+
+          Well it's evident in immuno-oncology that we have seen the first generation of single agents like the PD-1 and PDL-1. And we are part of the second generation coming, when we are combining for instance different checkpoint inhibitors then into bi-specific antibodies. And we also are very keen to activate T cells in a more specific way using the Immunocore technology. So I think we have just seen the first door open in the immuno-oncology field, and there's very much more to do.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [66]
+--------------------------------------------------------------------------------
+
+          Great. Leah, next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [67]
+--------------------------------------------------------------------------------
+
+          Next question is the line of Tony Butler from Guggenheim Partners.
+
+--------------------------------------------------------------------------------
+Tony Butler,  Guggenheim Partners - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Yes, thanks very much. Three brief questions. Number one, I am going to go back to Tim's question on solanezumab. The disease modification from EXPEDITION 3, is that still potentially a claim that the FDA could get you or some other statistics or clinical information that you may need to show them?
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [69]
+--------------------------------------------------------------------------------
+
+          Tony, I am not sure if you can hear me. We're having a real hard time making out the question. Could you repeat it? Start again? Are you there Tony?
+
+--------------------------------------------------------------------------------
+Operator    [70]
+--------------------------------------------------------------------------------
+
+          His line is still connected.
+
+--------------------------------------------------------------------------------
+Tony Butler,  Guggenheim Partners - Analyst    [71]
+--------------------------------------------------------------------------------
+
+          Yes, hi. Is this better?
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [72]
+--------------------------------------------------------------------------------
+
+          Yes, it is. Thank you.
+
+--------------------------------------------------------------------------------
+Tony Butler,  Guggenheim Partners - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          My apologies. So back to Tim's question on solanezumab. I'd like to just understand, is EXPEDITION 3 itself sufficient for a disease modification claim or will other clinical information be required? Second, is there any, or could you elaborate on the biological rationale for a JAK 1, JAK 2, which could be more beneficial in RA, or in dropping ACR source versus an anti-TNF? And third, I guess to, Sue, as you think about Cyramza at least in the US, and we'll leave out CRC for the moment, where are you getting the best traction with respect to non-small cell lung or gastric? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [74]
+--------------------------------------------------------------------------------
+
+          Great, Tony. Thanks for the questions. So Dave if you'll talk about maybe the first two? Jan, feel free to complement the answer as well? And then, Sue for the question on Cyramza particularly here in the US, what we're seeing. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [75]
+--------------------------------------------------------------------------------
+
+          Yes. Good question on EXPEDITION 3. We've designed this to be a standalone pivotal study to support registration of solanezumab in mild Alzheimer's patients. In terms of the exact claims underneath that, the FDA themselves have admitted they've been vague, and it's a moving landscape because the science is moving so fast in Alzheimer's. I'm aware of two clear statements they've made, and I think yesterday's data supports one of them. Which would be, in addition to a marked change, a clinically relevant change in ADAS-cog, and in the ADL measures, they would -- or some composite thereof, to support disease modification, they said they would look at supportive data in a delayed start format. And I think the speaker yesterday spoke about that.
+They have a very elegant trial design they've proposed. No one has actually ever conducted such a thing. Our data which is a sort of delayed start is helpful in that regard. Tony, that's how I would describe it.
+And then they've also spent a lot of time talking about biomarkers. And of course, unlike other fields we don't yet have a validated biomarker for disease progression in Alzheimer's, and we are conducting a sub study in EXPEDITION 3 using our tau tracer. We see this as a very important part of, not only EXPEDITION 3 program potentially to support disease modification and other claims for solanezumab, but also to advance the field's understanding of how tau progression maps to cognitive decline in people with confirmed Amyloid, which we don't have that data today. So we'll have to wait and see on the specific claims. Of course, we've got a lot of irons in the fire to support solanezumab in that regard. But the regulator and the whole field is moving rather rapidly here, so it's difficult to predict.
+On baricitinib and the JAK 1/2, and what is the -- I guess, you're saying, theoretical basis, why it could be better than an anti-TNF? Bottom line is we're running that experiment, and we will see that experiment read-out in the fall. And we're really going to have to wait to see whether baricitinib could be better than a TNF, or equal to, which is the first test we'll run. There are lots of plausible explanations why it could happen. JAK 1 and 2 signaling, and we continue to point this out, that JAK 2 signaling is important to have an IL-6 like effect, as well as GMCSF, both of which we have human data validating those as targets in RA. Whether that yields better than TNF, which is a quite different target, is the test we're running.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [76]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. Sue?
+
+--------------------------------------------------------------------------------
+Susan Mahony,  Eli Lilly and Company - President, Lilly Oncology    [77]
+--------------------------------------------------------------------------------
+
+          And with Cyramza in the US we're actually seeing a good uptake in both gastric and in lung. As we look at gastric, I mean we launched the single agent indication earlier last year. So the majority of the use last year was single agent. Then towards the end of last year we launched a combo, and we see now more uptake in combination. With gastric, prior to the REGARD data, there wasn't anything approved in the US in the second-line treatment of gastric cancer. So clearly, we are seeing this, as all people are seeing this, as an advance and we're seeing a good uptake, good feedback so far about the experience people are having as well.
+In lung, we launched earlier this year, and we again are seeing good uptake in the second-line post platinum patients. We see these as very two different opportunities, with the lung indication being much larger, but clearly it's going to be more competitive. The feedback we're getting is positive. About 40% of our sales in Q2 came from lung indication, and we continue to see a good opportunity to continue to grow in lung, as well as to expanding gastric going forward.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [78]
+--------------------------------------------------------------------------------
+
+          Great. Thank you, Sue. Leah, next caller, please?
+
+--------------------------------------------------------------------------------
+Operator    [79]
+--------------------------------------------------------------------------------
+
+          The next question is from Gregg Gilbert from Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Gregg Gilbert,  Deutsche Bank - Analyst    [80]
+--------------------------------------------------------------------------------
+
+          Thank you. Three quick ones here, first perhaps for Dr. Siemers, or perhaps Dave. How would you summarize how actual Alzheimer's treaters took the data that was presented down in DC? If that was at all on your agenda to kind of feel out folks that are not just clinical trial gurus? Perhaps secondly, Chito, can comment on what's happening in China. There has a pretty sudden slowdown for pharma sales for the industry. Curious if you could comment on that, and how long those conditions might persist?
+And for Derica, were there any meaningful wholesaler inventory level changes in the quarter versus last quarter? It looks like AR was up a bit. Thanks.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [81]
+--------------------------------------------------------------------------------
+
+          Yes, Gregg, thanks for the questions. So we'll start off with Dave on the first question, who may see if Eric has some things he would like to add as he is out at AAIC? And then to Chito, on the China question, and Derica for wholesaler inventory impact in the quarter.
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [82]
+--------------------------------------------------------------------------------
+
+          Yes. Gregg, thanks for your question. I think the field -- as we talked to practitioners, they're obviously anxiously waiting for a disease modifying agent in the absence of any way to slowdown this horrible condition. The question of clinical meaningfulness always comes up. And the research we've done would say most practitioners would say a one-third reduction over an 18 month period of time is quite meaningful. But we have Dr. Siemers who is on the line here who is a neurologist, and I'm sure spoke to many of your colleagues. Eric, what are your views on how the lay field is interpreting the data?
+
+--------------------------------------------------------------------------------
+Eric Siemers,  Eli Lilly and Company - Distinguished Medical Fellow    [83]
+--------------------------------------------------------------------------------
+
+          Yes, it's a great question. I think going into the meeting, we wondered ourselves whether this would be interesting just to clinical trial gurus or geeks or whatever you wanted to say. Or whether it would have more of a broad interest, and I think the answer was fairly broad. And I think there's maybe two major reasons for that. One is that, just by showing these delayed start results, I think it was -- in a sense supporting what we initially showed in the placebo-controlled period.
+Now of course, that was a secondary outcome. We always worry about those a little bit. But these delayed start results would actually add to the wave of evidence, that those results in fact, we hope will be replicated in EXPEDITION 3. The other piece is that this whole concept of disease modification has been, as has been discussed, is something where the science is evolving. There has been fairly good agreement including by regulators, that this delayed start design can provide evidence of a disease modification. And I think the data were really accepted as evidence of that. Again, it's a secondary analysis from EXPEDITION and EXPEDITION 2, but I think it gives us some real confidence that we'll see very similar results in EXPEDITION 3. And that's one strong piece of evidence of a disease modification.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [84]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Eric. Chito?
+
+--------------------------------------------------------------------------------
+Chito Zulueta,  Eli Lilly and Company - SVP & President, Emerging Markets    [85]
+--------------------------------------------------------------------------------
+
+          I'm sure you've heard from other companies, there has been a pretty significant drop in the market growth in China. I think as we all recall from the mid-teen growth in the last few years, year-to-date growth is somewhere around single-digits. And if you look at the multi-national cohort of companies, I think May was around 2% growth over the same period last year. Now I think the primary factor that's driving the slowdown is really some government initiatives and policies, that are curtailing volume growth. And we're seeing more hospitals and institutions shifting to lower price generics. So we see this continuing at least in the short-term, as the risk pressure within the national government to curtail expenses.
+There's discussion also in curtailing pricing, and linking together all types of products from the original brands to the generics. So there's pressure on the volume side, and moving forward I think you'll see more pressure on pricing, particularly for off patent brands. Now we need to balance that with a medium-term opportunities and long-term positive opportunities in China. We have obviously, very positive demographics, and there is a sincere commitment I believe by the national government to expand healthcare coverage to a broader set of the Chinese population. But I think we should expect that the short-term will be challenging, again because of policies related to volume control in the hospitals, and pressure for original brands.
+As far as Lilly is concerned I think the better measure to look at our performance, would be the year-to-date performance, given the quarter to quarter variability of wholesaler buying patterns. And year-to-date, we are below our 5% but really driven by very -- a decline in our growth in some of our off patent products, primarily our neuroscience, oncology, and anti-infective products, again because of volume control, but also because of the generics. However, if you look at our patented products, we're very pleased to see strong performance from Cialis growing at 23%, Forteo growing at over 50%. And our analog business -- I know there was a question earlier to Enrique -- the analog insulin business in China is growing 12% year-to-date.
+Now we're getting significant pricing pressure on the human insulin side, where local companies are beginning to win the provincial bids. But once again, we anticipate pressure in the short-term, but we're very confident that the medium- to long-term prospects remain very, very positive.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [86]
+--------------------------------------------------------------------------------
+
+          Chito, thanks for that color, and Derica, on the wholesaler changes in the quarter?
+
+--------------------------------------------------------------------------------
+Derica Rice,  Eli Lilly and Company - CFO    [87]
+--------------------------------------------------------------------------------
+
+          Sure, hi, Gregg. As it pertains to wholesalers, there was really nothing unusual or unique as it pertains to wholesaler activity in the quarter.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [88]
+--------------------------------------------------------------------------------
+
+          Great. Leah, if we can go to the next caller please?
+
+--------------------------------------------------------------------------------
+Operator    [89]
+--------------------------------------------------------------------------------
+
+          Certainly. It is the line of Colin Bristow with Bank of America.
+
+--------------------------------------------------------------------------------
+Colin Bristow,  BofA Merrill Lynch - Analyst    [90]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the questions, and congrats on the quarter. A couple of quick ones. On Trulicity, could you talk about the progress you've made in terms of access, and any additional color you could give on launch of Trulicity and Jardiance that would be helpful? And then number two, what do you see as a potential impact on the trajectory of the SGLT2 costs, and then Jardiance within that, if there was a positive CV benefit? Would you expect a heavy asymmetrical benefit for Jardiance, or do you think this would just be read-through as a benefit for everyone? And perhaps just a third quick one on sola. Any additional updates we should expect prior to the EXPEDITION 3 read-out? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [91]
+--------------------------------------------------------------------------------
+
+          Great, Colin. Thank you for the questions. Obviously, we'll go to Enrique for the first two on some of the access and uptake we're seeing for Trulicity and Jardiance, as well as then what the impact might be of positive CV outcomes trial for Jardiance? And then, over to you Dave for the solanezumab question, and any other updates we have on that program going forward.
+
+--------------------------------------------------------------------------------
+Enrique Conterno,  Eli Lilly and Company - President, Lilly Diabetes    [92]
+--------------------------------------------------------------------------------
+
+          Sure. So we are pleased with the progress that we've made with both Trulicity and Jardiance. We now have about 70% access when we look at commercial access in the US, and about 30% in Part D with Trulicity. As I shared earlier as I think for us, a key to be able to get long-term value for this product is to ensure the GLP-1 class is growing, and we clearly see a significant acceleration of the GLP1 class.
+In the case of Jardiance, the situation is similar, when it comes to continuing to basically get access. I would say that we have, differently from the GLP-1 class we have seen a slowdown, a significant slowdown when it comes to the SGLT2 class, when it comes to new patient starts this year. So that's something that we're watching, of course, very closely. It is difficult to speculate on what relative share of the benefits, this proportion of benefit, would we get on if we were to have a positive CV outcomes result. Clearly, this is going to provide a lift to the entire class, and we do expect that we're going to get a disproportionate share of the benefit. How much, I think it's difficult to say.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [93]
+--------------------------------------------------------------------------------
+
+          Thank you, Enrique. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [94]
+--------------------------------------------------------------------------------
+
+          Yes, on sola, what we will expect -- starting with yesterday, and until the end of the EXPEDITION 3 study is, there will be some scholarly articles and other data coming out on the original EXPEDITION 1 and 2, including the pooled mild paper, we do expect to come out. Also highlight there was an interesting presentation yesterday, looking at the amyloid changes using a more modern and accepted method, which did show a difference between active and placebo. So these types of reanalysis and additional data filling out the picture from 1 and 2 will continue. But the big data read-out, EXPEDITION 3, which we'd guide people to really focus on, won't happen until after last patient visit and data analysis. Last patient visit, we project Q4 of 2016.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [95]
+--------------------------------------------------------------------------------
+
+          And we have made the decision just to communicate formally that we will not conduct an interim analysis for Expedition 3. So we will run the trial to completion. And enrollment went so quickly in that trial, that there's just very little time and benefit for us to go ahead, and garner from doing the early read. We'll let the trial play out, and preserve all the powering for the final read-out at the end.
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [96]
+--------------------------------------------------------------------------------
+
+          Thanks, Phil.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [97]
+--------------------------------------------------------------------------------
+
+          I know we're getting close to the bottom of the hour, but Leah, if we've got one more caller, we're happy to take that question, before wrapping up the call.
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+
+          Certainly, and that is from Vamil Divan from Credit Suisse.
+
+--------------------------------------------------------------------------------
+Vamil Divan,  Credit Suisse - Analyst    [99]
+--------------------------------------------------------------------------------
+
+          Great. Thanks for sneaking me in here. So just a couple quick things, if I could, maybe some different topics than we focused on so far. One just on the Animal Health side, I think just kind of post the Novartis deal. Just if we can get a sense from Jeff as how he is viewing that business going forward, and kind of the growth we should expect going forward? I think it was 2% constant currency growth this quarter or year-to-date. So just want to see how -- what he thinks there? Second, just on the PCSK9, obviously a lot of interest and excitement around the industry on that, because the first one's close to the market, and you guys still have yours in Phase 2. And if you can just give an update on how you view that opportunity for Lilly? And then third, maybe it's just little bit early for this, but just around the dividend, with all of the positive news you've been having out of the pipeline, and in the kind of return to growth you're seeing, how should we think about your view on the dividend going forward? Thank you.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [100]
+--------------------------------------------------------------------------------
+
+          Great. Fantastic. Thanks, Vamil. Thanks. And so, Jeff if you'll start us off, and we'll shift over to Dave for the PCSK9 question, and finish up with Derica.
+
+--------------------------------------------------------------------------------
+Jeffrey Simmons,  Eli Lilly and Company - President of Elanco Animal Health    [101]
+--------------------------------------------------------------------------------
+
+          Yes, the overall Animal Health business, Elanco, is tracking to our plans and expectations. This year has been focused on integration after coming out of an era of a lot of growth, we're planning to return to that. But this year's big focus has been on the integration. Our previously committed savings level on the integration of $200 million by 2017, 2018. What I would say is, we see that as a minimum expectation.
+We'll have an Animal Health investor conference in December in Boston, where we will get into more detail. But what we would say is today, we're seeing ourselves meeting and exceeding all of the key milestones in Novartis. And that will be a key driver in returning to growth. So yes, we saw 3% growth this quarter, but what we would say, is we see the combination of the integration, as well as our pipeline and innovation returning us back to top tier industry growth, once we come through the integration. We'll articulate more of these details again in Boston at the end of the year.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [102]
+--------------------------------------------------------------------------------
+
+          Thanks. Dave?
+
+--------------------------------------------------------------------------------
+David Ricks,  Eli Lilly and Company - President, Lilly Bio-Medicines    [103]
+--------------------------------------------------------------------------------
+
+          Yes, our PCSK9 there's really no update from the last call where we had the question. We have our Phase 2 data complete. We are looking at our strategic options for this program, recognizing there's three competitors ahead of us, and we would want to see differentiation, or perhaps look for other options to have the molecule move forward.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [104]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Dave. Derica?
+
+--------------------------------------------------------------------------------
+Derica Rice,  Eli Lilly and Company - CFO    [105]
+--------------------------------------------------------------------------------
+
+          In regards to the dividend, we're very encouraged and excited about the current performance of the business. And as we've seen us turning the tide and returning to this period of growth and margin expansion, it really is giving us the capacity as you've seen this year, to return to more regular cadence of dividend increases, and we see that going forward over time. And then likewise, you will see us continue also to look to supplement that, with returning additional excess cash to shareholders via our share repurchase program.
+
+--------------------------------------------------------------------------------
+Phil Johnson,  Eli Lilly and Company - IR    [106]
+--------------------------------------------------------------------------------
+
+          Great. Thanks, Derica. John, would you like to go ahead and conclude the call for us?
+
+--------------------------------------------------------------------------------
+John Lechleiter,  Eli Lilly and Company - Chairman, President & CEO    [107]
+--------------------------------------------------------------------------------
+
+          Sure, Phil. We appreciate your participation in today's earnings call, and your interest in our Company. We have received positive feedback on the recent calls we hosted to discuss our diabetes business, and late stage data from two key molecules in our Bio-Medicines business, baricitinib and ixekizumab. So building on that experience, we plan to host an investor event in Boston as Jeff mentioned on Tuesday, December 8 to highlight two other areas of our business, that obviously are generating significant investor interest. And that's Alzheimer's and Animal Health. So we hope the information we share at this upcoming event will be likewise helpful to you.
+Finally if you have questions we didn't address in today's call, please contact our IR team. I can tell you that they are standing by, and would be happy to help. So have a great day, and thanks again for joining us.
+
+--------------------------------------------------------------------------------
+Operator    [108]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, this conference is available for digitized replay after 11:30 AM Eastern Time today, through July 30 at midnight. You may access the replay service at any time by dialing 1-800-475-6701, and enter the access code of 363537. International, may dial 320-365-3844. Those numbers again are 1-800-475-6701 and 320-365-3844 with the access code of 363537.
+And that does conclude your conference for today. Thank you for using AT&T teleconference service. You may now disconnect.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

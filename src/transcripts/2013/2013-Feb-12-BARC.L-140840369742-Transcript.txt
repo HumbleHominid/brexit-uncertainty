@@ -1,0 +1,851 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Preliminary 2012 Barclays Bank PLC Earnings Conference Call
+02/12/2013 09:00 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Robert Le Blanc
+   Barclays Plc - Chief Risk Officer
+ * Chris Lucas
+   Barclays Plc - Group Finance Director
+ * Rich Ricci
+   Barclays Plc - Co-Chief Executive Corporate Investment Bank
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Jason Napier
+   Deutsche Bank Research - Analyst
+ * Andrew Coombs
+   Citi - Analyst
+ * Mike Trippitt
+   Numis - Analyst
+ * Ian Gordon
+   Investec Bank (UK) Plc - Analyst
+ * Manus Costello
+   Autonomous Research - Analyst
+ * Chris Manners
+   Morgan Stanley - Analyst
+ * Fiona Swaffield
+   RBC Capital Markets - Analyst
+ * Christopher Wheeler
+   Mediobanca - Analyst
+ * Gary Greenwood
+   Shore Capital - Analyst
+ * JP Crutchley
+   UBS - Analyst
+ * Michael Helsby
+   BofA Merrill Lynch - Analyst
+ * Andrew Lim
+   Espirito Santo Investment Bank - Analyst
+ * Chintan Joshi
+   Nomura International Plc - Analyst
+ * Raul Sinha
+   JPMorgan - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Ladies and gentlemen, welcome to the Barclays 2012 full-year results analyst and investor conference call. I will now hand you over to Chris Lucas, Group Finance Director.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you for joining us. As you know, this is an important day for Barclays. We announced the key conclusions from our strategic review this morning, and Antony will give a presentation on them this afternoon. The Executive Committee will be there to answer questions, and the event will be webcast.
+The purpose of this call is to focus purely on the results for 2012. As usual, we're using adjusted numbers to give a better understanding of our underlying performance.
+Turning now to the headlines; we've made good progress across most of our businesses during the year. Adjusted profits increased 26% to GBP7 billion. Total income was up 2% at GBP29 billion, despite gilt gains of GBP1.1 billion from the sale of hedging instruments in 2011.
+Impairment improved 5% to GBP3.6 billion, mainly as a result of favorable trends in our UK businesses. This resulted in net income growth of 3% to GBP25.4 billion.
+We've continued to reduce costs, which decreased 3% to GBP18.5 billion, and our capital liquidity and funding remains strong. Our core Tier I ratio is 10.9%, and our total capital ratio was 17.1%.
+Adjustments to statutory numbers include a GBP4.6 billion charge on own credit; a provision for PPI of GBP1.6 billion; a GBP850 million charge for redress on interest rate hedges; and a gain on BlackRock. As a result, statutory profits were GBP246 million.
+The provisions, which include additional charges taken in the fourth quarter which we announced last week, GBP400 million was provided for redress on interest rate hedges. This is based on the FSA's report after a pilot exercise conducted in the fourth quarter.
+The charge of GBP600 million was made for PPI. This is largely the result of higher-than-expected response rates from proactively contacting customers ourselves. The PPI balancing provision at the end of the year was GBP990 million.
+Return on equity increased from 6.6% to 7.8%. We will talk more about our plans to improve this later today.
+Our four largest businesses all increased returns. There were strong performances from UK RBB and Barclaycard, which reported returns of 16% and 22.1% respectively. The Investment Bank delivered returns of 13.7% and Corporate Banking continued its turnaround. Returns there were 5.5%, up from 1.7% in 2011. Returns by business are shown in an appendix to the slide pack.
+I've told you we will be allocating more Head Office results to the businesses, going forward. We'll issue details of this before our first quarter. The business returns we're reporting this morning exclude this allocation, so Head Office is reflected in our Group returns.
+The Group's cost-income ratio improved from 67% to 64%.
+Adjusted earnings per share increased to 34.5p, and we've announced a cash dividend for the fourth quarter of 3.5p, bringing the total to 6.5p for the full year. This is up from 6p in 2011. We understand the importance of dividends and aim to pursue a progressive policy, which Antony will talk about later.
+The decrease in net total asset value per share mainly reflects the own credit charge, provisions for PPI and interest rate hedges, and other adverse reserve movements.
+Turning now to the individual businesses; in UK RBB, profits were up 4% to GBP1.5 billion. Total income was down 5% to GBP4.4 billion, reflecting the non-recurrence of gilt gains, and a decline in the underlying contribution from structural hedges. Excluding these impacts, income was stable as growth from higher volumes of customer assets and deposits was offset by increased funding costs.
+Impairment charges halved to GBP269 million. This reflects improvements across all portfolios, especially in personal unsecured lending. The loan-loss rate also halved to 21 basis points. 90 days arrears on unsecured personal loans improved by 33 basis points to 1.34%. Excluding PPI, costs reduced 1% to GBP2.7 billion.
+At Barclaycard, profits were up 25% to GBP1.5 billion; income grew 2% to GBP4.2 billion; impairment improved 22%; and the loan-loss rate was 282 basis points, compared to 391 basis points in 2011. 30-day arrear rates improved in both the US and the UK. Excluding PPI and goodwill impairment in 2011, costs grew 3%.
+In Africa, Retail and Business Banking income decreased 12%, to GBP3.2 billion. This was a result of adverse exchange rates, and non-recurring gilt gains.
+Impairment grew 39%, as a result of provisions taken in the second and third quarter on mortgages in the Absa recovery book. We believe impairment in this book has now stabilized, and early arrears are improving across almost all portfolios, including mortgages.
+Costs decreased 10%, reflecting currency movements. Profits were down 44%, to GBP468 million. During the fourth quarter, we announced plans to combine the majority of our Barclays African operations with Absa. The terms of the transaction, while supported by an independent fairness opinion that will be voted on by Absa shareholders later this month.
+Europe Retail and Business Banking made a loss of GBP239 million. Income fell 25%, reflecting the economic environment. Impairment increased 26%, or GBP67 million, mainly as a result of deterioration in mortgages.
+We reduced costs by 31%, as savings flowed through from the restructuring in 2011. We also reduced the local funding gap in Europe, customer assets reduced slightly in euros, while deposits increased, notably in Spain.
+Turning now to the Investment Bank; profits grew 37%, to GBP4.1 billion. Total income grew 13%, to GBP11.7 billion. Within this, Fixed Income, Currencies and Commodities increased 17% to GBP7.4 billion; Equities and Prime Services grew 14%, to GBP2 billion; and Investment Banking was up 5%, at GBP2.1 billion.
+This income growth reflects share gains in many product areas. It was achieved despite a 5% reduction in RWAs to GBP178 billion, and a 33% reduction in daily value at risk to GBP38 million.
+Impairment increased from GBP93 million, to GBP460 million. This increase includes the charge relating to legacy CDO assets. There was also a one-off release of GBP223 million in 2011.
+We reduced the bonus pool and other incentive awards, granted in 2012, by 20%, while income grew 13%, and profits were up 37%. The full impact of this reduction will feed into results, in future years, due to the IFRS treatment of deferred bonuses.
+Our reported costs in 2012 fell 1%, to GBP7.2 billion. Performance costs were down 3%, to GBP1.7 billion, despite an increase of GBP210 million in charges relating to deferrals from prior years.
+Non-performance costs were broadly in line with 2011, after absorbing GBP193 million of the LIBOR settlement. Excluding LIBOR, non-performance costs fell 4%. The cost to net operating income ratio improved from 71% to 64%, and the compensation to income ratio reduced from 47% to 39%.
+We continue to reduce our legacy assets. Credit market exposures decreased by almost GBP6 billion to GBP9.3 billion, and we exited these positions at or above our marks.
+We believe that annual trends give a better understanding of performance, but we also report quarterly numbers, as we know you'll be interested in them. You can see the quarterly income progression in 2012 is a similar shape to 2011, but at a higher level.
+Comparing the fourth quarter last year with the third quarter, total income was down only 2%, at GBP2.6 billion, despite tougher market conditions.
+As we've said before, our flow business model is designed to protect us from downside market risks. As a result, we may outperform in weak markets, and underperform in strong markets. We see the fourth quarter as further evidence of this.
+Drilling down to look at the current quarterly progression, by business line, Fixed Income, Currencies and Commodities were down just 8%, in the fourth quarter. Equities and Prime Services were down 9%, as we grew share, despite low market volumes. Investment Banking was up 29%.
+In Corporate Banking, profits more than doubled to GBP551 million. Within this, the UK was up 22%, to GBP910 million; losses in Europe reduced to GBP381 million; and other regions reported a small profit, compared to a small loss in 2011.
+Income was down 6%, to GBP2.9 billion. Impairment improved 24%, to GBP872 million. There was a 30% reduction in Spain, to GBP337 million, resulting from lower exposure to the property and construction sector. We reduced costs 14%, to GBP1.5 billion.
+In Wealth and Investment Management, profits grew 52%, to GBP315 million, as our investment in the business gained traction. Income grew 4%, to GBP1.8 billion, driven by high net worth business and related increases in both customer loans and deposits.
+Costs were down 2%, despite continued investment. Client assets under management increased 13%, to GBP186 billion, mainly as a result of net new assets in the high net worth business.
+Losses in Head Office, were GBP1.1 billion, compared to GBP1 billion in 2011. There was an improvement in the income line of GBP148 million. This was mainly due to a one-off gain on hedges relating to employee share awards, which we closed out in the first quarter.
+This was more than offset by the increase in the Bank's levy, and other operating expenses, amounting to GBP243 million. Operating expenses include GBP97 million on the LIBOR settlement, and Financial Service Compensation Scheme charges, which increased by [GBP19 million].
+Moving on now to capital liquidity and funding. Our core Tier 1 ratio, at the end of 2012, was 10.9% on a Basel 2.5 basis. Our total capital ratio was 17.1%, and RWAs were slightly down, at GBP387 billion.
+Our liquidity position remains strong with a pool of GBP150 billion. This compares with wholesale funding maturing this year of GBP101 billion.
+At the end of December, we had liquidity coverage ratio of 126%, based on the latest Basel plans. We are already compliant with net stable funding ratio proposals.
+We had GBP27 billion of term debt maturing in 2012. We issued GBP28 billion in term funding, which enabled significant prefunding of our term maturities this year, which are GBP18 billion. The issuance included $3 billion of Tier 2 contingent capital notes, which are fully allowable as primary loss-absorbing capacity. We also raised GBP6 billion through the Bank of England's funding and lending scheme.
+Our Retail Banking, Corporate Banking, and Wealth businesses are largely funded by customer deposits. The loan-to-deposit ratio for these businesses improved from 111% to 102%.
+We've talked to you more about the impact of Basel 3, based on implementation in January. As you know, the implementation didn't take place. To allow comparison with our previous disclosure, we've shown the ratio reported at the year end, alongside pro forma ratios, as if we had applied Basel 3. We've also included the impact of IFRS changes that apply from January.
+Our latest Basel 3 estimates show a pro forma transitional common equity Tier 1 ratio of 10.6% as at January 1. We also show the fully loaded ratio, which is 8.2%; a slight increase on the position disclosed at the end of September. Detailed calculations are in the appendix of our slide pack.
+We continue to believe that we're well capitalized, and we'll discuss our capital structure and targets this afternoon.
+Turning now to margins. As I've mentioned before, we look at margins in two parts; customer margins, which drive the vast majority of our net interest income; and then the secondary margins, derived from structural hedges. I'll start by talking about hedging.
+Across the Group as a whole, the total contribution from structural hedges fell from GBP3.3 billion to GBP1.7 billion, as expected. This was mainly due to the 2011 gilts gain, which we realized as we shortened the duration of hedges. The reduction in underlying contribution from these hedges is expected to be less pronounced this year.
+The businesses which contribute to our net interest margin analysis are Retail and Business Banking, Corporate Banking, and Wealth. Overall, margins from these businesses fell 18 basis points to 1.85%. 14 basis points of this decline, or GBP800 million, was from the reduced hedge contribution. This shows the relative stability of our customer margins.
+Increased volumes, mainly on the liability side, broadly offset slight customer margin contraction, so the net interest income generated from customers was stable at GBP9.8 billion. Overall, net interest income from these businesses decreased 7% to GBP11.2 billion.
+Turning now to costs. We reduced overall costs by 3% to GBP18.5 billion. Performance costs for the Group were down 4% to GBP2.4 billion, while income grew 2%, and profits were up 26%.
+We reduced non-performance costs for the Group by 3% to GBP16.1 billion. This includes the LIBOR settlement of GBP290 million, and bank levy of GBP345 million. Without these items, the level of non-performance costs would have been GBP15.5 billion, which is in line with our cost savings target.
+Bonuses and incentive awards granted in 2012 across the Group were reduced by 16%. This reflects action taken to reposition our compensation in the marketplace, and various conduct issues.
+That's all I have to say on the 2012 results. Looking at current trading, there's been a good start to the year across the Group in January. So in summary, we're reporting good results for 2012. Adjusted profits grew 26% to GBP7 billion; income was up 2%, despite gilt gains of GBP1.1 billion in 2011; impairment improved 5%; and we reduced costs by 3%. Our capital, liquidity and funding remain strong, with a core Tier 1 ratio of 10.9%.
+Thanks very much. We look forward to speaking to you again later today. I'm happy to take questions on the results now. Thank you.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions). Chris Manners, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    It was just I had a question, which was on your Barclaycard impairment charges. I could see that it's actually been rising for a couple of quarters, and maybe you might be able to just give us an update on what you think is the trajectory there, and whether that's something that we should be concerned about. Thanks.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [3]
+--------------------------------------------------------------------------------
+
+    Let me ask Robert Le Blanc, who's with me, to add to a comment. But my overall view is the performance of Barclaycard in the credit area has been extremely strong, and there's nothing that I see that makes me worry about it as we look forward.
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [4]
+--------------------------------------------------------------------------------
+
+    I think that's right. Good morning, Chris. We've seen improvements in card impairment over the last couple of years, principally in our US and UK portfolios, as the economies have improved as well. And the card portfolios, of course, are all over the world, including Europe and South Africa. So although they do move around, the trend has been positive, and I'd say we expect it to remain fairly steady from this point. So no, nothing there particularly concerning.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [5]
+--------------------------------------------------------------------------------
+
+    Okay, thanks, Robert. Would it be possible, maybe, to just ask you to expand on how you see the credit outlook across the Group, in that case?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [6]
+--------------------------------------------------------------------------------
+
+    You certainly can.
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [7]
+--------------------------------------------------------------------------------
+
+    Certainly, I'll make just a brief comment on that, if I may? You'll recognize that we've seen a very significant reduction in impairment over the last three years. But if you look closely, the general trends in the second half of 2012 were broadly steady, compared to the first half, and so the strength of the improvement we've seen has started to steady out, I think as we had expected and guided you on.
+I think the trend this year will be steady across most portfolios in Wholesale and Retail. There is some room for a little bit further improvement, but my outlook for this year is a broadly steady one, with potentially some slight improvement. And we think that will come through in the impairment numbers for this year.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+    JP Crutchley, UBS.
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    It was a broader question, I guess, in terms of the context of the numbers. [After] the last Financial Policy Committee, clearly, the FSA were sent away to have discussions with the banks on the three broad topics; forbearance; making sure legacy costs have been properly brought into numbers; and risk weightings. Clearly, you've taken charges on legacy items; that's fully apparent.
+You've talked about, in the UK Retail results, risk assets going up because of a more comprehensive approach to forbearance; I wonder if you can discuss around that.
+And on the third point, on risk weightings, I wonder if you can maybe just elucidate how that discussion's progressed. And can we conclude from this -- and given in the strategic statements you talk about increasing dividend policy that, as far as you're concerned, those debates with the FSA on capital and the like are closed and, therefore, the debate around whether Barclays, in particular, is likely to be a subject of needing more capital with this debate that's going on between the FSA and FPCs is done and dusted.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [11]
+--------------------------------------------------------------------------------
+
+    Let me start, and ask Robert to touch on forbearance, and then we'll pick up RWAs.
+I think, JP, in general terms, we share, as you can imagine, pretty much everything with the FSA on an ongoing basis. So they have been with us and briefed on the strategic review that we're talking about later on today, and also those areas of forbearance, RWAs, EVAs, and impairment on certain areas.
+Whilst I don't think we would ever say that they have to make our decisions for us, that's very much our job, we have a constructive dialog with them, and over time, understand their position, they understand our position.
+And you can be sure that we've briefed them as to these results; we've briefed them as to the forward-looking views that we will be talking about later on and I think it's a very constructive dialog. How that plays out as we go into the future, only time will tell, but I'm very pleased with where we are at the moment.
+Robert?
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [12]
+--------------------------------------------------------------------------------
+
+    Thanks. I would only add that, when we look at forbearance from a capital point of view, firstly, we have been carefully measuring and monitoring the levels of forbearance themselves, which is disclosed in the results this year.
+And really, what's changed from an RWA point of view is simply the recognition of forbearance as an impairment event, or as a default. And that's been changing and being adjusted through our RWA model, so it had an effect during the year.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [13]
+--------------------------------------------------------------------------------
+
+    If I look more generally at RWAs, probably the best place to be is on slide 33, which shows the bridge from GBP391 billion RWAs at the end of December 2011, and GBP387 billion at December '12.
+You can see in there, there's some quite sizable individual items of methodology change of GBP20 billion, operational risk uplift of GBP18 billion, offset predominantly by business reductions, which are real business reductions, including legacy assets of about GBP28 billion.
+So there's some big moving parts, but it shows that, like most of these things, lots of big moving parts net down to almost no significant change year on year.
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [14]
+--------------------------------------------------------------------------------
+
+    And on risk weights, is that caught up within the methodology changes or is that something which hasn't changed materially?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [15]
+--------------------------------------------------------------------------------
+
+    It's a mixture of methodology changes. It's a mixture of business reduction where the returns are insufficient. To give you a flavor, if you look at methodology changes and the GBP20 billion on slide 33, it's made up of an increased market risk charge, changes to sovereign loss-given defaults, and slotting of mortgages.
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [16]
+--------------------------------------------------------------------------------
+
+    Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+    Michael Helsby, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Michael Helsby,  BofA Merrill Lynch - Analyst    [18]
+--------------------------------------------------------------------------------
+
+    I've just got a question on the Investment Bank's costs. Comp ratio was 39% and your bonus pool was down 15%. I think one of the ways I look at it is to look at the bonus as a percentage of net revenue, and that was 11.5% versus 15.7% last year. And your deferral rates changed slightly. I was wondering if you could give us a little bit more color around how you see both the deferral rate evolving in the next couple of years, in the light of your plan; and also, whether an 11.5% bonus as a percent of net revenue, if that's now consistent with the mid-35% comp ratio that you'd be looking for, i.e., can we take 2012 as a reasonable base forward, because it makes quite a difference? Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [19]
+--------------------------------------------------------------------------------
+
+    Let me ask Rich to start, and then I'll make a few comments.
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [20]
+--------------------------------------------------------------------------------
+
+    Good morning, Michael. I guess there's a couple of elements to your question. First, I've been on record several times talking about our comp income ratio I see normalizing in the mid-30%s over time. And you have to recall, as I know you know, that what you're looking at is the actual in-year charge that gets hung up with the actual bonus pool in the year, but over time, I would expect those things to come into line with each other.
+Now that would mean that I would also see the deferral rate decreasing over time. We've had some extraordinary circumstances and, for very good reasons, had higher than I would say our normal deferrals in the last couple of years, but I would see those decreasing, in time. They decreased this year, actually.
+As I say, I think over time, best-in-class investment banks, and banks for that matter, will have comp to income ratios in the mid-30%s and we're on a journey to get there.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [21]
+--------------------------------------------------------------------------------
+
+    I think, when we look at all the different measures of comp to income, yours, Michael, is a new one that we haven't used before. We'll certainly plot that out, and if there's anything that we want to add to what we've said, we'll do so.
+
+--------------------------------------------------------------------------------
+Michael Helsby,  BofA Merrill Lynch - Analyst    [22]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [23]
+--------------------------------------------------------------------------------
+
+    Andrew Coombs, Citigroup.
+
+--------------------------------------------------------------------------------
+Andrew Coombs,  Citi - Analyst    [24]
+--------------------------------------------------------------------------------
+
+    I have a question on slide 35, please, on the pro forma CRD for capital and RWAs. Two questions related to that, I guess, if I split it up; first, on the numerator. If I look at your tangible book value per share, you've just reported 373p, but adjusting for IAS 19, a GBP2.5 billion shareholders' equity hit and IFRS 10, a GBP0.5 billion shareholders' equity hit, I guess that's pro form 350p. But I just wanted to check that both of those aspects are already captured in your fully loaded core Tier 1 guidance on slide 35.
+And then the second half of the question, on the RWA number; back at the nine-month '12 stage, you were guiding to GBP485 billion of Basel 3 RWAs by the year end. You're now guiding to GBP468 billion, and the two big moving parts in that look to be the CVA, which has dropped from GBP46 billion to GBP29 billion, and securitization which has dropped from GBP39 billion to GBP25 billion. So just intrigued what the big driver of those two changes has been. Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [25]
+--------------------------------------------------------------------------------
+
+    Yes, I think the answer to your first question about whether the accounting changes have been included, the answer is yes, they have.
+In terms of RWAs, and I think if I heard you right, you were talking about the GBP468 billion, there's a number of things in there. There is securitization, that's where the impact of IFRS 10 goes, and the net capital change flows through there as well.
+The other area of reduction is the CVA, and I think one of the things that's becoming clear to us is the volatility of the CVA number arising from changes in spreads. So you were very correct in what you were asking, and I think the GBP268 billion is a more accurate current view of where the numbers are going to turn out.
+
+--------------------------------------------------------------------------------
+Andrew Coombs,  Citi - Analyst    [26]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+    Raul Sinha, JPMorgan.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [28]
+--------------------------------------------------------------------------------
+
+    Chris, can I just have one question on UK Retail's performance? It seems to be quite good loan growth pickup there in the second half of the year and, looking at the Bank of England data, Barclays seems to be outperforming the other banks in terms of the FLS loans extended. Can you comment on how the performance was in Q4 on both absolute balances and margins, and how you expect that to trend forward?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [29]
+--------------------------------------------------------------------------------
+
+    Well you're absolutely right that we think we're taking market share in the FLS. In terms of trends, we've seen an upward trend, and it's particularly noticeable in an upward increase in deposits, and I think there's not much more to say.
+We've got a good performance. There's a couple of individual items within there that have a little bit of an impact on the fourth quarter. But overall, good volume growth, continued gains, and asset growth. So I don't know whether that fully answers your question, but we're pleased with the performance.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [30]
+--------------------------------------------------------------------------------
+
+    Sure. Chris, I guess my question was more towards the underlying pace or momentum within the business heading into next year, and especially as deposit costs come down and you're seeing a pickup in margins, but perhaps I could follow up later in the day.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [31]
+--------------------------------------------------------------------------------
+
+    Yes. I think we can cover that in more detail later today, but I would say the underlying performance is good. We think there's growth there. We see particular area for growth in volumes of customer deposits, which will offset a flat margin that we expect to see. So net-net, flat margin, increased volumes, improved net interest income, and a good performance overall.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [32]
+--------------------------------------------------------------------------------
+
+    Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+    Manus Costello, Autonomous.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [34]
+--------------------------------------------------------------------------------
+
+    My one question, I'll go back to slide 35 please, the pro forma impact. I notice that you've shifted the PVA adjustment out of the transitional into the fully phased numbers as of day one. I wonder what's driven that, and it obviously doesn't impact us on a fully-phased basis, but do you think it will impact your ability to issue further contingent notes which tend to be based on transitional measures, and this obviously is quite a negative for that?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [35]
+--------------------------------------------------------------------------------
+
+    I think it is. This is one of the outcomes of the dialog we would have with the FSA where it was thought to make more sense and certainly to be more prudent to put this in the fully loaded, rather than transitional over a period of time. Though you can debate the matter either way, but we think doing what we've done sets out the ratio at the most prudent basis of calculation, rather than anything else.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [36]
+--------------------------------------------------------------------------------
+
+    And there's nothing else within the transitional provisions which could come back up into the pre-transitionals?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [37]
+--------------------------------------------------------------------------------
+
+    No, not that we're aware of.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [38]
+--------------------------------------------------------------------------------
+
+    Okay. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+    Ian Gordon, Investec.
+
+--------------------------------------------------------------------------------
+Ian Gordon,  Investec Bank (UK) Plc - Analyst    [40]
+--------------------------------------------------------------------------------
+
+    It's just coming back to the UK Retail performance and, in particular, mortgages. As we heard in the previous question, your balance sheet growth has been strong. I think your mortgage growth across the full year was about GBP7 billion, H2 weighted.
+In terms of your current pricing, clearly, you're being more aggressive than some of your peers. In 2012, arguably, you had it easy, while Lloyds and Santander UK were giving away share as far as they could. Is it your intention, going forward, to maintain your more aggressive pricing to broadly sustain the pace of balance sheet growth, even in a slightly more competitive market?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [41]
+--------------------------------------------------------------------------------
+
+    I think we'd have to look at that on a case-by-case basis. The important thing, from my perspective, is that we look at the return we make on the products, and we look at the return on equity that we make in the business. Any decision we would make about being aggressive or not aggressive in terms of pricing would be very dependent upon being able to pass and exceed the return on equity targets that we've set for the business you will hear more about this afternoon.
+
+--------------------------------------------------------------------------------
+Ian Gordon,  Investec Bank (UK) Plc - Analyst    [42]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+    Andrew Lim, Espirito Santo.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [44]
+--------------------------------------------------------------------------------
+
+    Just got a few questions, please. Your liquidity coverage ratio you've published, 126%, presumably, that's on the new Basel 3 basis. I was wondering if you could give some indication on how you'd like to run that. Would that be closer towards the 100% and, therefore, you'd be able to reduce your liquidity pool there?
+Secondly, on --
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [45]
+--------------------------------------------------------------------------------
+
+    Can I answer just one, Andrew; rather than chew them up, let's try and answer them one by one. But the answer to that is, it is based on the latest view of the LCR rules and we would expect that 126% to come down. Whether it gets down as low as 100%, I don't know. We would have to look at that, over time, but it would certainly trend it down.
+That, of course, would have the benefit of reducing the cost of the liquidity pool, which is the important thing that we've been aiming to do. So I hope that answers your first question.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [46]
+--------------------------------------------------------------------------------
+
+    Okay. That's fine, thank you. On page 35, referring back to the capital disclosure, you're the only UK bank to have this PVA adjustment, GBP1.2 billion for yourselves. I was wondering with what kind of certainty can you say that that's actually applicable, going forward. How much can we take that as a concrete adjustment to be made there?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [47]
+--------------------------------------------------------------------------------
+
+    It feels pretty concrete to me.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [48]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you very much. And then thirdly, could you clarify what your outstanding existing Tier 1 and Tier 2 hybrids are? How much these are?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [49]
+--------------------------------------------------------------------------------
+
+    Bear with us. Can we look at that answer, and we'll come back to you with a response? It's regarded as about GBP9 billion.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [50]
+--------------------------------------------------------------------------------
+
+    In aggregate for Tier 1/Tier 2s, okay.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [51]
+--------------------------------------------------------------------------------
+
+    Yes.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [52]
+--------------------------------------------------------------------------------
+
+    Okay. And then just finally, very straightforward I hope, could you give a bit more color on the negative revenues in the Head Office?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [53]
+--------------------------------------------------------------------------------
+
+    There's a range of things in there. I think the best thing to do is to wait until we've restated with the allocation of Head Office expenses and income, and look at it on a go-forward basis. What I would say is that, if you look at the overall Head Office number, it's been creeping up, but when you look at it year on year, it has relatively small impact on the overall Group, with the exception of the Group return on equity.
+Of course, our objective will be to allocate that out more fully, and I think that would be a good time to catch up on the individual component parts of it.
+
+--------------------------------------------------------------------------------
+Andrew Lim,  Espirito Santo Investment Bank - Analyst    [54]
+--------------------------------------------------------------------------------
+
+    Okay. Many thanks, Chris.
+
+--------------------------------------------------------------------------------
+Operator    [55]
+--------------------------------------------------------------------------------
+
+    Fiona Swaffield, RBC.
+
+--------------------------------------------------------------------------------
+Fiona Swaffield,  RBC Capital Markets - Analyst    [56]
+--------------------------------------------------------------------------------
+
+    Just a question on the Basel 3 leverage ratio. I think you're saying within 33 times compared to the GBP49.5 billion, so you're talking of a balance sheet of GBP1.6 trillion or below it. Is that the right way, and could you just take us through what the adjustments are under Basel 3, relative to your just under GBP1 trillion US GAAP?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [57]
+--------------------------------------------------------------------------------
+
+    I think the answer is yes, how you described it is right, but I think what I'd suggest we do is take that offline and get one of our guys to go through it with you, because it's an art rather than a science.
+
+--------------------------------------------------------------------------------
+Fiona Swaffield,  RBC Capital Markets - Analyst    [58]
+--------------------------------------------------------------------------------
+
+    Okay. Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+    Chintan Joshi, Nomura.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura International Plc - Analyst    [60]
+--------------------------------------------------------------------------------
+
+    Apologies, I had a technical issue so I might have missed some comments. My first question is on just what do you see as a picture in mortgages in the UK? If I look at SVRs of banks they are not at 4%; however, if you look to your mortgages you can get them now at 3.1%. So are you seeing switching behavior from your customers; a move from SVR to new lower-priced, fixed deals? And how do you think about headwinds from this repricing?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [61]
+--------------------------------------------------------------------------------
+
+    Sorry, headwinds from --?
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura International Plc - Analyst    [62]
+--------------------------------------------------------------------------------
+
+    From this repricing of moving from 4% plus SVR to a 3% new fixed-rate deal.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [63]
+--------------------------------------------------------------------------------
+
+    I think maybe you missed the comment, but our view on mortgage pricing is that we will be competitive. In particular, we'll want to look at the returns that we make on a product-by-product basis, and look at whether it meets our return on equity requirements.
+The direction of travel that we're seeing is very low SVR volumes, mostly fixed and tracker, and increased numbers of buy-to-lets, increased volumes. So really, across the board increase in volumes, and good performance as a result of it.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura International Plc - Analyst    [64]
+--------------------------------------------------------------------------------
+
+    Okay. The second question was on some of the targets that you have given. If I think about the GBP16.8 billion cost target, add to that the GBP700 million restructuring, with a mid-50%s cost/income ratio, that seems to imply a 10% revenue growth for a 9% cost reduction. I'm just trying to tie the two together. What you're saying here is, you'll grow revenues and yet cut costs by about 10% each?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [65]
+--------------------------------------------------------------------------------
+
+    Can I suggest we get ready to answer that question after the strategy session we're doing this morning and afternoon? Because one of the things we tackle is exactly how you get that cost performance line as you've been trying to derive. So it would be easier done once we've released the slide packs and information later on today.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura International Plc - Analyst    [66]
+--------------------------------------------------------------------------------
+
+    Fair enough. Just one final detail question. What was the driver of the quarter-on-quarter move in risk-weighted assets?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [67]
+--------------------------------------------------------------------------------
+
+    Particularly the quarter on quarter was operational risk events that gave rise to an increase in RWAs.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura International Plc - Analyst    [68]
+--------------------------------------------------------------------------------
+
+    Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [69]
+--------------------------------------------------------------------------------
+
+    Gary Greenwood, Shore Capital.
+
+--------------------------------------------------------------------------------
+Gary Greenwood,  Shore Capital - Analyst    [70]
+--------------------------------------------------------------------------------
+
+    I just wanted to come back to the issue of bonuses, because I didn't quite understand, given the sort of current hype around bonuses, and banks' attitude towards bonuses, why you've increased the current year cash bonus. And again, why you're talking about reducing the amount of deferral. I'm a bit surprised; I would have thought the route to be going down would be the opposite to that.
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [71]
+--------------------------------------------------------------------------------
+
+    Hi, Gary, it's Rich. It's a good question, and I think what I'm referring to it is we've had extraordinary events. We clearly have a conservative deferral profile, but because of some of the events we've had we've increased deferrals.
+What you want to do is try to get the balance right between making sure the interests are aligned, but that you're not overloading your deferral rate in any one year. That's irrational for the shareholder, because you want to make sure. Because you have the constant roll-in of deferrals, if that rate's too high in any one year, if you're working to a comp to income ratio, it clearly limits flexibility one way or the other.
+So it's about getting the balance right. And I think we've just had a couple of extraordinary years where we've been particularly conservative in our deferral rate, which might not be in the interest, long term, of the shareholder in terms of what we can pay the franchise versus pay them.
+
+--------------------------------------------------------------------------------
+Gary Greenwood,  Shore Capital - Analyst    [72]
+--------------------------------------------------------------------------------
+
+    Surely it's the cash rather than the P&L that matters though?
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [73]
+--------------------------------------------------------------------------------
+
+    Yes, of course, it's both. But the cash payments, we're not talking about a significant increase, and the way we've skewed our deferrals this year is mostly towards the top of the house. So we're trying to get the cash that is released into the hands of the more junior people in the organization.
+
+--------------------------------------------------------------------------------
+Gary Greenwood,  Shore Capital - Analyst    [74]
+--------------------------------------------------------------------------------
+
+    Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [75]
+--------------------------------------------------------------------------------
+
+    Christopher Wheeler, Mediobanca.
+
+--------------------------------------------------------------------------------
+Christopher Wheeler,  Mediobanca - Analyst    [76]
+--------------------------------------------------------------------------------
+
+    A question really, I suspect, for Rich I think, and it's really looking at the fixed income trading numbers. If I look at the big banks who've reported to date, we see quarter on quarter the average decline has been 24%; you managed just 8%. And also I think, for the first time in a long time, you actually earned more than Deutsche Bank in fixed income trading.
+That's quite a remarkable performance. Can you perhaps comment a little bit on the skew of that; how much perhaps was due to the US business and your spread there, and how much perhaps just to your taking market share, and where you took that? Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [77]
+--------------------------------------------------------------------------------
+
+    We like your comparisons, Chris.
+
+--------------------------------------------------------------------------------
+Christopher Wheeler,  Mediobanca - Analyst    [78]
+--------------------------------------------------------------------------------
+
+    I'm glad about that (laughter).
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [79]
+--------------------------------------------------------------------------------
+
+    Good morning, Chris. Let me talk about, first, what we did gain. We certainly saw a market share gain in credit and rates. We saw some reduction in securitized products; there was a reduction in FX. Certainly, the US was strong. Lower market volatilities more broadly reduced the quarter, but we've said previously that we've been very consistent in our income. We've not run a lot of inventory; we have been taking market share.
+You've seen some players drop out of this space, but certainly, in the quarter-to-quarter comparisons, it was really down to improved performance in credits and rates, mainly driven by the US.
+
+--------------------------------------------------------------------------------
+Christopher Wheeler,  Mediobanca - Analyst    [80]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [81]
+--------------------------------------------------------------------------------
+
+    Mike Trippitt, Numis.
+
+--------------------------------------------------------------------------------
+Mike Trippitt,  Numis - Analyst    [82]
+--------------------------------------------------------------------------------
+
+    Just a quick question on the provisions that you've now taken on PPI and interest rate hedging redress. I just wondered if you could give me a bit more on interest rate hedging, as to what sort of share that would represent. What I'm really looking for is a degree of comfort now around the level of those two sets of provisions.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [83]
+--------------------------------------------------------------------------------
+
+    Yes, it's difficult because they are moving targets, but if we take them individually; that's on page 91 of our results announcement. But if I look at the interest rate hedging redress, you know that we've had the guidance from the FSA, so we've got a pretty clear route map as to what we need to do in terms of the number of customers we deem not to have complied with relevant regulatory requirements, the nature of redress offered, and the look of the reasonably foreseeable consequential loss.
+So all of those are estimates we've had to make to include in the provision that we've made. It's our best view, and I should say that, out of the GBP850 million, we've spent something like GBP36 million; so it's a very big provision against a very small cash payment, at the moment. And we think, though, based on the best available information, that the GBP850 million is a good number.
+If I look at PPI, it's a different product range; it's a much greater number of individual claims and, therefore, it's a more volatile set of statistics, particularly if you look at trends of claims that are coming in.
+So I'd feel pretty comfortable about the interest rate hedging. It's less easy to be comfortable on the PPI. But in both instances, we've taken our best view of the situation as it prevails, and provided accordingly.
+
+--------------------------------------------------------------------------------
+Mike Trippitt,  Numis - Analyst    [84]
+--------------------------------------------------------------------------------
+
+    Thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [85]
+--------------------------------------------------------------------------------
+
+    Chris Manners, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [86]
+--------------------------------------------------------------------------------
+
+    Just one more question. I was wondering, how do you think about the Tarullo proposals from the Fed about the subsidiarization of the US operations into an intermediate holding company? And have you thought about how much capital and liquidity could be trapped there, what the potential costs could be, and what the impact to the business would be if you tried to mitigate that? Thanks.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [87]
+--------------------------------------------------------------------------------
+
+    We're working on it, Chris. As you know, the requirements are still being completely developed, and Antony will talk more about it this afternoon. But we're looking at different options in the intermediate holding companies, what the funding costs will be, and what we need to do to be able to comply with it.
+Let us get through this afternoon, and then we'll come and have a conversation with you. But a lot of work is being done in the area.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [88]
+--------------------------------------------------------------------------------
+
+    Okay, thanks. So maybe we'll catch a bit more this afternoon. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [89]
+--------------------------------------------------------------------------------
+
+    Michael Helsby, Bank of America Merrill Lynch.
+
+--------------------------------------------------------------------------------
+Michael Helsby,  BofA Merrill Lynch - Analyst    [90]
+--------------------------------------------------------------------------------
+
+    I was wondering if you could give us a little bit more color on your comments on January? It feels like Fixed Income, Equities and Primary are all off to quite a very good start, certainly relative to January of last year. So I was wondering if you could just give us a little bit more color to be helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [91]
+--------------------------------------------------------------------------------
+
+    We'll certainly be helpful. I think, as I said, it's been a good month, but one month is a relatively short timeframe to compare it over with the whole year. But across the board, different products have been doing well, different businesses have been doing well, so I think it's a good base to go into the rest of the year and the strategic review.
+
+--------------------------------------------------------------------------------
+Michael Helsby,  BofA Merrill Lynch - Analyst    [92]
+--------------------------------------------------------------------------------
+
+    Okay. And just on bad debt, I think you mentioned you had this bottoming-out process, but I think, clearly Africa you mentioned, still inflated; Spain, Western Europe, still inflated. Could you just drill down into those two areas and maybe talk a little bit about the outlook please? Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [93]
+--------------------------------------------------------------------------------
+
+    Let me ask Robert to do that.
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [94]
+--------------------------------------------------------------------------------
+
+    Good morning. I think those are areas where there is still, particularly in Western Europe, still risk driven by the economies there, and we've seen increasing rates of impairment. Remember our businesses in Western Europe, our largest books are on the mortgage side. So that went up last year, potentially could go up higher this year. So the rate is higher, although the absolute numbers are relatively small for the overall impairment performance.
+Africa had some impairment in mortgages in South Africa last year, which was an LGD or a legal recovery increase. And we don't think that continues this year, but I think the Western Europe portfolios will remain under pressure.
+
+--------------------------------------------------------------------------------
+Michael Helsby,  BofA Merrill Lynch - Analyst    [95]
+--------------------------------------------------------------------------------
+
+    Okay, helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [96]
+--------------------------------------------------------------------------------
+
+    Jason Napier, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Jason Napier,  Deutsche Bank Research - Analyst    [97]
+--------------------------------------------------------------------------------
+
+    Two, if I could be cheeky, please? The first for Robert, I think. Thank you for the new disclosures on forbearance on the wholesale side. I just wondered, could you confirm that there isn't really much contention around the definition of forbearance? Considering this is one of the things the FPC wants the FSA to look at, the numbers don't look particularly large, and the provision coverage looks pretty high. So I just wonder, is there an issue around definition of forbearance? That's the first question, please.
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [98]
+--------------------------------------------------------------------------------
+
+    I think there has always been a question of interpretation of forbearance on the wholesale side. You may not be choosing your words too carefully, but I wouldn't call it an issue, but I think there are interpretations and refinements we've made. We've done them also, together with the regulator, in terms of what we think the RWA effects will be. But we think it's a fairly wholesome picture, and we'll continue to update on that as we release these on a regular basis.
+So there are interpretations you have to make on the wholesale side. I wouldn't call them issues so much as interpretation.
+
+--------------------------------------------------------------------------------
+Jason Napier,  Deutsche Bank Research - Analyst    [99]
+--------------------------------------------------------------------------------
+
+    Okay. So your broad definitions are in line with the way the regulator looks at these sorts of things?
+
+--------------------------------------------------------------------------------
+Robert Le Blanc,  Barclays Plc - Chief Risk Officer    [100]
+--------------------------------------------------------------------------------
+
+    We believe so.
+
+--------------------------------------------------------------------------------
+Jason Napier,  Deutsche Bank Research - Analyst    [101]
+--------------------------------------------------------------------------------
+
+    Great, thank you. And then a question for Rich, please. The gain in market share of Barclays in the IB is obvious, so I just wondered to what extent you look at the loss of traction that the likes of CS and UBS, and other banks that have perhaps been at cost cutting for longer? And I wonder whether the targets that have been set for the overall Group, how much of that is already done, or how much you fear some retrenchment of the gains that you've made, as you embark on this? How far along the road, I guess, I'm asking, are you at this stage?
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [102]
+--------------------------------------------------------------------------------
+
+    I think, Jason, what I would say in answer to that is that, over the last few years we haven't been standing still. We really started reductions in force across the business as far back as 2009. So I think ours has been more of a steady focus on costs. I think that the cost reductions that we are deploying now are certainly more targeted, and I think towards areas where we need to right size for opportunity.
+You're right about some of our competitors exiting in a larger way. I think, for the scale players, which is four or five of us, we'll continue to pick up passive market share, and it's good news. I think there's more to come as others continue to retrench. But I think as far as we're concerned, I don't see the retracement, if that's your question, of our gains.
+
+--------------------------------------------------------------------------------
+Jason Napier,  Deutsche Bank Research - Analyst    [103]
+--------------------------------------------------------------------------------
+
+    So most of the savings, do they relate to areas that you'd like to deemphasize rather than just reducing resourcing across the board?
+
+--------------------------------------------------------------------------------
+Rich Ricci,  Barclays Plc - Co-Chief Executive Corporate Investment Bank    [104]
+--------------------------------------------------------------------------------
+
+    No, I wouldn't say deemphasize. Certainly, I think that when we built out our equities in investment banking businesses around the world, the estimates for what fee pool might be were quite large at the time. I think as those fee pools' estimates have reduced, we've reduced our size and scope. That doesn't mean we're going to be global or disinterested in the business, but certainly I think we want to right size for the size of the opportunity.
+So that's why the cuts have been made. You'll hear more about that this afternoon.
+
+--------------------------------------------------------------------------------
+Jason Napier,  Deutsche Bank Research - Analyst    [105]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays Plc - Group Finance Director    [106]
+--------------------------------------------------------------------------------
+
+    I think that's all we have time for. I know we'll be seeing many of you later on today. So thank you for joining us, and we'll look forward to continuing the conversation over the rest of the day. Many thanks.
+
+--------------------------------------------------------------------------------
+Operator    [107]
+--------------------------------------------------------------------------------
+
+    Ladies and gentlemen, this concludes today's call. Thank you for joining; you may now replace your handsets.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

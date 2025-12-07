@@ -1,0 +1,824 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2015 Deutsche Post AG Earnings Call
+11/11/2015 02:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Larry Rosen
+   Deutsche Post AG - CFO
+ * Frank Appel
+   Deutsche Post AG - CEO
+ * Martin Ziegenbalg
+   Deutsche Post AG - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * David Ross
+   Stifel Nicolaus & Co. - Analyst
+ * Dominic Edridge
+   UBS - Analyst
+ * Damian Brewer
+   Royal Bank of Canada - Analyst
+ * Tobias Sittig
+   MainFirst Bank - Analyst
+ * Neil Glynn
+   Credit Suisse - Analyst
+ * Mark McVicar
+   Barclays - Analyst
+ * Stephen Furlong
+   Davy Stockbrokers - Analyst
+ * Penny Butcher
+   Morgan Stanley - Analyst
+ * Christopher Combe
+   JPMorgan - Analyst
+ * Alex Paterson
+   Investec - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Good afternoon, ladies and gentlemen, and welcome to the Deutsche Post DHL conference call regarding the Q3 results 2015.  (Operator Instructions).  Let me now turn the floor over to your host, Mr. Martin Ziegenbalg.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [2]
+--------------------------------------------------------------------------------
+Thank you, and good afternoon or good morning to anyone out there to our Q3 2015 conference call.  After we have been in touch with you already over the past two weeks following our announcement on October 28, so here we are again with our regular Q3 reporting.
+And as you expect from the invitation, I've got here with me our Group CEO Dr. Frank Appel and our Group CFO Larry Rosen, who will take you through the presentation I take it you have in front of you.  And after that, as always, we are happy to take your questions.
+And without further ado, over to you, Frank.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [3]
+--------------------------------------------------------------------------------
+Thank you, Martin.  Good afternoon, good morning to all of you.  Thank you for joining us today on the Q3 analyst call.
+Let me start straightaway by the highlights of Q3 and the strategy update.  Afterwards, Larry will give you a little bit more insight into our financials.
+So on page 3 of the presentation you can see a couple of things which we have shared with you, on the left, for a while already.  We are in a year of transition of our Strategy 2015 to Strategy 2020, and we have taken several actions to prepare the Company to deliver against the goals of Strategy 2020.
+The last big element of that definitely has been the new approach, the renewal approach now for the IT in the forwarding business, which has led to a significant one-off cost of EUR345m, which actually doesn't come as a surprise.  We always said that this is a part or a possibility that we go that way.  After intensive analysis, we felt that this is the best way to go forward.
+In addition, we have considered to -- reconsidered some of the legal and regulatory exposures, and we came to a conclusion that it's better to take an additional charge of EUR200m for some of them.  Larry will explain later on the detail of that.
+We had also seen in the third quarter impact for the EBIT in PeP due to the already booked one-time payment, which actually happened as a cash outflow in October, that it was all booked already in the size of EUR50m -- about EUR50m in the third quarter.  Of course, we still had impact from the strike, and of course we have continued to invest into our business model in Germany and outside Germany in the PeP division.
+Supply chain has progressed as well and again has invested some restructuring expenses into the acceleration of the plan, and we should see benefits already next year out of that.
+And finally, express.  Due to the strong growth we have seen now for a long period, we have taken actions to upgrade our capacity on the ground and also in the air network.
+So, overall, that has led to an adjustment of our guidance for 2015, as already disclosed two weeks ago, but also at the same time a reconfirmation of the guidance for next year and 2020.
+On page 4, it summarizes that.  We have seen a similar situation probably over the years 2008 and 2009, with a significantly lower base.  We had intended that we really create a good platform this year for the further growth.  Larry will explain later on why we believe the next year's result is achievable.  We believe that we have more than enough measures in place to do that, and also we believe that this will be a very good base to continue then the growth until 2020.
+So we have now a significantly better competitive wage structure for our parcel business.  We have built significantly scale for parcels and express.  The new plan for DGF I think is a very comprehensive plan.  I will come to that later on.  And also in supply chain we definitely believe that we have taken the right actions to improve.
+So therefore it is a year of transition, but it's a year of foundation as well, and that makes us very confident to deliver the next year's expectations.
+If I then go to page 5, here we see some elements of what we are doing at the moment.  So we in principle -- which is not shown here, but let me say that in DGF we have created three pillars somehow for the improvement.  The first is that we installed already in May/June and have taken action, and it's almost implemented now everywhere, that we said we have to re-empower the organization.
+We turned some organization changes back to what we had before.  We reintroduced station managers, which we believe are important to have end-to-end responsibility.  We have restarted training on our core transportation management system, which we of course have stopped, believing that we roll out NFE pretty rapidly.  And finally, we also have changed the incentive scheme for people to be closer to the action, so that they really see the impact of their actions more and they feel more responsible and more accountable.
+So the driver of the turnaround was that we said let's go for good gross profit per file, tonnage or TEU instead of hunting volume, and therefore we have already started a while ago to refocus on profitable growth.  And the third element is then the business renewal.
+So here you see the impact of these gross profit per file actions.  Yes, we have lost significant volume in air freight, but we have improved, year over year, the gross profit per tonnage quite a bit.  That allows us now to focus on the cost measures we have to take to bring our productivity back to a level which we had already in previous years, and we have dropped the ball quite a bit here.
+So we believe now having a more healthy volume with more gross profit per tonnage or TEU that we now can improve the productivity, and that should drive significantly the profitability in the last quarter already and even more in 2016.
+One very encouraging result from our recent employee opinion survey is mentioned here on that page as well, the bottom one on the right.  We have actually improved slightly our active leadership feedback and we kept the employee engagement on a stable level, despite all the changes.
+That survey was taken in September, so before the announcement of the changes but in the middle of reducing cost and taking people out, so I think that's quite encouraging.  So therefore we feel now much more confident that we have really started to turn around the business.
+The final element which was missing was what we do with the business centric IT renewal, and on page 6 you see that our objectives remain still the same as they were, with one small but big -- on one hand small change in wording, but an important impact for the progress.  And that is the bullet point optimization potential by harmonizing processes.
+We talked probably too much and too long about standardization, and a key learning of the pilot has been that standardization is not really the right answer.  It's the harmonization of processes where it makes business sense.  And I think that is a small but significant difference in what we are doing.
+The rest remains the same.  We still believe that we can improve productivity.  We still believe that we can improve data visibility, that we can improve customer service, and so on and so forth.  But the new alternative approach gives us a more harmonized landscape and more a staggered approach than really replacing everything by SAP in one step, which probably has not worked very well.
+So on page 7 it describes a little bit more what we intend to do.  We have developed in conjunction with NFE a pretty good service oriented middleware architecture which works pretty well.  We can leverage that now by combining our own self-developed tools, which we have deployed in some places but not everywhere, in combination with some -- and that's the second point -- some proven industry solutions or even some SAP elements.
+And in that combination, we believe we can take a more staggered approach, we can move on some dimensions faster and others it might take longer.  But overall, we believe that we can take more a staggered approach and we'll see earlier some improvement, and it's also better for the over-the-time improvement of the margin.  It will also be more digestible for the organization and it will be more forwarder centric.
+As I said, we will not change the organization again.  We will do -- we will use systems which are supporting what our people are good at anyway, trading, buying and selling volume.
+So I believe that this business centric renewal is more a best-of-breed approach than a big bang.  We have done that already in the express business quite successfully and have improved over the years the margin by improving in the back IT systems, and that's the approach we want to take here now as well.
+On page 8, you see the financial impact.  We believe that we will have to spend, as costs, significantly less in the future.  But a significant chunk of what we have done in the past was CapEx as well, which we have now to write off.  Going forward, we will have significantly less CapEx than in the past, only EUR10m instead of the EUR80m which I mentioned.
+The P&L impact on an annual basis will be probably not much less, with EUR60m, than we had this year.  But we will not have -- we don't expect, going forward, a big hit of our P&L going forward, because that should be the volume we expect for the next years.
+So I believe that we will see good improvement of the underlying business from next year on.  And then, even if the first benefits are coming, we should even an accretive situation from the new rollout of the software.  So that's the basis for our plan now.
+If I then move to express, we have seen here a continuation, on page 9, of revenue per day and also shipments per day.  That this is so different is also related to fuel surcharges.  Of course, they came significantly down and therefore we see significantly less increase in revenue per day.
+But in shipments per day we see a very strong growth now for the third time in a row in Europe, and it's even accelerating, which is great.  Even Asia Pacific, we still saw 7% growth, so that's in good shape too, even if the other regions are stronger.
+Americas is a change in customer mix.  We have particularly one big customer who traded down.  We didn't lose the business, but that customer traded down significantly due to special reasons.
+Overall, we believe when we have a very good development and our Americas business has done so well, that we had to reevaluate our Cincinnati hub, as we wrote it down years ago already and now since the second expansion now we have just implemented we have now the obligation to write it up again.  On the other side, we had headwinds from currency.  Larry will explain that later on and where that comes from and what the impact is.
+But overall, express is still continuing to grow fast and gaining market share.
+On page 10, this is what I have explained to some of you already recently, when I met some of you on roadshows.  So this is interesting, because it shows the resilience of our network in express.
+We have seen different regions of the world as number one growth engine for the express business.  Despite that, all our business in express has grown high double digits -- high single digit, or even double digit in 2011, year over year.  Every quarter or almost every quarter we have seen a different growth engine, which is I think good for us because it shows that we, as the most international express company, are pretty resilient against the changes of economic strength, and that makes us very robust going forward, we believe.
+Talking on page 11 about supply chain, again, a very good quarter of new wins, profitable business in different sectors.  We have a good development across all sectors.  It shows that we have the right skills.  I think an important highlight is as well that we have extended NHS, the NHS contract for additional three years until 2018, which is good.
+On page 12, you see that we have booked already a significant chunk of our restructuring expenses.  In total, gross, we expect EUR150m for different elements of the restructuring.  Some of them are mentioned on the right.
+The organization becomes now leaner.  We have rolled out already a significant chunk of the certified supply chain specialists.  You might remember that is a program express has rolled out globally for many years now, and we are now rolling it out for the other divisions.
+Supply chain is leading that, and we have almost completed that for Asia.  The new model with the P&L on a global level for a sector with life science and healthcare is progressing well too, and that makes us very confident that supply chain will deliver a significant improvement next year in our numbers.
+Finally, PeP, on page 13, a mixed picture.  Due to the strike, we had a higher deterioration of the volumes in Q3 in mail communication than in the past quarters.  In dialogue marketing was a little bit more as well, not as pronounced.  It could compensate it partially by the increases in prices we did for mail communication, dialogue marketing, but not completely.  You can see that here.
+On the other side, parcel, good news here.  The volumes keep growing -- kept growing.  And the revenue per shipment, if you see that the revenue growth was even stronger, is heading in the right direction too.
+Finally, parcel Europe and ecommerce.  Strong growth in Europe, which is very good, and also very strong in ecommerce, but that was supported by some currency help.
+So, overall, we see the continuation of the trends in volume, except that we had in Q3 more pronounced volume drop than we had then in previous quarters.  But that has slowed down as well and we believe that in Q4 we should be back to a normal level.
+Page 14, just a reminder.  I don't want to go into the detail, but we just have another innovation launched with these parcel lockers for apartment buildings, which we believe is another improvement of convenience.
+And you can see as well on the top left that we have grown now for three years faster than our expectation of 5% to 7% until 2020.  I will not change, on that basis, the outlook until 2020 and we would predict still 5% to 7%, but the current history has been quite encouraging.
+Page 15 shows as well our measures we are taking in Europe.  Austria is now up and running.  We believe we had a good, robust start there.  We have also aligned our products in Europe, which makes it easier for the customers.  So we believe that we will see a continuation of the strong growth we have seen in the last months.
+The last page from my side before [Larry] gives you more insight into the financial figures.  That shows, I think, the journey since 2009.  I think we have done a lot of stuff in these years to improve the performance, as I already showed in the other slide, and that has really worked well.
+Also, if I look back in some of the discussions we had earlier this year when you asked what are our priorities, I said first of all my priorities are definitely the union agreement for PeP and the turnaround in improvement in DGF.  And I believe that we have even achieved more in PeP, with a good new price formula than originally anticipated, and the union agreement I think is very robust too.  In DGF, as I already said, we have a significantly better plan than at the beginning of the year.
+The good news is that express continued to grow very nicely and has successfully invested into the network to upscale our capacity.  And also, the supply chain, I'm very pleased to see the progress underneath how much we have improved the overall performance and that the restructuring measures we are taking are helping us to get better.
+Therefore, we believe as the senior team, and I believe personally as well, that what is on the right side is actually executable and achievable.  We have the right plan for PeP.  We are working on that.  We are continuing in gaining market share in express.  DGF has a clear turnaround place based on re-empowering, turning around in the business centric renewal of the business.  And finally, John and his team continues to be convinced that we can achieve an EBIT margin of 4% to 5% by 2020.
+So we believe that we have a good history, taken very good actions this year to lay the foundations and have a clear master plan to be successful next year and beyond.
+And with that, thank you very much for listening.  And Larry, you hopefully now will give us a little bit more insight in the detail of the financial numbers.  Thank you.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [4]
+--------------------------------------------------------------------------------
+Okay.  Thank you, Frank, and thanks to everybody for joining today on the call.
+I'll continue the presentation and take a deeper look at our financial performance for the quarter, also in particular the major effects that affected our Q3 results, and review the performance for each division.  I'll then finish up with a review of the guidance for 2015, 2016 and 2020.
+So looking at our profit and loss statement on page 18, you see that revenues increased by 3% on a reported basis.  Adjusted for positive currency effects, organic revenue was around flat or even minus 0.5%.  That result, however, does not -- or does include the significant impact of lower fuel surcharges on a year-over-year basis.  If we correct for that, we would have had organic growth of around 2% for the quarter.
+In terms of earnings performance, the third quarter was clearly marked by investments in future growth, as Frank has discussed, and I'll review some of those effects in more detail on the next page.  But first, in summary, Group EBIT fell by around 71% to EUR197m.  Operating earnings at PeP fell by around 50% to EUR142m.  And DHL was down to EUR127m for the quarter.
+Financial result was slightly below the previous year, due mainly to currency effects.  And consolidated net profit was EUR49m for the quarter, mainly due to the decline in EBIT.
+Now, going over to page 19, we have a closer look at the most recently announced major effects for the Q3 results and for our guidance.  As we talked about on October 28, we recognize one-off effects of EUR345m in connection with the further course of the IT renewal at global forwarding.  And the sum relates to the EUR308m write-down of capitalized investments in NFE, as well as EUR37m in provisions which cover expenses during an expected rollback of NFE in the countries where we piloted it.
+In addition to the above measures, as communicated at the end of October, we also are recognizing in our outlook for 2015 further one-off effects of around EUR200m, of which EUR81m were booked already in this Q3.  These exposures relate mainly to the ongoing reassessment of primarily legal and regulatory exposures in the PeP division, in express and in global forwarding, freight.
+In total, we booked EUR426m charges against EBIT in Q3 and expect to book an additional EUR120m in Q4.
+Now, on to page 20, you see our cash flow summary for the third quarter.  We had a pretty sound operating cash flow performance, as good working capital management partially compensated for the decline in EBIT.  And please note also that much of the one-off effects in EBIT were non-cash for the quarter.
+Significant capital investments were made in further building up the national and international parcel infrastructure, expanding the global and regional express hubs in Leipzig, Cincinnati, Singapore and Brussels, and modernizing the express air fleet and also supporting new contract startups in supply chain.
+The Group's free cash flow declined from EUR371m in 2014 to EUR329m in 2015, and this reflects both the lower operating earnings and also somewhat higher capital expenditures.
+On page 21, you see the evolution of our net debt since the end of last year.  We were at EUR2.8b at the end of the third quarter.  This was an improvement of almost EUR200m during Q3, i.e., versus the end of Q2.
+Operating cash flow on the third quarter was close to the levels of last year and continues to follow the seasonal pattern, where we see a steady increase in cash flow generation towards the end of the year.  Based on that, we expect a strong cash flow generation in the fourth quarter and hence a very significant reduction in net debt by yearend.
+Please note also that the pension discount rates were only slightly changed in Q3, resulting in a small increase of our pension liabilities.
+On page 22, we review the divisional financial performance, and we'll start with PeP, where revenues increased overall by 2% to EUR3.8b.  Currency affected -- or without the currency effect it would have been around 1% growth.  The growing ecommerce parcel business and price increases for postal products more than offset the above average postal volume decline due to the strike and its aftereffects.
+Operating earnings in the PeP division contracted by 50.7% to EUR142m.  And as expected, this decline is partly due to an increase in a provision for payments for the federal administration of civil servant pensions, which was part of the EUR200m charge that I talked about and that we announced on October 28.
+The results were also impacted by higher personnel costs, including an accrual of EUR48m to cover the one-time payment in October to tariff grade employees, which was part of the new tariff agreement and has already been booked in the third quarter.  It was the EUR400 per tariff employee that we talked about during the Q2 announcement.  It also reflects lower volumes as a result of the postal strike.  And finally, it includes increased investment in the international expansion of the parcel and ecommerce business.
+The decline in operating cash flow mainly reflects the decrease in EBIT.  And CapEx increased mainly due to planned investments for further build-up of national, i.e., Germany, and international parcel infrastructure.
+Now, on to page 23, we look at express, and here the division was again able to continue its successful revenue and earnings development during the third quarter 2015.  Revenue climbed by almost 7% in the period to EUR3.3b.  And adjusted for currency effects, the increase was 2.2%, while organic revenue growth was again held back significantly by lower fuel surcharge revenues.
+The main driver of the positive revenue development was the ongoing strong growth in international TDI shipments, where volumes grew by 9.4% over the prior year period.  Based on this continued strong volume performance, express also continued to deliver good earnings growth.
+EBIT for the quarter was up 19%, and this included an EUR82m benefit from positive asset revaluations in the Americas region, which more than offset EBIT headwinds from currency movements which I'll talk about in more detail on the next slide.  More importantly, we saw continued solid operating performance in express, with EBIT growth adjusted for both effects being just ahead of revenue growth.
+The EBIT margin in the third quarter was 10.9%, comparing very favorably to last year's 9.8%.  And higher CapEx was due to the investments I talked about earlier in the hub and airline network.
+Now, on to page 24.  I discuss here the currency impact that we've seen and, importantly, the very recent development.  As the global aviation industry is very much dollar based, we tend to be short in US dollars.  That means we have a significant part of our cost base in dollars, even though we have substantial revenue and income in US dollars.
+In the past, when the dollar strengthened, many primarily Asian currencies also strengthened versus the euro.  And since we are long in those other currencies, there's tended to be a natural offset, and this gave us a natural hedge vis-a-vis overall currency exposure for express.
+However, in Q3 the correlation weakened.  As the dollar strengthened versus the euro, some Asian currencies weakened against both the dollar and the euro.  And because of this decoupling and because it's been so recent, we're just in the process of implementing countermeasures which should help to alleviate, though likely not eliminate, the effects in future quarters.
+Now let's turn to DGFF, over on page 25.  The division continued to be affected by the developments we've seen in previous quarters, namely a weak industry environment coupled with year-over-year volume declines for our business.
+Revenues in global forwarding, freight decreased by 5.7%.  And the main reason for this development, alongside the weak market environment, is the division's active yield management efforts.
+On a positive note, the measures introduced in the second quarter to improve the operating performance of the division have delivered their first benefits for the cost efficiency and gross profit margins for global forwarding.  This helped to reduce the rate of decline in operating earnings in the third quarter on an adjusted basis, compared to the first half of the year, and we expect further progress in the fourth quarter and next year.
+Overall, the one-off effects contributed to a decline in the division's EBIT to minus EUR337m.  Factoring out those effects, the EBIT would have been around EUR47m, a decrease of about a third compared to the prior year period.  The CapEx decrease reflects the lower investment for NFE.
+Now, on to page 26 and supply chain.  Here, revenues rose by 9% in the third quarter, and adjusted for currency revenues would have grown around 3.2%.  The increase was mainly due to new business and higher volumes in developed countries and also in Asia.
+Operating earnings in the period from July to September were EUR101m, 8% lower than the prior year period, but that included restructuring costs of EUR31m related to the division's optimization program.  We're taking advantage of that program to drive further standardization, greater efficiency and improved utilization of economies of scale in order to increase our operating margin to between 4% and 5% by 2020.  Excluding the one-off effects, EBIT would have been significantly higher than the prior year period.
+The CapEx increase is driven by investments in new projects in developed markets.
+On page 27, you see a summary of the renewed NHS contract, which we've now extended until 2018.  It basically encompasses the same operating scope, though with new cost savings incentives and targets.
+With, importantly, the change to open book, we will no longer recognize pass-through revenue in our P&L, which amounted to around EUR1.7b per year under the previous contract terms.  This will in turn raise our annual division EBIT margin by around 20 basis points on an annual basis, assuming everything else equal, and it will also reduce inventory risk for the division.
+Now, on to page 28 and our guidance.  We adjusted our Group EBIT guidance for 2015 in late October, and now expect and reconfirm today a minimum of EUR2.4b for the full year.  The DHL divisions are expected to contribute at least EUR1.65b and PeP will contribute at least EUR1.1b.  We continue to expect corporate center to be at around EUR350m.
+And we also continue to expect that we will generate sufficient free cash flow for the year to at least cover the dividend paid out in May 2015 for the financial year 2014.
+For 2016, we reconfirm our forecast of between EUR3.4b and EUR3.7b of EBIT for the year, and I'll talk in a minute on the next page about how to think about the bridge between 2015 and 2016.
+Also, the Group remains committed to its objectives beyond 2016, with a forecast that operating profit will increase by an average of more than 8% annually from 2013 to 2020, where the DHL divisions will contribute with average growth of around 10% per year, PeP with around 3%, and corporate center costs we aim to bring below 0.5% of revenue by 2020.
+Now, to finish up, let's talk about that bridge from 2015 to 2016.  As previously discussed, 2015 has been and is a year of transition and investment for the Group in which we want to put the Group in the best possible position to achieve not only 2016 but our long-term Strategy 2020 targets.
+In this context, we address various one-off effects which impact our Group earnings this year, and these include the NFE related charge of EUR345m as well as the EUR200m charge for additional primarily legal and regulatory exposures.
+Adjusted for those one-off effects and then also the strike effect for PeP, the significant restructuring costs of over EUR200m that we've invested in supply chain and DGFF, and several positive one-offs that we had this year, the 2016 earnings guidance implies organic earnings growth of between 10% at the low end and 20% at the high end of growth.  That's the EUR315m to EUR615m that you see in the second-to-last bar on the right.
+We believe that in each division there are strong reasons that this kind of growth is very feasible.  Foremost among those, in no particular order, are the price increase in PeP, further dynamic parcel, ecommerce and TDI topline growth, significant benefits from the turnaround and restructuring investments in DGF and supply chain, and the first benefits from the IT renewal at DGF.
+For 2016, Deutsche Post therefore reconfirms its forecast of between EUR3.4b and EUR3.7b.
+Thanks for your attention and we'll be happy to answer your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions).  Neil Glynn, Credit Suisse.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [2]
+--------------------------------------------------------------------------------
+Hi, Neil.
+
+--------------------------------------------------------------------------------
+Neil Glynn,  Credit Suisse - Analyst    [3]
+--------------------------------------------------------------------------------
+Good afternoon.  If I could ask three quick questions, please, the first two with respect to express.  Obviously the FX headwinds are a new theme for the third quarter, and I think part of the reaction to that will be to try to price up in some Asian markets.  So I'm just interested in your view as to whether there's enough growth in a competitive market, or whether you may need to walk away from some smaller deals to preserve profitability, and how do you balance that with the medium-term volume objectives?
+The second question, on operating cash flow, Larry, you described operating cash flow as strong in the third quarter in express, although it was only up 3% and it's actually down year on year for the nine months.  I'd expect express probably has to be a key contributor to your plans to improve Group free cash flow, so I'm interested in what explains the drag on operating cash flow in express this year and how it develops from here.
+And then the third question, for Frank, on forwarding.  You've obviously lost some share over the last -- certainly the last year, maybe over the last couple of years.  Clearly a lot of this is about implementing best practice in terms of the commercials as well as efficiency, but how important is winning back share lost to satisfy 2020 targets?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [4]
+--------------------------------------------------------------------------------
+Larry, may you answer the first two and then I can answer the third.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [5]
+--------------------------------------------------------------------------------
+Yes.  So I think discussion about a selective strategy in express in the same way that we talk about it for global forwarding is really not something that's in the cards.  We feel like we're in a quite competitive cost position and competitive position in all or almost all of the markets in which we participate with express, and importantly for the global network.  So I think that there is potential for mitigating effects, including price, but also the distribution of operating costs that will allow us to mitigate some of the headwind that we see from currency.
+In Q3, it's really happened pretty quickly.  The devaluation in China just happened in August, and so our ability to react already has been limited in Q3, but you can be sure that we're looking intensively at what are the different actions we can take in different markets.  And obviously, ones that have devalued the most are the ones where we're most highly motivated to take mitigating actions.  Certainly, we're in the process of implementing those even as we speak.
+So, in Q3, the express cash flow performance we thought was okay.  You have to remember that the write-up of the Americas assets that we talked about was not a cash relevant item, so it was not included in the cash flow even if it was included in earnings.  So we're reasonably happy about the cash flow performance.
+We think that we have good chances to have a repeat of what we've seen in the previous four years, which is a very dynamic cash flow generation in Q4 and a significant decrease in net debt in the fourth quarter.  And again, for the whole Company, we think we're going to be able to cover the dividend that we paid out in May.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [6]
+--------------------------------------------------------------------------------
+Yes.  And on DGF, Neil, definitely, for the next two years we are not assuming that we will regain significant market share.  The clear strategy is to improve productivity based on profitable business to a level we had already before, and that should improve the underlying performance.  But midterm until 2020, the progress on the IT renewal, we should be able as some of our strongest competitors at gaining market share again.  That's not for the short term but midterm.
+As you know, that this industry is still highly fragmented, so we believe there is opportunity to consolidate the market, not by M&A in majority but significantly exit of small and mid-size players.  That's the basis for the strategy.  You can see in our competitive landscape those who have made good progress in their processes and visibility and transparency to customers and service excellence have achieved market share gains, and we are believe we are well positioned.
+We are still the largest player.  We lost some people to our competitors.  I always say internally that's a good sign that we lost some people, not because I wanted to lose them, but apparently our strongest competitors don't have better people than we have.  Otherwise they would not headhunt our people.  We have kept most of them anyway, so we have not a massive drain, but we lost some people.  That means we are strong in the market.  We have great talent still in our team.
+The noise level is down.  If you look into the numbers, the operating cash flow has improved significantly, which for me is a good indication that people are refocused on the day-to-day instead of fiddling around with organizational structures and whatsoever, so that's important.
+So the clear strategy is the next two years grow on profitable business again, improve productivity, start implementing IT changes, the renewal, and back on that in the later years, regain market share and continue to improve the performance even further.  So that's more or less what is in our plan and what we intend to do in the next years.
+
+--------------------------------------------------------------------------------
+Neil Glynn,  Credit Suisse - Analyst    [7]
+--------------------------------------------------------------------------------
+That's great.  Thank you both.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [8]
+--------------------------------------------------------------------------------
+Thanks, Neil, and the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+Stephen Furlong, Davy Stockbrokers.
+
+--------------------------------------------------------------------------------
+Stephen Furlong,  Davy Stockbrokers - Analyst    [10]
+--------------------------------------------------------------------------------
+Hi, guys.  I was just interested, actually.  Obviously you've reiterated 2016/2020 guidance, so the plan is on track.  When you announced the plan back in mid-2014, I guess I'm just interested in your view of what has changed since then in the context of both the macro environment.  I think your assumption was maybe GDP growth of developed markets 2%, emerging markets 5%, and world trade slowed and things like that.  It's obviously at least not providing a headwind, or a tailwind.
+And secondly, maybe some divisions are doing slightly better than others.  I was just wondering, your comments, maybe, Frank, which divisions you see ahead of plan or does it all even itself out?
+Maybe you could just also just talk about, do you think with the incremental developments in IT and the renewal that maybe the upside medium term has been taken away from that division?
+And you might just finally comment, is there any succession plans there in the IT business to replace yourself as CEO?  Thanks.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [11]
+--------------------------------------------------------------------------------
+Yes, Stephen.  Several questions.  You know we always based our forecast for the midterm until 2020 on the assumption that we will see economic growth around the world of 3% to 3.5%.  I think we are not too far away.  I'm still confident that we will get even this year a number in that range.  So that was the basis and I think that has not fundamentally changed.  We never believed in significantly higher growth anyway, because the arbitrage of China and other neighbor states of China has taken place already in the last period.  So that was the basis for that.
+If you asked for the performance in comparison to what we have seen last year, we definitely are in a very good trend with express in continuation.  Yes, we have now this short-term issue with the currency, but on the long run we are in very good shape where we have continued to win additional market share.  We are also very positive about the progress we have seen in supply chain, and we are positive to see the impact significantly more open and clear next year.
+On the other side, PeP is probably where we expected.  We definitely didn't expect such a long strike.  But on the other side, I think we got a very good agreement in exchange and now we have to look into that, that we get the volume decline stabilized which is -- our impression is happening now at the moment, and that we get more and more traction on the internalization of ecommerce.  So that's probably in the range of expectation, and definitely DGF is behind the original expectations.
+But as I already said, I'm very confident that we have now a plan which is easy to execute and we see already first momentum.  Why should we not get to the same productivity level back as we have been, if we're getting closer to the structure we had?  I think the IT renewal plan is now more executable and it should have incremental benefits on the run instead of waiting until the major transformation takes place.  So we believe that we can improve the performance of DGF until 2020 again significantly.
+That in the midterm makes us confident that some delay in DGF, but part of that can be caught up until 2020, that we are still confident that this plan was never based on a bullish market anyway.  And yes, in some areas we're ahead, in some areas we are behind, but on average we believe that we are still on the right track to deliver what we have originally promised.
+With regard to my own successorship on DGF, so first of all I enjoy what I'm doing pretty much and we will take our time to come to the conclusion.  I will not do that for ever, without a doubt.  But if you think about what has been on my plate in summer and what is now on my plate, I think the workload has come down significantly in the last weeks.
+And therefore we are not in a hurry.  We want to bring somebody in where we are really sure that this person has the right skills in many dimensions, and therefore we are taking here very careful consideration and will announce if we have somebody.  But until then, I believe I have enough capacity and fun by managing that business myself.
+
+--------------------------------------------------------------------------------
+Stephen Furlong,  Davy Stockbrokers - Analyst    [12]
+--------------------------------------------------------------------------------
+Great.  Very clear.  Thanks, Frank.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [13]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [14]
+--------------------------------------------------------------------------------
+Thanks, Stephen, and the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+Christopher Combe, JPMorgan.
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [16]
+--------------------------------------------------------------------------------
+Good afternoon, everyone.  A couple of questions.  First of all, you've highlighted a few capacity investments in both parcel and express.  I believe we can see that primarily through headcount.  Can you elaborate upon how much scope there is for additional capacity growth here before you need another step change in investment?  And also, can you comment on where utilization sits in India?
+And the second question relates to express growth.  If we look at market growth for air and sea freight in express, where do you see DHL in relative terms?  And what does that spell for European demand and inventory levels, given some of the dislocations?
+And lastly, with pricing, I believe you've been indicating that express yields are roughly flat, ex fuel.  Is that still the case in the third quarter and would you expect some underlying uplift in 2016?  Thanks.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [17]
+--------------------------------------------------------------------------------
+I believe these are all questions for you, Larry.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [18]
+--------------------------------------------------------------------------------
+Yes.  So I think it probably is not the right way to think about it, to talk about step changes in parcel and express.  I think that we continue to see dynamic growth in parcel driven by ecommerce and also express driven by our excellent performance of our division.  We think we're continuing to have above market growth and gaining share over time.
+So it's really an incremental and sequential increase in capacity and a continual investment need, rather than a gigantic need in any one year.  And I think that's what we're going to see over the next few years, in particular if the current trends are continuing.
+So I'm going to ask you again at the end to maybe repeat your question on India.  I didn't quite get that one.  But let me talk about what we see for air and sea growth.
+So you've seen our growth rates.  We think, for example, in Q3 that the air freight growth was around flat for the industry.  We were at minus 13% and we think that sea freight was probably in the 2% or so growth frame.  So pretty unexciting industry growth, and that's why we continue to characterize the industry situation as being a more difficult one compared to historic standards.  But of course our growth rate is significantly below the industry, in particular in air freight, and that has to do with our selective strategy that we've talked about in the past and Frank has talked about again today.
+I think the conclusion on express yields is more or less the right one, that there are some mix effects.  So, lower growth for flat parcels, for documents, and higher growth for packages which are being shipped by express, and that has a mix effect on yields.  There's a weight effect.  But overall, if you parse out those mix effects, we think the trend on yields has been pretty much flat also in Q3 this year, and as it has been the last few quarters within a half percent one way or the other.
+We do think that there's good potential for yield improvement now going forward and we are working actively on implementing the yield increases, the GRIs that we've announced for January 1 in all the markets where it's applicable.
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [19]
+--------------------------------------------------------------------------------
+That's clear.  Just to clarify, though, the first question on India was where we sit in terms of volumes versus capacity and how incremental investment has progressed there compared to what we see in Europe.
+And just a follow-up on your comment regarding market growth.  Do you see this dislocation as a bit -- or is there a decent explanation, let's say, for the dislocation between air and sea freight rates of market growth and what you're seeing in express?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [20]
+--------------------------------------------------------------------------------
+I think, on India, the express business doesn't need any special investments in India which are different from what we do over the global network anyway.  India is not a major hub.  It's a gateway.  And of course we are continuing in upgrading our network not only in India but in other places too.  So that will continue, but there's nothing special.  And for BlueDart, we are continuing as well, but that's a part of the PeP investments we are taking in these markets anyway, but we are not expecting huge investments either.
+So on the air freight and ocean freight, I think this is what I have said on some calls and in some meetings already before.  We see a continuation that that there is a split of air freight down traded to ocean and a part is going up to express.  There is one element which is relatively new now as well for air freight, that there is an increase in ecommerce demand for air freight now as well.  (Technical difficulty) stream is increasing around the world, and that triggers a demand for air freight as well for some ecommerce players.
+But the underlying trend is still the same as we have seen the last years, where there's up trading and down trading.  So we benefit from that quite (technical difficulty) express, and we of course benefit from -- not in the air freight area but from down trading to ocean as well, because that market is stronger growing.
+And that is in line with what we said already last year.  We said we expect a slower growth in air freight than the GDP growth and growth in ocean volumes in line with the overall GDP growth.  That actually is happening at the moment.  That's our belief.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [21]
+--------------------------------------------------------------------------------
+Okay, Chris?
+
+--------------------------------------------------------------------------------
+Christopher Combe,  JPMorgan - Analyst    [22]
+--------------------------------------------------------------------------------
+That's clear.  Thank you.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [23]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [24]
+--------------------------------------------------------------------------------
+Thank you.  Next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [25]
+--------------------------------------------------------------------------------
+David Ross, Stifel.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel Nicolaus & Co. - Analyst    [26]
+--------------------------------------------------------------------------------
+Yes.  Good afternoon, gentlemen.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [27]
+--------------------------------------------------------------------------------
+Good afternoon.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel Nicolaus & Co. - Analyst    [28]
+--------------------------------------------------------------------------------
+The question I have is actually a follow-up on Chris' question and Frank's comments about the trade down.  You mentioned on the call that the Americas specifically had one large customer that traded down.  I believe that would have been from air to ocean.  And so the question is I guess in what industry sector was that business?  And if they traded down from air to ocean, were you able to retain them as a DGF customer on the ocean freight side?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [29]
+--------------------------------------------------------------------------------
+Can I just check with my colleagues if we ever have disclosed that customer, because it's a little bit sensitive, this customer.  It's a special customer.  It has something to do with the activities we have had from, how should I say that, some governments in the Middle East.  And therefore that has been down trading due to obvious reasons, because the activities of some governments in the Middle East has come down and that has led to a volume decline.
+And there is nothing with that -- nothing to do with up trading or down trading.  It's just that the activity level of certain governments in some critical areas, western countries in these critical areas, came down.  I hope that it's clear enough what kind of customer that could be.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel Nicolaus & Co. - Analyst    [30]
+--------------------------------------------------------------------------------
+Yes, and then the --
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [31]
+--------------------------------------------------------------------------------
+So that has nothing to do with express and has nothing to do with air freight and ocean freight overall.  That was (multiple speakers).
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [32]
+--------------------------------------------------------------------------------
+Has nothing to do with a switch from air to ocean.  It's simply significant down trading with a significant customer block.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [33]
+--------------------------------------------------------------------------------
+Okay.  Dave, anything beyond that?
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel Nicolaus & Co. - Analyst    [34]
+--------------------------------------------------------------------------------
+Yes.  You're establishing your own parcel network in Austria.  How many countries do you think in Europe you could do something similar?  You've got the parcel Germany and now parcel Austria.  Is this something you can roll out much more broadly over the next 5 to 10 years?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [35]
+--------------------------------------------------------------------------------
+So that's a tricky question, because I don't want to alert too many of my nice postal colleagues in Europe saying one thing.  I just saw them on Monday in New York anyway, many of them, and some of them are particularly nervous because we are not doing any business yet there.
+So we believe we can learn a lot from Austria and Slovakia, and also from the businesses where we are stronger.  We will only disclose if we are ready to go which other markets we want to go.  What I can tell you is that the answer to some markets might be different.  So in some areas we might come to a solution which is not a full-fledged delivery but more through outlets or whatsoever.
+So we are looking into these different solutions at the moment, and on that basis we will progress but we will not announce any countries before they are not ready to go.  And I think we have done that pretty well with Slovakia and Austria.  And therefore I would refuse to answer how many countries.  I believe there are more countries where we could do business in the PeP area.
+
+--------------------------------------------------------------------------------
+David Ross,  Stifel Nicolaus & Co. - Analyst    [36]
+--------------------------------------------------------------------------------
+Thanks a lot.  Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [37]
+--------------------------------------------------------------------------------
+Can we keep moving?  Next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Dominic Edridge, UBS.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS - Analyst    [39]
+--------------------------------------------------------------------------------
+Hi there.  Thank you very much for taking the question.  Just two from me.  The first one is just on freight forwarding, and I just wanted to have an understanding, given where the business is today with the current systems and setup, where you think realistically you can get profitability back to.  Should we be thinking back to the days of 2012/2013, or is that a little bit too optimistic?  Can you just give me an idea of where things can go there?
+And then the second question was on the cash flow, and maybe it's obviously a question for Larry.  And it's really a question of, similar to looking at the slide on page 29, looking at the bridge on EBIT, if I was thinking about the bridge on cash flow from 2015 to 2016, what are the key criteria, i.e., what are the costs that are going to be that you've expensed this year that will be cash outflows next year?  And are there any other particular big issues that we should be thinking about over the next 12 months which could impact on the cash flow?  Thank you very much.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [40]
+--------------------------------------------------------------------------------
+On freight forwarding, yes, we believe that we can get pretty close to the margins we had.  There is an overall trend slightly downwards.  Some of our competitors have kept their margin or slightly improved, but overall there is cost pressure, as in any industry.  That's the reason why we, I think, have to improve productivity as well.
+If that materializes, we believe we can get pretty close to the levels we had already in 2012.  And this is actually what I'm telling the organization as well.  I'm not telling them, listen, you have to take headcount out.  I'm telling them I want to see the same productivity level and the same lean overhead structure as we had it before we started the transformation.
+And I can't see any reason why we can't get to that again with a more incremental approach.  We don't need big overhead buildup for the transformation, because we take more smaller steps.  In some areas we even will roll out just global -- applications globally which we have already in place, but we have never rolled them out because we felt they will be replaced by NFE anyway.
+So there are opportunities and I think it's not too aggressive to believe that we should get to similar productivity levels.  And that's exactly in which direction we are pushing the organization at the moment and I'm confident that this is doable.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS - Analyst    [41]
+--------------------------------------------------------------------------------
+And sorry, just to clarify on that, you obviously need to roll out new solutions to do that, so it's not something that's going to happen, clearly, over the next 12 months.  You do need to put some investment in and bring in through these new IT systems, I'm assuming, these new IT products.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [42]
+--------------------------------------------------------------------------------
+No, we will -- Dominic, of course, as we said already, somehow that we will do something on document management, where we have a system already which we want to roll out, on visibility.  In the EUR60m we talked about, plus EUR10m CapEx, we of course cover not only the transportation management stuff; we also cover these other things.  And some of these activities should help us to improve service quality next year, visibility for customers next year, and that should give us benefit by either more growth or even slightly better productivity levels as well.
+So I believe that there is something on the journey.  That's the reason why I said we should -- we are now following more an express approach, a staggered approach of individual deployments, and I believe we should get some benefits already in our margin next year from some of these activities, even if we don't replace the transportation management system.
+But remember, SAP should replace the sales, the customer service, the operations, the finance and HR, and that is by far too much.  We don't need to replace finance, because we have a good system there.  We will reuse SAP for sales, which is deployed already.  And we have some other tools which you probably have never heard the name of, internally developed, which we now will start rolling out completely and just not having that in one country or one region, and that should give us upside potential.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS - Analyst    [43]
+--------------------------------------------------------------------------------
+Thanks.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [44]
+--------------------------------------------------------------------------------
+So, Dominic, let me address your second question on cash flow.  So I think it's too early to give a specific guidance for cash flow for next year.  We'll do that in March, when we announce our full-year results and reconfirm the specific EBIT guidance and other parts of guidance for 2016.
+That being said, though, I think it's a really good rule of thumb that you should expect our operating cash flow to develop pretty much in line with our EBIT development.  And here I would look at our EBIT before one-off items, of which we had a significant amount, and you see on the bridge on the last slide of my presentation.
+Of course, other factors will affect our free cash flow performance, like the level of CapEx, like the level of tax payments that we'll project for next year.  But again, it's too early to give guidance on that.  We'll give guidance on it in March, when we announce full-year results.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS - Analyst    [45]
+--------------------------------------------------------------------------------
+Okay.  Thanks very much.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [46]
+--------------------------------------------------------------------------------
+Okay.  Thanks, Dominic.  And we're ready for the next caller then.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+Tobias Sittig, MainFirst.
+
+--------------------------------------------------------------------------------
+Tobias Sittig,  MainFirst Bank - Analyst    [48]
+--------------------------------------------------------------------------------
+Yes.  Good afternoon.  Three questions from me, please.  Firstly, on Q4, your Q4 guidance or your 2015 guidance implies EUR946m of EBIT, at least, and you flagged altogether EUR160m of one-off charges.  That means implicitly you're guiding EUR1.1b EBIT for Q4.  Can you confirm that this does not include any provision releases, write-ups or asset sales in that number, so that you're really guiding for EUR1.1b clean EBIT in Q4?
+Then secondly, on forwarding, I'm just wondering really who is going to do it.  When you look over the past 10 years that you owned the business in its current structure, it's been lagging behind peers and you implemented [IT] to change that, but it's as much a system failure as a culture failure that you've experienced.  And so I wonder how you think you can change the culture in the forwarding division so it really becomes a best-of-class business in the midterm.  And the changes that you announced don't seem to bring you there, at least at my perception.
+And thirdly, I know that additional shareholder returns don't seem obvious, given 2015 performance, but it's been something that's been on the agenda for a while.  When you think that you've got not much additional CapEx or restructuring to do next year, good business in Q4, would you feel inclined to put something forward to your Supervisory Board regarding additional shareholder returns?  Thank you.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [49]
+--------------------------------------------------------------------------------
+Okay.  Larry, you answer, please, the first and the third questions.  So, on DGF, I deeply believe that we can change that.  None of our competitors is walking on water.  As I already said, they have taken people away from us and the culture is not so much different.
+If you read what they have announced, they have followed a similar approach to renew processes, standardize or harmonize processes, upgrade their IT.  I have to admit, they have been more successful than we have been in the last two years to progress.  I think our approach now makes it much more likely to be successful too, and I can't see if we are not weaker in the market position nor have worse people, why we can't make it happen either.
+I think the culture of the other competitors is not completely different in that industry.  It's more similar.  We have taken some of their people as well, and what I see there is that they are very similar from the approach than we are.  They have just been more successful, and I think we probably have taken a step too far by hoping to jump too far in one step.  And I think we are now taking more incremental steps, and I think that gives us a significantly higher chance to be successful.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [50]
+--------------------------------------------------------------------------------
+Yes.  So, Tobias, let me address your first and third questions.  So maybe I misunderstood.  I thought you said EUR160m of one-off charges for Q4.  We've announced EUR120m.
+
+--------------------------------------------------------------------------------
+Tobias Sittig,  MainFirst Bank - Analyst    [51]
+--------------------------------------------------------------------------------
+Plus EUR40m in supply chain, no?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [52]
+--------------------------------------------------------------------------------
+Yes, that's true.  So I was thinking just about the announcement that we made on October 28.  But yes, there's going to be an additional around EUR40m of spending on restructuring in supply chain.
+So, besides those one-offs, in a company of our size and breadth there's always going to be one or the other write-off or change in provision, but we don't expect anything really major in Q4, so that the predominant feature of Q4 performance is going to be organic EBIT generation.  And so apart from those EUR160m, it's primarily going to be organic performance that's going to generate the EBIT that we need to reach our full-year guidance.
+So in terms of cash distributions, it is definitely something that we continue to think about.  The exact timing of it is still uncertain.  Whether we will think about something near term or early in the year and have discussions with our Supervisory Board about it is still something that we have to decide.  But clearly the trend should be toward excellent cash flow generation and good progression of cash flow performance over the next quarters and years, and therefore that's something that remains in focus for us, even if it's not a focus here at the end of 2015.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [53]
+--------------------------------------------------------------------------------
+Okay, Tobias?
+
+--------------------------------------------------------------------------------
+Tobias Sittig,  MainFirst Bank - Analyst    [54]
+--------------------------------------------------------------------------------
+Thank you very much.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [55]
+--------------------------------------------------------------------------------
+Thank you.  Next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [56]
+--------------------------------------------------------------------------------
+Penny Butcher, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [57]
+--------------------------------------------------------------------------------
+Hi, Penny.
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [58]
+--------------------------------------------------------------------------------
+Hello.  Hi, guys.  Two questions from my side, just to clarify.  First of all, I think it was coming back to Neil's first question regarding the currency effects in express.  If you were needing to characterize the third-quarter performance on a more underlying basis, you did speak of the margin increases up to 10.9% from 9.8% last year, but there were obviously the offsetting effects of the FX and the write-up of the assets.  How would you classify the underlying performance of the express division in Q3 from an EBIT perspective, if I could make that my first question?
+And the second is with regard to the PeP division.  I think you helpfully had pointed out in the slide the impact as you had preannounced with regard to the provision for the pensions, but then doing the math in your final slide of the building blocks to 2016, is it fair to say that there was also the additional EUR50m effects of the strike in the quarter, as well as I think you mentioned, Larry, the payment to the employees based on the Verdi agreement in July, which I think you said was EUR48m?  So, effectively, there were three items in the PeP division in the third quarter that are not effectively going to repeat in 2016.  Thanks.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [59]
+--------------------------------------------------------------------------------
+Yes.  So let me take the first question.  So the currency impact for express in Q3 is in the mid-double-digit millions range.  Being that, and if you would correct the reported results for both the write-up in assets and for the currency change, we would have reported an increase in EBIT that would have slightly exceeded the increase in revenues that we reported, i.e., more than 7%.
+So I hope that gives you a good way to think about it.  And I think very important to recognize is that the change, and in particular the disconnect, between US dollar and many Asian currencies is something that's really very recent and it's happened very much in Q3, so that our ability to respond with countermeasures in Q3 was very limited.  But I think going forward, we will certainly implement some countermeasures which will lessen the impact, we hope, of those currency headwinds.
+So in terms of PeP one-offs, though, we have not included the EUR48m as a one-off, because it's kind of a funny one.  If you just look at Q3 isolated, indeed it's a one-off effect because we paid the whole thing or accrued the whole thing in Q3.  But if you look at it on a year-over-year basis, it's just another wage increase which we have just about every year.  So we didn't include it in the bridge between -- we didn't include it as a one-off in the bridge between 2015 and 2016.
+Does that answer your question?
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [60]
+--------------------------------------------------------------------------------
+Yes.  Effectively, though, the payment, while essentially I guess an extra increase to the employees, is not due to be repeated.  You just have the normal wage agreement for 2016?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [61]
+--------------------------------------------------------------------------------
+Right.  The next wage agreement -- wage increase is going to be in October 1 of next year, so we will only have a wage increase in the PeP division in the fourth quarter of next year for the tariff employees.  And that amount will be approximately the amount that we paid or that we accrued in October, i.e., the EUR48m.
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [62]
+--------------------------------------------------------------------------------
+Okay.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [63]
+--------------------------------------------------------------------------------
+So what it means is that we -- this year-on-year comparison, we should have no salary increase, because we have this increase in the fourth quarter but we had this year about EUR50m one time, or EUR48m one-time payment.  And as Larry just said, that is almost the same as the regular salary increase.  So year over year, salary costs should not go up except for volume growth and more people we need to deliver.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [64]
+--------------------------------------------------------------------------------
+Okay, Penny?
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [65]
+--------------------------------------------------------------------------------
+Okay.  Yes, that's fine.  May I just quickly come back on the first answer?  Could you perhaps share with us on the express side then what the balance is on a revenue and expense basis, say, in US dollars, just to understand where the discrepancy lies, or maybe on the Asian currency side, what proportion of revenues the OpEx -- so if the renminbi was to appreciate again in Q1, would those effects end up mitigating by themselves?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [66]
+--------------------------------------------------------------------------------
+So I think, Penny, for competitive reasons, we would refrain from quantifying those exposures other than to say again that we're short in US dollars because the whole global network aviation costs are US dollar based.  And we're long in Asian currency exposure because we have significant income in Asian countries that exceed our cost base there.  But I don't think, for competitive reasons, that I would want to go into more detail than that.
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [67]
+--------------------------------------------------------------------------------
+Okay.  That's fine.  Thank you.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [68]
+--------------------------------------------------------------------------------
+On top of that -- sorry.  Go ahead.
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [69]
+--------------------------------------------------------------------------------
+No, that is fine.  Thank you.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [70]
+--------------------------------------------------------------------------------
+No.  Just one other, that we have lived now for many years with currency changes, and what we can't mitigate is on a quarterly basis, if these things are changing so rapidly.  But what we have seen over years now, that we can mitigate that on an annual basis, because then we can take actions and sometimes it changes in the other direction again, and I think that is what we will do now again.
+We never highlighted in the last years, intentionally, the impact positive or negative from currencies, because we always felt if we start that journey, we always have a discussion if it's positive or negative, and we felt that has to be digested by the business and we have been quite successful.  So we can't do that just on one quarter.  And if you look into the presentation, it happened very much in summer, so we can't do anything immediately, but of course Ken and his team is working intensively.
+If these are longer-term trends, then we have to increase prices and try to mitigate that challenge, but you never know what will happen with the dollar or the pound or the euro in the next quarters.  So I think that's an ongoing challenge we have faced before, and we will continue to manage it, as we have done in the last years.
+
+--------------------------------------------------------------------------------
+Penny Butcher,  Morgan Stanley - Analyst    [71]
+--------------------------------------------------------------------------------
+That's great.  Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [72]
+--------------------------------------------------------------------------------
+Thanks, Penny, and let's keep the watch in mind and carry on with the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+Damian Brewer, Royal Bank of Canada.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  Royal Bank of Canada - Analyst    [74]
+--------------------------------------------------------------------------------
+Hello.  Good afternoon.  Thanks for taking the question.  I've got two, please.  First of all, rather than focusing on the transactional FX issues, you mentioned there were countermeasures in the express business.  Now, we're halfway through Q4.  Could you give us a little bit more detail on what those countermeasures might consist of?
+And against the backdrop of that, given that I think most express shipping contracts or framework agreements tend to be over 12 months, is this something that really gives a positive impact only once the existing portfolio of contracts roll out, or is it something you can do within the existing contract portfolios?  That's the first question.
+The second question is I'm just curious about your EUR1.65b for the full year for the DHL divisions.  Just looking at doing -- if my maths are correct, and they may not be, you did EUR937m in the nine months of this year.  That leaves you about EUR713m to do for Q4.  That would include the express EUR60m and probably another EUR40m in supply chain optimization costs.  So, broadly, it feels like you need to do about EUR230m, EUR240m incremental EBIT in Q4 in the DHL divisions.
+Could you give us a little bit more of your perspective of where that's going to come from?  Is it simply the offsetting measures in express and maybe a very strong Q4 volume, or was there a very significant surge to come in the forwarding profits for Q4?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [75]
+--------------------------------------------------------------------------------
+Yes.  So the countermeasures that we think about first and foremost are price, but of course we do think about what are the flexibility that we have with our cost structure to shift more cost to countries where we've seen devaluation and less cost in countries where there's been appreciation.
+So you're right.  We're not completely free to shift our cost base around, as we might like, because of contractual commitments, because of just the practicality of where we need to incur cost.  But we do have some flexibility to do that within the network, and we look at those alternatives too.  But the first option that we look at is, is there something we can do on price to counteract typically a very weak currency?
+And we'll look at those options when we think that the change in the currency relationship is more structural rather than just a temporary volatility.  And if we think it's been a structural change, then we look at what are the operating responses or countermeasures that we can take.  And there's price measures and there's cost measures, although those are not unlimited.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  Royal Bank of Canada - Analyst    [76]
+--------------------------------------------------------------------------------
+And your contracts with your customers allow you to do that?  And the contracts with the customers of the express business allow you to revisit price that rapidly?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [77]
+--------------------------------------------------------------------------------
+Yes.  So it really depends on the competitive situation and the contractual situation in individual countries, but we typically have flexibility in some countries to change price if we need to in response to very significant currency changes.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [78]
+--------------------------------------------------------------------------------
+Don't forget that we have millions of customers in express, and there are a lot of small customers.  And of course, we can go to small customers saying, listen, we can't afford to ship that; if your currency has devalued that much, you have to pay for that.  And that is a common factor.
+So express is a business which is based very much on small trading companies and not only large customers.  And of course, you can push it further -- easier through in that situation.  So it can't be fully compensated, but of course you can constantly do something about that.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [79]
+--------------------------------------------------------------------------------
+Yes.  So in terms of DHL performance in Q4, yes, we do believe that the Q4 forecast or implied forecast, looking at our guidance, is quite achievable.  We think that it calculates out to a low double-digit increase in performance year over year compared to last year.  We think there's good reasons to expect that we'll be able to achieve that.  We do expect a very strong Q4 (technical difficulty).  We do expect significant improvement in our DGFF division performance and also good performance in our supply chain business.
+So overall, yes, it is not a complete walk in the park, but we feel confident that we're going to be able to reach that forecast for Q4.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [80]
+--------------------------------------------------------------------------------
+Okay, Damian?
+
+--------------------------------------------------------------------------------
+Damian Brewer,  Royal Bank of Canada - Analyst    [81]
+--------------------------------------------------------------------------------
+Okay.  Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [82]
+--------------------------------------------------------------------------------
+And let's move on, thank you, with the next caller.
+
+--------------------------------------------------------------------------------
+Operator    [83]
+--------------------------------------------------------------------------------
+Alex Paterson, Investec.
+
+--------------------------------------------------------------------------------
+Alex Paterson,  Investec - Analyst    [84]
+--------------------------------------------------------------------------------
+Hello, everyone.  I've got three questions, please.  Firstly, on the freight forwarding side, if I understand your slide number 8 correctly, you were spending about EUR80m of CapEx on average from 2012 to 2015, so something like EUR320m in total, and you've written off EUR308m of that.  I just wanted to find out if there was any of that infrastructure from that previous CapEx that you were going to use in the future.
+I think you mentioned you were going to use SAP for sales, and so would it be fair to say EUR12m of the EUR320m investment related to the SAP for sales module and that you're going to continue with that, or is there anything else that you're also going to use in the future?
+The second question is what will the new functionality be compared to what you were previously planning?  So you're now going to spend EUR10m a year.  What sort of functionality will that give you, compared to what you were looking for before?
+And then the third question is on express, just following the trend of questions so far.  Do you think there will be any price elasticity from increasing price, i.e., do you think there's a possibility that the client base may trade down slightly to perhaps a less time dependent product?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [85]
+--------------------------------------------------------------------------------
+So maybe I'll take the second and the third question.  With the write-offs, probably Larry can talk more.  On the functionality, I think what we have looked for is some of the functionality we definitely will not go for but that was ahead of any market solution you can get.  We thought about certain things which are probably too far out, and we believe that this is not necessary to be successful.  None of our competitors has that.
+So we are giving up some functionality.  The fundamental functionality we believe we can achieve also with different other solutions.  So in principle, we believe we can continue to improve the functionality scope significantly, but there are some elements which we don't believe we need to do in that first step, anyway, and they are probably too far out.  But none of our competitors do launch these functionalities, either.
+The price elasticity, that's something which the field is monitoring of course very carefully.  As I already said, this is not the first time that we have change in currencies.  We have done that before as well.  And therefore, when we increase prices, we look carefully how much and what the price elasticity is.
+The track record of that management now for four years is that despite these challenges, we were able to gain market share every year.  So the organization globally in express is capably managing that.  And therefore we are not going out with one rule for every country.  We are carefully considering the competitive landscape, the growth in the respective country, and then we act.  And I think that is what the organization in express is pretty strong about.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [86]
+--------------------------------------------------------------------------------
+Yes.  So let me address the first question, on the NFE write-off.  The EUR308m is a write-off of essentially all of the costs which we have capitalized since 2012, and it reflects our judgment as to the probability that we're going to be able to get benefits from those investments as a whole in the future.
+Nevertheless, there is a chance that we'll be able to use some of the developments, if not even most of the developments, in at least one of the alternatives that we continue to look at from the NFE investments.  There are also developments which were not capitalized which we may be able to use in the final future solution, as Frank described it.  But essentially, the write-off represents all of the costs which we capitalized over the last few years for NFE.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [87]
+--------------------------------------------------------------------------------
+Okay.  Next question (multiple speakers).
+
+--------------------------------------------------------------------------------
+Alex Paterson,  Investec - Analyst    [88]
+--------------------------------------------------------------------------------
+Understood.  Is --
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [89]
+--------------------------------------------------------------------------------
+Alex?
+
+--------------------------------------------------------------------------------
+Alex Paterson,  Investec - Analyst    [90]
+--------------------------------------------------------------------------------
+Sorry.  Thank you for saying that.  Could I just clarify, is there a possibility there that you would write back some of this write-off if you find that you're using some of these things that you've invested in before?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [91]
+--------------------------------------------------------------------------------
+I believe that's pretty unlikely.  As I said, we will continue probably to use SAP for sales and we can use the middleware architecture, but I don't believe that we will write back anything on that in the coming months, somehow.  And if that is not taking place, then it will not take long term, I believe.  But it's very difficult to assess that anyway.  Which pocket is quite challenging, somehow.
+Therefore, we took a step saying, let's get rid of that because we can't expect the benefits we expected originally anyway, and therefore it's having better to go forward and have a clean sheet instead of fizzing around with that amount and that amount and you ask then again and again what is still on your balance sheet and what happens and what's the [MO].  So that was the approach and I think that is under IFRS rules, I think, prudent as well.  This is a solid one, and that's the reason why we have taken that approach.
+
+--------------------------------------------------------------------------------
+Alex Paterson,  Investec - Analyst    [92]
+--------------------------------------------------------------------------------
+Got it.  Thank you very much.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [93]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [94]
+--------------------------------------------------------------------------------
+Talking about solid stuff, our schedule is pretty packed today so we've got time for one last question, preferably a short one.  We'll try a short answer.
+
+--------------------------------------------------------------------------------
+Operator    [95]
+--------------------------------------------------------------------------------
+Mark McVicar, Barclays.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [96]
+--------------------------------------------------------------------------------
+Hi, Mark.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Barclays - Analyst    [97]
+--------------------------------------------------------------------------------
+Hello.  Hi, Frank.  Hi, Larry and Martin.  It's a very quick question.  First of all, thanks very much for the bridge.  That's actually really useful.  My simple question is does express have to make forward EBIT progress in Q4 to get to the implied guidance, which is the the [EUR308.5m], isn't it, effectively, adding back all of those one-time items?  And can it do that, given that that currency headwind doesn't just disappear, does it, in Q4?
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [98]
+--------------------------------------------------------------------------------
+So far it hasn't in Q4, but I think we would refrain from giving a specific forecast for an individual DHL division.  We've talked about the need in the forecast for DHL overall to improve organically in Q4.  We believe that's very much in the cards and is implicit in our forecast for the full year.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Barclays - Analyst    [99]
+--------------------------------------------------------------------------------
+Okay.  Great.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [100]
+--------------------------------------------------------------------------------
+Yes.  Then maybe one addition.  We have not talked about the number of working days, but we have two additional working days in the fourth quarter, which definitely has positive impact on our underlying trading for all divisions.  And I think in addition, we see in the bigger markets in Europe some increase in -- or decrease in unemployment rates.  Germany is particularly strong at the moment with the low unemployment, low oil price and salary increases across the industry.
+So, of course, we are positive about the fourth quarter, the underlying trading of the (technical difficulty), and having two extra days I think is also something which has to be considered in these dimensions.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Barclays - Analyst    [101]
+--------------------------------------------------------------------------------
+Yes.  And those extra working days fall in useful periods rather than between Christmas and New Year or something, don't they?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [102]
+--------------------------------------------------------------------------------
+One is in November and one is in December.  So in December it's more challenging to assess, but actually Christmas is this year more to the weekend, and that -- and also the New Year's week is more a normal working week, because New Year's I think on a Friday, if I have that correctly in mind.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Barclays - Analyst    [103]
+--------------------------------------------------------------------------------
+Yes, and Christmas Day, yes, both Fridays.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [104]
+--------------------------------------------------------------------------------
+And therefore this is always difficult, but one of these two additional working days is in November, so that helps.
+
+--------------------------------------------------------------------------------
+Mark McVicar,  Barclays - Analyst    [105]
+--------------------------------------------------------------------------------
+Yes.  Okay.  That's great.  Thank you very much.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - CEO    [106]
+--------------------------------------------------------------------------------
+You're welcome.
+
+--------------------------------------------------------------------------------
+Larry Rosen,  Deutsche Post AG - CFO    [107]
+--------------------------------------------------------------------------------
+Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [108]
+--------------------------------------------------------------------------------
+Thanks, Mark, for the short question, allows us a short answer, and that brings us to the end of today's session.  Thank you very much for your interest.  We are looking forward to staying in touch with you over the next 8 to 10 weeks on roadshows and conferences and what have you.  And in the meantime, I want to thank you and wish you a good rest of the day.  Thank you, and bye-bye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

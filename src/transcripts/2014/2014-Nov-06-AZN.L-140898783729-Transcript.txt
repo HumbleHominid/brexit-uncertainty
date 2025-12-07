@@ -1,0 +1,799 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2014 AstraZeneca PLC Earnings Call
+11/06/2014 12:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Luke Miels
+   AstraZeneca PLC - EVP of Global Portfolio & Product Strategy
+ * Marc Dunoyer
+   AstraZeneca PLC - EVP, Global Portfolio & Product Strategy
+ * Pascal Soriot
+   AstraZeneca PLC - Executive Director, CEO
+ * Ed Bradley
+   AstraZeneca PLC - EVP of MedImmune Oncology
+ * Briggs Morrison
+   AstraZeneca PLC - EVP, Global Medicines Development
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Stephen Scala
+   Cowen and Company - Analyst
+ * Nicolas Guyon
+   Morgan Stanley - Analyst
+ * Mark Clark
+   Deutsche Bank Research - Analyst
+ * Alexandra Hauber
+   UBS - Analyst
+ * Dani Saurymper
+   Barclays - Analyst
+ * Sachin Jain
+   BofA Merrill Lynch - Analyst
+ * Simon Baker
+   Exane BNP Paribas - Analyst
+ * Tim Anderson
+   Sanford C. Bernstein - Analyst
+ * James Gordon
+   JPMorgan - Analyst
+ * Jo Walton
+   Credit Suisse - Analyst
+ * Keyur Parekh
+   Goldman Sachs & Co. - Analyst
+ * Seamus Fernandez
+   Leerink Partners - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Welcome, ladies and gentlemen, to AstraZeneca's third-quarter and nine-months results analysts' conference. Before I hand over to Pascal Soriot, I would like to read the safe harbor statement.
+The Company intends to utilize the Safe Harbor provisions of the United States Private Securities Litigation Reform Act of 1995. Participants on this call may make forward-looking statements with respect to the operations and financial performance of AstraZeneca.
+Although we believe our expectations are based on reasonable assumptions, by their very nature, forward-looking statements involve risks and uncertainties and may be influenced by factors that could cause actual results to differ materially from those expressed or implied by these forward-looking statements.
+Any forward-looking statements made on this call reflect the knowledge and information available at the time of this call. The Company undertakes no obligation to update forward-looking statements.
+I will now hand you over to Pascal Soriot at AstraZeneca.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, and thank you for joining us today. I am Pascal Soriot; and I'm joined by Marc Dunoyer, our Chief Financial Officer; and Briggs Morrison, our Chief Medical Officer and EVP of Global Medicine Development.
+For the Q&A part at the end of the presentation, we will also have Luke Miels, our EVP of Global Portfolio & Product Strategy with us, as well as Ed Bradley, EVP of MedImmune Oncology, on the telephone with us today.
+We will spend a short time updating you on the first nine months and the progress we've made in achieving scientific leadership in returning to growth. I will then -- I will start by providing a brief overview of the key highlights. I will then hand over to Marc for an update on our growth platforms, and more detail on the financial performance and guidance for 2014. In addition, Marc will give a preview for 2015.
+Briggs will briefly discuss our R&D pipeline progress for the quarter and the expected news flow until our next quarterly conference call. I will then come back before opening the call for your questions.
+We have posted a set of slides on the investor page of our website that well follow along with this presentation. We'll try to cue the slide numbers as we go through.
+Starting with our results for the first nine months, I'm very pleased to note that this is our third consecutive quarter of revenue growth. We had sales above $6.5 billion in the quarter, which was up 5% at CER.
+During the first nine months, more than 50% of revenue originated from our growth platforms, which were up 16% year to date.
+And as Marc will discuss in more detail, we've increased revenue in core EPS guidance for the full year. This is the second upgrade to our guidance in 2014.
+Brilinta is showing good momentum across all regions, with sales up 78%.
+The highlights for our diabetes franchise are the successful launch of Farxiga in the US, as well as strong uptake of the Bydureon pen which we launched in the third quarter.
+Our respiratory business has had a good first nine months, and we've seen continued strong growth for Symbicort in the US.
+I would also like to highlight the third consecutive quarter of double-digit growth in the emerging markets. In particular, we have seen 22% growth in China where we continue to outpace the market.
+Sales in Japan were stable in the first nine months due to price cuts and other market conditions, which we will discuss later in more detail.
+We've also made significant progress toward achieving scientific leadership in our core scientific areas. FDA approved Xigduo XR, which is the first fixed dose combination of once-daily SGLT-2 inhibitor and metformin.
+We received a positive opinion by the CHMP for Lynparza olaparib, our ovarian cancer treatment for patients with BRCA mutation, and we look forward to receiving European Commission approval in the coming months.
+We also have the US PDUFA date on January 3, 2015.
+For Iressa, we received a label update in Europe to include blood-based testing for the activating mutation which renders patients eligible for Iressa treatment.
+In addition, the FDA approved Movantik. We believe this medicine has real benefits for patients and we look forward to launching it at the end of Q1 2015 early Q2, after we've received the de-scheduling.
+Further, the EMA has adopted a positive opinion on Movantik for opioid-induced constipation.
+We've had phase III data readouts for our gout therapy lesinurad; and for CAZ-AVI, a treatment for intra-abdominal infection.
+Finally, we've seen significant business development activity supporting our strategic priorities.
+Turning to slide 6, we see positive revenue growth for the first nine months, up 4% at CER. Importantly, more than half of revenue, which equates to over $10 billion, was driven by our growth platforms, which have shown a strong good growth of 16% in the first nine months.
+Going by region in the US, revenue is up 6% year to date. This growth was driven by Symbicort, Brilinta and diabetes.
+In Europe, the favorable growth of Brilinta and the diabetes brands were offset by the continuing impact of loss of exclusivity on Seroquel XR and price pressure on Crestor and Symbicort.
+Emerging markets was up 12%, with growth in China well ahead of the market at 22%, which Marc will walk you through in more detail.
+And in Japan, sales were stable impacted by the price cuts and the increased use of generics, in particular in oncology.
+Core EPS for the Group was down 3% at CER for the first nine months as we continue to selectively invest in our growth platforms and expanding pipeline. But as Marc will go on to discuss, we've upgraded our full-year core EPS guidance.
+Slide 7 is simply a reminder of our three strategic priorities. I believe we're making good progress on all of those priorities.
+On slide 8, we're looking in more detail at our five growth drivers. As I said before, they contributed over half of our revenue during the first nine months.
+On the right-hand side of the slide, you can see the relative contribution from each of these. It's worth noting that without the additional revenue from the acquisition of the BMS share of the global diabetes alliance, our diabetes franchise still grew by 26%.
+I will now hand over to Marc who will take you through each of the growth platforms in more detail and provide an overview of AstraZeneca's financial performance for the first nine months.
+Marc, over to you.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Pascal, and good afternoon, everyone.
+Let me start with Brilinta on slide 10. Sales were $127 million in the third quarter, up 68% at CER, with strong performance across regions. We saw continued good momentum in the United States, supported by the positive news of the US Department of Justice closing its investigation. The US was the fastest-growing region in the third quarter.
+Europe remained strong, with third-quarter sales up 36%. The next big milestone for Brilinta will be the PEGASUS top-line results, which we're expecting early next year.
+As you can see on the left-hand side of slide 11, Brilinta is now the branded overall anti-platelet leader in US hospital purchases. This has been helped by the new preferred status for Brilinta on the updated American Heart Association/American College of Cardiology guidelines for non-ST-elevation ACS patients.
+On the right-hand side of slide 11, we can see how we steadily continue to take market share in the United States, and the new-to-brand market share is now 7.5%. We have always believed in the potential of this product and are pleased with the steady progress it continues to make with ongoing investment.
+Let's now move to diabetes on slide 12. We have seen strong performance over the quarter, driven primarily by the launch of the new Bydureon pen device in the United States and the good Farxiga uptake, also in the United States. For Onglyza, however, we have seen a small TRx share decline, although volumes have been stable in a growing market.
+On slide 13, on the left, you can see that the Farxiga volume trends continue to grow steadily. On the right-hand side of the slide, we show the effect of the Farxiga launch on the monthly new prescription volume in the SGLT-2 class. As you can see, the volume growth for Farxiga is not coming at the expense of other SGLT-2 inhibitors. Instead, we see an acceleration of the overall class post Farxiga launch.
+Slide 14 shows on the left the reversal of the slowing rate of growth for the GLP-1 class. In the last two quarters, we have seen an acceleration of the TRx volume growth.
+On the right, you see how Bydureon volume continues to grow, and following the launch of the new pen device, the early signs indicate additional volume growth.
+Looking at slide 15, you can see the impact of our new Bydureon pen device which it had on the prescription market share in the GLP-1 class on the left, and NRx volume on the right-hand side. By now, more than one-third of Bydureon prescriptions are with the pen, and this has led to a trend break in NRx volume increase for the total Bydureon family.
+Now moving to our respiratory franchise on slide 16, you see continued strong growth of Symbicort, with sales up 15% in the quarter. Symbicort performance was particularly strong in the United States, with sales up 29% in the quarter.
+It should be noted that the realized net price for US Symbicort has been stable in the third quarter and year to date.
+Sales in Europe were down 1%. That price pressure was offsetting a 6% volume growth.
+Looking more closely at Symbicort performance in the United States on page 17, we can see [new-to-combination] therapy market share at 37.5% in the US, which is a 3.6 share point increase since the end of last year.
+We estimate that around 40% of these market share gains are attributable to the ESI formulary win which kicked in at the beginning of 2014. Therefore, again, this year will be a tougher comparison going into 2015.
+I've already mentioned our strong double-digit growth in emerging markets for the third consecutive quarter. If you look at slide 18, you can see how growth in China compares to the rest of the industry with our growth, shown in purple, outperforming the rest of the market.
+I am also pleased to say that our emerging market business is doing well outside China. In the third quarter, our ex-China emerging market business grew by 9%.
+Moving on to slide 19 and Japan, we see positive underlying demand for primary care launch brands in Japan. Crestor, Symbicort and Nexium continue to post strong volume growth, as you can see on the left-hand side of the slide.
+Despite a healthy mid single digit in market growth in Japan, the performance has been impacted by the biennial price cuts and increased use of generics.
+Turning to slide 20, total revenue for the third quarter grew by 5% at constant exchange rate to $6.5 billion, our third consecutive quarter of revenue growth.
+The currency impact on third-quarter revenues were negligible.
+Core EPS for the quarter was $1.05, a decrease of 8% at CER. The impact of foreign exchange lowered core EPS by 5 percentage points at actual rates.
+On slide 21, I will now turn to the P&L for the first nine months, and I will focus on core margin and profit. The press release contains the statutory numbers and a detailed reconciliation to the core measures. As a reminder, when I refer to growth rates, they will all be at constant exchange rates.
+Revenue was up 4% and core gross margin was 81.8% of revenue. Core R&D expense in the first nine months was up 14%, reflecting our conscious investment in a rapidly-growing late stage pipeline.
+Expenditures in core SG&A were 14% higher than the first nine months of last year. The increasing spend was dedicated to the growth platforms and supported the sales growth for three core franchises, respiratory, diabetes and Brilinta, of 31%. Part of the increase relates to the inclusion of 100% of the costs associated with the diabetes portfolio.
+Growth in core SG&A expenses also includes the change to reporting around the US branded prescription drug fees, which we now account for current year fees versus previous year's fees in past quarters. As we expect 2014 fees to be higher than 2013 fees which we have accrued for so far, we have made a small addition in quarter 3 which goes through core SG&A.
+Core other income in the first nine months was 69%, with milestone related income related to the launch of Nexium OTC being the largest driver.
+Core operating profit in the first nine months was down 6% to $5.8 billion. Core operating margin was 29.6% of revenue.
+Finally, net cash from operations was $5.2 billion thanks to the improvement in working capital despite the lower operating profit.
+As you have seen during this week, we have signed and completed several new business development deals. As shown on slide 22, all these deals support our three core therapeutic areas.
+The divestment of Myalept, metreleptin, to Aegerion Pharmaceuticals, allows us to redeploy resources in our core priorities while ensuring access of patients suffering from this rare disease.
+In the oncology field, the deal with Pharmacyclics and Janssen enables us to investigate novel immune-oncology and small molecule combinations in hematological and solid cancers.
+The acquisition of Definiens gives us access to novel predictive biomarkers, which we think can be important for immune-oncology efforts.
+Earlier this week, we have also announced the closure of the respiratory deal with Almirall. It's a pleasure for us to welcome the highly-regarded team from Almirall, who will strengthen our respiratory franchise.
+Let me now turn to guidance for 2014 on slide 23. We now expect revenue for 2014 to increase in low single digit at CER, which is an upgrade from our guidance at second quarter results.
+In light of the overall increase in revenue expectation for the year, we are accelerating our investments in our growth platforms and expanding pipeline. Therefore, core EPS is expected to decrease at around 10% for 2014, better than anticipated in previous guidance.
+And you should keep in mind that core EPS for 2014 at actual exchange rates is expected to be impacted negatively by currency by an additional 5%, assuming current exchange rates. This guidance assumes no US Nexium generic in 2014.
+I would also like to point out the new guidelines by the American Academy of Pediatrics which we expect to significantly impact Synagis sales negatively in the fourth quarter of 2014 and into 2015.
+Finally, on slide 24, I would like to give you a preview of how we look at 2015.
+Our plan for 2015 is to continue to selectively invest in our growth platforms and accelerating pipeline, while managing overall costs. Assuming current exchange rates, the Company is targeting core EPS for 2015 to be no less than the lower end of the range of the upgraded guidance for core EPS for 2014 at actual exchange rates. Guidance for 2015 is expected to be provided with the 2014 results on February 5, 2015.
+With that, I will now hand over to Briggs.
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP, Global Medicines Development    [4]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Marc.
+On slide 26, I think slide 26 is a great example of the continued momentum we've seen in our late stage pipeline.
+On the regulatory side, we've recently received a positive opinion from the CHMP in Europe for Olaparib in platinum-sensitive relapsed BRCA-mutated ovarian cancer.
+For Iressa, we have managed to obtain a label update which includes blood-based testing for EGFR mutations to help identify patients likely to respond to the drug.
+In the US, Xigduo XR has been approved. This is the first once-daily SGLT2 metformin fixed dose combination.
+And last but not least, Movantik was approved by the FDA for opioid-induced constipation, and received a positive opinion from the CHMP.
+As Pascal noted, you will recall that the rate-limiting step for the launch of Movantik in the US is the de-scheduling by the DEA, which we now anticipate in the first or second quarter -- early second quarter of next year.
+During the last quarter, we've also had phase III data readouts from lesinurad as an add-on treatment in gout, and for CAZ AVI in complicated intra-abdominal infections. In addition, we've presented what we believe are compelling results at both ESMO and at ESC.
+The next major scientific meeting for AstraZeneca will be the American College of Rheumatology meeting, which is starting next week in Boston. On slide 27, you can see the key data that will be presented at ACR for our developmental drugs in lupus, rheumatoid arthritis, and gout.
+In the near term, we anticipate continued strong news flow for several of our late stage pipeline assets. All the data readouts and regulatory milestones are summarized on slide 28.
+Now perhaps most notably, we're looking forward to the data from the two remaining brodalumab phase III studies in psoriasis. This is a collaboration we have together with Amgen, and that data should read out before the end of the calendar year.
+On the lower part of slide 28, you can see a summary of near-term regulatory milestones we anticipate during 2014 and early 2015. More details on our pipeline transformation will be provided at our upcoming Investors' Day.
+Now I'll turn it back to Pascal.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Briggs. In closing, I'm really pleased with the progress we are making on our growth platforms and our pipelines. The growth platforms grew by 16% and contributed to over half of our revenue during the first nine months.
+We continue to selectively invest and support our growth platforms and our expanding pipeline. Despite this, we have managed to upgrade our revenue and our core EPS guidance for 2014, and we confirm our progressive dividend policy moving forward. And lastly, we have provided a preview for our core EPS in 2015.
+Thank you for your time today. I hope to see many of you at the Investor Day later this month where we will be providing further detail on the execution of our strategy. So I hope you understand that we may not address all the aspects of our pipeline today. We want to spend more time on this at the Investors' Day.
+With that, I would like to now open for questions, so over to you, operator.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [1]
+--------------------------------------------------------------------------------
+
+          Alexandra Hauber, UBS.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Three questions, please. Firstly, on -- we shouldn't ask about the pipeline, but on Symbicort, you're having very, very strong growth momentum, particularly in volume terms in the US. But given that you're excluded from the CVS Caremark formulary next year, which is about, my understanding, 20% of [lives], are you still -- would it be correct to assume, just looking at the current volume growth and what Caremark is, that they should still see decent volume growth next year in Symbicort? And can you tell us whether pricing next year will be a positive or a negative effect for Symbicort?
+Secondly, a lot of things have been going on at AstraZeneca this year, so forgive me for asking for something that hasn't happened yet. And that is we haven't seen an Epanova launch despite the approval for a long time. Is that something which you may de-prioritize and potentially decide that it will face a similar fate as metreleptin?
+And then the third question is: Can you tell us what is so proprietary about the Definiens technology that you actually needed to own it rather than just license their technology?
+(technical difficulty).
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [3]
+--------------------------------------------------------------------------------
+
+          Do you want to try again?
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Sorry. Have you --? You didn't hear me?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [5]
+--------------------------------------------------------------------------------
+
+          Go ahead, Alexandra. I'm sorry. We had a problem here, a technical problem. We can hear you now. Go ahead.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          Okay. Sorry. So I'll start again from the beginning?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [7]
+--------------------------------------------------------------------------------
+
+          Yes, please.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          So I have three questions. The first one was on Symbicort. You're having very strong volume growth at the moment, but that we expect to slow given that you are -- you will be excluded next year from the CVS Caremark formulary. However, that's only about 20% of lives, I understand, and your volume growth is currently exceeding that.
+So would it be correct to be relatively confident that there's still volume growth for Symbicort? And would you be prepared to tell us whether you think pricing is going to be positive or negative in 2015?
+The second question was on something that hasn't happened yet. I'm aware a lot of things have happened at AstraZeneca this year, and that that is actually an Epanova launch, despite the fact it was approved about six months ago. So are you still committed to launch of the [tool], or maybe see something similar as what we've seen today for metreleptin?
+And then the third question is: What is so proprietary about the Definiens technology that you felt that you had own it rather than just license it?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [9]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, Alexandra. So we have Ed on the phone and I'll ask to cover the Definiens question.
+Let me start with Symbicort, just a high level. You should expect price pressure on Symbicort next year and some volume growth, but maybe, Luke, do you want to cover this in more details on Symbicort US?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP of Global Portfolio & Product Strategy    [10]
+--------------------------------------------------------------------------------
+
+          So, Alexandra, thanks for your question. I think the growth that we're seeing this year should not be extrapolated into 2015. I think it reflects access and commercial success. Next year we do expect lower growth, much lower growth based on a mixture of access changes and pricing pressure.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          But still growth?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [12]
+--------------------------------------------------------------------------------
+
+          Net-net you will see some growth, but certainly as you could expect, lower than this year, Alexandra, because the market is changing.
+As far as Epanova, we are still committed. We had to address some supply manufacturing, supply issues. And we've prioritized the supply to our STRENGTH study which has now started and has started enrolling patients. So our priority was to supply the study. And number 1 and number 2, for the time being, we want to focus all our efforts on growing our diabetes franchise, still defending Crestor, and then growing Brilinta. And of course, the sales force that will be promoting Epanova is the sales force that is today engaged in our diabetes franchise.
+So it's a question, more a question of priorities; first of all supply going to the study, and then secondly, the priorities around our sales force. But we're still committed and you will hear back from us at some point as far as Epanova.
+And Definiens, Ed, if you are online, do you want to cover this question?
+
+--------------------------------------------------------------------------------
+Ed Bradley,  AstraZeneca PLC - EVP of MedImmune Oncology    [13]
+--------------------------------------------------------------------------------
+
+          Sure. Thank you, Pascal. Yes, so Definiens is a very powerful and proprietary integrated platform for core Tissue Phenomics. It does two things. It has very sensitive tissue imaging which enables us to look at multiple markers to identify all of the immunocytes, immune responses cells in a patient's tumor; and it also enables us to see exactly what the relationship is to the tumor cells and whether they're killing them or not. And it uses very powerful computerized algorisms to make millions of correlations in any individual patient to see exactly what cells are responsible for killing tumor cells.
+This is applied in clinical trials, and it enables us not only to identify future biomarkers that might be useful, but also enables us to make rapid decisions in the ongoing development of clinical drugs, and particularly in combinations that we need to explore.
+
+--------------------------------------------------------------------------------
+Alexandra Hauber,  UBS - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [15]
+--------------------------------------------------------------------------------
+
+          Thank you, Ed. James Gordon, JPMorgan.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          A couple of questions on Nexium in the US generic situation. My question was: I've seen that Ranbaxy have put out a statement stating that their tentative Nexium ANDA approval has been rescinded. It doesn't say whether they've forfeited their eligibility for 180 days exclusivity. So a couple of questions on that.
+One was: What's your understanding about if the Ranbaxy 180 days is rescinded, does that mean immediately that multiple generic companies could come to the market with a generic Nexium? And also, just how do you think it works in terms of does anyone else then get 180 days, or is it a complete free for all?
+Also, just one question on the partnership I saw where you're partnering your PD-L1 in combo with the Ibrutinib. Have you already seen any encouraging data for PD-L1 in hematological cancers? And assuming you have, when could we see some data on that?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [17]
+--------------------------------------------------------------------------------
+
+          Okay, James. Thank you. So on PD-L1, I'll ask Ed as well to cover this question. But starting with your Nexium question, I have to say it's a great question. And to be totally candid with you, we're not totally sure how to read this Ranbaxy announcement, so I think we'll just have to wait and see how the discussions with the FDA develop and what that means as far as Ranbaxy and potentially other generics being launched.
+Maybe a couple of things I could say is, one, is our assumption is that there -- it remains that there will not be any Nexium generic being launched this year. And so far -- and the second point is, so far, there's no other generic that has been approved. So to keep this in mind.
+As far as Ranbaxy themselves, again, to be totally candid, we don't exactly know how to read this announcement and we'll just have to wait to learn more about it.
+Ed, do you want to cover the PD-L1 question?
+
+--------------------------------------------------------------------------------
+Ed Bradley,  AstraZeneca PLC - EVP of MedImmune Oncology    [18]
+--------------------------------------------------------------------------------
+
+          Sure. Thank you. Yes. There is a lot of preclinical data that supports the activity of the PD pathway in hematologic malignancies. We have trials that are ongoing. It's too early to discuss any data from those, but we're enthusiastic about that and also about the combination with Ibrutinib.
+
+--------------------------------------------------------------------------------
+James Gordon,  JPMorgan - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [20]
+--------------------------------------------------------------------------------
+
+          Thank you, Ed. Tim Anderson, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Tim Anderson,  Sanford C. Bernstein - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          So a question like the one you got on Symbicort, but really on the diabetes franchise. I'm wondering if you can talk about pricing and market access, especially in the US with your diabetes products, whether that's Onglyza and Bydureon, or Farxiga, given the fact that we've seen price compression in diabetes.
+And then on Onglyza specifically, can you update us on the possibility of where you are with the FDA and heart failure risk? And do you think the FDA is waiting for the TECOS trial with Merck before they make any decisions?
+And then last question on 2015, the soft guidance on earnings, can you speak to the tax rate side of that? For the last two quarters this year, your tax rate has been lower than consensus has expected.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [22]
+--------------------------------------------------------------------------------
+
+          Okay. So thanks very much, Tim. I'll ask Marc to cover the tax question. Just a quick comment. We've had a number of one-off events this year that you shouldn't necessarily assume will translate into a similar effect next year, but I'll ask Marc to comment in more detail.
+The -- should we start with the CHF question? Briggs, do you want to cover this one?
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP, Global Medicines Development    [23]
+--------------------------------------------------------------------------------
+
+          Again, just to be very clear on the Onglyza data, the overall cardiovascular safety is comparable to placebo we saw in SAVOR. There was a difference in hospitalization for heart failure, not in total congestive heart failure. And obviously, we've submitted that data to regulatory agencies.
+We'll have to wait and see what comes out of the Merck TECOS trial, but at this point, we have not had any significant concerns from regulators.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [24]
+--------------------------------------------------------------------------------
+
+          Thanks, Briggs. As far as the other question on diabetes, I'll ask Luke to add anything if he wants. But maybe the general comment I would make here is that whether it's in diabetes field or respiratory field, we expect to have increased competition, and some products will be impacted by price pressure more than others.
+We don't really want to comment on one product to another. Maybe the one thing I could tell you is that for 2015, across the entire portfolio of products, across our entire business if you want in the United States, our assumption is we will see a negative price impact in the low single digit. That's across the entire portfolio. And we're not going to comment on product by product as you can imagine for commercial reasons.
+Luke, anything you want to add?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP of Global Portfolio & Product Strategy    [25]
+--------------------------------------------------------------------------------
+
+          Yes. I would just make an overall comment. I think we have a competitive portfolio. We have Xigduo, of course, with we think an attractive label. We have the dual-chamber pen, of course, and in the medium term compounds like SaxaDapa.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [26]
+--------------------------------------------------------------------------------
+
+          And by the way, just to add, our 2015 preview assumes there's increased price pressures across the pipeline -- not the pipeline, the portfolio. And we've built in the low single-digit price reduction across the portfolio that I've just mentioned a minute ago.
+So moving on to the tax question.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [27]
+--------------------------------------------------------------------------------
+
+          Thank you for the question. I think we will be better placed next year in February to provide more details about our assumed tax rate for 2015. Where we see it today shouldn't be dramatically different from where we were last year or this year. It should be in the same region. But we would like to provide you with more detailed information when we meet with you in February.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [28]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you, Marc. Sachin Jain, Bank of America.
+
+--------------------------------------------------------------------------------
+Sachin Jain,  BofA Merrill Lynch - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Three, please, firstly on cost base progression. Two aspects. First, if you just give some color on what you're expecting for fourth quarter given the 2014 guidance basically imply the fourth quarter earnings down 20%/25% sequentially on 3Q without generic Nexium. So any color on that?
+And then any color on cost base into 2015 and what flexibility you have around potential Nexium US generic timing?
+Second question's on balance sheet intention given comments from the media call that less deals are needed given pipeline progression. And is your move towards a net cash position some point next year, what's your intention for balance sheet?
+And then the third question for Ed on IO, just a very broad question. What data should we expect from the portfolio of assets by year end, given multiple potential fora for data being ASH, San Antonio and the Analysts' Day.
+Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [30]
+--------------------------------------------------------------------------------
+
+          Thanks, Sachin. So Ed will cover this question in a minute or two. Maybe I could start with the cost base and ask Marc to add on that and also cover the balance sheet question.
+The cost base. We continue -- as we said, we continue this year to invest in our growth platforms. In fact, this year, you should see 2014 as really an investment, almost a launch year, a year in which we are launching several products. And I would call the emerging markets a product, if you want.
+Essentially, we are launching quite a number of diabetes products. We are still re-launching Brilinta. And the good news is we are starting to see momentum there, including in the US. We are re-launching still Symbicort with great results.
+And finally, we are launching China. In fact, the investment in China this year has been very substantial. We've increased the size of the sales force very substantially, and the result is what you see; a growth rate that is very, very substantially above the market growth rate. But that is to be considered a launch year.
+Next year, we move to a different phase where we still have launches, of course. We have Olaparib, but it's in oncology. It's much less costly and we get to a more stable phase of our business.
+So next year, you should assume we still invest in our pipeline, but certainly we will start managing SG&A costs and improving productivity and certainly looking for synergies across the entire sales force and managing that cost base. And that's why we feel comfortable delivering or giving you today these previews as far as 2015 core EPS.
+Next year, the assumption we shared with you is that we don't expect any generics this year. In terms of additional assumptions supporting the preview, we'll share those with you in February. So if you don't mind waiting until these full-year results.
+Marc, do you want to cover the balance sheet question?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [31]
+--------------------------------------------------------------------------------
+
+          Yes, I will try. So first of all, in terms of balance sheet, let me talk a little bit about where our financial commitment will be for next year. Obviously, we will continue with our progressive dividend policy. We will continue to spend money on CapEx and externalization.
+As we are today, well, our gearing ratio or leverage is relatively limited, so I do not expect any evolution or big evolution on the leverage, on the gearing itself. So our balance sheet should be more or less what it is today. There shouldn't be an impact on -- much impact on the balance sheet next year.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [32]
+--------------------------------------------------------------------------------
+
+          Thanks, Marc. We certainly can have more discussion on our Investors' Day on the topic as well on how do we intend to deploy capital over time.
+And Ed, do you want to jump in and cover the IO question?
+
+--------------------------------------------------------------------------------
+Ed Bradley,  AstraZeneca PLC - EVP of MedImmune Oncology    [33]
+--------------------------------------------------------------------------------
+
+          Thanks very much. No, that's -- we can talk a lot about this. Just very, very briefly, the IO programs are very broad now and moving very rapidly ahead.
+Just to highlight a couple of things. The registration trials Atlantic and Pacific are moving ahead very well. The combination trials will start as soon as the dose and schedule is finalized, which should happen very shortly. Those combination trials are going very well.
+I should just mention a number of other combination trials that are progressing in the IMT area with tyrosine kinase inhibitors, for example with PDL-1 and OX40 and 9291 and with vaccines. So there's a lot of activity for those. So the program's moving ahead very, very well.
+For sure, there will be detailed updates as ASCO and I don't want to go into much more information about specific conferences where data will be presented, but it will be.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [34]
+--------------------------------------------------------------------------------
+
+          Thank you, Ed. [Nicolas Guyon], Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Nicolas Guyon,  Morgan Stanley - Analyst    [35]
+--------------------------------------------------------------------------------
+
+          I have two, please. The first one is on PDL-1 certification. It seems that there is a growing consensus about the need to standardize PDL-1 tests and cut-off for PDL-1 positivity. Could you remind us which assay and cut-off you are using? Or at least tell us how it compares versus Merck's 1% cut-off and Roche's 5%?
+And the second question is about emerging markets in China. After another strong quarter, China now represents roughly 40% of emerging market sales. What are the latest developments there? And do you see any risk of being so dependent on one single country?
+Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [36]
+--------------------------------------------------------------------------------
+
+          Thanks, Nicolas. Maybe I'll cover the emerging market question and Ed can cover PDL-1 in the second.
+We see strong growth in China, but as I mentioned, we also see good growth outside of China. We see a growth of about 9% outside of China. We've seen very strong growth in Russia in the recent months in Brazil, in a variety of other countries. We are now also investing in Africa which we see as a substantial growth potential.
+So it's not -- our emerging market story is certainly very much driven by China, but also the other countries. It's not a China-only story.
+As far as China, so far, we don't see any substantial change. We have to accept that certainly the growth rate we are experiencing this year is very nice to have, but probably cannot be sustained at that level forever. So as you move into next year, we are assuming a growth rate that it would be a little bit lower than what we experienced this year.
+But China is still very healthy and we're still aiming at growing faster than the market in the China. But again, growth in -- we've seen a very nice pickup of growth in Brazil. We've refocused our business behind our priorities. We've increased our investment in some places, and really nice development both in Russia, Brazil, and many other countries.
+Ed, do you want to step in and -- jump in with the PDL-1 question?
+
+--------------------------------------------------------------------------------
+Ed Bradley,  AstraZeneca PLC - EVP of MedImmune Oncology    [37]
+--------------------------------------------------------------------------------
+
+          Sure. And I wasn't able to hear all of the question but I think it referred to the PDL-1 assay.
+We are in a partnership with Ventana, and it is delivering a fully validated companion diagnostic that's implemented in the clinical trials. The cut-off is based on data, and we're using that in prospective trials moving forward.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [38]
+--------------------------------------------------------------------------------
+
+          Nicolas, did this address your question?
+
+--------------------------------------------------------------------------------
+Nicolas Guyon,  Morgan Stanley - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Could you provide any figure for the cut-off that you are using?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [40]
+--------------------------------------------------------------------------------
+
+          We are using actually, Ed?
+
+--------------------------------------------------------------------------------
+Ed Bradley,  AstraZeneca PLC - EVP of MedImmune Oncology    [41]
+--------------------------------------------------------------------------------
+
+          There are a lot of technical details that we've not disclosed. It is data based. It is fully validated and it's incorporated into the ongoing clinical trials.
+
+--------------------------------------------------------------------------------
+Nicolas Guyon,  Morgan Stanley - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [43]
+--------------------------------------------------------------------------------
+
+          Thanks, Ed. Dani Saurymper, Barclays.
+
+--------------------------------------------------------------------------------
+Dani Saurymper,  Barclays - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          I had a couple of questions around other operating income, and particularly as it relates to 2015 in your guidance that you've provided. Can you confirm that the Myalept divestment of $325 million will be going through core operating income?
+And can you provide any other additional one-time income that you're anticipating within your guidance for 2015? I'm conscious that Nexium OTC has sales milestones potentially payable up to $300 million and I wanted to know if you were making any assumptions around receipt of those in 2015.
+And then two other things, if I may. Just if I could come back to your assumption around generic Nexium launch in 2015. Is it a conservative assumption? I appreciate you're not disclosing this at this stage, but as of January? Or are you assuming something around midyear? If you could just provide a little bit more flavor to that.
+And then just lastly, you are presenting data on Sifalimumab and Anifrolumab at ACR. Have you made a decision to move forward into phase III with either of those assets?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [45]
+--------------------------------------------------------------------------------
+
+          Thanks, Dani. I'll ask Brigg in a minute to cover the Sifalimumab question; and Marc, you could cover the question about Myalept and others. I'll just maybe cover the Nexium OTC launch.
+As I said, the assumption we are disclosing is that we assume no generic launch of -- no Nexium generic launch this year. As far as the other assumptions, we will share these in February when we meet.
+Maybe before Marc covers this Myalept question, just a general point that we have a business model that is focused on the three core therapy areas in oncology, in cardiovascular metabolism and in respiratory. We basically have decided that by and large, we will develop and commercialize those products by ourselves. It may be that here and there we have a collaboration, a partnership, but by and large we want to do the development and the commercialization ourselves.
+But we also have very good scientists, very good science in what we call the opportunistic therapy areas of anti-infective, but also neurosciences. And so for instance, in neurosciences so that we have a BACE inhibitor, we have decided to partner this one because we think that we cannot do this ourselves. We don't have the resources; we don't have the capability, so we partner.
+You probably also saw that the FDA gave us fast track designation for two monoclonal antibodies, one for the prevention of Pseudomonas infections, the other one for MRSA. And those are two very exciting assets coming out of a very good science in our labs at MEDI in that instance.
+Here again, we'll have to look at how do we go to market with those products. They are important to patients. We may partner them.
+So the point I'm trying to make is we have two parts in our business model. One part is we do ourselves. The other part is we partner, license out, but we keep the innovation engine to generate value for patients and value for the Company. And we may redeploy this innovation engine to ourselves in the years to come at some point. But in the meantime, these innovation engines will generate for the Company, and we recognize this value as part of our ongoing business model.
+So, sorry, that's a long introduction; but, Marc, do you want to cover the specific question?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [46]
+--------------------------------------------------------------------------------
+
+          Well, just to answer your question directly, yes, the revenues relating to January from Myalept are going to be booked as other operating income. But I just want to maybe adjust the figures.
+The amount of $325 million obviously will not flow directly into the other income since we have on our balance sheet an intangible of a bit more than $100 million, and then we also have to pay some tax on this transaction. So the net effect on the other income would probably slightly higher than $100 million.
+And to answer your second question on the OTC next year on the US sales milestone, the answer is, yes. This milestone is assumed to be received over the course of 2015, so it is accounted for in our planning assumptions.
+
+--------------------------------------------------------------------------------
+Dani Saurymper,  Barclays - Analyst    [47]
+--------------------------------------------------------------------------------
+
+          Could you possibly just quantify that, please?
+
+--------------------------------------------------------------------------------
+Briggs Morrison,  AstraZeneca PLC - EVP, Global Medicines Development    [48]
+--------------------------------------------------------------------------------
+
+          Dani, you'll remember, we had a little further description of our pipeline update at the first half. We show you the pivotal study start, the pivotal study decisions and pending decisions. So the pending decision in that category was the -- which of the two molecules we will take into phase III. We have not made an official decision yet to progress that program into phase III.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [49]
+--------------------------------------------------------------------------------
+
+          Thank you, Briggs. Mark Clark, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Mark Clark,  Deutsche Bank Research - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          A couple of questions. I wonder if you could just give us slightly more explanation as to what exactly is happening with the RSV change in recommendations. And does this have any implications to your development to follow-on products? I see there are a couple in early development. In other words, does it remove the attractiveness of the market?
+And secondly, a question for Marc on accounting in Nexium. As I understand it, you moved to an accruals basis of accounting on Nexium the day generics launched, and that presumably would also involve some write-downs on inventory, etc. In the event -- I know it looks unlikely today, but in the event that the FDA rushed to approve generics and we had generic launches before the end of this year, would that change your guidance?
+Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [51]
+--------------------------------------------------------------------------------
+
+          I assume Mark, you mean the guidance for next year, or do you mean for this year?
+
+--------------------------------------------------------------------------------
+Mark Clark,  Deutsche Bank Research - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          For 2014. I'm assuming 2015 would probably not change a great deal.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [53]
+--------------------------------------------------------------------------------
+
+          Luke, sorry. Do you want to cover the RSV question; and then, Marc, you take the other one?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP of Global Portfolio & Product Strategy    [54]
+--------------------------------------------------------------------------------
+
+          So I think based on past experience when we had guideline changes in 2009, we do clearly expect this to place pressure on volume. This is driven by payers adopting the guidelines, and that tends to happen relatively quickly. But we are mid-season so it may take some time.
+I'd just like to mention that these guideline changes are inconsistent with our approved label and we believe they're not in the best interest of patients. And we'll be working with stakeholders to seek the best outcomes for patients. But I think Q4 and Q1 are historically the stronger months for these products, so we'll have the full picture at the end of the year.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [55]
+--------------------------------------------------------------------------------
+
+          So over time Mark, you would expect that will play out over a period of time, but you should assume that the volume of synergies will basically halve, will be reduced by 50% simply because these guidelines really reduce the volume use. And they tend to be very well followed, so we certainly expect a substantial impact.
+As far as the development of our new products, it's -- this is not changing anything. We basically are proceeding. And if we have strong clinical data and a differentiated product that can create value, we'll go to market with those products.
+We could talk about these products actually at the Investor Day if -- because those are quite interesting products.
+Keyur Parekh, Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs & Co. - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          I have two broad questions, first on accounting. Marc, if I could just understand more broadly how do you differentiate between items that are core and items that are non-core. It appears that the milestone that you guys pay tend to move to non-core, and milestones you guys receive tend to be included in core income. So if I could just get a broad sense of what it is that -- how you evaluate those decisions, that would be helpful.
+And then, Pascal, secondly, as you think about the R&D budget beyond 2015, given that a lot of the immunotherapy programs will be in full swing in 2016 and 2017, just if we could get some sense of what it is, how should we think about the ramp up of R&D costs beyond 2105, that will be helpful.
+Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [57]
+--------------------------------------------------------------------------------
+
+          First of all, I should apologize to Mark. We didn't cover his second question, actually. Sorry, Mark, about this. But in fact, our Marc here could cover Mark's question and also Keyur's question at the same time.
+Do you want to cover those?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [58]
+--------------------------------------------------------------------------------
+
+          I can try to do it in sequence. For the first question, which was basically the impact of the introduction of the generics in the US, so first of all, there are two impacts.
+One is -- the first impact is on any possible inventory that would be in the channel, but this inventory is not very large. And as we come towards the launch of a generic, we tend to reduce the level of inventories.
+The larger impact is on the accrual of the rebate. That's where the impact is larger. And as you have noted, when we arrive in the generic era, then we tend to book -- to take the accounting in a different manner to avoid any further impact on our accounts.
+Regarding the guidance for 2014, the guidance what we have revised today takes into account no launch of generics in 2014. So conversely, if you ask me if it was launched earlier would there be an impact, the answer is, yes. But this is not our assumption today.
+And let me address now the issue of the core versus non-core. We have a convention which we have adopted years ago which is basically very close to what other -- our peers in industry do. And we do amortize our intangible through non-core. We do exclude from this the impairment and amortization on IT assets. Some other companies do include them. We exclude them. And the rest is the global restructuring program which we feel would unbalance the underlying results. So basically, we take those out and put them in non-core.
+And then the last question was on the evolution of the R&D 2016 versus 2015. We believe that the R&D are going to remain at a high level, but they should abate a little bit in 2016 versus 2015.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs & Co. - Analyst    [59]
+--------------------------------------------------------------------------------
+
+          Marc, sorry, just a follow up. So if I'm hearing you correctly, 2016 R&D should be lower than 2015 R&D. Is that a correct interpretation of what you've just said?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [60]
+--------------------------------------------------------------------------------
+
+          That's right, actually, and I don't think you should necessarily assume today would be lower.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [61]
+--------------------------------------------------------------------------------
+
+          I think it will also depend on the progression of our programs and everything. So we are not providing guidance for 2015 today, and we are certainly not providing guidance for 2016. But you're asking me whether they're going to remain at a high level. I think the answer is, yes.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs & Co. - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [63]
+--------------------------------------------------------------------------------
+
+          Thanks, Marc. Jo Walton, Credit Suisse.
+
+--------------------------------------------------------------------------------
+Jo Walton,  Credit Suisse - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          Thank you. A couple of product specific and a couple of broader ones. On the product specific, you've now bought the Almirall respiratory products, and I believe you have the right to opt in if you want to in the US. Would it be reasonable to assume that you would start to take a role in the promotion of aclidinium in the US?
+And you've made a comment that you're expecting low single-digit negative pricing in the US for next year, which is presumably a bit more of a headwind than you've had in this year. Would it be fair for us to assume that that is the price that you have paid broadly speaking, so that in all of your major categories, excluding Symbicort, where we know that you will be excluded, for your diabetes products, etc., for everything else, we should broadly assume the same sort of access to formularies for 2015 as 2014?
+And my other couple of questions; just a technical one on the cash flow. Very strong working capital inflow in the first nine months of this year. Is that something you can sustain for the whole year, or is that just something which will reverse; it's just a timing issue?
+And a final broader one, and I know it seems to go back to this concept of your guidance for next year, but I'm a little bit confused. You appear to be saying that broadly speaking, your earnings, all other things being equal, should be roughly flat for 2015 over 2014, and yet in 2015, presumably at some point, we would prudently assume some form of Nexium. We may see some form of Pulmicort go.
+We know that we've got a tougher period for Symbicort and with Synagis. Is there really so much flex in your costs that if we collectively assume some small reduction in underlying sales, you can make that up and that there really is an ability to take out SG&A so that we can still have flat sales against declining -- sorry, flat earnings against declining sales?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [65]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Jo. So let me cover a few questions and I'll leave the rest to Marc.
+The Almirall products in the US, it is a consideration indeed, but with these kinds of issues you always have to be able to come up with something that makes sense for everybody. But it's certainly something that we might consider. For the time being, we're very focused on launching in Europe and looking at how we can leverage this franchise in the emerging markets as well.
+As far as your question about the price, pricing in the US and access, I think first of all, when you say we're going to be excluded in Symbicort, there will be access challenges in the US in 2015; there's no doubt. But we certainly will keep trying our best to improve our access or reverse the difficulties, the challenges we're facing. But certainly, overall, you are absolutely right to say the access will become more challenging and there will be a price impact, which is the price we've built in.
+Across diabetes, we don't expect specific issues. We don't expect new specific issues, but certainly again, an increasing price pressure for these products. And again, that's why overall across the portfolio we assume a low single-digit price decline.
+And finally, the guidance. I think you should see that our growth platforms are growing, so we certainly are expecting sales growth from those even though we are losing Nexium next year. Number 1 and Number 2. We certainly will manage our costs appropriate next year, as we said before.
+And I guess I'm not sure what else I could tell you. Of course, you might wonder, you might question our preview for 2015. The only thing I will tell you is so far, we've done what we said we would do, and we've said we are going to manage our investment and our cost base to be able to deliver the core EPS we've guided to. So beyond that, it's hard to be more specific.
+Marc, do you have anything you want to add?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [66]
+--------------------------------------------------------------------------------
+
+          So first of all, your first question on the cash flow, I think it's -- when I presented to you in -- I think it was in February of this year, I mentioned the focus that we would have on the cash conversion cycle. I think some early work has provided very good results on the payables, on the receivables, as well as the inventories. So we will continue with this effort which has already, as I said, produced some good results. We will continue with this effort over the following years. So there should be some continuation of that in the coming years.
+Now regarding your question on can you manage your cost in a declining sales environment, the answer is, yes. We need to provide enough ammunition to our R&D pipeline, and therefore we will look at our cost base, as we have done in 2014. In 2015 we'll continue to do that. We'll try to redeploy as much as we can. We have seen today that we have announced the divestment of Myalept. This is going to help to a small extent. So basically, we'll look at our cost base and we'll monetize assets, or partner assets when we can't develop them on our own.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [67]
+--------------------------------------------------------------------------------
+
+          Thanks, Marc. Seamus Fernandez, Leerink.
+
+--------------------------------------------------------------------------------
+Seamus Fernandez,  Leerink Partners - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Maybe just as a first question, can you --? You talked a little bit about Epanova. Just update us on what your hopes are from a 38,000 patient study and what the investment and costs are relative to that study, particularly in the context of meaningful other advances occurring outside of the space with PCSK9 inhibitors in particular as a potential challenge, as well as just the payer cost environment. Just trying to understand that particular investment.
+Second, Pascal, you're getting lots of questions on the leverage opportunity year on year. As we think about business development, it seems like you do have good balance sheet flexibility. In terms of an interest or a willingness to potentially larger acquisitions that leverage your current and existing cost base, would there be a willingness to consider those types of transactions in the 2015/2016 timeframe?
+Thanks so much.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [69]
+--------------------------------------------------------------------------------
+
+          Seamus, Epanova, the -- I think it's important to keep in mind that the PCSK9 certainly would be a substantial improvement, but we believe there will remain a risk associated with triglycerides, and of course, we have to demonstrate this. And that's the goal of this study.
+We're not the only people believing that it could be the case. If you look at the steering committee of that study, it includes some of the most prominent, most important leaders in cardiology and epidemiology around the world. So those experts believe in the possibility to show a benefit by reducing triglycerides.
+Now of course, we are in a risky business. We never know whether a study will be positive or not. But if it is positive, it will actually be the only treatment that has demonstrated cardiovascular benefit from the reduction of triglycerides. So that's essentially what we are hoping to demonstrate with this program.
+As far as the balance sheet opportunity, yes. Essentially what we've done so far is focus on building our three core therapy areas, and in fact, as Marc said, monetizing some of the non-core assets and also turning the opportunistic therapeutic areas into another business model, so we have two business models going.
+So it's really been based on small to mid-sized acquisitions or partnerships, but having said that, if we did find the right opportunity that would lead to a larger transaction, we would also consider it. But the key is, as we've said many times before, including in the discussions we had with another company not so long ago, the key for us is always do we believe we can execute; do we believe we can create value? Do we believe there is a strategic value in a merger? Is there a -- can we add value; is there a synergy, and can you -- can we execute without distracting the focus on the pipeline.
+So those are conditions that are hard to meet, I must say, but if we were able to find an opportunity addressing those, we -- and we could create value for our shareholders, we would definitely explore it.
+So I'll move to Mattias Haggblom at Danske Bank. It's an emailed question so I'll read it for you all.
+So the question Mattias is asking is: Can we assume you will update the market at the Investor Day on your progress towards 2017 and 2023 targets that you shared earlier this year? Or should we see two targets as extraordinary events in light of circumstances around your Company earlier this year?
+No. The answer is a very simple, yes. Our targets remain our targets. We are still aiming at 2017 sales in line with 2013, and we still are aiming at the 2023 sales forecast that we communicated earlier this year, which actually, by the way, was not in light of circumstances; it was actually based on our long-range plan developed several months before, just as a quick reminder for everybody. So, no, those targets are still very much part of what we're trying to achieve.
+Steve Scala, Cowen.
+
+--------------------------------------------------------------------------------
+Stephen Scala,  Cowen and Company - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          I have three questions, first a clarification on the 2015 guidance. You said that 2015 will be no less than the lower end of the range of the updated guidance for 2014, but 2014 guidance is a single point. I'm sure I'm missing something, but would you please clarify?
+Second, would you please update us on the status of Symbicort generics in the EU?
+And then lastly, Lilly said on its Q3 call that the AstraZeneca BACE inhibitor had the opportunity to be differentiated from the Merck BACE in part due to different chemistry. Unless you'll detail these differences at the analysts' meeting, I'm wondering if you could amplify on these differentiating features now.
+Thank you very much.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [71]
+--------------------------------------------------------------------------------
+
+          Thanks, Steve. So the BACE inhibitor, maybe what we could do is cover this at the Investors' Day because I'm reminded here that we are running out of time. And so, Marc, you could cover the overall guidance in a minute. I'll just cover quickly Symbicort EU analogs.
+We are basically seeing the introduction of Symbicort analogs across Europe. That continues. This year, it had an impact on price. As you saw, we grow volume by 6% but declined in turnover by 1%, so it's only a price impact. And next year, we expect a continued negative price impact from the introduction of those analogs.
+But one thing that is important to keep in mind though is that in many countries, when you look at how much share those analogs are capturing, it's usually not so much, actually. Usually, they don't capture much because the devices are not the best. And to some extent, physicians are getting a little bit confused by the number or products that are being introduced, including analogs.
+So in most cases, we're able to maintain our market share. We lose price, of course, because the payers are cutting reimbursement prices. But we certainly are able to in most cases maintain our share and our volume, and we saw that this year. So we expect a continued trend in that direction next year in Europe.
+And so, Marc, do you want to cover the guidance question?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - EVP, Global Portfolio & Product Strategy    [72]
+--------------------------------------------------------------------------------
+
+          Yes. I think the -- first of all, it's not a guidance. We said we would provide a guidance in February next year. What we have given you is a preview of what it could look like in 2015.
+And your reference to the single point, I think you need to understand the words, as we said a decline of about 10%. When it's about, of course, it can go slightly under 10%, slightly above 10%. We have also given you a variation for the impact of ForEx that can be expected, which is about 5%. So again, you have some variation around the 5%. And if you apply those two variances, you can certainly reach a range which is a range that we are considering for next year.
+And so therefore, and then when you have the range, then you can say -- you can take the lower end of the range and we are going to be no less than the lower end of the range. This is the way it's constructed.
+But again, it's not a guidance. We'll do that next year in February.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [73]
+--------------------------------------------------------------------------------
+
+          Simon Baker, Exane.
+
+--------------------------------------------------------------------------------
+Simon Baker,  Exane BNP Paribas - Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Most of them have been answered. I've just got one left. I see from slide 16 that it looks like Symbicort in Europe faced about a 7% price decline. So I was wondering if you could give us an update on the European pricing environment now and your assumptions for 2015.
+Thanks.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [75]
+--------------------------------------------------------------------------------
+
+          Yes, Simon. Luke, do you want to cover this one?
+
+--------------------------------------------------------------------------------
+Luke Miels,  AstraZeneca PLC - EVP of Global Portfolio & Product Strategy    [76]
+--------------------------------------------------------------------------------
+
+          So I think this is part of the structure of the market there, so we see national and international reference pricing on regular intervals. So the changes related to Symbicort in the last 18 months were in France and Germany, for example, and I think the key thing is the point that Pascal made before is that there's some resilience around this device and the market share conversion that we're seeing is low and we'll defend our position.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - Executive Director, CEO    [77]
+--------------------------------------------------------------------------------
+
+          Simon, maybe we can't be too specific with Symbicort, but one thing I could give you is a general number across the portfolio in Europe. We also expect low single-digit price pressure across the entire portfolio. That's our expectation across the older products, with some products being affected more than others. And certainly, Symbicort is affected by the launch of analog.
+So let me stop here and hear the decision. And I would like to thank you very much for your attention and all your great questions. And as I close, I'd just like to remind everybody of our 2014 upgraded guidance. We're very pleased to see the sales trend so far, and we expect to see some of that benefit into 2015, even though, of course, we are well aware that next year will be a substantial headwind. But a lot of our products and priorities are growing very strongly.
+The preview of 2015 hopefully gives you a sense for what we're trying to achieve and the approach we're going to take to our business in 2015; invest where we still need to invest but also manage our costs so that we can deliver a reasonable core EPS.
+And finally, but very importantly, our pipeline is progressing very nicely and it's very exciting for all of us.
+So with this, I hope I can see many of you at our Investors' Day very soon. Thank you very much, and have a good rest of the day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

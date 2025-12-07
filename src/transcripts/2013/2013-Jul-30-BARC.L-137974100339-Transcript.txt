@@ -1,0 +1,734 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Interim 2013 Barclays PLC Earnings Conference Call
+07/30/2013 09:30 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Antony Jenkins
+   Barclays PLC - Group Chief Executive
+ * Chris Lucas
+   Barclays PLC - Group Finance Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Fahed Kunwar
+   Redburn Partners - Analyst
+ * Chira Barua
+   Sanford C. Bernstein - Analyst
+ * Tom Rayner
+   Exane BNP Paribas - Analyst
+ * JP Crutchley
+   UBS - Analyst
+ * Peter Toeman
+   HSBC - Analyst
+ * Manus Costello
+   Autonomous Research - Analyst
+ * Chris Manners
+   Morgan Stanley - Analyst
+ * Fiona Swaffield
+   Royal Bank of Canada - Analyst
+ * Chintan Joshi
+   Nomura - Analyst
+ * Raul Sinha
+   JPMorgan - Analyst
+ * Edward Firth
+   Macquarie Research - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the Barclays half-year results analysts' and investors' conference call.  I will now hand you over to Anthony Jenkins, Group Chief Executive.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [2]
+--------------------------------------------------------------------------------
+
+          Good morning, and thank you for joining this call.  With me today are Chris Lucas, Barclays' Finance Director; and Charlie Rozes, our Head of Investor Relations.
+You will have seen by now the announcements we issued this morning, which cover our first half performance update; progress on Barclays Transform commitment; and the outcomes of a discussion we've been having with the PRA on capital.  I will focus my remarks this morning on the last of these matters.
+As you know, on February 12, I shared the outcome of our comprehensive strategic review; our goal of becoming both go-to bank, and our plans to get there, the Transform program.  We have been executing this plan at pace, and just five months on are making good progress.  I will say more on that shortly.
+At the same time, we set out a number of financial commitments, including in relation to capital.  These commitments were primarily predicated on delivering against a risk-weighted ratio target.  But our plans also involved improving our leverage ratio, such that we would achieve a ratio of 3% ahead of the anticipated CRD IV deadline.
+On June 20, the PRA announced the results of its review on the capital adequacy of major UK banks and building societies.  We confirmed at the time that we expected to meet their requirements for an adjusted 7% fully loaded CET1 ratio by December 2013, through planned balance actions, and retained earnings generation.  This expectation has not changed.
+As part of the review, the PRA also introduced a 3% leverage ratio target.  Over the past few weeks, Barclays has discussed a number of options with the PRA to meet the target, and was asked to submit a plan to achieve the target by June 30, 2014.  This plan has now been agreed by the PRA, as you can see from their statement.
+We reported today a CRD IV leverage ratio, as at June 30, of 2.5%.  This is down from the estimate of 2.8% at the end of December 2012.  The increase in leverage exposure derives primarily from clarifications in the final CRD IV text, published on June 26, rather than an underlying move in exposures.
+The PRA have also applied CET1 adjustments of GBP4.1 billion, which no longer includes provisions for conduct, given the GBP2 billion of provisions announced today.  This equates to a gap of GBP12.8 billion between our current PRA leverage ratio of 2.2%, and the target of 3%.
+After careful consideration of the options, my judgment is that Barclays should respond quickly and decisively to the new leverage requirements in order to reduce uncertainty in the outlook for Barclays.  I have, therefore, with the full support of the Chairman and the Board, developed a balanced plan to meet the target, and we intend to execute that plan immediately.
+With the increased financial strength, which we believe are actions deliver for Barclays, we can continue to focus on delivering our Transform program, and on building the go-to bank for all of our stakeholders.
+The plan we have agreed has four elements.  The first element of our plan is to raise approximately GBP5.8 billion of equity, net of expenses.  That process begins today.  Existing shareholders will be given preemptive rights to buy the new shares in this exercise at an offer price of GBP1.85.  I am pleased that the offering has been underwritten by Credit Suisse, Deutsche Bank, Bank of America Merrill Lynch, and Citigroup.
+We expect to publish a prospectus, subject to UK Listing Authority approval, in September to formally launch the Rights Issue.
+Secondarily, we will take several actions to reduce the size of our leveraged balance sheet by GBP65 billion to GBP80 billion by June 2014, through already identified measures.  This equates to approximately GBP2 billion to GBP2.5 billion of capital.  These actions are not expected to have a material impact on revenue, or on our ability to support the real economy through lending.
+They include reductions in the liquidity pool by GBP15 billion to GBP20 billion; the CRD IV exposure measure for securities financing transactions of GBP20 billion to GBP25 billion; and the CRD IV potential future exposure measure generated by a derivatives portfolio, leading to a GBP30 billion to GBP35 billion reduction.
+Again, these actions will not have a material impact on revenue, or on customer and client relationships.  We believe they have low execution risk, and contribute GBP2 billion to GBP2.5 billion capital equivalent towards meeting the 3% PRA leverage ratio target.
+Now I know that there are some of you who will question whether we could reduce the balance sheet further.  To be clear, we are not stopping here, but we believe that the more aggressive reduction in the balance sheet in the short term would significantly damage our franchise, and not be in the long-term interests of shareholders.
+We are continuing our analysis and scrutiny of the balance sheet, particularly Investment Bank, as part of the ongoing review of returns across our businesses, taking into account evolving regulation.  We will update you on this work and its outcome in due course.
+In the third part of our leverage plan, the PRA has approved the use of CRD IV-complaint, AT1 contingent capital, with a fully loaded CET1 trigger of 7% towards the PRA leverage ratio target.
+You may recall that we announced previously our intention to build a layer of contingent capital equivalent to 2% of RWAs, which we started to do last year.  This aspect of our leverage plan continues these actions, and includes the issuance of up to GBP2 billion of these instruments by June 2014, in tranches, and at times to be determined based on market conditions.
+Lastly, as a result of the conduct provisions announced today, we believe that we have strengthened our ability to retain earnings and generate capital going forward.
+I believe the combination of these elements, the equity raising, a prudent reduction of our leverage balance sheet, issuance of contingent capital and retention of earnings, represents the right mix and balance to meet the leverage target we have been requested to achieve by June 2014.
+I also believe that Barclays should respond quickly and decisively to meet this target.  Delaying action will only prolong uncertainty, and distract from delivery on the rest of the Transform program.
+As a result of these actions, we expect Barclays PRA leverage ratio to be above 3% by June 2014.
+We are aware of the implications of a Rights Issue on our shareholders.  However, looking further out, we believe there are tangible benefits from taking decisive action now.  First, as I said earlier, we believe the plan will reduce uncertainty for shareholders.  Capital concerns have been a significant variable that have impacted the valuation of Barclays, and so too have conduct risk.
+Second, by mixing balance sheet reduction with raising capital, the plan allows us to remain a committed lender to the real economy.
+Third, as a result of today's equity raising, we see an acceleration in meeting two out of the six financial commitments we made as part of the Transform program; namely, those relating to capital ratios and dividends.
+Our fully loaded CET1 ratio adjusted for the Rights Issue was estimated at 9.3% at June 2013, and is expected to increase during the second half of 2013, with the achievement of our targeted 10.5% fully loaded CET1 ratio early in 2015; ahead of our original plan.
+The Transform program also envisages a dividend payout ratio of 30% over time.  We now target a payout ratio between 40% and 50% in respect of 2014, and beyond, whilst maintaining our capital buffers and continuing to invest for growth.
+For 2013, we anticipated maintaining a dividend payout at the same level per share as that of 2012.
+As you would expect, these will be subject to meeting applicable minimum regulatory requirements.
+We remain on track to meet three more of the six financial commitments made as part of the Transform program; reducing our cost base by GBP1.7 billion between now and 2015 to GBP16.8 billion, excluding cost to achieve; taking our cost-to-income ratio for the Group to the mid-50s; and reducing Basel III RWAs by GBP75 billion gross by 2015 to GBP440 billion.
+The final commitment we set out in February was to generate a sustainable return on equity above the cost of equity in the course of 2015.  We are now targeting this to be achieved in the course of 2016, as a consequence of the limited ability we have to deploy the capital raise in high return areas in the short term.
+This change is disappointing, of course, but I want to be realistic in my assessments, and the revised timeframe is achievable, based on current plans.  I can assure you that we will relentlessly pursue further actions to enhance shareholder return, to improve on this target wherever possible.
+When I presented the Transform program to investors in February, I said that our path would not be an easy one, and that I saw four risks to achieving our plans; a major macroeconomic downturn; legacy issues; failure to execute the plan properly; and significant unexpected change in regulation.  The current circumstances falls into the last of these brackets.  But we are managing it in such a way that we are able to maintain five of the six financial commitments made in February, with a modest delay on the ROE target.
+Barclays will be stronger for having taken this decisive action today, and our goal of becoming the go-to bank for all our stakeholders will be even more attainable.
+I want to turn now briefly to our performance in the first half, and the progress on delivering our Transform targets, as they're an important indication of the underlying strength of the business.
+The first half results demonstrate continued momentum and progress in the execution of Transform, with an adjusted profit before tax of GBP3.6 billion.  This excludes an additional GBP1.35 billion in respect of PPI redress, and an additional GBP650 million for interest rate hedging products.  This takes the total provision Barclays has made for both issues to GBP5.45 billion, of which nearly GBP3 billion is unspent, reducing uncertainty to shareholders around these conduct risks.
+Costs remain a critical component of the commitment, and we expect to incur GBP1.2 billion of costs to achieve Transform, in 2013, having recognized GBP640 million in the first half of the year focusing on restructuring in the Investment Bank, Europe Retail and Business Banking.  This increase of GBP200 million from earlier guidance is only an acceleration of future CTA.  The total planned CTA remains GBP2.7 million.
+Adjusted return on equity excluding costs to achieve was 9.5%, driven by continued momentum across the businesses, in particular, the Corporate and Investment Bank, Barclaycard, and UK Retail and Business Banking.
+We continue to make good progress in running down legacy assets, in a manner that is positive for shareholders.  In the first half, we reduced our [quadrant four] exit assets by the equivalent of just over GBP25 billion of CRD IV risk-weighted assets, out of the nearly GBP94 billion originally identified.  Chris will say more about the results in a minute.
+Our businesses have made progress against our other strategic review commitments.  For example, Barclaycard has recruited 900,000 net new customers in the half.
+In Europe Retail, the restructuring is well underway with union negotiations completed in Spain, Portugal, and Italy.
+And in the UK, mortgage market share has improved to 9% at the end of the half.
+Our commitment to lend has not altered, and we provided approximately GBP42 billion of FLS eligible gross new lendings to UK households and businesses in the half.
+We are almost -- also making good progress in implementing our non-financial commitments.  We have focused on embedding our purpose and values across the organization since they were launched in January.  I'm pleased to announce that 95% of our employees, 133,000 people globally, have now participated in a half-day workshop on the values.  The remainder will do so in the next few weeks.
+I want to take this opportunity to thank all of my colleagues for their enthusiastic engagement with the purpose and values, and for their unfailing commitment to Barclays' success.
+We have also launched our Balanced Scorecard, applying it first across the senior leadership group, before rolling it out to rest of Barclays, during 2014.  This [sees us] measure performance in a more holistic way, also taking account of how we live our purpose and values.  This new approach to how we measure performance is critical to our future success, and to affecting the cultural shift we are pursuing.
+The performance reported today demonstrates the underlying strength of Barclays.  It is early days, and there is a long way to go, but we are making good progress towards our goal of becoming the go-to bank for all our stakeholders.
+Before handing over to Chris, I want to reiterate that it is in Barclays and our shareholders' interests that I should be decisive and swift in addressing this regulatory requirement, and that is what I have done.
+Chris, over to you.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays PLC - Group Finance Director    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Antony, and good morning.  We are reporting solid results today, demonstrating the ability of the business to generate earnings.
+Despite a challenging macroeconomic environment, income in our larger businesses remains resilient.  We continue to maintain, or strengthen, our competitive positions.  Impairment has continued to improve.  This reflects both our conservative risk appetite, and the quality of our risk management.  Costs remain well controlled.
+Excluding Transform charges, we reduced operating expenses, and our cost-to-income ratio is moving well in the direction of our 2015 target.
+As you've heard from Antony, enhancing our financial strength remains the central focus, and we continue to make steady progress, adapting to the new regulatory environment.  The plans we've announced this morning will further strengthen our capital and leverage position.
+Our financial performance should be viewed in the light of the progress we've made with our Transform program, moving [those] significant restructuring costs, especially in Europe, Retail and Business Banking, and the Investment Bank.  And we'll be investing in the second half, in order to build long-term competitive advantage.
+Both restructuring and investment are essential to achieving our 2015 targets, but this will impact our numbers in the intervening period.
+As usual, I'm using adjusted numbers today because they give a better understanding of business performance.  We have not adjusted for the Transform charges, but we will highlight the effect of these costs on key performance metrics.  The main adjustments are own credits, and additional provisions for PPI, and interest rate swaps announced today.
+In general, my comments compare the first half of this year with the same period last year.
+Turning now to the headlines.  We're reporting adjusted profits at GBP3.6 billion, which is a reduction of GBP748 million.  This mainly reflects Transform charges of GBP640 million.
+Total income was down 3% at GBP15.1 billion.
+Impairment improved 5% to GBP1.6 billion.
+And we continue to reduce costs, which were 4% lower, and GBP9.1 billion excluding Transform charges.
+This slide shows the adjustments to the statutory numbers, and credited a small gain, in contrast to a charge of GBP2.9 billion last year.
+As Antony mentioned earlier, we've made further provisions of GBP1.35 billion for PPI.  We feel we're now well provisioned, and expect any further costs to be handled as part of our normal operations.
+[GBP3.3 billion] of the total PPI provision had been used at the end of June, leaving a residual provision of GBP1.65 billion.
+We've also made an additional provision of GBP650 million for interest rate hedging products, following a review of the largest sample of customer claims.
+Return on equity decreased from 10.6% in the first half last year to 7.8% in the first half this year.  The reduction is largely the result of Transform, which will help us achieve our 2015 financial targets.  Without the Transform charges, return on equity would have been 9.5%.
+The Group's cost-to-income ratio increased from 61% to 65%, entirely due to Transform.
+Adjusted earnings per share decreased to 16.2p, and we've announced a cash dividend for the second quarter of 1p.  We anticipate a dividend payout for the remainder of 2013 at the same level per share as in 2012, and we expect to increase the dividend payout ratio to between 40% and 50% from 2014, as Antony said earlier.
+Looking at capital, our core Tier 1 ratio increased to 11.1% on a Basel 2.5 basis, reflecting both retained earnings and the exercise of warrants.
+We've given you detailed information about the performance of the individual businesses in the results announcement this morning, so I'd like to focus on key trends on this call.  Before I do that, I'll talk about adjusted profits by business to set the context.
+In UK Retail and Business Banking, profits improved 7% to GBP632 million as cost savings outweighed some increases in impairments.
+In Europe Retail and Business Banking, the loss increased by GBP561 million to GBP709 million.  This included costs to achieve Transform of GBP356 million, as well as an increase in other net expenses relating to contractual obligations to trading partners impacted by our restructuring plans.
+Profits in Africa RBB decreased 16% to GBP212 million, despite currency depreciation.  This was mainly due to lower credit impairment provisions in the South African home loans recovery book.
+Barclaycard grew 3% to GBP775 million, driven by the US and UK card portfolios.
+Profit in the Investment Bank increased 7% to GBP2.4 billion; and in the Corporate Bank they improved 29% to GBP402 million, driven by lower impairment.
+Wealth and Investment Management profits decreased by GBP52 million, largely as a result of Transform charges and higher credit impairment.
+The loss in Head Office of GBP157 million due to higher than expected deposit inflows.
+Given the scale of the contribution of the Investment Bank, I'd like to take you through their performance in detail.  Total income was stable at GBP6.5 billion.  This is a good performance given the strong start to last year.
+Impairment increased to GBP181 million, mainly due to a provision made in relation to Canadian litigation.
+We reduced costs by 3% to GBP3.9 billion.  This included a Transform restructuring charge of GBP168 million as we reduced the size of our Equities and Investment Banking operations in Asia and Europe.  As we told you in April, we expected headcount to come down by 1,600 in Investment Banking.
+The cost-to-income ratio improved from 63% to 61%.
+The compensation-to-income ratio was 39%.  We continue to target a compensation-to-income ratio in the mid-30%s by 2015.
+The return on equity was 15.4%; up from 13.4% in the first half last year.
+Looking at the quarterly income progression, total income of GBP3 billion was 13% down on a strong first quarter, and stable compared with the second quarter last year.  This income was achieved despite an 11% reduction in RWAs year on year to GBP169 billion.
+Breaking quarterly income down into more detail, Fixed Income, Currencies and Commodities decreased 37% to GBP1.4 billion.  This performance was due to small losses on assets we plan to exit, versus gains in the first quarter, markets in Europe generally being weaker than the US; and our business model, which tends to outperform in weak markets and underperform in strong markets.
+Equities and Prime Services grew 17% to GBP825 million, reflecting both improved volumes and share gains.
+Investment Banking advisory income was down 5% at GBP528 million.
+We also had a GBP259 million positive fair value adjustment in connection with the Lehman assets in the second quarter.  This was reported in the category of principal investments.
+I'd like to talk now about the key trends in our financial performance, starting with income.  Income for the Group was down 3% to GBP15.1 billion.  There was positive momentum in UK Retail and Business Banking, Wealth, and Barclaycard, which were up 1%, 4%, and 11% respectively.  There was also a good performance in UK Corporate Banking.
+Africa Retail and Business Banking was down 9% in sterling, but was stable on a constant currency basis.
+Europe Retail and Business Banking (technical difficulty) across the Group in the first half.
+Rebalancing our funding mix towards retail deposits is in line with our strategy, but we were more successful than we expected and have left some of the income expense in Head Office.
+Moving onto look at margins, overall net interest margin declined 9 basis points to 177 basis points.  Customer-generated margin in our Retail, Corporate Banking, and Wealth businesses fell 6 basis points to 160 basis points.  The structural hedge declined 3 basis points to 17 basis points
+Increased business volumes more than offset the customer market contraction, especially on the liability side, so that net interest income generated from customers was up 4% at GBP5.1 billion.
+Total net interest income grew 2% to GBP5.6 billion.
+I'll talk now about impairment, which improved 5% to GBP1.6 billion, with significantly lower charges in the Corporate Bank, and Africa Retail and Business Banking.
+UK Retail and Business Banking increased to GBP178 million.  This was mainly due to the non-recurrence of 2012 releases in unsecured lending and mortgages.
+In Europe, charges were up 14% to GBP142 million, due to movements in the exchange rates and a deterioration in recoveries.  Mortgage impairment trends are stable in both Spain and Italy, and have improved slightly in Portugal.
+Increases in Barclaycard were due to the portfolio growth, including acquisitions, as well as the non-recurrence of releases in 2012.
+Loan loss rates in the UK and US were broadly stable; and in South Africa they increased, partly due to a portfolio acquisition.  The performance of our major credit portfolios continues to be resilient, despite the macroeconomic environment.
+We expect overall impairment trends to continue in the second half, and the Group loan loss rate to be reasonably steady.
+Turning to costs, overall costs increased 3% to GBP9.8 billion.  But if you exclude Transform charges of GBP640 million, they were down 4%.
+Excluding the Transform charges, we've reduced performance cost by 10% to GBP1.3 billion; and non-performance costs by 3% to GBP7.9 billion.
+Looking at the Transform charge in more detail, GBP356 million is in Europe Retail and Business Banking; and GBP169 million is in the Investment Bank; with the rest spread across other businesses.
+The charge in the first half breaks into restructuring costs of GBP593 million, and an initial investment of GBP47 million, intended both to reduce our cost base and improve customer propositions.  We plan for further Transform charges in the region of GBP400 million to GBP500 million in the second half, mostly focused on Investment, and we expect overall payback in about 2.5 years.
+Moving on now to capital liquidity and funding, our Core Tier 1 ratio increased to 11.1% on a Basel 2.5 basis, reflecting retained earnings and the exercise of warrants.
+RWAs were broadly flat, despite currency movement.
+Our liquidity position remains strong, with a pool of GBP138 billion.  We had liquidity coverage ratio of 111% at the end of June, based on Basel III standards; and our net stable funding ratio increased 1% to 105%.
+We aim to fund our Retail Banking, Corporate Banking, and Wealth businesses predominantly with customer deposits.  The loan-to-deposit ratio for these businesses improved significantly, from 110% to 102%.  This has reduced our term wholesale funding requirements.
+We've issued $1 billion of Tier 2 contingent convertible debt year to date.  This level of issuance reflects our strong deposit inflows; the pre-funding we did in 2012, partly through the Funding for Lending scheme; and the deleveraging of our balance sheet.
+As you'd expect, we've updated our Basel III ratios, based on current expectations.  Our latest estimates show a transitional common equity Tier I ratio of 10% to the end of June.  This is based on transitional methodology in place since the first quarter.
+Our fully loaded ratio was 8.1%, compared to 8.2% at the beginning of the year.  This is the result of capital being impacted by an increase in both our PVA adjustment, and in deferred tax assets.
+Adjusting for the Rights Issue, our fully loaded ratio increases to 9.2%.  We expect to get to 10.5% on a fully loaded basis early in 2015.  Detailed calculations are in the appendix to this pack.
+In terms of risk-weighted assets, we believe we're well capitalized; and our announcement this morning sets out a clear path to meet the PRA's leverage requirements.
+As far as the outlook is concerned, we continue to remain cautious about the environment in which we operate.  We remain focused on costs, capital, leverage, and returns in order to drive sustainable performance.
+So, in summary, we're reporting solid results this morning.  We've made a strong start to our Transform program, which will help us deliver our 2015 targets, though it also impacts our financial performance in the intervening period.
+Despite a challenging operating environment, the underlying performance of the business continues to build momentum.
+Thank you very much, indeed.  I'll now hand back to Antony.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [4]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Chris.  Operator, if we could open up the lines for questions, please.
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions).  Chris Manners, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    A couple of questions, if I may.  The first one was about the movements in the CRD IV and the PRA leverage ratios, and the restatement from the [PER3], the 2.8 to the 2.5.  Could you run us through, those revisions, are there any mitigating actions that you can take to reduce that potential future exposure add on, the 287, that you haven't built into your plan that you're announcing with the Rights Issue today?
+And the second one was on the cost of deleveraging.  I know that you're saying it's not going to take anything off the revenue line, but are there other areas that may help you to hit your targets that will cost some revenue, but not that much, and that you'll then be able to actually be able to do?
+I'm thinking about things like your GBP187 billion of undrawn commitments that you have that you haven't been saying that you're going to be able to cut, but presumably you don't generate a lot of revenue from that and it could be a big thing on your denominator you could take down.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [3]
+--------------------------------------------------------------------------------
+
+    Thanks, Chris.  Let me take the second part of your question first, and then I'll ask Chris to answer the first part.  On the second part, what we're trying to do here is respond to the request from the PRA to achieve the leverage ratio requirement by June of next year, and so inevitably the flexibility we have around the levers at our disposal is more limited than if we had a longer time period.
+We remain committed at Barclays to continuing to look at opportunities to delever the balance sheet more.  I have, in this first instance, focused on things which would not destroy revenue or profit, because I don't think that's the right thing to do for shareholders.
+But given more time, there might be areas that we could reduce at little or no cost that would be minimally capitally destructive, and those are things that we're looking at.  As I said in my speech, we'll come back to you and tell you at future updates what we plan to do.
+But this is not where we intend to stop on the size of the gross balance sheet, and we've got a lot more work to do around that.  And you referenced one area, which are areas that we are looking at closely.
+Chris, do you want to cover the CRD IV point?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays PLC - Group Finance Director    [4]
+--------------------------------------------------------------------------------
+
+    Let me do that.  It'll take a few minutes, but I think it's worth just running through it.  I'm looking at page 5 of 33 for the analysis, and if I look at the right-hand column you will see that based on a fully loaded CRD IV leverage exposure measure we're at GBP1.559 billion.
+I use that as a reference point because if you go back to the end of FY '12 you're at GBP1.413 billion, and that movement in balance sheets is an important part of why the gap has moved from GBP7 billion to GBP12.8 billion.
+But if you look at the reconciliation between the two, there are two elements in it.  There is the GBP85 billion, which is due to inclusion in the calculation of exchange-traded derivatives and centrally cleared OTCs.  That's the GBP85 billion.
+The GBP61 billion is largely seasonal activity, which we traditionally have a higher year-end number than we have during the period.
+If you get to the GBP1.559 billion, and then you take the CRD IV fully loaded Tier 1 capital of GBP38.3 billion, that gets to 12.5%.  The fully loaded CET I capital at GBP38.1 billion, of which you take off GBP4.1 billion for PRA Tier 1 adjustments, and that's the GBP4.1 billion.  And you get to GBP34.0 billion.
+You then get the leverage ratio by calculation of 2.2%, and that gives us a gap of GBP12.8 billion, which we then go through to set out the changes.
+A bit of a long conversation, but I think helpful to go through it.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [5]
+--------------------------------------------------------------------------------
+
+    Thank you, Chris.
+
+--------------------------------------------------------------------------------
+Chris Manners,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    Thanks very much.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [7]
+--------------------------------------------------------------------------------
+
+    Okay, next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+    Raul Sinha, JPMorgan.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [9]
+--------------------------------------------------------------------------------
+
+    The first question I have --  could I have two, please?  The first one I had was on your guidance for the fully loaded CRD IV Basel III core Tier 1 to reach somewhere around 10.5% plus by end of 2015.  I'm struggling to see how it takes you over two years to get from 9.3% to 10.5%, and I'm wondering if I'm missing something within that, or is that just you being conservative?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [10]
+--------------------------------------------------------------------------------
+
+    Can I just correct you mildly there?  We actually said by the beginning of 2015, not the end.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [11]
+--------------------------------------------------------------------------------
+
+    Right, my apologies.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [12]
+--------------------------------------------------------------------------------
+
+    There you go, that's that one.  Your second one?
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [13]
+--------------------------------------------------------------------------------
+
+    The second one I had was obviously you've raised GBP5.8 billion of new capital today.  What should we think in terms of the deployment of this capital?  And how should we think about the US assets that you talked about at the BarCap investor day -- sorry, at the IB investor day, when you talked about Section 165?  Do we think that still you would be talking about reducing the size of the US balance sheet?  Or would you be injecting some of this capital into the US to support the operations over there?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [14]
+--------------------------------------------------------------------------------
+
+    As you know on 165, there is no published policy or regulation on that at this point in time, so it's very hard to comment on the precise operation of that.  But as you'd imagine, we've done a considerable amount of scenario planning around that, and we believe that with enough time we can modify the business model to accomplish most of the scenarios we can foresee around 165.
+Obviously, carrying more capital allows us to have flexibility around that.  But I'd also go back to the answer to my previous question, which is that actually we do think there is opportunity to continue to delever the business, and we think that's appropriate in the current climate.
+There's a lot of things going on here, and a lot of things that we'll need to continue to keep an eye on, but what we've tried to do today is put together a package of messages which dramatically reduce uncertainty for our shareholders, both around capital and conduct.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [15]
+--------------------------------------------------------------------------------
+
+    Sure.  If I can just follow up on that, Anthony.  Obviously, I get the fact that you're meeting the regulatory requirements.  My question relates to how you would deploy the capital within the business.  If I can just clarify, going back to the strategy presentation on Transform, you had highlighted that 75% of new capital at Barclays would be going to non-IB businesses. Would that still broadly hold the case with this additional capital boost?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [16]
+--------------------------------------------------------------------------------
+
+    Yes, there's no difference in the strategy here.  This is designed to address primarily the requirement to achieve the leverage ratio by June 2014.
+
+--------------------------------------------------------------------------------
+Raul Sinha,  JPMorgan - Analyst    [17]
+--------------------------------------------------------------------------------
+
+    Great, thanks very much.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [18]
+--------------------------------------------------------------------------------
+
+    Thank you, Raul.  Next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [19]
+--------------------------------------------------------------------------------
+
+    JP Crutchley, UBS.
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [20]
+--------------------------------------------------------------------------------
+
+    I'd like to maybe explore the [fees that we acknowledged, alluding to them] in more detail.  Actually, I've gone back to the original strategy presentation.  It's notable, in a way, because the word leverage isn't mentioned once in that presentation; it's a bit like it wasn't even used as a calibration for the business.  Clearly, here we are less than six months later and it's a fairly fundamental calibration for the business.
+I guess the first question is if you are thinking about the strategy of a business, and where you want to allocate capital, to what degree would you use that leverage further as a constraint in terms of thinking about where you want to be?  Because, fundamentally, it seems to me that the driver of the increased assets that the PRA are looking at is all down to the IB.  Clearly, there's a number of businesses which, if you're looking at it through a pure leverage lens, are not generating a sufficient return to warrant returns that are being required at the Group level.
+I guess the first question, and I've got a second if I can come onto that, is if you were to look at strategy now from a leverage constraint, rather than a capital constraint, and risk asset constraint, which is very much the focus of a strategic review, would the conclusions not be different?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [21]
+--------------------------------------------------------------------------------
+
+    Do you want to ask your second question?
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [22]
+--------------------------------------------------------------------------------
+
+    The second question actually then comes back to almost a shareholder perspective.  Because what strikes me is fundamentally if the PRA is demanding of Barclays, and, therefore, fundamentally its Investment Bank, a tougher more restrictive hurdle in terms of the amount of capital because of a leverage requirement its putting on, which are a great deal more onerous than the rest of the pack are being held to, and you implicitly acknowledge that yourself in terms of your adjusted leverage hurdle rate, which is much more akin to the peer group number, where you talk about a 20 times or a 5% ratio.
+If I'm an investor in Barclays then the question must be can Barclays Investment Bank achieve a return on that incremental capital, either by charging more or paying staff less, to the degree that I can get return that justifies it, because again I'm wrestling with that?
+It does seem to me that, once again, you should probably be more honest about returns the Investment Bank is actually generating.  Because you print in the results spec a 15% return on equity in the Investment Bank, which is clearly and patently a fiction because all of this incremental equity is fundamentally supporting the Investment Banking balance sheet.
+You allocated your Group numbers of GBP20 billion capital base forward, which must be north of GBP30 million when we actually work through what the PRA is requiring for that balance sheet to be supported.  The returns on the Investment Bank must be sub 10%, and hard to see how they get much higher as the business isn't [rapidly] changing.
+It all comes back to the same question is essentially to what degree have you thought hard about the size and shape of the business, given this is a constraint which really wasn't the case back in February?  And to what degree can you shift and adjust the business to fundamentally get to returns that are above the acceptable level, which I just can't see you doing at the moment?  Thank you.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [23]
+--------------------------------------------------------------------------------
+
+    Well, thank you.  It's a long and complicated, but I think very --
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [24]
+--------------------------------------------------------------------------------
+
+    I think it's very fundamental, too.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [25]
+--------------------------------------------------------------------------------
+
+    Yes, I was just about to go on to say a very good question.  Let me just backtrack to where we were in February.  What we announced was six financial commitments, one of which was around the risk-weighted balance sheet.  We said we were targeting GBP440 billion by the end of 2015.  Frankly, we had predicated the strategy on driving towards a risk-weighted view of the balance sheet, not a gross view of the balance sheet.
+Since then, of course, on both sides of the Atlantic the gross balance sheet has become an area of intense focus.  I do think it's appropriate for us to go back and look at the 75 business unit portfolio analysis, which we ran, as you know, to underpin and define the strategy, through this new lens of the impact of the leverage ratio.
+Your point about capital associated with that is well taken, and we will do that.  What I am trying to solve for here fundamentally is two things.  One is a level of capital that meets and exceeds, of course, the regulatory requirement, which is why we set the CET 1 at 10%, 150 basis points above the 7% plus the G-SIFI premium.  That's one thing.
+The second thing that I have to deliver is return on equity above the cost of equity for our shareholders.  I'm frankly disappointed that the actions that we're taking today will delay that.  But that ROE itself is made up of the components of the 75 different businesses, and we may see a rebalancing of the business model further as a result of that.
+As the last questioner reminded us, we did say that the vast majority of new equity would be deployed to the businesses that are not Investment Banking and so we need to go and do that work.  But I'll assure that you that the focus remains on achieving the CET 1 and ROE above COE objectives, and that may cause us to modify the strategy.
+What I couldn't do is confidently modify the strategy in the, basically, 11 months that I have to June '14.  So this package of measures is the best package of measures that we identified to achieve the leverage ratio target in the required timeframe, and to protect value for shareholders.
+Over time, as I said previously, we will continue to delever the balance sheet, and it's likely to be in areas where returns aren't as good, and we will update you on that periodically.
+
+--------------------------------------------------------------------------------
+JP Crutchley,  UBS - Analyst    [26]
+--------------------------------------------------------------------------------
+
+    Okay.  Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+
+    Fiona Swaffield, Royal Bank of Canada.
+
+--------------------------------------------------------------------------------
+Fiona Swaffield,  Royal Bank of Canada - Analyst    [28]
+--------------------------------------------------------------------------------
+
+    I just wondered if we could talk a little bit more about the second quarter Fixed Income performance, and whether you see that number as a new base, because obviously I think that's one of the lowest numbers for a while, and particularly the trends going forward in the rate -- or the macro products business versus credit products.  Thank you.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [29]
+--------------------------------------------------------------------------------
+
+    I don't think it does represent a new base for us.  I think it was a reflection of our model, which, as you know, is a flow model where we tend to perform less well in up markets and better in down markets than our competitors.  You saw something similar in the third quarter of last year.
+As you know, right at the very end of that quarter there was a number of actions, comments from the Fed, which partly impacted revenues.  By and large, Fiona, I wouldn't see this as anything that's part of a trend.  As you'll observe year on year, although the FICC revenues were down 13%, that's largely driven by very strong performance that we had in the first half of 2012.
+Q2 is also partially affected by some of the decisions we take -- we took to reduce legacy assets.  There was a small cost associated to that, which had a bit of an effect of depressing the FICC revenues, but it's not a trend.
+
+--------------------------------------------------------------------------------
+Fiona Swaffield,  Royal Bank of Canada - Analyst    [30]
+--------------------------------------------------------------------------------
+
+    Okay. thank you.
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+    Chintan Joshi, Nomura.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura - Analyst    [32]
+--------------------------------------------------------------------------------
+
+    A few questions, please.  If I start off with a follow up on Raul's question, you mentioned in your strategy day a 25% allocation to Investment Banking.  But if I look at your strategy presentation, you talk about a GBP47 billion growth in risk-weighted assets, of which GBP15 billion to GBP25 billion comes from the Investment Bank.  So even if I take GBP15 billion, the low end of that, it sounds about one-third of the capital, or the investments, go to the Investment Bank.  If I take the midpoint then it's more close to half.
+I am just struggling how you could manage given the regulatory pressures that only one-quarter of your new capital goes to Investment Bank, because I see it as a bigger number than that.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [33]
+--------------------------------------------------------------------------------
+
+    Did you have any other question, or was that --?
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura - Analyst    [34]
+--------------------------------------------------------------------------------
+
+    The other question was if I assume that you're going to reduce by GBP80 billion, and you're clearly saying today that you will reduce your balance sheet more, and then if I walk towards the capital [hole] that's left after the capital raise, after the Rights Issue, and the AT1, I get about GBP2.6 billion [whole].  Am I correct that, that is the number that you need to get through retained earnings, and other measures?
+If that is correct then it doesn't look very demanding in the context of the earnings' power of the franchise.  Shouldn't -- that begs the question that couldn't the Rights Issue be a bit smaller, or you're factoring something between now, in the next 12 months, that I'm not seeing, so if you could throw some light on that calculation.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [35]
+--------------------------------------------------------------------------------
+
+    Yes, let me take that second question first.  So the -- you're right that the balancing element, if you like, is retained earnings and other capital-accretive activities.
+The judgment that we have to make in putting this plan together was to have a plan that had low execution risk, but gave us high confidence of achieving the June 2014 deadline with the elements at hand.  So I am confident that we've put that plan together, and I think we've erred on the side of caution.  The reason why we've done that, of course, is to reduce uncertainty for our shareholders, and I think the shareholders will understand that.
+In terms of your question on capital, remember that there's a lot of moving parts in the Investment Bank.  Some of it is driven by legacy assets, which carry very high levels of RWAs, and which increase as we implement Basel III.  But the underlying business, in terms of allocation of capital, is very much in line with the numbers that was quoted previously.
+I do want to say that, as you'll recall from the presentation we gave, we said that in the exit quadrant there were GBP95 billion of RWAs.  We've exited GBP25 billion of those in the first half of this year, so I'm very happy at the rundown of the legacy assets.
+But the picture is quite complicated in terms of the ins and outs and the impact of the regulatory change.  If you want more specific detail on that, then Charlie Rozes in investment -- in Investor Relations can help you go through that.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura - Analyst    [36]
+--------------------------------------------------------------------------------
+
+    Thanks.  Can I just have a quick detail question?  I just wanted to know the P&L of the exit business, and also what the Investment Bank component of that was?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [37]
+--------------------------------------------------------------------------------
+
+    On the GBP25 billion?
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura - Analyst    [38]
+--------------------------------------------------------------------------------
+
+    Yes, on the fourth quadrant.  Basically, what's the Group P&L number for the first half this year, and if you have the Investment Bank number for that as well?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays PLC - Group Finance Director    [39]
+--------------------------------------------------------------------------------
+
+    I'm just digging it out.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [40]
+--------------------------------------------------------------------------------
+
+    Yes, the vast majority of those assets were Investment Bank assets, and the income was about GBP88 million.
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays PLC - Group Finance Director    [41]
+--------------------------------------------------------------------------------
+
+    Yes, it's on page 40 of the results announcement.
+
+--------------------------------------------------------------------------------
+Chintan Joshi,  Nomura - Analyst    [42]
+--------------------------------------------------------------------------------
+
+    Oh, brilliant.  Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+    Peter Toeman, HSBC.
+
+--------------------------------------------------------------------------------
+Peter Toeman,  HSBC - Analyst    [44]
+--------------------------------------------------------------------------------
+
+    I was just interested in the PRA and their definition of leverage, which they published in June.  They don't seem to have included for you, or any of the UK banks, any AT1 capital.  In the slide you've given us this morning there is -- or you intend to issue 0.1% -- make good 0.1% of the deficit for issuing AT1.
+I'm just wondering why you haven't chosen to issue more AT1?  Why you're relying on conventional equity to fill the gap, as opposed to AT1 issuance.  Does this reflect a degree of conservatism at the PRA about the appropriate level of AT1?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [45]
+--------------------------------------------------------------------------------
+
+    I want to just draw everybody on this call, draw their attention to the announcement that was put out by the PRA today, in which they agreed, and welcomed, our capital plan.  It goes onto talk about AT1 in that statement.
+Basically, the PRA requested that we achieved the leverage ratio, as they defined it, by June 2014.  They did not specify the mix.  The mix was Barclays' decision.  They obviously approved the mix.  And we took that decision because, as I said before, we wanted to have a plan that we were confident we could execute, that definitively achieved the objective, and that was low in execution risk.
+As you know, equity convertible AT1 instruments are new instruments, it's a nascent market, and we think that GBP2 billion in there is prudent.
+Over the longer term, we made a commitment in February that 2% of our risk-weighted assets would be in these types of instruments.  And we still hold that sort of commitment.
+
+--------------------------------------------------------------------------------
+Peter Toeman,  HSBC - Analyst    [46]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+    Manus Costello, Autonomous.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [48]
+--------------------------------------------------------------------------------
+
+    I just wanted to come back to the detail of the calculation of the leverage ratio, please.  I know that to some extent this is technical questions, but it does also, I think, go to the heart of trust that we can have, as analysts/investors, in the way that you're interpreting rules, that we can be sure that you're being conservative in the way that you look at things.
+Because you talk about GBP126 billion increase in potential future exposure, now that's been a really big driver of the increased leverage requirement.  And with respect to that GBP126 billion, I wonder what actually drove that within CRD IV, and why weren't we aware of that until today?
+Secondly, am I right in assuming that the leverage exposure measure you've got here does not include any of the recent BIS draft changes?  And can you give us an idea of how much you think that might increase your requirements by?
+And lastly, I haven't actually seen the statement out of the PRA yet, Antony, apologies, but can we assume, as analysts and investors, that we're there now from a regulatory perspective?  Are you done?  Or is there a worry that actually when the BIS draft comes out and you interpret that we find out that your leverage exposure's gone up by another couple of hundred billion as a result of those, and actually there's an incremental capital requirement?  Because there appears to be a drift every time we come back to look at legislation, and the drift always seems to be negative for your ratios.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [49]
+--------------------------------------------------------------------------------
+
+    Yes, well, you're right to say that there's a lot of moving parts in this.  The calculation that Chris stepped you through is based on the most recent guidance that was issued on CRD IV at the end of June, so it's very current.
+I would refer you again to the PRA announcement.  It's well worth taking a couple of minutes just to read it through.  The last paragraph says the following; the PRA will shortly issue a consultation paper on its implementation of the Capital Requirements Directive, CRD IV, and we have taken this into account in our review of Barclays' capital plan.  Which I think is a definitive statement that, given what they know, and what we know, we've fully baked this into the plan that we're sharing with you today.
+With regard to your question about is this it, I would say that this very materially reduces the uncertainty around Barclays' capital position in the regulatory environment.  And I think the PRA statement is supportive of that.  And the plan that we've announced is the right plan for Barclays.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [50]
+--------------------------------------------------------------------------------
+
+    And just to come back to this point about where the leverage exposure measures should go, can you give us any indication of how you think the recent BIS draft might impact the leverage exposure measure?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [51]
+--------------------------------------------------------------------------------
+
+    I think it's extremely early days to talk about that.  The PRA's going to consult on that.  Obviously, they knew about that when we were talking to them about this.  So, at this point in time, I think we have to wait and see.  But our view is, based on our discussions, that we have a comprehensive plan here.
+
+--------------------------------------------------------------------------------
+Manus Costello,  Autonomous Research - Analyst    [52]
+--------------------------------------------------------------------------------
+
+    Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+    Tom Rayner, Exane BNP Paribas.
+
+--------------------------------------------------------------------------------
+Tom Rayner,  Exane BNP Paribas - Analyst    [54]
+--------------------------------------------------------------------------------
+
+    A couple of questions, please.  The first one, I'm just wondering, if the PRA had given you, like Nationwide, to the end of 2015, would you have still felt today that you needed to raise equity, given that you're fully loaded Basel III ratios post these redressed costs we've heard about today were looking low relative to some peers?  I'm just wondering just how much is this really driven by the PRA leverage and the timetable, and how much is actually reflecting possibly the other regulatory measures.
+My second question is just to get a better feel for what's really changed on the whole PPI swaps issue.  Because after Q1, and not just yourselves but other banks, it did seem that the trends we were seeing in the marketplace were coming down, provisions that you guys had were looking almost adequate, and suddenly we're now into a situation where we're having material increases again.  So I'm just wondering what you feel the real driver of that is.  Thanks a lot.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [55]
+--------------------------------------------------------------------------------
+
+    Ys, so I'll ask Chris to comment in a minute on the PPI and swaps' provision.  But my intent in taking these provisions is to be conservative.  Again, I want to reduce uncertainty around Barclays, and I think this has been an area of uncertainty.  So along with the announcement we've made on capital, these two things go together to reduce uncertainty.
+If I could just respond to your first question, the Transform plan that we launched in February had six commitments.  We did not make a commitment, as we discussed earlier, on leverage, but our belief was that we could accomplish the leverage reduction by the end of 2015.  We've been requested to do it by the middle of 2014, less than 12 months away, and, therefore, we had to put together the most effective package of measures to do that.  And that is what we have done.
+Chris, do you want to comment on the provisions?
+
+--------------------------------------------------------------------------------
+Chris Lucas,  Barclays PLC - Group Finance Director    [56]
+--------------------------------------------------------------------------------
+
+    Let me touch on the provisions.  It's worth just putting in context, we provided GBP3.95 billion for PPI redress and complaint-handling costs.  At the first half 2013, GBP2.3 billion has been used, leaving a balance of GBP1.65 billion.
+The provision is higher than we expected for a number of reasons.  Firstly, there is a higher-than-expected future flow of complaint volumes. Complaints fell 20% from Q4 to 2013, in line with forecast.  However, complaint volumes decreased 8%, against a forecast reduction of 39% in the second quarter 2013.  So we've seen a dramatic turnaround in the second quarter.
+There's similarly a significant increase in [false] referrals and operating costs.  And we've completed about two-thirds of our proactive mailing, with the response rates in line with expectation.
+When I calculate through what does that get me to, it gets me a H1 monthly average redress of GBP85 million for 18 months cover.  Looking at it another way, I've got 18 months provision built up before I will have to stick to the existing numbers. go back and revisit.
+On the interest rate hedging products, we've got a considerably larger body of evidence in terms of individual claims that we've been processing with a skilled person.  And the numbers we've provided just give us a provision that is closer to what we think is necessary and needed for the completion of that work.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [57]
+--------------------------------------------------------------------------------
+
+    Thank you, Chris.
+
+--------------------------------------------------------------------------------
+Tom Rayner,  Exane BNP Paribas - Analyst    [58]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [59]
+--------------------------------------------------------------------------------
+
+    We have time for a couple more questions.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+    Edward Firth, Macquarie.
+
+--------------------------------------------------------------------------------
+Edward Firth,  Macquarie Research - Analyst    [61]
+--------------------------------------------------------------------------------
+
+    Just a couple of quick questions.  Can I just bring you back to the US leverage requirements?  I guess current consensus seems to be looking at somewhere around 5% is the number that they are focusing on.  Can I just ask you to confirm, if that is where we end up, which seems to be the thinking, are you confident that as of today you have enough capital to put into your business with the raising you've just done?  So I guess that's the first question.
+The second question is back cost of equity.  I guess you've always ducked the question about what you use as your cost of equity, but I guess that's pretty crucial because that should be your benefit in terms of the capital raising you've done today.  So can I invite you, yet again I guess, to give us some indication of what you see as your cost of equity, and what is your actual target that you're heading for in 2016?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [62]
+--------------------------------------------------------------------------------
+
+    I don't think we've ever ducked the cost of equity question, we've said it's currently 11.5%.  That's the cost of equity.  What we said was our goal was to get our return on equity above the cost of equity.  When we made that comment, we said we weren't counting on a material reduction in the cost of equity to get there.
+On your first question, I would point out that the Fed 5% requirement won't actually -- we don't believe that this will apply to us because we expect any future intermediate holding company would have total assets that were less than GBP700 billion because we don't have a large mortgage business, for example, which some of the US banks have.
+Can we have the next question, please.  We've got one question after this.  We'll take the last two questions, and call it a day.  Next question please.
+
+--------------------------------------------------------------------------------
+Operator    [63]
+--------------------------------------------------------------------------------
+
+    Fahed Kunwar, Redburn.
+
+--------------------------------------------------------------------------------
+Fahed Kunwar,  Redburn Partners - Analyst    [64]
+--------------------------------------------------------------------------------
+
+    Just had a couple of question; I'll give them both to you.  One is just a quick follow up on the PPI.  So your kind of utilization rate was sitting at around 73% before this provision, and that was roughly in line with your domestic peers.  That looks like it's come down to around the 60% mark with 18-month cover as well.  That looks like you're being a lot more conservative.  Is that something that's been driven by the regulators?  Or has that been fully driven by your effort to be more conservative around PPI?
+And the second question was a more general question on liquidity.  One of your European peers has also announced quite a significant deleveraging plan as well, and obviously your deleveraging plan will be significant and will continue in some time.  But I just wanted to invite you guys to give thoughts on how you thought that impact liquidity in Investment Banking space?
+Obviously, the two banks that have announced deleveraging plans are the big credit institutions, and will that look to increase volatility?  And do you see that impacting earnings going forward?  Or how do you see that playing out over the next few years?  Thanks.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [65]
+--------------------------------------------------------------------------------
+
+    Okay, on the first question, it is driven by our decisioning around taking a conservative posture on PPI.
+I think on your second question, it seems to me to be a variance on the question that we had before, which is we obviously are going to look at our balance sheet through the lens of gross leverage and return, and allocate now not only RWAs, but also gross balance sheet to those areas that can bring us the best return.
+We all know that the investment banking world is most affected by the regulatory changes, and by these provisions.  As we said strategically in February, we would expect there to be changes to the Investment Banking model, not just for us but across the industry, over time, which will lead to the reflection of these sort of changes in terms of activity that's undertaken.
+And that's really what we're doing at the moment in terms of re-running the portfolio review.  As we have rerun that, we'll come back and update you over time.
+The challenge, of course, is always balancing balance sheet reduction with the impact on revenue and profitability.  But I think we are acutely aware of that, and we're also desirous of driving down the gross balance sheet over time.
+
+--------------------------------------------------------------------------------
+Fahed Kunwar,  Redburn Partners - Analyst    [66]
+--------------------------------------------------------------------------------
+
+    Excellent, thank you.
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [67]
+--------------------------------------------------------------------------------
+
+    The last question, please.
+
+--------------------------------------------------------------------------------
+Operator    [68]
+--------------------------------------------------------------------------------
+
+    Chira Barua, Sanford Bernstein.
+
+--------------------------------------------------------------------------------
+Chira Barua,  Sanford C. Bernstein - Analyst    [69]
+--------------------------------------------------------------------------------
+
+    Just two quick questions.  The first one is at what levels of capital and leverage do you want to operate Barclays at going forward?  I've been hearing all this noise when it's done, what is the core Tier 1 ratio which would be comfortable for you, and what leverage ratio?  That's number one.
+The second is on dividends.  The whole policy has changed; it's almost like you've raised GBP6 billion of capital almost and then you said you're going to pay it back in the next two years.  So why the sudden change in dividend policy?  Or is this also just a two-year policy to circumvent this regulatory interference?
+
+--------------------------------------------------------------------------------
+Antony Jenkins,  Barclays PLC - Group Chief Executive    [70]
+--------------------------------------------------------------------------------
+
+    So let me just answer your first question.  As we said in February, our CET 1 target is 10.5%.  We think that's going to be our target for the foreseeable future.  It's 150 basis points above the 9%, which is the 7% target plus the 2% G-SIFI premium.
+On leverage, obviously, we're targeting a 3% leverage ratio.  We will maintain a buffer above that.  We haven't entirely decided what that will be, but you can think about it in terms of 3% plus.
+In terms of dividend policy, we believe it's important for our shareholders that they get paid dividends.  One of the things that we want to do with the package of measures we announced today is not only to reduce uncertainty around capital, uncertainty around the conduct issues, but also to give shareholders a sense that they can count on Barclays for dividends.  Although we've described this as a [bit '14/'15], we would expect to maintain dividends in that sort of ballpark for the foreseeable future.
+With that, I'm going to draw our call to a close.  In conclusion, I'd like to sum up that what we've announced this morning has three parts to it; firstly a really solid performance in the half, with our underlying business in good health.
+Second, encouraging early progress on our Transform program, with delivery already apparent in areas such as RWA reduction and on costs.  And we're on track to deliver the plan we announced in February.
+Third, bold and decisive action in response to a change in circumstances; action which will ultimately leave Barclays a much stronger institution; action which significantly reduces uncertainty around our business; and action which will make our goal of becoming the go-to bank even more attainable.
+Our Investor Relations team stand ready to assist with any more questions you have, and I look forward to meeting with our investors in the coming days to explain the benefits of our plan further.
+With that, I'll close the call.  Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+    Ladies and gentlemen, this concludes this morning's call.  If you would like to hear any part of the conference again, a recoding will be available shortly.  Thank you for joining.  You may now replace your handsets.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

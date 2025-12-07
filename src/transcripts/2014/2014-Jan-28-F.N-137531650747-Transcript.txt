@@ -1,0 +1,983 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2013 Ford Motor Company Earnings Conference Call
+01/28/2014 09:00 AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bob Shanks
+   Ford Motor Company - EVP & CFO
+ * Alan Mulally
+   Ford Motor Company - President & CEO
+ * Mike Seneski
+   Ford Motor Credit Company - Vice Chairman & CFO
+ * George Sharp
+   Ford Motor Company - Executive Director, IR
+ * Mark Fields
+   Ford Motor Company - COO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * John Murphy
+   BofA Merrill Lynch - Analyst
+ * Mike Ramsey
+   Wall Street Journal - Media
+ * Joe Spak
+   RBC Capital Markets - Analyst
+ * George Galliers
+   ISI Group - Analyst
+ * Adam Jonas
+   Morgan Stanley - Analyst
+ * Alisa Priddle
+   Detroit Free Press - Media
+ * Itay Michaeli
+   Citigroup - Analyst
+ * Emmanuel Rosner
+   CLSA - Analyst
+ * Craig Trudell
+   Bloomberg News - Media
+ * Ryan Brinkman
+   JPMorgan - Analyst
+ * Brian Johnson
+   Barclays Capital - Analyst
+ * Karl Henkel
+   The Detroit News - Media
+ * Dee-Ann Durbin
+   Associated Press - Media
+ * Rod Lache
+   Deutsche Bank - Analyst
+ * Joann Muller
+   Forbes - Media
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, and welcome to the Ford fourth-quarter earnings conference call hosted by Executive Director Investor Relations George Sharp. My name is Julie and I am your event manager.
+(Operator Instructions) I would like to advise all parties this conference is being recorded for replay purposes. And now I would like to hand over to George. Please go ahead.
+
+--------------------------------------------------------------------------------
+George Sharp,  Ford Motor Company - Executive Director, IR    [2]
+--------------------------------------------------------------------------------
+
+          Good morning. Welcome to everyone joining us today either by phone or webcast. On behalf of the entire Ford management team, I would like to thank you for taking the time to be with us this morning so we can provide you with additional details of our fourth-quarter and full-year 2013 financial results.
+Presenting today are Alan Mulally, President and CEO of Ford, and Bob Shanks, Chief Financial Officer. Also participating are Mark Fields, Chief Operating Officer; Stuart Rowley, Corporate Controller; Neil Schloss, Corporate Treasurer; Paul Andonian, Director of Accounting; and Mike Seneski, Ford Credit CFO.
+Copies of this morning's press release and presentation slides are available on Ford's investor and media websites. Please note that the financial results discussed today are preliminary and include references to non-GAAP financial measures. Final data will be included in our Form 10-K and any non-GAAP financial measures are reconciled to the US GAAP equivalent in the appendix of the slide deck.
+Finally, today's presentation includes some forward-looking statements about our expectations for Ford's future performance. Of course, actual results could be different. The most significant factors that could affect future results are summarized at the end of this presentation and detailed in our SEC filings.
+With that, I would now like to turn the presentation over to Alan.
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, George, and good morning to everyone. We are pleased to review our fourth-quarter and full-year 2013 business performance and the progress we continue to make in delivering our ONE Ford plan. We will also reconfirm today our major planning assumptions and key metrics for 2014.
+Let's turn to the first slide please. The foundation of everything we do is our ONE Ford plan, shown here. Across the Ford enterprise we continue to: aggressively restructure the business to operate profitably at current demand and the changing model mix; accelerate development of new products our customers want and value; finance our plan and improve our balance sheet; and work together effectively as one team, leveraging our global assets.
+Our commitment remains to serve customers in all markets with a full family of best-in-class vehicles -- small, medium, and large -- cars, utilities, and trucks, delivering profitable growth for all. We continue to make good progress towards this goal in the fourth quarter, which we will now review starting on slide 2.
+The Company had a solid fourth quarter, achieving our 18th consecutive profitable quarter. Automotive operating-related cash flow was positive and liquidity remains strong. The top line grew year over year for the fifth consecutive quarter with market share gains both in the US and in Asia Pacific Africa, where we realized record share.
+Among our business units, North America delivered a strong profit. Asia Pacific Africa earned a record profit for the fourth quarter. South America incurred a loss as expected, and Europe reduced its loss compared with last year. Ford Credit once again contributed solid profits.
+For the full year, the Company's pretax operating profit was among the best in our history and Automotive operating-related cash flow was a record. These full-year results reflect an automotive sector operating profit that was the highest in more than a decade with record profits in North America and Asia Pacific Africa, and about breakeven result in South America and a loss in Europe --- and a lower loss in Europe than last year.
+Ford Credit was solidly profitable. Volume and revenue grew compared to last year with market share gains in the US, South America, and in Asia Pacific Africa, which was driven by record market share in China. Retail share was also higher in Europe.
+Our global pension plans funding status improved about $10 billion compared with year-end 2012. Global pension plans were underfunded by $9 billion at year-end 2013. Our outlook for 2014 remains unchanged from what we communicated in December.
+We continue to expect Automotive revenue to be about the same as last year, Automotive operating margin to be lower, and Automotive operating-related cash flow to be positive, but substantially lower than 2013. Total company operating profit is expected to range from $7 billion to $8 billion.
+Before turning to the financials in detail, let's recap some of our other achievements from 2013.
+On slide 3, during 2013 we launched 11 all-new or significant refreshed products globally. The next-generation Mustang was revealed in six cities on four continents. Based on latest-available Polk data, Focus was the world's best-selling nameplate and Fiesta was the world's best-selling subcompact car through the first nine months of the year.
+In the US, the F-Series achieved truck sales leadership for the 37th straight year and vehicle sales leadership for the 32nd year in a row. In Europe, we announced plans to accelerate our product launch plans to at least 25 vehicles in the next five years. In China, our joint ventures opened two new plants with announced plans to bring two new global products to JMC.
+For the Middle East and Africa, our new business unit, we announced plans to launch 17 vehicles over the next two years to accelerate growth in the region.
+Consistent with our plan to provide regular growing dividends that are sustainable over an economic or business cycle, we doubled the dividend in 2013 and, as you know, we announced an additional 25% increase earlier this month. In the US, we will pay record profit sharing to hourly employees for 2013.
+And, finally, we received an investment grade rating from S&P. With this upgrade, four of the major rating agencies that rate us now report Ford and Ford Credit as investment grade.
+Bob Shank's will now take us through the details of our financial performance in the quarter and for the full year. Bob?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Alan, and good morning, everyone. Starting at the top of slide 4, fourth-quarter wholesale volume was 1.6 million units, up 76,000 units, or 5%, from a year ago. The revenue was $37.6 billion, up $1.3 billion, or 4%.
+Pretax profit was $1.3 billion, excluding special items, $402 million lower than a year ago. After-tax earnings per share at $0.31 were unchanged. Net income attributable to Ford, including pretax special item charges of $311 million and favorable tax special items of $2.1 billion, was $3 billion, $1.4 billion higher than a year ago. Earnings were $0.74 a share, up $0.34.
+Automotive operating-related cash flow was $0.5 billion, marking the 15th consecutive quarter of positive performance. Automotive gross cash was $24.8 billion, exceeding debt by $9.1 billion. For the full year, vehicle wholesales increased by 12% from a year ago and revenue improved 10%.
+Pretax operating profit, excluding special items, was $8.6 billion, a $600 million improvement. Net income was $7.2 billion, $1.5 billion higher.
+Slide 5 walks our pretax operating results to net income and we will focus here our comments on the fourth quarter. As just mentioned, total company pretax operating profit was $1.3 billion. Pretax special item charges of $311 million include $156 million for separation-related actions, primarily in Europe to support our transformation plan, and $155 million associated with our now-completed US salaried lump-sum payout program as part of our pension derisking strategy.
+You can find additional detail on the special items in Appendix 3 and on the pension derisking in Appendix 6.
+We also benefited in the quarter from $2.1 billion of tax special items, including the impact of a favorable increase in deferred tax assets related to investments in our European operations and the release of valuation allowances held against US, state, and local deferred tax assets. In addition, Ford Credit's tax liability was reduced. As a result, net income attributable to Ford was $3 billion.
+For the full year, our operating effective tax rate, which isn't shown, was 27%. Looking ahead to 2014, we expect the rate to normalize at about 35%.
+As shown on slide 6, both of our sectors, Automotive and Financial Services, contributed to the Company's fourth-quarter and full-year pretax profits. Total company fourth-quarter pretax profit of $1.3 billion was $402 million lower than a year ago with both sectors declining.
+Compared with third quarter, total company pretax profit declined $1.3 billion, nearly all in the Automotive sector as shown in the memo. Total company full-year pretax profit of $8.6 billion increased by $600 million from last year, explained by the automotive sector.
+The key market factors and financial metrics for our total Automotive business in the fourth quarter are shown on slide 7. As previously mentioned, Automotive fourth-quarter profit was driven by continued strong performance in North America and record fourth-quarter profit in Asia Pacific Africa.
+Wholesale volume and revenue both increased from a year ago. The higher volume primarily reflects higher industry volumes in all regions and higher market shares in North America and Asia Pacific Africa. Lower dealer stock increases this year compared with a year ago were a partial offset. The higher net revenue reflects favorable mix, higher net pricing, and the volume increase.
+Operating margin at 3.1% was 0.7 percentage points lower than a year ago, while automotive pretax profit was $924 million, down $338 million. As shown in the memo below the chart, full-year wholesale volume and revenue were higher than a year ago by 12% and 10%, respectively. Operating margin at 5.4% and total automotive pretax profit of $6.9 billion were also higher.
+Slide 8 shows the factors that contributed to the $400 million deterioration in total Automotive fourth-quarter pretax profit. Higher costs, mainly structural, and unfavorable exchange were offset partially by favorable market factors in all regions. The cost increases mainly reflect investments for higher volume, growth, and new products, both for this year and the future.
+As shown in the memo, pretax profit was $1.4 billion lower than third quarter, more than explained by higher costs, including the seasonal increase in structural costs as well as higher warranty costs in North America. You can find more details on the quarter-to-quarter change in Appendix 10.
+Slide 9 shows fourth-quarter pretax results for each of our Automotive operations as well as Other Automotive. Automotive sector profit of $924 million was driven by North America and Asia Pacific Africa, with losses in both South America and Europe. Other Automotive is mainly net interest expense.
+On slide 10, we show the factors that contributed to the $600 million improvement in total Automotive full-year pretax profit. Favorable market factors across all regions were offset partially by higher costs, mainly structural, and unfavorable exchange, principally in South America.
+Full-year pretax results for each of our Automotive operations as well as Other Automotive are shown on slide 11. North America and Asia Pacific Africa delivered record results, while South America was about breakeven and Europe incurred a loss as expected. All regions improved compared with a year ago, with the exception of South America. Other Automotive reflects net interest expense offset partially by a favorable fair market value adjustment of our investment in Mazda.
+Now we will look at each of the regions within the Automotive sector, starting on slide 12 with North America. North America continued to perform well in the fourth quarter, driven by a strong industry, a robust full-sized pickup segment, our strong product lineup, growth in US market share, continued discipline in matching production to real demand, and a lean cost structure, even as we invested more in product and capacity for future growth.
+As you can see in the two graphs on the left, North America wholesale volume and revenue grew modestly in the fourth quarter. The volume improvement reflects higher US industry sales, increasing from a SAAR of 15.4 million to 16 million units, and higher US market share. Partial offsets were unfavorable changes in dealer stocks and lower volume in non-US markets. The higher revenue primarily reflects the volume increase and favorable mix.
+North America operating margin was 7.6%, down 0.8 percentage points from last year, while pretax profit was $1.7 billion, about $200 million lower than last year's record profit. As shown in the memo below the chart, North America's full-year wholesale volume and revenue both improved 11% compared with last year. Operating margin was 9.9%, 0.5 percentage points lower than a year ago, while pretax profit was $8.8 billion, up about $400 million.
+On slide 13 we show the factors that contributed to North America's fourth-quarter pretax profit decline of $200 million from last year. Higher cost, mainly warranty and structural, and lower net pricing were offset partially by favorable volume and mix. The higher warranty expense of about $300 million primarily reflects costs associated with the Escape 1.6 liter recall announced in the quarter.
+As shown in the memo, pretax profit decreased compared with third quarter, more than explained by higher cost including a seasonal cost increase in structural costs with favorable market factors and exchange as partial offsets.
+Ford's US market share trends are shown on slide 14. Total US market share and retail share of the retail industry both improved in the fourth quarter and full year compared with the year ago. Both share metrics also improved compared with third quarter.
+Starting with the left chart, our total US market share was 15.4% in the fourth quarter, up 0.1 percentage points from the same period last year, more than explained by Fusion, F-Series, and MKZ. Our share was up 0.5 percentage points from third quarter, explained primarily by higher Ford share of the fleet business as well as higher fleet mix of the total industry, which is typical in the fourth quarter.
+As shown in the right chart, our retail market share of the retail industry was 14% in the fourth quarter, up 0.4 percentage points from last year, more than explained by Fusion, F-Series, and Escape. Our retail market share was up 0.8 percentage points from third quarter, more than explained by F-Series, Explorer, and Fusion.
+Finally, although not shown, we continued to have success with what we call super segment vehicles -- small utilities and small to midsized cars, particularly on the coasts. Our full-year super segment market share was up 0.8 percentage points compared with last year with the coastal regions contributing three-quarters of the improvement.
+Now let's turn to slide 15 and review South America, where we are continuing to execute our strategy of expanding our product lineup and progressively replacing legacy products with global ONE Ford offerings.
+In the fourth quarter, wholesale volume and revenue decreased by 6% and 11%, respectively, from a year ago. The lower volume is more than explained by plant downtime in Brazil in preparation for new products in 2014 and lower production in Venezuela, resulting from limited availability of US dollars. Our revenue decline in South America primarily reflects unfavorable exchange, volume, and mix, offset partially by higher net pricing.
+Operating margin was negative 4.7% and pretax loss was $126 million. Both metrics deteriorated from last year's profitable results. As shown in the memo below the chart, full-year wholesale volume and revenue both improved 8% compared with last year. Operating margin was negative 0.3% and the pretax loss was $34 million, both lower than positive results a year ago.
+On slide 16 we show the factors driving the $271 million decline in South America's fourth-quarter pretax result. Higher cost, unfavorable volume and mix, and unfavorable exchange were offset partially by higher net pricing. The higher net pricing reflects partial recovery of the adverse effects of high local inflation and weaker local currencies along with pricing associated with our new products.
+As shown in the memo, pretax results were $285 million lower than third quarter, primarily explained by unfavorable volume and mix, higher costs, and unfavorable exchange. Higher net pricing was a partial offset.
+Let's turn now to Europe beginning on slide 17. In the fourth quarter we continued to implement our transformation plan for Europe. Europe's fourth-quarter wholesale volume was down 3% from a year ago, but revenue improved 10%. The volume decrease is more than explained by unfavorable changes in dealer stocks and lower volume in markets outside the 19 markets in Europe that we tracked.
+Europe's higher revenue mainly reflects favorable mix. Europe's operating margin was a negative 8% and the pretax loss was $571 million, both improved from last year. As shown in the memo below the chart, Europe's full year wholesale volume and revenue were up less than 1% and 5%, respectively, from a year ago. Operating margin was negative 5.8% and the pretax loss was $1.6 billion, both improved from a year ago despite higher restructuring costs of about $400 million, lower industry volume, and unfavorable exchange.
+Slide 18 shows the factors that contributed to the $161 million improvement in Europe's fourth-quarter pretax result from a year ago. The improvement is explained by favorable market factors and several favorable items in Other, including higher parts and services profit offset partially by unfavorable exchange and higher cost.
+As shown in the memo below the chart, pretax results declined $343 million compared with third quarter. This is more than explained by unfavorable one-time factors, a seasonal increase in costs, as well as a seasonal reduction in parts and services profit; higher product and warranty cost; and higher restructuring costs.
+Europe market share trends are shown on slide 19. In the fourth quarter, total market share was unchanged from a year ago but retail share of the retail passenger car industry improved. Both share metrics deteriorated compared with third quarter, reflecting primarily a seasonal decrease in the UK industry.
+Starting with the left chart, our total fourth-quarter market share for the Europe 19 markets was 7.5%, unchanged from a year ago. Full-year market share at 7.8% was down 0.1 percentage point, mainly reflecting low availability of Mondeo, S-MAX, and Galaxy in the first quarter.
+As shown in the right chart, our passenger car share of the retail segment of the five major European markets was 7.6% in the fourth quarter, up 0.7 percentage points from the same period last year. This retail improvement was underpinned by strong performance of Fiesta, C-MAX, and Kuga. Full-year market share at 8.2% was up 1 percentage point.
+Although not shown, our commercial vehicle market share for the full year at 9.2% was up 0.7 percentage points compared with prior year and our highest share since 2007. In 2013, Ford was the fastest-growing commercial vehicle brand and Transit nameplate was the leader in the commercial van segment.
+Let's review Asia Pacific Africa on slide 20. Our strategy in Asia Pacific Africa continues to be to grow aggressively with an expanding portfolio of global ONE Ford products with manufacturing hubs in China, India, and ASEAN. As shown on the left, fourth-quarter wholesale volume was up 29% and net revenue, which excludes our China JVs, grew 16%.
+Our China wholesale volume, not shown, was up 45% in the quarter and about 50% for the full year. The higher volume in the region reflects mainly improved market share. Higher industry volume increasing from SAAR of 33.1 million units to 38.1 million units and favorable changes in dealer stocks also contributed.
+Our fourth-quarter market share was 3.9%, 0.5 percentage points higher than a year ago and a quarterly record. The improvement was driven by China where our market share improved 0.5 percentage points to a record 4.4%, reflecting mainly strong sales of EcoSport and Kuga. Asia Pacific Africa's higher revenue primarily reflects favorable volume and mix.
+Operating margin was 3.3% and pretax profit was $106 million, both higher than a year ago. This was the region's sixth consecutive quarterly profit and a fourth-quarter record.
+As shown in the memo below the chart, Asia Pacific Africa's full-year wholesale volume and revenue improved 30% and 17%, respectively, compared with a year ago. Operating margin was 3.5% and pretax profit was $415 million, both substantially improved from last year's results.
+The $67 million year-over-year improvement in Asia Pacific Africa's fourth-quarter pretax profit is explained on slide 21. Market factors were favorable, as was Other, mainly reflecting higher royalties from our joint ventures and an insurance recovery. Higher costs as we continue to invest for future growth were a partial offset.
+As shown in the memo, Asia Pacific Africa pretax profit was $20 million lower than third quarter, more than explained by higher costs. Favorable market factors were a partial offset.
+Turning now to Ford Credit, slide 22 shows the $46 million decrease in fourth-quarter pretax profit compared with a year ago. The decrease primarily reflects unfavorable residual performance related to lower auction values and lower financing margin, both in North America, as well as credit loss reserve changes. Higher volume was a partial offset.
+Ford Credit's higher volume, primarily in North America, was driven by an increase in leasing, reflecting changes in Ford's marketing programs as well as higher non-consumer finance receivables due to higher dealer stocks. As shown in the memo, Ford Credit's pretax profit was $59 million lower than third quarter.
+Slide 23 provides an explanation of the change in Ford Credit's full-year profit compared with 2012. The improvement of $59 million is more than explained by higher volume, primarily in North America, driven by an increase in leasing reflecting changes in Ford's marketing programs, as well as higher non-consumer finance receivables due to higher dealer stocks. Partial offsets are higher credit losses due to lower credit loss reserve reductions in all geographic segments and unfavorable residual performance related to lower-than-expected auction values in North America.
+Next on slide 24 is our Automotive gross cash and operating-related cash flow. Automotive gross cash at the end of the quarter was $24.8 billion, a decrease of $1.3 billion from the end of the third quarter. Automotive operating-related cash flow was $500 million, more than explained by Automotive profit.
+During the quarter we contributed $1.1 billion to our global funded pension plans, which included about $700 million of discretionary payments to our funded plans as part of our pension derisking strategy. Dividends paid in the quarter totaled about $400 million and we concluded our compensation-related share repurchase program for 2013. Full-year automotive operating-related cash flow was a record $6.1 billion and gross cash improved $0.5 billion.
+Slide 25 shows the Automotive debt at the end of the quarter was $15.7 billion, which is $100 million lower than third quarter. We ended the year with net cash of $9.1 billion, $900 million lower than a year ago, and Automotive liquidity of $36.2 billion, $1.7 billion higher than a year ago.
+Slide 26 provides our annual update on global pension plans. Worldwide pension expense in 2013, excluding special items, was $1.6 billion, $400 million higher than 2012. Special item charges were about $800 million, including about $600 million associated with US salaried voluntary lump-sum payout program which is now concluded.
+In 2013, we made $5 billion in cash contributions to our worldwide funded pension plans, up $1.6 billion compared with a year ago. In 2014, cash contributions to our funded plans are expected to be $1.5 billion globally, most of which is mandatory. This is $3.5 billion lower than last year, reflecting our improved funding status.
+Worldwide our pension plans were underfunded by $9 billion at year-end 2013, about $6 billion of which is associated with our unfunded plans. In total, this represents an improvement of nearly $10 billion compared with a year ago, driven primarily by higher discount rates and our cash contributions.
+Consistent with our derisking strategy, we continued to increase the mix of fixed income assets with the objective of reducing funded status volatility. The fixed income mix in our US plans at year-end 2013 was 70%, up from 55% at year-end 2012. Asset returns in 2013 for US plans was 3.7%, reflecting strong growth asset returns offset partially by fixed income losses as interest rates rose.
+For 2014 our expected long-term return assumption for the US is 6.89%, down about 50 basis points from a year ago, reflecting higher fixed income allocation.
+Slide 27 summarizes our 2013 results for our planning assumptions and key metrics compared with the plan that we shared at the beginning of the year. Overall, we delivered strong results in 2013, meeting or exceeding all operational and financial metrics with the exception of quality. Despite a challenging environment, particularly in Europe and South America, we achieved total company pretax profit of $8.6 billion, one of the best full-year results in our history.
+In Europe, we continue to implement our restructuring plan as we remain on track to return our business to profitability in 2015. And in Asia Pacific Africa, there are multiple proof points of the success of our growth strategy: record volume, revenue, market share, and pretax operating profit. And we are continuing to invest heavily in that region to support even more growth, profitable growth, in the years ahead.
+Importantly, we also generated record positive operating-related cash flow. So, again, 2013 was an outstanding year for Ford. With that, let's turn it back to Alan who will take us through 2014 outlook. Alan?
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Bob. Slide 28 summarizes our view of the business environment for 2014. We project global economic growth to be in the 2.5% to 3% range and global industry sales to be in the 85 million to 90 million unit range. US economic growth is projected to be in the 2.5% to 3% range with industry sales supported by continued improvement in the housing sector and replacement demand as a result of the older age of the vehicles on the road. Policy uncertainty now is reduced with the federal budget agreement and the Federal Reserve policy announcement in December.
+In South America, Brazil's economy is relatively weak with below-trend growth, while in Argentina and Venezuela they are escalating risk as both economies are weak with unclear economic policy direction. In Europe, on the other hand, economic indicators are stabilizing. For 2014 we expect GDP growth of 1% in the euro area and 2% in the UK.
+The European Central Bank cut its policy interest rates to 0.25% in November and has indicated it will keep rates low for an extended period. The Bank of England also has indicated it will keep rates low until the unemployment rate has declined.
+In Asia Pacific Africa, stable economic growth is expected this year in China as it carries out the structural reform and transitions to a consumption-led economy. Growth in India is expected to improve modestly as the country moves beyond election uncertainty and a new government ushers in more pro-growth economic policies. Overall, despite challenges, we expect global economic growth to continue in 2014.
+Slide 29 summarized our 2014 outlook for our Automotive sector and Ford Credit.
+First, we expect North America to be strongly profitable, but at a lower level than 2013 with an operating margin ranging from 8% to 9%. This outlook reflects the impact of launching 16 all-new or significantly refreshed products. As a result, we expect production downtime for model changeovers to result in lower wholesale volume than in 2013.
+With regard to the all new F-150, we are scheduling this year 11 weeks of production downtime, including the summer shutdown at our Dearborn plant, and two weeks, including the summer shutdown, at our Kansas City plant. We will provide additional information later this year about next year's Kansas City launch.
+In North America, we also expect net pricing in 2014 to be slightly unfavorable as we run out outgoing models and assume a continuation of a more competitive pricing environment for small and medium cars and utilities due to the weaker yen. We also expect higher manufacturing, engineering, and spending-related costs to support our launches, as well as for the products and capacity actions that will be launched in later periods. Finally, North America will not benefit this year from dealer stock increases as it did in 2013.
+In South America, results are expected to be about equal to 2013 or about breakeven. This outlook reflects improved profitability in Brazil and Argentina, offset by deterioration in Venezuela, including very low levels of production and our planning assumption that a major devaluation with a $350 million profit effect will occur in the first quarter. There are risks to this outlook, however, given the volatility of the situation in Venezuela and increasing risk in Argentina, where devaluation of the peso is accelerating and the government recently issued controls on vehicle imports.
+In Europe, we expect reduced losses including restructuring costs of about $400 million that will be reported in 2014 operating results. The European transformation plan continues to progress well and, as mentioned earlier, Europe remains on track to achieve profitability in 2015.
+Our new Middle East and Africa business unit is expected to approach breakeven results in 2014. In Asia Pacific, pretax profit is expected to be about the same as in 2013, reflecting continuing investments to support growth in 2014 and beyond; a slower rate of revenue and volume growth than the year ago due to production constraints; a more competitive pricing environment; and, finally, unfavorable results in Australia as we restructure the business and reflect the effects of a weakening Australian dollar.
+Automotive net interest expense is expected to be about the same as 2013. Finally, Ford Credit expects pretax profit to be about equal to 2013. Profit from growth and receivables should offset the continued normalization of credit losses, the continued run off of higher-yielding assets, and the impact of Ford Credit's strategy to increase its percentage of unsecured debt as we continue to build a stronger investment-grade company.
+Ford Credit also expects managed receivables at year-end of about $110 billion, managed leverage to continue in the range of 8 to 9 to 1, and distributions to its parent of about $250 million. Now let's look at what this means for the total company on slide 30, please.
+For 2014, we project US industry volume, including medium heavy trucks, to range from 16 million to 17 million units. In Europe, we expect a range of 13.5 million to 14.5 million units. And in China, we expect volume to range from 22.5 million to 24.5 million units.
+For our financial metrics, which are now aligned to the key drivers of total shareholder return, we expect Automotive revenue to be about the same as 2013. Automotive operating margin to be lower; Automotive operating-related cash flow to be positive, but substantially lower than 2013, including higher capital spending consistent with our mid-decade outlook of about $7.5 million. Pretax profit for Ford Credit is to be about the same as last year and company pretax profit, excluding special items, to range from $7 billion to $8 billion.
+In 2014 we are continuing to invest to create innovative products, such as the all new F-150, to ensure Ford has the freshest and most attractive product lineup in the industry. At the same time, we are investing to expand our portfolio into new markets, as well as adding capacity where appropriate to satisfy increasing demand. As a result, this year will be a solid year for the Company and a critical step forward in implementing our ONE Ford plan to continue delivering profitable growth for all.
+Turning to slide 31, in closing, our ONE Ford plan is built on a compelling vision, a comprehensive strategy, and relentless implementation. As the results we announced today make clear, our ONE Ford plan continues to deliver profitable growth around the world and we are absolutely focused on building great products, creating a strong business, and contributing to a better world.
+2013 was an outstanding year for Ford, the fourth year in a row, including continued strong results from North America, breakeven results in South America as we work to adjust to an uncertain environment in the region; continued successful execution of our transformational plan for Europe as we work to return to profitability in 2015; continued strong growth and record profitability in Asia Pacific Africa; consistent performance from our Ford Credit operation, which continues to deliver world-class customer service and solid bottom-line results; and record-breaking operating-related cash flow, which enabled us to continue our pension derisking strategy, resulting in a reduction of more than 50% of our global unfunded status.
+Now we would be pleased to take your questions. George?
+
+--------------------------------------------------------------------------------
+George Sharp,  Ford Motor Company - Executive Director, IR    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Alan. Now we will open the lines for about a 45-minute Q&A session. We will begin with questions from the investment community and then take questions from the media.
+Now, in order to allow for as many participants as possible within this timeframe, please keep your questions brief and please avoid asking more than two. Julie, can we have the first question please?
+
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+    Adam Jonas, Morgan Stanley.
+
+--------------------------------------------------------------------------------
+Adam Jonas,  Morgan Stanley - Analyst    [2]
+--------------------------------------------------------------------------------
+
+    Thank you very much indeed, just two questions. First, could you take this opportunity to describe how the F-150 truck changeover, given the 11 weeks of production downturn that you highlighted in the prepared remarks, how that can impact North American results this year by quarter? Even qualitatively, any extra guide qualitatively could be very helpful, given the potential for significant disruption quarter to quarter.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [3]
+--------------------------------------------------------------------------------
+
+    Okay, Adam. It's Bob. It's 13 weeks in total; it's 11 at Dearborn and 2 at Kansas City. And I think it's -- first of all, stepping back I think it's fair to say that when you look at the decline year-over-year that we are expecting in North America's results, it's largely attributable to the F-Series. That is probably about all we are going to say in terms of the financial effect of that series.
+In terms of calendarization, I am going to answer that somewhat differently because we didn't provide any specific commentary today on calendarization. I was expecting that you guys would ask about that. I think it could be an atypical year, and I think it's because of the product launches. It's also because of the uncertainties around particularly South America and some of the emerging economies and the effects that they could have on us quarter by quarter.
+As you know, we said in New York and still in our internal assumptions, we are assuming some sort of devaluation that we will be able to reflect in Venezuela. But given the recent pronouncements from the Maduro government, they are not clear exactly how that would happen as they've set up this two-tier network and how we would be able to capture that more accurate value of the currency and let that flow-through through a devaluation.
+So I think it's going to be an atypical year, and what I plan to do is as we go through each quarter and we kind of see where you guys are, if we think we need to kind of nudge you one way or the other, we will try to find an opportunity to do that in the course of that quarter.
+
+--------------------------------------------------------------------------------
+Adam Jonas,  Morgan Stanley - Analyst    [4]
+--------------------------------------------------------------------------------
+
+    Thanks, Bob. Yes, that would be very helpful given the potential disruption and, of course, to get investors to kind of more think about 2015 and get some comfort this year. Thanks.
+Just second question then on the Turkish lira and the economy. Can you guys remind us on your open position in Turkey? Are you net long or net short lira, given the exports of Transit? And maybe more simply, if the lira were to weaken substantially or stay weak, does that help your exports more than it hurts your local sales in terms of translation of profit? Thanks.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [5]
+--------------------------------------------------------------------------------
+
+    Some of that depends on the degree at which we can price in Turkey for that. But I think what it probably means is it will hurt the profitability of the Ford Otosan joint venture, but could have benefits, or at least more balance, if you will, across the board because so much of what they build in Turkey is exported back into Ford in Europe.
+
+--------------------------------------------------------------------------------
+Adam Jonas,  Morgan Stanley - Analyst    [6]
+--------------------------------------------------------------------------------
+
+    So you're not highlighting any particular direction one way or the other? Would you say kind of balanced overall, the impact on the Company?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [7]
+--------------------------------------------------------------------------------
+
+    I think maybe slightly negative. We actually had some negative effects within the year-over-year performance in Europe related to the Turkish lira.
+
+--------------------------------------------------------------------------------
+Adam Jonas,  Morgan Stanley - Analyst    [8]
+--------------------------------------------------------------------------------
+
+    Great, thanks very much.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions) Brian Johnson, Barclays.
+
+--------------------------------------------------------------------------------
+Brian Johnson,  Barclays Capital - Analyst    [10]
+--------------------------------------------------------------------------------
+
+    Talking about capacity actions and some of the costs of those booked in 2014 for later years, I'm wondering a couple things.
+One, just strategically, given that we seem to be in an era of cheap oil given the US domestic production, aging demographics, and given that your plant capacity utilization seems to be running better in trucks/CUVs than in cars, are you thinking about cars any differently? The balance between cars and CUVs and trucks any differently than you might have been, say, three or four years ago?
+Secondly, are any of these capacity actions to add CUV capacity or to make more of your factories flexible between the CUV and car variants of your platforms?
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+    You bet, Brian. Mark will take the lead on that.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [12]
+--------------------------------------------------------------------------------
+
+    I think fundamentally, as you know, as you we have stated in the past, we view the price of fuel over time to rise. That's why we have been so focused on fuel economy as a reason to buy for Ford. So I think we have not changed our view on that. I think we are well positioned from a capacity standpoint.
+As you know, we have been designing our manufacturing plants to be very flexible and also at the same time, as we have mentioned before, we -- now with our global ONE Ford products, we also have more flexibility on where that production comes from depending upon the region. So I think we are comfortable with our assumptions right now and we have the flexibility if we see changes.
+
+--------------------------------------------------------------------------------
+Brian Johnson,  Barclays Capital - Analyst    [13]
+--------------------------------------------------------------------------------
+
+    So what are the capacity actions you are contemplating?
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [14]
+--------------------------------------------------------------------------------
+
+    As we said, from a capacity standpoint here in North America, we have six facilities that will have some capacity actions this year. Globally, as we mentioned, we are opening three plants this year -- two in China, one in Brazil. And that's part of overall in Asia Pacific our 10 plants we've been building, which we have opened four so far and six to go.
+So as we grow the business we think that we are making sure we have the appropriate amount of capacity and flexibility to use the assets to the greatest extent.
+
+--------------------------------------------------------------------------------
+Brian Johnson,  Barclays Capital - Analyst    [15]
+--------------------------------------------------------------------------------
+
+    Are you going to make more plants in North America flexible like, say, Focus/Kuga and Focus/Escape?
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [16]
+--------------------------------------------------------------------------------
+
+    I think a majority of our plants are flexible here in the US. Won't talk about -- won't get into additional details of what we are doing, but clearly our whole approach of being able to match production to demand and do that flexibility, as you have seen in a number of our plants, will continue to walk down that path.
+
+--------------------------------------------------------------------------------
+Brian Johnson,  Barclays Capital - Analyst    [17]
+--------------------------------------------------------------------------------
+
+    Okay, thanks.
+
+--------------------------------------------------------------------------------
+Operator    [18]
+--------------------------------------------------------------------------------
+
+    Joe Spak, RBC Capital Markets.
+
+--------------------------------------------------------------------------------
+Joe Spak,  RBC Capital Markets - Analyst    [19]
+--------------------------------------------------------------------------------
+
+    Good morning, everyone. Thanks for taking my question. Just you guys have talked a lot in the past about the ongoing negative mix shift in North America and if we just -- in reviewing the year that totaled about $1 billion this year, during which a year where trucks -- truck growth significantly outpaced car growth. So I am just trying to get a sense from you guys, are we through the largest part of the, at least, year-over-year decline this year or does it actually get worse from 2013 looking at it?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [20]
+--------------------------------------------------------------------------------
+
+    This is Bob. How are you today?
+
+--------------------------------------------------------------------------------
+Joe Spak,  RBC Capital Markets - Analyst    [21]
+--------------------------------------------------------------------------------
+
+    Good.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [22]
+--------------------------------------------------------------------------------
+
+    Good. We did have a negative effect year over year. It wasn't as large as you indicated. I am just checking my facts right here.
+We are looking on a year-over-year basis of about 0.8 and only about 0.6 of that was mix among vehicles, which is what you were talking about. And that was largely the fact that we had such great success with our super segment vehicles. F-Series, while it was less as a percent of the total, actually grew its share of the segment. It was a growing segment, so it's a big positive for us.
+So I think it's -- and we've talked about this before, Joe -- I think it's a positive. We are focusing on one element of change, which is mix, but it's more growth in total. And so while the margins of those vehicles aren't as great as they are in some of the larger vehicles, it's more in total in terms of revenue and profitability and certainly helping our returns. And that is our plan going forward in terms of expanding the portfolio and particularly focusing on all segments, not just the trucks as we did historically.
+
+--------------------------------------------------------------------------------
+Joe Spak,  RBC Capital Markets - Analyst    [23]
+--------------------------------------------------------------------------------
+
+    Right. But would you classify where we are on that path along the shift as through the larger part of the steeper decline?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [24]
+--------------------------------------------------------------------------------
+
+    I would not expect to see that type of effect in 2014, but we will have to wait and see in terms of what happens after that.
+
+--------------------------------------------------------------------------------
+Joe Spak,  RBC Capital Markets - Analyst    [25]
+--------------------------------------------------------------------------------
+
+    Okay. And just maybe one point of clarification for me on the outlook. When you are talking about Asia Pacific about equal, is that with the actual printed results or --? I'm assuming eventually we're going to get some sort of split out between -- with the Middle East and Africa being separated out. So maybe you can just provide a little bit of clarification there.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [26]
+--------------------------------------------------------------------------------
+
+    Yes, that's -- with or without Middle East broken out we probably would've given the same guidance. We are going to have a Ford University event later in the quarter and one of the things that we will do, and I think we're going to do this in the 10-Q as well, is to provide some insight in terms of what the impact of that change is on the affected business unit.
+
+--------------------------------------------------------------------------------
+Joe Spak,  RBC Capital Markets - Analyst    [27]
+--------------------------------------------------------------------------------
+
+    Okay, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+    Matt Stover, Guggenheim.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [29]
+--------------------------------------------------------------------------------
+
+    Can't hear you, Matt.
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [30]
+--------------------------------------------------------------------------------
+
+    Do you want to go on to the next question, operator?
+
+--------------------------------------------------------------------------------
+Operator    [31]
+--------------------------------------------------------------------------------
+
+    He's now entered the call.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [32]
+--------------------------------------------------------------------------------
+
+    Matt, are you there?
+
+--------------------------------------------------------------------------------
+George Sharp,  Ford Motor Company - Executive Director, IR    [33]
+--------------------------------------------------------------------------------
+
+    Why don't we move to another analyst?
+
+--------------------------------------------------------------------------------
+Operator    [34]
+--------------------------------------------------------------------------------
+
+    John Murphy, Bank of America.
+
+--------------------------------------------------------------------------------
+John Murphy,  BofA Merrill Lynch - Analyst    [35]
+--------------------------------------------------------------------------------
+
+    Good morning, guys. First question is, as we look at the decline in margins in North America from 2013 to 2014, you highlighted the F-150 as the major reason for -- the change over there is the major reason for the decline. As we get into 2015 and 2016, are there any other structural factors you think that are going on in the market or in the business that shouldn't allow you to get back to that 10% margin range we've seen for the last two years?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [36]
+--------------------------------------------------------------------------------
+
+    Well, we still think that the target of 8% to 10% that we have talked about is appropriate. I think as we go forward -- we just had the question from Joe -- I think we will see pressure from a higher mix of smaller vehicles, and we've talked about that before; the pressure from increasing costs to meet regulatory requirements and the extent to which we can price or not to recover those as well.
+And then, as you recall in the discussion that we had in New York in December, we were building into 2014 to see how long this lasts, but we are building in a tougher pricing environment because of the benefits that particularly the Japanese manufacturers have from a weaker yen. Now that can change over time, but we've kind of built that in going forward as well.
+So we are still comfortable with the 8% to 10%, but those are types of examples of factors that sometimes when we have a quarter that's 12% or something like that we always get excited and think that we are on some new step level of performance in North America. It's these types of factors that we think are going to keep us in that 8% to 10% range.
+
+--------------------------------------------------------------------------------
+John Murphy,  BofA Merrill Lynch - Analyst    [37]
+--------------------------------------------------------------------------------
+
+    12% is a good number in a quarter to get excited about, even if it's just for a quarter.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [38]
+--------------------------------------------------------------------------------
+
+    I would love to have (multiple speakers).
+
+--------------------------------------------------------------------------------
+John Murphy,  BofA Merrill Lynch - Analyst    [39]
+--------------------------------------------------------------------------------
+
+    Not a bad thing to get excited about.
+Second question, on the US pension plan. Given that you are now probably 5% underfunded, or maybe even a little bit less than that, and the trajectory of rates should be reasonably good for that funded status going forward, do you think there is the potential to freeze this plan or potentially cut a deal with the UAW similar to what you did in 2007 with the healthcare trust?
+It just seems like you are getting to a point where you have other parties that might be interested in taking this on and sort of taking it out of the Company and really eliminating their risk in the equation. It just seemed like, given that the funding status has improved so much, you might have some options on the table. Have you had those discussions or have you thought about potential structural solutions here now that you getting closer to fully funded?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [40]
+--------------------------------------------------------------------------------
+
+    I wouldn't comment on discussions that we may or may not be having with UAW on this; that would be private between us. It's true that we are finally -- the light is at the end of the tunnel in terms of the funded status on all of our global funded plans and we expect to get there by mid-decade.
+The one thing I would say, John, is that our objective is to get to a funded status on an economic basis, not just on a US GAAP basis, so we have to go a little bit beyond in terms of what you would see from these data, which are US GAAP. But we are close. I think what it really means is that we don't have to contribute as much over the next two or three years and we talked about that in December. Now maybe about $1 billion to $2 billion a year, maybe at the low end of that range to get to the funded status.
+And then, of course, there are options, because once it's fully funded you can think about some of the things that you've talked about. There's always a premium involved in that. I don't know if that would make sense, if we would want to invest our cash in that way, but it's certainly an option. But we don't have any plans to do that at this time.
+
+--------------------------------------------------------------------------------
+John Murphy,  BofA Merrill Lynch - Analyst    [41]
+--------------------------------------------------------------------------------
+
+    Okay. And if I could just sneak in one follow-up question on the F-150. Traditionally when you go through a changeover that's this large there's a period, a quarter, or maybe even two, where there's an inventory buffer that's built ahead of the changeover. And then there's also some pricing actions ultimately to clear out that inventory.
+Do you think that you are going to manage this launch differently than that sort of historical pattern where you actually might be in a period where the inventory is really incredibly light or will you build this buffer? I'm just trying to understand this, because I think it's a big issue. Because if you don't build that buffer, the industry is going to be wildly short of pickup trucks and pricing on pickup trucks should be very strong this year.
+So just really trying to understand if you're going to build that inventory buffer or not.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [42]
+--------------------------------------------------------------------------------
+
+    I think overall, John, it's a good question. As you know, we have a lot of experience with this going back to the current generation of our F-150, which we did about four or five years ago, and the new generation five years before that where we staggered launches. So I think what you can expect from us is we have assumptions obviously around the industry and around segmentation, so I think we are well positioned from a stock standpoint to support our dealers throughout the year.
+You may see some months were it might be a bit elevated depending upon the sales rate, but we are maxing out our F-Series production this year and we feel comfortable with our assumptions.
+
+--------------------------------------------------------------------------------
+George Sharp,  Ford Motor Company - Executive Director, IR    [43]
+--------------------------------------------------------------------------------
+
+    Go on to the next question, please.
+
+--------------------------------------------------------------------------------
+Operator    [44]
+--------------------------------------------------------------------------------
+
+    Ryan Brinkman, JPMorgan.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  JPMorgan - Analyst    [45]
+--------------------------------------------------------------------------------
+
+    Good morning, thanks for taking my question. You touched on Argentina. Obviously it's still an evolving situation, but could you perhaps help us a bit more on the potential near-term negative impact, perhaps by relaying maybe how much cash is in that country relative to a place like Venezuela?
+Then I'm curious if you see any potential longer-term benefit, given that you export a lot of vehicles, I think the Focus and the Ranger, from there to Brazil and other places, too.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [46]
+--------------------------------------------------------------------------------
+
+    Your question actually highlights why we look at South America and what's going on now. It's trying to figure out exactly what's going to happen, because all those things are in play and it depends to the extent to which we can price it. It depends to the extent the government could take other actions as they did in Venezuela.
+We have been able to get cash out of Argentina, so we don't have the same type of exposure that we face in Venezuela where we have been unable to get the cash out. We still have about $700 million in cash sitting in Venezuela, whereas in the case of Argentina cash is minimal. In fact, our local balance sheet is relatively balanced. So don't face that issue.
+There's also positives. The thing that's interesting is as Argentinians are trying to store value in something that's more durable and it has actually created maybe a bit of the bubble in the overall industry. Pricing has been good there up till recently, because people want to put their currency or their value in something hard like a vehicle. So it has actually been a positive.
+But, overall, clearly now we are seeing is a much, much higher rate of inflation, much, much higher level of devaluation. We will have to see how the government chooses to respond to that in terms of any constraints they put on us as we try to manage the business. Longer term it could make Argentina more competitive and, as you pointed out, we do export from there so that would be a positive.
+Ryan, we just have to wait and see how all that mixes out and what the timing of it is. I think you have highlighted something I wanted to underscore today, which is to repeat but maybe with a bit more emphasis than what I even said in December, which is we have got an outlook for South America about the same as what we saw last year. But I would just underscore again the level of risk that we are going to have to manage, particularly over the next few months in Argentina and Venezuela.
+We'll just have to see how that all sorts out. I would remind you we have been in Argentina 100 years, so we have been through this before, but it takes a lot of work. But we've got folks that know how to deal in that type of environment.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  JPMorgan - Analyst    [47]
+--------------------------------------------------------------------------------
+
+    Very helpful and interesting. Then just second and last question. I understand that you just increased your dividend sizably, but also that at $36 billion in liquidity you are $6 billion over your target with a lot of your outsize pension contributions now behind you. So how should we think about the timeline of progressing toward your $30 billion target? Thank you.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [48]
+--------------------------------------------------------------------------------
+
+    I would go back to what we talked about in August at the conference where we laid out our cap strategy. We still have ahead of us about a $6 billion reduction in automotive debt. So if you remember we talked about getting down to about $10 billion and we are $15.7 billion, I think, at the end of last year, so that has got to be handled.
+Going back to the earlier answer on pensions, we still have $1 billion to $2 billion a year over the next two or three years to manage there. We also remind you we've got one of the large convertibles that needs to be taken care of towards the end of this year that will be worth about $1.6 billion or so, depends on the stock price, to take care of that if we were to use cash as opposed to stock. And so that option is on the table.
+So I think if you take all those together, you're going to find us getting down to the $36 billion and cash $20 billion, $21 billion.
+
+--------------------------------------------------------------------------------
+Ryan Brinkman,  JPMorgan - Analyst    [49]
+--------------------------------------------------------------------------------
+
+    Right, thanks.
+
+--------------------------------------------------------------------------------
+Operator    [50]
+--------------------------------------------------------------------------------
+
+    Rod Lache, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Rod Lache,  Deutsche Bank - Analyst    [51]
+--------------------------------------------------------------------------------
+
+    Good morning, everybody. You mentioned earlier, and said this may be a week or two ago, that you are looking to expand capacity at six plants in North America. Can you clarify is the F-150 among the products that you are looking to build capacity for? Are you basically holding at the three shifts capacity at the plants?
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [52]
+--------------------------------------------------------------------------------
+
+    Mark?
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [53]
+--------------------------------------------------------------------------------
+
+    Rod, I will just reiterate on the F-150, as you know we added the third crew onto Kansas City last year, so that is not one of the plants that we can add capacity. We have a sufficient amount of capacity at the F-Series plants. It's really at some of our other plants and some of it is adding capacity, some of it is changing line rates and those type of things.
+
+--------------------------------------------------------------------------------
+Rod Lache,  Deutsche Bank - Analyst    [54]
+--------------------------------------------------------------------------------
+
+    So if we were thinking about the drivers of North American earnings beyond 2014, obviously the 13 weeks of downtime for F-Series doesn't recur. An opportunity for truck volume beyond that or are you basically capped out? And is there an opportunity to improve contribution margins or is that something that you would think is more difficult given the regulatory requirements?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [55]
+--------------------------------------------------------------------------------
+
+    This is Bob. I think we will see -- our expectations are that we will see industry growth. We are still making investments in products that could include expansion of the portfolio. We will have to wait and see.
+And we are working to strengthen the brand and to make sure that we can get more out of every unit that we sell in terms of revenue. So I think -- and, of course, F-Series getting back up to speed after the changeover to the all new F-150, obviously, will put that back on track. So I think it's just growth across the entire portfolio supported by a growing industry.
+
+--------------------------------------------------------------------------------
+Rod Lache,  Deutsche Bank - Analyst    [56]
+--------------------------------------------------------------------------------
+
+    Okay. Just lastly, structural costs rose quite a bit in 2013 and historically you've given us some feeling for magnitude and regional increases and structural costs. Do you have any thoughts you can pass along for 2014?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [57]
+--------------------------------------------------------------------------------
+
+    Yes, I think we will see another year of increasing structural costs as we continue to grow across the world. It just won't be quite to the level that we saw in 2013.
+
+--------------------------------------------------------------------------------
+Rod Lache,  Deutsche Bank - Analyst    [58]
+--------------------------------------------------------------------------------
+
+    All right, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+    George Galliers, ISI Group.
+
+--------------------------------------------------------------------------------
+George Galliers,  ISI Group - Analyst    [60]
+--------------------------------------------------------------------------------
+
+    Good morning and thanks for taking my questions. I have two questions on Europe.
+Firstly, you are making big strides in retail share but commented that the quarter was weaker sequentially due to a seasonal slowdown in the UK. How much of your retail share gain is down to your exposure to the UK, which has clearly been outperforming and, therefore, not structural? And what do you see as a sustainable level of retail share going forward?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [61]
+--------------------------------------------------------------------------------
+
+    I don't know the answer right off the top of my head. As you know, we have a higher share in the UK than we do on average across Europe, so certainly the fact that the UK industry has outperformed the rest of Europe has benefited us, but I don't think that's the major part of the share increase at all. It has been largely due to the retail focus that we have had in Europe and it has been across a number of different vehicles, including Fiesta, Kuga. We've got the new EcoSport coming in and so forth.
+So I think it's largely around the focus of the team, the new products that we are rolling out. 40%, 45% of the lineup was new this year in terms of what we sold, so I think that's a bigger driver than the effect of the UK, although that clearly did help us.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [62]
+--------------------------------------------------------------------------------
+
+    I would just also add on the second part of your question on growing our retail share going forward, it's all based obviously on getting great product to customers. And you've heard in the past our 25 vehicles that we've been launching in the last five years.
+So we announced or we launched 11 last year. We're going to launch 12 this year. So that gives you a little indication of the product part of the plan and how we are supporting new products to the marketplace.
+A little over 40% of the sales in, crosswide in Europe in 2013 was from new products or significantly refreshed products. And when you look at our order banks, December year over year it's up about slightly less than 30%. So we feel as long as we can continue to deliver these great products to customers we're very encouraged by the response from them and, importantly, our dealers are feeling more encouraged.
+They improved their profitability last year and also importantly they've stepped up and over 2,500 dealers have agreed to upgrade their facilities over the next year or two, so they are also very encouraged in anticipation of the growth.
+Finally, from a brand standpoint, getting back to our Europe transformation plan around product branded cost, on the brand front the brand is getting stronger based on the metrics that we see. Pricing is improving versus the competitors. And as you know, we've gotten our stocks in line, particularly along the lines of self-registered stocks, which are down significantly, which also helps the brand.
+
+--------------------------------------------------------------------------------
+George Galliers,  ISI Group - Analyst    [63]
+--------------------------------------------------------------------------------
+
+    Excellent, that all sounds very positive. Actually, just sort of following on from starts, my second question was could you provide some color on your European forecast where you have production down slightly year on year in Q1? It just seems a bit conservative to me given SAAR today is running around 5% higher than in Q1 last year and, as you mentioned, your stock levels are down considerably both year on year and sequentially.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [64]
+--------------------------------------------------------------------------------
+
+    Right now when you look at our stock levels, they are broadly in line with our plan. Obviously, as part of our process, we look at the SAARs, both across Europe and within each country, on a monthly basis and we make appropriate production changes. So we will stick exactly to our plan of matching production to demand and as we see the industry, potentially if it picks up, we will produce more. And if not, we will adjust our stocks accordingly.
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+    Itay Michaeli, Citigroup.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citigroup - Analyst    [66]
+--------------------------------------------------------------------------------
+
+    Great, thanks. Good morning. Bob, just a point of clarification. With the improvement in the pension in 2013 can you provide any outlook for pension expense in 2014, maybe both North America and international if you have it?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [67]
+--------------------------------------------------------------------------------
+
+    As you saw in the slides, slide 26, the pension expense was $1.6 billion. We expect that to be lower in 2014, reflecting the improved funded status.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citigroup - Analyst    [68]
+--------------------------------------------------------------------------------
+
+    Okay. I expect it would be more North America given the contributions or would that improvement be a bit more broad-based geographically?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [69]
+--------------------------------------------------------------------------------
+
+    Mainly North America and Europe.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citigroup - Analyst    [70]
+--------------------------------------------------------------------------------
+
+    Okay, perfect. Then just the second question. Hoping we could do more of a big bucket walk into the profit outlook for Europe in 2014. I know you had some slight market growth assumption. I think there's maybe a $50 million tailwind from lower restructuring.
+Any other big buckets in terms of what you are expecting or early kind of modeling in for pricing and maybe other cost buckets we should think about for Europe in 2014?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [71]
+--------------------------------------------------------------------------------
+
+    Just very broadly, the way that I would think about Europe, we're not going to put into any dimension the actual improvement that we are looking at, at least not at this point in time. But you are going to see positive market factors in Europe in 2014 and we would expect that to be both sort of volume and mix.
+And I think we will do better on net pricing, going back to Mark's comments, around all the new products as well as the fact that the market seems to be slightly turning, which is going to help a bit. I don't think you are going to see too much change in total on costs and so a lot of that will just flow through.
+
+--------------------------------------------------------------------------------
+Itay Michaeli,  Citigroup - Analyst    [72]
+--------------------------------------------------------------------------------
+
+    That's helpful, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [73]
+--------------------------------------------------------------------------------
+
+    (Operator Instructions) We are now switching to media. Craig Trudell, Bloomberg News.
+
+--------------------------------------------------------------------------------
+Craig Trudell,  Bloomberg News - Media    [74]
+--------------------------------------------------------------------------------
+
+    Good morning. I had a question related to the guidance for pricing for North America and the comments about the yen.
+Ford has been pressuring the government to include some provisions related to currency issues in the TPP trade deal. I wonder to what extent you can talk about just how receptive you are sort of feeling, how receptive the regulators are about that as they work on this deal.
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [75]
+--------------------------------------------------------------------------------
+
+    Craig, this is Alan. We are very positive with the response and the discussions that are taking place, because clearly the awareness of the global interdependencies and the importance of global rule-based trading is really, really becoming clear to everybody. So currency discipline and having the markets set the currency rates is very -- is going to be very well understood and the importance of it. So we are very pleased about the dialogue that is going on now associated with, as you pointed out, with TPP.
+
+--------------------------------------------------------------------------------
+Craig Trudell,  Bloomberg News - Media    [76]
+--------------------------------------------------------------------------------
+
+    Great, thank you.
+
+--------------------------------------------------------------------------------
+Operator    [77]
+--------------------------------------------------------------------------------
+
+    Alisa Priddle, Detroit Free Press.
+
+--------------------------------------------------------------------------------
+Alisa Priddle,  Detroit Free Press - Media    [78]
+--------------------------------------------------------------------------------
+
+    Good morning, gentlemen. I just wanted to ask; you were saying that basically all of your metrics were met except for quality. I don't know if you are able to quantify sort of how far off you are and, more importantly, how you would -- are addressing it for 2014 and how you think this year will be better on that front.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [79]
+--------------------------------------------------------------------------------
+
+    Alisa, it's Mark. When you look at our quality performances, as we mentioned, the three big areas where we've talked about before in North America around MyFord Touch and transmissions and some interior items, we've made a lot of progress. Interestingly enough, significant progress on MyFord Touch at the same time we have seen a much higher take rate of MyFord Touch, so that has tempered our improvement that we've seen there.
+I can tell you that we are all intensely focused on continuing to improve our quality. Not only here in the US, of course during a year where we have a lot of launches, but when you look in South America we had some issues at the end of 2012. I think we are through that. We've had very good performance in Europe, as well as Asia Pacific.
+So we're just going to stay intensely focused on that and keep listening to our customers and improving our quality. We are absolutely committed to that.
+
+--------------------------------------------------------------------------------
+Alisa Priddle,  Detroit Free Press - Media    [80]
+--------------------------------------------------------------------------------
+
+    Because it is -- with the focus that has been coming down from the top for a number of years and, as you say, this is going to be an even tougher year, so I don't know, I guess trying to figure out what changes to tackle it.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [81]
+--------------------------------------------------------------------------------
+
+    Well, I think you're going to have, as we mentioned, consistent commitment to this. Joe Hinrichs and the North American team are very focused on this, particularly around the launches as well as the in-plant controllables. So we are very confident we are working on the right items and we will continue to do that going forward.
+
+--------------------------------------------------------------------------------
+Operator    [82]
+--------------------------------------------------------------------------------
+
+    Karl Henkel, The Detroit News.
+
+--------------------------------------------------------------------------------
+Karl Henkel,  The Detroit News - Media    [83]
+--------------------------------------------------------------------------------
+
+    The pie chart that normally is on slide 1 of your presentations with the breakdown between Americas, Europe, and Asia Pacific Africa, I'm just wondering with the Middle East and Africa breakout now how we should kind of view that breakdown moving forward.
+And then the second question is regarding the F-Series and more on the powertrain side. I know you are adding the new EcoBoost engine to the lineup, but I haven't quite heard you say anything about where that incremental production is going to come in at and how you are going to, I guess, work that situation during the kind of extended crossover from this generation to the next generation.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [84]
+--------------------------------------------------------------------------------
+
+    Karl, I'll take the first one and Mark can kind of help you out in the F-Series question.
+I think the way to think about Middle East and Africa, and obviously we will talk more about that as the year progresses, is it's maybe about 70%, 80% the size of South America in terms of industry volume. We've got about a 5%, 5.5% market share.
+So, when you think about where the volume will come from, you will see some volume coming from North America and that was largely going towards the Middle East. You will see some volume coming out of Europe, because that volume largely was going into North Africa and into Israel and other parts of the Middle East. And then you will see some volume coming out of Asia Pacific Africa and that's largely the Ranger that was exported from both AAT in Thailand and a little bit in South Africa.
+So that will all collect into what will be our new business unit, Middle East and Africa. With only about maybe 250,000 units, 220,000 units, something of that range and you break it among the three, it's not going to have a big effect immediately. What we are really targeting is the huge growth opportunities in that region with 1.3 billion of customers that represents in the year ahead as their disposable incomes continue to rise.
+
+--------------------------------------------------------------------------------
+Mark Fields,  Ford Motor Company - COO    [85]
+--------------------------------------------------------------------------------
+
+    Karl, on your second part of your question, as you know as part of our F-Series launch, capability -- we have stressed capability. So we have the four new powertrains, two of them all new, one you mentioned; the 2.7 EcoBoost, we have a new V-6 naturally aspirated; and of course the 5-liter as well as the 3.5-liter EcoBoost. So from a manufacturing standpoint, we are not going to discuss the 2.7 today, but we will in the future as we get closer to the launch.
+
+--------------------------------------------------------------------------------
+Karl Henkel,  The Detroit News - Media    [86]
+--------------------------------------------------------------------------------
+
+    Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [87]
+--------------------------------------------------------------------------------
+
+    Mike Ramsey, Wall Street Journal.
+
+--------------------------------------------------------------------------------
+Mike Ramsey,  Wall Street Journal - Media    [88]
+--------------------------------------------------------------------------------
+
+    Good morning, everybody. I mainly just wanted to ask a question, and maybe Bob or anyone who wanted to take this. In terms of the heavy investment cycle for new products, you have a lot coming up this year. If we are to look out over the next couple years, is this your heaviest year for big investments around the world? Will it ease up in the next couple of years after this or are you going to stay on this kind of level of investment for a few years out?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [89]
+--------------------------------------------------------------------------------
+
+    Well, what we have guided is over the mid-decade about $7.5 billion of CapEx per year. And what I would expect for the years ahead that to fluctuate a little bit around that. And as we find more and more growth opportunities, hopefully -- I hope we will have a chance to invest more into even more growth and that's actually what happened from June 2011.
+In June 2011 we guided to $6 billion and, as we understood the opportunities of the ONE Ford plan, we just found so many more ways in which we were going to be able to drive the business growth forward. And that resulted in the increase in spending. But I think $7.5 billion, plus or minus, over the next two or three years is probably about right.
+
+--------------------------------------------------------------------------------
+Mike Ramsey,  Wall Street Journal - Media    [90]
+--------------------------------------------------------------------------------
+
+    In terms of cash flows, though, I'm curious whether the cash flow situation is expected to maybe improve out after this year in terms of positive net cash flow.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [91]
+--------------------------------------------------------------------------------
+
+    Yes, I would expect that.
+
+--------------------------------------------------------------------------------
+Mike Ramsey,  Wall Street Journal - Media    [92]
+--------------------------------------------------------------------------------
+
+    Cool, thanks.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [93]
+--------------------------------------------------------------------------------
+
+    Yes, I think it is very cool.
+
+--------------------------------------------------------------------------------
+Alan Mulally,  Ford Motor Company - President & CEO    [94]
+--------------------------------------------------------------------------------
+
+    Great summary, Mike.
+
+--------------------------------------------------------------------------------
+Operator    [95]
+--------------------------------------------------------------------------------
+
+    Dee-Ann Durbin, Associated Press.
+
+--------------------------------------------------------------------------------
+Dee-Ann Durbin,  Associated Press - Media    [96]
+--------------------------------------------------------------------------------
+
+    Good morning, thanks for taking the call. On slide 23, Bob, you talked about unfavorable residuals and lower-than-expected auction values in impacting Ford Credit. Can you just explain that a little bit, what was going on there?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [97]
+--------------------------------------------------------------------------------
+
+    Yes, I will give a brief comment and then Mike Seneski can fill in.
+When you look at what happened, this is largely, if you look at the previous slide, it was -- it all happened in the fourth quarter. And part of what happened is you had a reduction in auction values, but also what you had last year, if you remember, we had Hurricane Sandy that really devastated the Northeast. And the Northeast is an area of high lease take rates. And so that storm had the effect of creating, if you will, a little bubble, if you will, of auction values.
+Now on a year-over-year basis we have kind of normalized versus that and so on a comparative basis you are seeing a big decline. I think that explains a lot of it, but I will let Mike supplement.
+
+--------------------------------------------------------------------------------
+Mike Seneski,  Ford Motor Credit Company - Vice Chairman & CFO    [98]
+--------------------------------------------------------------------------------
+
+    No, that's exactly right, Bob. Overall, the industry for late-model used vehicles was down pretty substantially and it's because you have got a strange comparison. Hurricane Sandy really increased values for those vehicles; not only in the fourth quarter of 2012, but also in the first quarter of 2013. So we don't think this signals any type of bad news trend for our residuals and we will keep a good watch on it going forward.
+
+--------------------------------------------------------------------------------
+Dee-Ann Durbin,  Associated Press - Media    [99]
+--------------------------------------------------------------------------------
+
+    Okay, thank you. That helps explain it, thanks a lot.
+
+--------------------------------------------------------------------------------
+Operator    [100]
+--------------------------------------------------------------------------------
+
+    Joann Muller, Forbes.
+
+--------------------------------------------------------------------------------
+Joann Muller,  Forbes - Media    [101]
+--------------------------------------------------------------------------------
+
+    Dee-Ann asked exactly the question I was going to ask, so thank you very much. That's all.
+
+--------------------------------------------------------------------------------
+Operator    [102]
+--------------------------------------------------------------------------------
+
+    We will now go back to the investors' questions. Emmanuel Rosner, CLSA.
+
+--------------------------------------------------------------------------------
+Emmanuel Rosner,  CLSA - Analyst    [103]
+--------------------------------------------------------------------------------
+
+    Good morning. I wanted to ask you a point of clarification on the tax rates in the quarter. Obviously, you had a big tax benefit which you excluded from the operating results, but even in the operating results it looks like the tax charge was quite low. I apologize if you went over that already, but could you please explain what happened?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [104]
+--------------------------------------------------------------------------------
+
+    On the operating side we had a benefit from a change in our repatriation plans of distributions from Ford Credit outside the US. So we had booked taxes through the course of the year on the assumption that we would make that repatriation, but we didn't through some restructuring in Europe leaving the cash there. So that enabled us to -- we had to reverse that, if you will, into the fourth quarter.
+The other thing that happened on the specials front, which is about $2.1 billion of good news, which as you said was not included in the operating. About $1.5 billion of that had to do with investments in our European legal entities, which enabled us to increase our deferred tax assets.
+And then, in addition to that, we had about $440 million of good news that was a tail of what we did back in December of 2011. At that time we released most of our valuation allowances against our US deferred tax assets, but not all. The ones we didn't release were largely related to US state and local income taxes.
+The team has concluded that as we look ahead that we are going to be able to utilize those assets that we have released the valuation allowance against that, which enables the deferred tax assets to show up, if you will, on the balance sheet and flow through income. So those two explain largely the $2.1 billion.
+
+--------------------------------------------------------------------------------
+Emmanuel Rosner,  CLSA - Analyst    [105]
+--------------------------------------------------------------------------------
+
+    Understand.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [106]
+--------------------------------------------------------------------------------
+
+    What I would like to do is to answer my own question. So my own question is why are you results in the fourth quarter in Europe so much worse than the third quarter? Because I kept waiting for somebody to ask the question, and since you didn't, I'm going to ask it for you.
+The answer, as I said, is largely around the fact that -- and this is a bit of a mea culpa. We had about $110 million of a number of different one-time, I call them cleanup, factors that occurred in the fourth quarter. We had about $50 million or $60 million of favorable factors in the third quarter, which I did not highlight because it's not material.
+We normally wouldn't talk about something that small, but unfortunately we are getting caught on a quarter-to-quarter basis going from favorable to unfavorable. So that's about 50% of the impact and then there's about $115 million or so of seasonality. So it's about 34% of the difference, which is largely in cost but also there's a seasonal effect in Europe in terms of the profitability of parts and service.
+So that basically explains most of it and the balance is related to higher restructuring in the fourth quarter versus the third. I wanted to tell you that because I know that that's probably going to be a question that you guys will be coming back in talking to George and John and the team, and I just wanted to get it out there publicly so that they could talk to you about.
+
+--------------------------------------------------------------------------------
+Emmanuel Rosner,  CLSA - Analyst    [107]
+--------------------------------------------------------------------------------
+
+    All right. Well, that was not going to be my second question, but still very helpful.
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [108]
+--------------------------------------------------------------------------------
+
+    You can have another one; question of your choice.
+
+--------------------------------------------------------------------------------
+Emmanuel Rosner,  CLSA - Analyst    [109]
+--------------------------------------------------------------------------------
+
+    If I still get another one, then just wanted to get back on the North American margin cadence. I understand that you will provide some helpful guidance throughout the year to help us in the right direction. But when I think about the full-year number of 8% to 9% margin and the fact that your downtime seems to be more weighted towards the second half, how much below this 8% to 9% can margin be in any given period?
+
+--------------------------------------------------------------------------------
+Bob Shanks,  Ford Motor Company - EVP & CFO    [110]
+--------------------------------------------------------------------------------
+
+    I would not provide any guidance on that. I would like to maybe share one other thing with you that maybe will help you guys as you're thinking about the first quarter.
+One of the things that we've noticed is that, in general, you guys are expecting higher wholesales relative to production than what we are seeing. And I just wanted to let you know that we expect to see a bigger gap between production and wholesales in North America in the first quarter than what you are presently expecting on average and that's because we've got increased export.
+Some of that is the phenomenon of the Middle East that I talked about, which those units now no longer will be in wholesales for North America, at least the ones that they sent over. Now they will be showing up in the Middle East and Africa. And we also have the normal inventory still following the year-end shutdown.
+So just wanted to make you guys aware of that as we were kind of looking at your analyses, which we do.
+
+--------------------------------------------------------------------------------
+Emmanuel Rosner,  CLSA - Analyst    [111]
+--------------------------------------------------------------------------------
+
+    All right, thanks for your answers and for your questions.
+
+--------------------------------------------------------------------------------
+George Sharp,  Ford Motor Company - Executive Director, IR    [112]
+--------------------------------------------------------------------------------
+
+    That will wrap up today's session. I would like to thank everyone and we are really glad that you were able to join us.
+
+--------------------------------------------------------------------------------
+Operator    [113]
+--------------------------------------------------------------------------------
+
+    Thank you, George. Ladies and gentlemen, that concludes your conference call for today. You may now disconnect. Thank you for joining. Have a great day.
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,430 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Half Year 2014 Barclays PLC Earnings Call (Fixed Income Analyst and Investor)
+07/30/2014 03:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Steven Kenpeth
+   Barclays PLC - Head of Execution, Capital and Term Funding
+ * Dan Hodge
+   Barclays PLC - Group Treasurer
+ * Tushar Morzaria
+   Barclays PLC - Group Finance Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Smalley
+   UBS - Analyst
+ * Corinne Cunningham
+   Autonomous Research - Analyst
+ * Carlo Mareels
+   RBC Capital Markets - Analyst
+ * Gildas Surry
+   BNP Paribas - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the Barclays 2014 half-year results fixed income analyst and investor conference call. I will now hand you over to Tushar Morzaria, Group Finance Director.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, and welcome to our interim results fixed income call. The purpose of this call is to provide our fixed income investors and analysts with the opportunity to hear about our half-year results, and to do so in a way that is relevant to your interests, and to have the opportunity to ask any questions. I'm joined here by Dan Hodge, our Group Treasurer, and Steven Penketh, our Head of Capital Markets Execution.
+For those of you who dialed into the main results call this morning, you'd have heard me talk at some length about our half-year financial performance. Let me provide a brief summary here. Group adjusted profit was GBP3.3 billion in H1, down 7%, and that was driven largely by a 12% reduction in income to GBP13.3 billion, primarily in the investment bank.
+Without the headwinds from a foreign exchange movements, our Group adjusted profits in this half would have been up 5% year-on-year. We increased income in personal and corporate banking, or PCB, and Barclaycard, and Africa Banking was up on a constant currency basis. Impairments for the first half of 2014 improved by 33% to GBP1.1 billion.
+We continue to make good progress on reducing operating expenses. The total Group cost space fell by 9% to GBP8.9 billion. That was driven by improvements across all businesses. Included in this, our cost to achieve charges which are GBP494 million in the half.
+Within these Group numbers are core and non-core business performance which I'll also cover briefly. Our core businesses performed well, and we generated an RoE of 11%. Profits in PCB and Barclaycard increased by 23% and 24%, respectively. Africa Banking was up as well on a constant currency basis.
+Investment bank performance continues to be impacted by challenging trading conditions especially in the markets businesses, but its performance is broadly as we expected. The headline core adjusted profits were just over GBP3.8 billion for the half.
+On costs, the significant progress we made in Q1 continued in the second quarter. Core operating expenses in H1 were GBP7.9 billion, and that's down over 4% on last year. Excluding CTA charges reduced expenses by 7% year-on-year. Impairment and our core businesses improved by 13%, driven by PCB and Africa contributing to the Group loan loss rate of 45 basis points.
+We continue to see favorable credit risk metrics, and we expect conditions to remain broadly stable in the near term. For the full year, I've seen the implied consensus impairment for the overall Group and H2 which I'm broadly comfortable with.
+Our non-core unit reported declines in income, impairment, and costs as expected. That resulted in a decrease in attributable loss from GBP619 million to GPB464 million, and as you know we expect operating losses to continue through our planning period to 2016, but managing the capital requirement of non-core is as important as managing the operating losses. I'm pleased to report that we have had a strong start in running down assets in Barclays' non-core.
+Since the start of the year, we reduced non-core RWAs are GBP22 billion to GBP87 billion, mostly driven by sales and paydowns. The result of the reduced loss and lower allocated capital is the drag on Group RoE was 4.5%, compared to 7.4% for the full-year 2013. We're pleased with that.
+Turning to slide 4 and our strong credit fundamentals, in the first half of 2014 we generated GBP1.2 billion of capital from profits in the period, despite headwinds from GBP900 million of PPI provision. After regulatory deductions, dividends and other reserve movements, retained regulatory capital generated from earnings increased CET1 by GBP400 million.
+You have seen that our 2013 full-year RWA estimates have been revised to GBP442 billion as a consequence of a point-in-time adjustment to our earlier CRD IV RWA estimates. This revision has come as a consequence of regulatory filings made in June, and had a [circa] 15 basis point impact on full-year and first-quarter CET1 ratios.
+Our fully loaded CRD IV CET1 ratio has increased as a consequence by 80 basis points to 9.9% on a like-for-like basis. This reflects the underlying ability of our businesses to generate capital and our success in reducing RWAs. We expect to progressively accrete capital and further reduce RWAs in subsequent quarters, and we're well on our way to our 2016 target of over 11% CET1.
+Our PRA leverage ratio has also continued to improve, finishing H1 at 3.4%. That's comfortably above the PRA request of 3% for the reduction of GBP99 billion in leverage exposure over these six months.
+With that, I'd like to hand over to Dan to take you through our capital, liquidity, and funding plans in more detail, after which we'll take your questions.
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Tushar, and good afternoon, everyone. The rest of this call will focus on what we see as the key takeaways to the fixed income investor community. I'll give you our views on capital, funding, and liquidity, as well as touching on regulatory reform.
+I'm pleased to say that the Bank continues to make good progress on a number of key balance sheet metrics, and not least on leverage where we successfully exceeded the minimum 3% leverage request set by the PRA and July last year. Our updated strategy rebalances the Group's earnings and is expected to improve the financial strength and performance over time.
+A smaller investment bank and less volatile earnings are good from both capital and liquidity management perspectives. Capital leverage progression are embedded in the Group's plans and are articulated in the financial commitments we have made to the market. From a treasury perspective, our focus is on implementing robust capital funding and liquidity plans that capture the diversification benefits for the Group while also maintaining flexibility in order to meet still evolving regulatory requirements in the jurisdictions in which we operate.
+Let me start then with the progressive strengthening of our capital and leverage on slide 6. Our capital (inaudible) requires an underlying trend of capital accretion of on average 50 basis points per annum. That's the equivalent of GBP2 billion of retained earnings net of dividends per annum, even without the effects of further RWA reductions.
+In practice, we continue to target a net reduction of RWAs in the next few years in addition to such capital accretion. There will be some volatility on a quarter-by-quarter basis as you might expect, but the more important factor is the sustained annual trajectory.
+Our fully loaded CET1 ratio has already increased to 9.9% the first half of 2014 from 9.1%. That represents strong progress. As Tushar has said, we're on target for CET1 ratio of greater than 11% by 2016.
+Given the ongoing conduct and litigation risks we have factored in general overlays to capital accretion into our plans. We're confident we can still meet our desired (inaudible). Leverage exposure reductions in the first half of 2014 of GBP99 billion have come from derivative efficiencies, principally in the non-core investment bank by a reduction in derivative [PSC] and regulatory exposure for [repos] partially offset by an increase in settlement balances.
+In June 2014 the PRA updated the supervisory statement 3/13 requiring Barclays and the other major UK banks and building societies to meet a 3% fully loaded leverage ratio on the revised [BCBS] basis from 1July 2014 onwards. This ratio calculation does not include the headwind deductions featured in the PRA leverage ratio. On the [strict BCBS] fully loaded ratio definition of leverage, the Group already estimates a 3.4% ratio, demonstrating the business' continued ability to absorb regulatory change.
+We intend to run the business on a [BCBS] leverage ratio of greater than 4% by the end of 2016. We expect to achieve that through a balance of capital accretion and reduction of leverage exposures in the non-core business and core investment bank, with such reductions more than offset planned growth in PCB, cards, and Africa.
+We've made good progress in reducing leverage exposure to date, and are on track to meet the levels of deleveraging set out in our 8 May strategic announcement to end of 2016. Should [end] state regulation require the Group to meet a higher requirement, we can go further. We manage the business to optimize between both capital and leverage constraints. We have the tools and flexibility to adapt.
+Our deleveraging will enable us to meet legal entity as well as consolidated leverage requirements. The primary example of this is the US, while reductions in our repo book will enable us to meet US intermediate holding company leverage requirements.
+The successful execution of our legacy Tier 1 capital exchange in June which created GBP2.3 billion of new additional Tier 1 capital had a 17 basis point impact on the leverage ratio, and demonstrates further progress in our planned transition to our end-state capital structure which I will now turn to.
+Moving to slide 7 our capital ratio at the half year was 16% on a PRA transitional basis, and 15% on the fully loaded basis. After Tier 1% exchange we're over halfway to meeting our currently assumed 2% AT1 target with GBP4.3 billion of qualifying AT1 securities outstanding and GBP4.6 billion when minority interests are included. The exchange allowed us both to retire some of our legacy Tier 1 instruments that have less regulatory capital value under CRD IV, and transition our capital [stack] further to [hold co]. We have guided previously but will expect to issue most of our capital as hold co as we move towards the Bank of England's expectations of the single point of entry model. This remains the case.
+Our first issuance of Tier 2 from hold co was unfortunately delayed mid-execution as a consequence of the filing of the New York attorney general's dark-pool complaint, to which we've now responded. This was regrettable from a timing perspective, but the decision not to proceed was taken in the interest of investors and the wider market, and it was justified by the immediately ensuing negative spread movement in our subordinated debt.
+As mentioned previously we continue to target an end-state total capital ratio, that's CET1, AT1, and Tier 2, of at least 17% for planning purposes until we have further clarity from the [FSB] for international GLAC requirements. We'll continue to issue out the hold co, knowing it is likely that the GLAC requirements will be above 17%, given the 20% to 25% range that is expected. We'll update the market on impact in our end-state capital structure and its interaction with GLAC when the regulatory position becomes clear.
+GLAC is an important component of the overall capital structure of all systemically important banks in a structurally reformed world. It's not the only driver of our final capital requirements or its allocation within the Group. Barclays [ring-fence] bank will be a material entity within the UK banking system. It will have standalone capital and leverage requirement which may be higher than those at the Group consolidated level.
+Our thinking on the size and scope of the ring-fence bank is evolving. We'll be in a position to communicate our plans more fully when we have further clarity on regulation via secondary legislation passing through Parliament currently, and subsequently, more detailed regulatory rules from the PRA.
+What we see currently we believe this is a manageable issue for Barclays. In addition to this, we're working on the shape and structure of our US intermediate holding company. We'll submit a plan to the Fed by 1 January 2015.
+It is important for the bank to have a clear view of the whole Group structure before guiding on any individual components. We expect to come back to the market next year to provide guidance on the overall and state corporate structure the group, once we have full (inaudible) on these plans.
+I'll turn now to slide 8 on liquidity before finishing on funding and opening up the call for Q&A. Liquidity pool assets increased over the half year from GBP127 billion to GBP134 billion, meeting Barclays liquidity risk capital framework and in excess of regulatory requirements. This relatively modest increase was due to accelerated deleveraging.
+The liquidity pool remains high-quality. Cash and deposits held in central banks accounted for 31% of the liquidity pool. Of the 52% of the pool comprised of government securities, 44% were very liquid obligations, predominantly at the UK, Germany, and US.
+The liquid asset pool an 30 June 2014 represented 107% of the liquidity required to meet our internal 30-day Barclays specific stress. That represents a buffer of GBP9 billion above our internal minimum stressed outflows. The estimated LCR was also 107% in H1, equating to a GBP9 billion excess on the expected CRD IV defined 100% standard for 2018.
+The LCR has increase primarily as a result of growing liquidity pool and extending the [tenor] of wholesale and secured and [repo] financing. The liquidity pools is also GBP50 billion larger than our portion of wholesale debt that matures in less than one year. Our weighted-average maturity of wholesale funds, net of the liquidity pool, was at least 80 months at H1, compared to 69 months of the full year.
+Our longer term funding structure also remains robust. Our estimated NSFR in H1 2014 increased from 110% to 113% under the CRD IV calculation. It also increased to 98% from 95% under the latest BCBS definition. We expect to exceed 100% well before the 1 January 2018 compliance date as repo funding in the non-core bank declines.
+Moving on to funding and slide 9, we use two measures for the loan to the public ratio in the management of our asset liability profile. The LDR for the Group including wholesale funding businesses, trading (inaudible) balances, and cash collateral was 100%. That compares to 101% at the end of 2013, showing continued balance across deposit and wholesale funding.
+The loan-to-deposit ratio for PCB, non-core retail, Barclaycard, and Africa was broadly unchanged for the half-year at 92%. This ratio is very close to 100% when the contributions of the liquidity pool for those businesses is included, making them broadly self-funded. During H21, we were very active in the wholesale funding markets, and we successfully completed GBP9 billion of term funding, net of early redemptions, plus GBP6 billion raised through participation in the Bank of England's Funding for Lending Scheme.
+We completed eight public benchmarks senior unsecured transactions in the first half of the year in US dollar, euros, Australian dollar, and yen. We saw consistently strong investor demand for in these transactions, and we're pleased that we can continue to access the diverse funding markets after a period of time focused on capital transactions.
+In secured, we successfully issued $1.3 billion from our US credit card business, and continue to attract significant new investors to Dry Rock, the newest of our funding platforms. We also recently issued GBP750 million from our UK card securitization, Gracechurch.
+Our overall stock of wholesale funding however continues to fall as we delever the balance sheet. With GBP12 billion of term funding maturing in the remainder of this year. You can expect us to look for issuance opportunities among secured, unsecured, and capital, and still be materially below [older] maturities for the year GBP24 billion. The precise [content] mix will depend on market conditions, and the progress we're able to make in a sell down of non-core assets as we look to maintain a stable and diverse funding base by type, currency, and distribution channel.
+Funding and liquidity continues to be managed centrally for the overall benefit of the Group. Costs are allocated from head offices to businesses through our funds transfer [proxy] model. Capital and funding instruments are not individually allocated. The deleveraging of our balance sheet will ultimately lead to lower absolute wholesale funding requirements. With the significant levels of maturing debt, future GLAC requirements to plan for, and supporting market conditions, you can expect it to continue to be a regular issuer.
+Let me conclude on slide 10 before handing it back to Tushar, and who will open the call up to Q&A. Post the (inaudible) update in May and the constant changes we're making to the business, Barclays continues to focus on maintaining a core set of businesses to deliver less volatile performance with a clear trajectory of capital, leverage, and RoE ratio improvements for the Group. We continue to benefit from the diversity of the businesses in Barclays' portfolio, and we're positioning ourselves for future growth through the managed sell down of non-core.
+In contrast, the significant work is still required to meet the requirements of structure reform in the way that manages the expectations of all our stakeholders. However, we continue to be confident in our ability to adapt, and the changes we're making at a consolidated and legal entity level will ensure we meet our requirements. That's illustrated by the reduction in our secured financing book to meet bank consolidated and US [IHC] leverage requirements, and by issuance of AT1 out of the hold co.
+Our financial commitments underpin by robust capital liquidity and funding plans that can adapt to changing business and regulatory environments. Our liquidity pool remains large and high-quality and in excess of increasing regulatory requirements.
+Our term funding continues to be diverse with new issuance well received by the market. We strengthen our capital position, and we're well on our way to our 2016 target of over 11% CET1. We have exceeded the PRA's leverage request over the past 12 months, and are already in excess of the 3% leverage requirement calculated on the BCBS go-forward basis. We aim to deliver a leverage ratio above 4% in 2016 with a flexible plan to adapt to higher requirements in end-state, if required.
+In summary, while we have further to go in delivering our 2016 targets, our progress to date has been strong, and we remain confident in meeting those targets. Tushar, back to you.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [4]
+--------------------------------------------------------------------------------
+
+          Thank you. With that, I'd like to open the call to questions. As a reminder, we are joined here by Dan Hodge, our Group Treasurer, and Steven Penketh, the our Head of Execution of Capital and Term Funding. With that, operator, do we have any questions?
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Carlo Mareels, RBC.
+
+--------------------------------------------------------------------------------
+Carlo Mareels,  RBC Capital Markets - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone. I had a quick question on the Pillar 2A equity component.
+I was wondering whether that's actually part of the combined buffer, or if that needs to be seen outside of the combined buffer? That's the first one. Secondly, if you have any view that you can share on potential future buffers that may come in, such as the countercyclical, or sectoral buffers that may increase further capital requirements from the current levels?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Carlo. I'm going to hand that to Dan. Dan, do you want to answer that?
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [4]
+--------------------------------------------------------------------------------
+
+          Sure. Let me cover both of those. The first question was around Pillar 2A, and whether or not that forms part of the combined buffer. It's not the expectation that forms part of the combined buffer. What it is obviously likely to do is to increase I suppose the minimum regulatory target levels.
+The significance of it not being part of the combined buffer actually relates to the second part of your question, which is around the PRA buffer. The PRA will basically make a determination of the potential capital hit to the bank in a stressed environment. And in a situation where they adjusted the amount of that stress is higher than the combined buffer, which to remind [for the] Barclays is 4.5% through the GSID, plus the conservation buffer, then they basically could seek to apply that PRA buffer on top of the 4.5%.
+In terms of the second question around our expectations of future buffers, let me start by answering around countercyclical. Obviously, this is something that the regulatory authorities are going to determine rather than ourselves. There are some specific articles in CRD IV that detail how it should be calculated.
+The authorities require the link to buffer on to the extensive credit advancements in the economy. When deciding the rate, which the FBC has obviously already done in keeping it at zero, it's focused historically on credit growth, but also other indicators such as bank leverage and financial markets. Although credit levels in the UK are high, the credit to GDP has actually been persistently weak since the crisis, and hence it remaining at 0%.
+What I would say is that if it were announced, you basically get your 12 months advance notice. We would be 11% before it took effect. I'd also say about the countercyclical buffer it's the right way, if you like, because we should be accumulated earnings in an environment where we're having a pickup in sort of credit to GDP.
+The other one about sectoral, that's another tool which the PRA has to focus on specific sectors. An obvious one might be the housing market, for instance. Again, we don't at all have any anticipation that that will be used at this current stage.
+I think the key point really to take from this is that we will manage an internal buffer above the sum of all regulatory targets. When we talk about our end-state level for the 11.5% to 12%, what that really constitutes is the sum of all of these various minimum buffers plus an internal buffer for [prudential] purposes.
+
+--------------------------------------------------------------------------------
+Carlo Mareels,  RBC Capital Markets - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Okay. Thank you very much.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [6]
+--------------------------------------------------------------------------------
+
+          Thanks, Carlo. Should we go to the next question?
+
+--------------------------------------------------------------------------------
+Operator    [7]
+--------------------------------------------------------------------------------
+
+          Robert Smalley, UBS.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Thanks for doing this call, and thanks for doing it during New York hours as well. Greatly appreciated.
+First on slide 7 and I too appreciate the disclosure on Pillar 2A and requirements there, particularly as it pertains to the contingent capital market, so thanks. You have an AT1 number, evolution of AT1, going currently at 4.3%. You had said with minority interest that goes up to 4.7%, and the target end-state capital at 2%.
+Does that translate into another GBP3.8 billion to GBP4 billion equivalent AT1s over the period, bringing your total to about GBP8 billion outstanding? Am I in the right order of magnitude there?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [9]
+--------------------------------------------------------------------------------
+
+          Yes, Robert, and you're welcome about us trying to arrange a call quite suitable for folks in the US time zone as well. Yes, you're right. As a longer-term matter we'd like to run the Company at about GBP400 billion of risk weighted assets. You get to roughly GBP8 billion of total AT1 target, so you're in the right ballpark, somewhere around GBP4 billion still to go.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Okay. Translating that into interest expense that would be roughly GBP325 million a year of extra interest expense?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [11]
+--------------------------------------------------------------------------------
+
+          Yes, somewhat driven by the coupon levels on future of issuance which perhaps Steven might give us some more color on.
+
+--------------------------------------------------------------------------------
+Steven Kenpeth,  Barclays PLC - Head of Execution, Capital and Term Funding    [12]
+--------------------------------------------------------------------------------
+
+          Obviously, as Tushar said, it depends entirely on what the coupons are and the bonds, the way you swap as well at the time, where swap levels are. The other thing I would also mention is we have no particular hurry in the context of raising additional Tier 1 requirement.
+As far as the net interest cost is concerned that's going to be spread effectively upon the asset you're creating as well as the same time throughout that process. You can't look at it on a spot basis today and load that cost on top of where bank is. Obviously, the other thing dimension is that AT1 is tax-deductible as well in the UK.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Right, great. You had mentioned the exchange, and the take-up was very good for some tranches and a little less for others. What are your plans on essentially the stub outstandings there?
+If you were to go and do another tender, how with the regulators look at the terms? By that I mean, would they look at a repeat of the same terms as something that is possible? Would they say, look, the investors have gotten a bite of that apple already. You should tighten the terms next time. How do they go about looking at that kind of thing?
+
+--------------------------------------------------------------------------------
+Steven Kenpeth,  Barclays PLC - Head of Execution, Capital and Term Funding    [14]
+--------------------------------------------------------------------------------
+
+          The response I would give to that is that the target securities are also obviously legacy Tier 1 capital securities that we know will never qualify under CRD IV because they don't have the requisite contractual write-down provisions in them. The terms that we offer are fair.
+It's about striking a balance between where trading levels are, about what you think is a fair market premium at the point in time. Then it's just open to the investors as to whether they would accept the uptake.
+Effectively it's a one-to-one exchange between legacy to new AT1. It's not something which ultimately is driven by a big regulatory concern. It's just a matter for us of personal house cleansing of legacy capital securities and wanting to get CRD IV benefit for the exchange security that we're actually going to issue.
+If there is a subsequent exercise going forward, there's no certainty around take-up like there is in any [LM] exercise. It's just going to be a market dialogue between us as issuers, and the premium we strike, and whether investors find it attractive or not.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Okay. If I could just ask one or two quick questions on funding, I'm on page 36 of the release today.
+In the table on the senior unsecured privately placed line, I've got GBP13.4 billion less than one year maturing. Just seeing the amount that you're planning on raising, are you finding that what was placed privately before is not being placed privately now, given lower rates and tighter spreads? Is that how the funding is evolving more from what you did privately to publicly?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [16]
+--------------------------------------------------------------------------------
+
+          Dan, do you want to take that?
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [17]
+--------------------------------------------------------------------------------
+
+          Yes, I think it's a lower rate environment. It's definitely a factor here in terms of influencing the scale, the demand for what we term structure notes and medium-term notes.
+I would also say that obviously historically, Barclays has been very dependent on that particular class. I think going forward we wouldn't seek to be as dependent. It's not yet clear that these forms of [paper] structure notes will qualify as GLAC.
+This is partly supply driven as well as demand driven. That said, we still see this as a very valuable funding source, so will be regular issues.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Okay. Last one, you had mentioned GLAC, any concerns or questions about that getting done by Brisbane? It seems that everything is pointing to that. Is that all on track?
+
+--------------------------------------------------------------------------------
+Steven Kenpeth,  Barclays PLC - Head of Execution, Capital and Term Funding    [19]
+--------------------------------------------------------------------------------
+
+          From our perspective, we just follow the developments as and when statements come out from the relevant regulatory community. Brisbane, I think, is going to deliver something on GLAC. Whether it's the final word on GLAC is yet to be determined. We'll just follow the debate and anticipate any actions we need to take out the back of that greater clarity and of course [feed] into any consultation papers that come out as well in due course.
+
+--------------------------------------------------------------------------------
+Robert Smalley,  UBS - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          That's great, very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [21]
+--------------------------------------------------------------------------------
+
+          Thanks, Robert. Should we take the next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          Corinne Cunningham, Autonomous.
+
+--------------------------------------------------------------------------------
+Corinne Cunningham,  Autonomous Research - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          A couple of quick ones, I think. First one is the timing of the UK stress test, I guess it's going to be after the EBA and ECB stress tests, but do you have any ideas when that might be completed? And if and when we get to hear with a result are, or if it's just more generic statement from the Bank of England?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [24]
+--------------------------------------------------------------------------------
+
+          We've submitted our input into the stress test in terms of running the scenarios and submitting our results in the PRA, and we've also done the same for the EBA. I'll hand it over to Dan, but our expectation is that the PRA will report back on the stress test findings sometime late in the fourth quarter. But Dan, do you want to give any more color than that?
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [25]
+--------------------------------------------------------------------------------
+
+          I'd just say I've heard November was the latest expectation which would come after the EBA.
+
+--------------------------------------------------------------------------------
+Corinne Cunningham,  Autonomous Research - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          The bank by bank results? Do you know?
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [27]
+--------------------------------------------------------------------------------
+
+          They haven't come and said they'll be giving that level of detail. Certainly, the EBA will be doing so on a bank-by-bank basis.
+Historically, the Bank of England hasn't done that. It's not clear at this stage whether or not they will be departing from that. We don't have any information to suggest they will depart from that.
+If you recall, what happened last year when they were looking at the shortfall on a post-stress basis to the FPC 7%, that was very much done in the aggregate across the UK banking sector. We may see something like that again.
+
+--------------------------------------------------------------------------------
+Corinne Cunningham,  Autonomous Research - Analyst    [28]
+--------------------------------------------------------------------------------
+
+          I had another small question. This one was on the deductions for own capital health, own AT1s. There's a big deduction at the year end, much smaller deduction [than the other one].
+How much of your own securities do you own? How does that about? Where they held? Is it in client funds, or is it on the trading book? Thank you.
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [29]
+--------------------------------------------------------------------------------
+
+          You obviously see that that number came right down, so it's a very small residual amount that continues to be held. The reason the numbers came down before, it's actually the number at the end of the year was a little bit conservative. We have a lot more improved visibility and time to go through the numbers, where previously we looked at a lot of fund investments and had taken a conservative assumption in terms of portion of those funds. It was Barclays' own stock.
+That did prove to be overly conservative. We've also unwound some of our own internal hedging arrangements around Share Board.
+We do have some residual amounts. It's really through index trading activity, to answer the question. That is subject to some very tight internal limits because obviously it's of course a one-for-one deduction.
+
+--------------------------------------------------------------------------------
+Corinne Cunningham,  Autonomous Research - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Thanks so much.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [31]
+--------------------------------------------------------------------------------
+
+          Thanks, Corinne. Operator, do we have anymore questions?
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+Gildas Surry, BNP Paribas.
+
+--------------------------------------------------------------------------------
+Gildas Surry,  BNP Paribas - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Good afternoon. Thank you very much for the call. I just would like to hear your thinking on the (inaudible) consultation and the impact it could have on some additional triggers on AT1s, whether for the conversion of the write-down, also the [effictions] of the MDA? Thank you.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [34]
+--------------------------------------------------------------------------------
+
+          Dan, do you want to cover that?
+
+--------------------------------------------------------------------------------
+Dan Hodge,  Barclays PLC - Group Treasurer    [35]
+--------------------------------------------------------------------------------
+
+          Sure, so talking about the CP, it's important we don't get too far ahead of ourselves. This is just a consultation [pacing consultation] calibration proposals in there. It mainly concerns with methodology, bring in leverage into line of capital and having [reg minimum] plus buffers. That's said, in terms of impacts on the AT1 market, thoughts around that firstly size could impact the total amount in issue, especially if existing AT1s for any reason didn't count, although that absolutely isn't recommended in the paper.
+I would say there's a possibility this ends up having quite a lot of complexity. If you have distribution restrictions on falling into leverage buffer that wasn't made explicit in the CP, but you can see that maybe a potential outcome.
+It's not really clear how the CRD IV MDA regime which was designed for capital ratio to be [legally] applied to leverage ratios. CRD IV was the maximum harmonization directives after all.
+It is possible of course the PRA introduced some form of restrictions, if you go into low buffers using general credential powers. If that's so, the market needs to adapt to this by getting comfortable with that. Clearly, it's another reason why banks would seek to hold buffers above those regulatory buffers.
+The points around it could leverage triggers potentially added to AT1, again, I repeat, that wasn't recommended. If that did happen, I think that would be very complex, the idea of dual triggers. I'd make the same point around maximum harmonization directives.
+I don't know how that actually gets implemented in practice. We'll monitor the outcome of the CP, and react accordingly.
+
+--------------------------------------------------------------------------------
+Steven Kenpeth,  Barclays PLC - Head of Execution, Capital and Term Funding    [36]
+--------------------------------------------------------------------------------
+
+          The only thing I'd add to that is that as a principle, we'll try to be as anticipatory as we can with any future regulatory developments, and to the extent that we can anticipate them, we will manager ourself such that we're well ahead of that part of that. Obviously, you can see from our leverage ratio objectives is trying to ensure that we're ahead of any developments in any of that space or anything else. Hopefully, that answers your question.
+
+--------------------------------------------------------------------------------
+Gildas Surry,  BNP Paribas - Analyst    [37]
+--------------------------------------------------------------------------------
+
+          That's useful. Thank you very much. If I just may follow up, just to be clear, the current terms and conditions of the existing AT1s would not allow introducing another trigger that would not be based on solvency? Just to be clear?
+
+--------------------------------------------------------------------------------
+Steven Kenpeth,  Barclays PLC - Head of Execution, Capital and Term Funding    [38]
+--------------------------------------------------------------------------------
+
+          That's right. Just to reiterate what Dan said, it's quite clear what the terms are for the AT1 that's currently outstanding. It's also very clear under CRD IV what the terms need to be to qualify as AT1. That has not changed.
+I think the only read across you can take from the consultation paper is that there's a general discretion anyway with most regulators, if not all regulators, to think about distributions, looking at their other supervisory powers. There's not something specific to AT1, and certainly has no impact on the AT1s as currently issued with regards to their terms.
+
+--------------------------------------------------------------------------------
+Gildas Surry,  BNP Paribas - Analyst    [39]
+--------------------------------------------------------------------------------
+
+          Okay, that's clear. Thank you very much.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director    [40]
+--------------------------------------------------------------------------------
+
+          I think that's it. Thank you very much for joining us this afternoon. We hope you found this useful.
+We'll continue trying to do this at the full year next time. With that, good afternoon. Thank you. That concludes today's conference call.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
