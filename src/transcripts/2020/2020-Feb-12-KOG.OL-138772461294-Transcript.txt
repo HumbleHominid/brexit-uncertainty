@@ -1,0 +1,404 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q4 2019 Kongsberg Gruppen ASA Earnings Presentation
+FEBRUARY 12, 2020 / 7:15AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jan Erik Julseth Hoff
+   Kongsberg Gruppen ASA - Group VP of IR
+ * Geir Haoy
+   Kongsberg Gruppen ASA - President & CEO
+ * Gyrid Skalleberg Ingerø
+   Kongsberg Gruppen ASA - Group Executive VP & CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Christopher Møllerløkken
+   Carnegie Investment Bank AB, Research Division - Research Analyst
+ * Knut Erik Løvstad
+   Kepler Cheuvreux, Research Division - Equity Research Analyst
+ * Hans-Erik Jacobsen
+   Nordea Markets, Research Division - Senior Analyst
+ * Sveinung Alvestad
+   Arctic Securities AS, Research Division - Research Analyst
+ * Unidentified Participant
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Jan Erik Julseth Hoff,  Kongsberg Gruppen ASA - Group VP of IR    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, everyone, and welcome to the presentation of Kongsberg's preliminary 2019 results and results from fourth quarter 2019. 
+Very pleased to see all of you here today, both to you that are here, and welcome also to you that are on the webcast. You will receive presentations from our CEO, Geir Håøy; and CFO, Gyrid Ingerø, which are seated at the front row here. 
+Some practical information. We have no planned emergency exercises today. So in case of an alarm, you will have to leave through the emergency exits, we have one located behind me here and 2 out in the hall, 1 on the left and 1 to the right. 
+So with that, once again, thank you for coming, welcome. And I'll leave the floor to Geir Håøy.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Jan Erik, and good morning. Welcome to all of you. We are then going to present the Q4 and the full year of Kongsberg Group's results. 
+Before I move into the presentation, I'll just give you a brief update on the coronavirus. I think this outbreak has reminded us that we are living in a globalized world with many challenges. And as you probably know, Kongsberg has more than 500 employees in China, located in 4 different locations. Luckily, none of them are close to the Hubei province. From the day 1 when this was announced, we established emergency response team, both in Central, in Kongsberg, but also locally and have been working very closely, both with the local authorities and also authorities in Norway and we have also had a very good connection with other companies in China. I can assure that we -- our focus is our employees' safety, and we are monitoring the situation very closely. We definitely see that this will have an impact on the daily business. We think -- we hope it's going to be a short impact. But we are monitoring the situation closely and so far, none of our employees are sick. 
+So then, back to the program. I ended saying in 2018 that, that was the most -- probably the most eventful year in Kongsberg history. And I must say, standing here now, that I think 2019 was even more eventful. We are ahead of the plan -- the integration plan, with the Commercial Marine. We have reached several milestones in all business areas, and we have ended 2019 with record-high revenue and also the order backlog. 
+So shortly summarize 2019. It was actually a year which everything was around hard work. And I must say that I'm very satisfied with the entire organization and, of course, then also the results of the fourth quarter and also the entire year. 
+So we have just entered into 2020. This is not just a new year, but it's also a new decade. And I think we are doing that. We are starting 2020 with a historical strong position. Our order intake is record high and also our backlog. Our business is growing. Of course, we have done acquisitions but also organically, we have a solid growth and also then considering the market. The project performance and execution is also delivering according to expectation. 
+So last year, we achieved several milestones in all businesses areas. We closed 2 important -- 1 major and 1 a little bit smaller, but very important acquisitions. We have delivered organic growth, as I mentioned, in all business areas. We was awarded the biggest contract ever in Kongsberg history, that is the air defense systems to Qatar. We have also secured other important defense programs like the NASAMS Australia, JSM Japan and also several orders under RWS. 
+I'd also like to mention that Kongsberg Digital has also taken some important milestones this -- last year with the Dynamic Twin for Nyhamna and Shell and also the Vessel Insight that was launched in August. I will come back to that. 
+So Kongsberg Maritime has become a much, I would say, complete supplier of the maritime -- into the maritime industry. We are taking some important steps on them when it comes to the MRO business, the maintenance repair and overhaul. And I think we also have taken a pole position in the digital area, as I just mentioned. 
+I think all of this has been achieved due to a long-term, strategic positioning, and it is now paying off. We are scaling our business to deliver this strong backlog, and of course, our focus now is to deliver the backlog on time and with performance excellence. 
+All of you following the maritime area, I think you've all seen focus around greener and more sustainable shipping. And I will come back to that, but I definitely see Kongsberg as a part of the solution to make that area more green and more sustainable going forward. 
+So all the business areas are growing in the fourth quarter. On the group level, we continue a very strong order intake from last quarter. Underlying performance is showing strengthening of the profitability in all business areas, at the same time, as we continue to deliver on the integration plan for Commercial Marine. And I'll come back to that, but we are ahead of the plan. 
+And then we had the Board meeting day before -- no, yesterday. Times go fast. And the Board have come up with a proposal for dividend which says that for the ordinary dividend, it will be NOK 2.5 per share, the amount of NOK 450 million; an extraordinary dividend of NOK 10 per share, some up to NOK 1,800 million; and a share back -- share buyback program of up to NOK 500 million. And Gyrid will come back to that in more detail.
+Kongsberg Defence delivered a very strong quarter. As you saw, both Switzerland and Denmark has ordered remote weapon stations. We have got a follow-on contract on the JSM to Japan. And we also got the mobile ground-based air defense to Norway secured in fourth quarter. 
+The order intake for KM ended up at NOK 4.1 billion, and I think that is also very strong if you look at the new build market in the maritime industry these days. So I'm very pleased with that order intake, especially in their Sensors & Robotics and also the Global Customer Support, the aftermarket is continue being quite healthy. And then also in the LNG market, we are having high activities on the deliveries to that segment. 
+I mentioned Kongsberg Digital. We got a breakthrough contract with Nyhamna, but -- and that was now delivered, actually in operation only 19 days after we got the contract. So in December, we installed the basis function for the Nyhamna Digital Twin and it is in the operation. And I personally also met the project manager just a week ago in Shell, and he is very enthusiastic about what we have seen so far. 
+We have also -- we also launched the Vessel Insight, and we have now connected -- delivered 200 systems to -- systems to 200 vessels. But I think it's important to notice that these 200 vessels represent a fleet of totally 4,000 -- approximately 4,000 vessels. So of course, this is the way of the business. You get the pilot on board, some of the vessels and then hopefully, the ship owners, they see the benefit of that kind of tool and then hopefully, we have the entire fleet as we go along. 
+So all in all, Q4 was a strong quarter. And I think it's in line with the entire performance of 2019, and it gives us a very solid base entering into 2020. And I will come back to more details as we go into the business update. 
+Then very shortly and briefly on the Value Capture program. I mentioned that we are ahead of the plan, and I would like to use opportunity to say that I'm extremely pleased with the performance of all employees in Kongsberg Maritime. It has been hard work and doing this at the same time, deliver our services to the customer, I'm very satisfied with this. We are now almost 1 year into the integration program. We are ahead of the plan, and we are also increasing our ambition. 
+So what we said initially was that we're going to deliver NOK 500 million on an annual basis savings. We are not -- now going to do that 2 years ahead of the plan, meaning that we will deliver that within 2020. We will, of course, continue the Value Capture program in 2020. And basically, what we're going to do is to do what we have done in 2019, and that is to optimize, adjust the capacity as according to the market. We will continue to consolidate and localize the operation and footprint around the world. And we said in the Capital Market Day last year that we have a plan to deliver an EBITDA for Kongsberg Maritime of 11%, excluding this IFRS 16, by 2020. And I'm quite confident that we are going to -- we are within the target of that ambition. 
+So by that, Gyrid, she will also come back to the Value Capture program, but then I give the word for -- the floor for Gyrid to take us through the financial situation.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Geir, and good morning, everyone. It was no doubt that I was pleased with the 3Q results. But looking at this, I'm even more satisfied to deliver at 2019. That's very good for Kongsberg. 
+Just a few comments before I start because it's the 2 main drivers to the very solid result that we have. It's the growth, of course. It's not only the acquired growth, but it's also the organic growth that we have. We grow in all areas. We grow by 25% on the digital area that we have, Kongsberg Digital. We grow by 19% of the defense area. And we also grow by 18% on the Kongsberg Maritime. And then on top of that, we have all the acquired growth. So it's really the driver for the good results. 
+The second one is, of course, the Value Capture that Geir just mentioned that we have been able to turn Commercial Marine around for just 2 years or 24 months. What we see is that they delivered minus NOK 273 million in EBITDA the year before we acquired them. And now they delivered NOK 213 million, so NOK 500 million in uplift on the EBITDA. That's has -- that's the 2 main drivers of the good results or the solid result that we delivered today. 
+And having said that, what is our worries? Of course, you have seen in the report that the new build market on the maritime side, we are still very worried about that. We need some help from the market to lift the growth further on, on the maritime side. And we are also working a lot with Patria, of course. It's a small part of the total now, but even though, we are working very much to turn Patria around. 
+Here, you can see the revenue for the 2019 in total. We grow by 16% for the Kongsberg Group. And if we add on the acquired growth, we grow by 67%, delivering NOK 24 billion on the top line for 2019, up from NOK 14.4 billion last year; and EBITDA of NOK 2.3 billion with a 33% growth on the year in total and almost 7.7%. It was not what we expected for when we acquired Commercial Marine at the beginning of the year. 
+EBIT. We delivered a EBIT of NOK 1.1 billion and I will come back to you in terms of the depreciation and amortization, so you are able to calculate the EBIT going forward also, not only the EBITDA that Kongsberg normally are guiding on. 
+In terms of order intake, we have an order intake this year of NOK 32.4 billion but even more impressing, we have an order backlog now of NOK 33.1 billion. Out of that, 50% are to delivered already in this year, meaning that NOK 16.7 billion of the order backlog will be delivered. On top of that, we have the aftermarket of approximately NOK 7 billion, meaning that we have very high comfort that we will grow also this year because the orders are already there, and we know that we will be delivering them. I will split it down to the different areas when we come there. 
+If we then do a deep dive into the Q4. We deliver a order increase of 28% this year. And if we add up this quarter and if we add on the order intake for the acquired companies, we increased the order intake by 80% or, also this quarter, NOK 7 billion in new orders for Kongsberg. 
+On the revenue side, we grow organically by the fourth quarter of 22%. And also, if you look at the -- if you add on the acquired growth, you are on 97% or almost 100% compared to the fourth quarter last year, ending up at NOK 8.1 billion in revenue for this quarter. Even more impressing is probably the EBITDA where we now are at 9% or in -- if we add on the IFRS 16 of 10.4%. And it's no doubt that we thought that the acquisition of Commercial Marine would take the margins down a bit more before it's starting to grow again. But you can see from the second quarter, we are clearly increasing the margin, both on the EBITDA and also on the EBIT. I will come down to the details in a while. 
+So let's look at Kongsberg Maritime. They now have a order backlog of NOK 12 billion. Out of that, they will be delivering this year NOK 9.6 billion. On top of that, you have the aftermarket. So we know -- already know that we have orders for approximately NOK 16 billion this year, meaning that we have a quite flat top line already that we know that we will deliver. And then there is the question, "Will we continue to grow?" We have to deduct the Hydroid that we just divested, and they have approximately NOK 800 million on the top line because -- and then we have to add on new growth. So you can calculate with a big growth on Kongsberg Maritime but of course we have to fill up that Hydroid revenues, and then we have to grow from there. But we have already a quite flat top line only with the orders that we already have in the backlog. 
+And here you can see some of the things that worries me. We have a book-to-build on Kongsberg Maritime for the fourth quarter of 0.76 and for the whole year of 0.96. So we need to have -- pay a lot of attention to both the new build market but also the aftermarket, of course. 
+The drivers on the top line for Kongsberg Maritime has been -- there's Sensors & Robotics and the LNG market. But on the margins, we also see that all the revenues that we have in the aftermarket have lifted the results quite a lot. 
+Order intake in 2019, NOK 15.4 billion, almost the same as the revenue for Kongsberg Maritime. That's NOK 16 billion for the year. More details on where have the order comes the last year in Kongsberg Maritime. You see the Sensors & Robotics for the fourth quarter, almost half of the new orders. Then you have the integrated solution where LNG and OPU is the main drivers, and then you have the aftermarket in the fourth quarter. If we include Commercial Marine, you see that the Global Customer Support or the aftermarket is almost 50% of the new orders. You also see that Sensors & Robotics have almost 1/3. And in this, we also include aftermarket for the Sensors & Robotics, meaning that the aftermarket, in total in new orders for the fourth quarter, is almost 50% for the company. 
+Systems deck and machinery have a small portion, but then again, they also are a driver for all the services that we do in the aftermarket. 
+Looking at the revenues. Kongsberg Maritime delivered NOK 16 billion on top this year, growing by 18% from the Kongsberg Maritime last year. And if you add on the acquired growth, they are growing by 113%. So the year in total for Kongsberg Maritime has been very, very good. 
+Looking at fourth quarter. They are growing by 21%. And you can see that Commercial Marine had a very good fourth quarter. And if you add on that, we are growing by 169%, The main revenue streams here coming from the aftermarket. 66% of the revenue in Commercial Marine comes from the aftermarket this quarter. So ending up with the fourth quarter for Commercial Marine by NOK 5.5 billion. 
+And then I start with the Commercial Marine before I enter into the EBITDA for Kongsberg Maritime. If you look at the order intake for Commercial Marine, you can see that it's down by 30% from 2.7% to 1.9%. But then again, the revenue grows quite a lot by 21%. And that's the aftermarket that you don't see in the order backlog, but it's coming in and we just deliver services by services and upgrades by upgrades. 
+Here, you can also clearly see, last year, they lost NOK 273 million in EBITDA, and now they have delivered NOK 209 million because that's including IFRS. So if you should compare apples-to-apples, you need to take without the IFRS. But then you can also see that when we say now that we are ahead of the integration program and taking out synergies, you see that we are actually lifting the result from last year to this year by approximately NOK 0.5 billion. And that's probably the most -- or the best evidence that this actually have been turned around. And of course, we are worried if  this really happen. But we have taken out 485 FTEs, and we closed on 15 location, and that's hard cost that you can actually see when you look in your books. 
+And also -- you can see also here integration costs. They are now coming down to a more decent level, only NOK 44 million in this quarter, and we have some restructuring costs on NOK 56 million. 
+EBITDA of Kongsberg Maritime. In NOK 356 million in EBITDA, if you add on the IFRS, you are on NOK 436 million. In this NOK 356 million, it's approximately NOK 100 million in integration costs. In the NOK 140 million that you compare with, there are NOK 85 million in integration costs from last year. So that's why I'm not going to build a long bridge for you as I did the last time. 
+But what you can see, we are starting to climb the margins NOK 6.5 million. And together with the IFRS, we are on NOK 7.9 million. But as Geir say, we will now close down after this year when we have calculated and showed you that we have taken out NOK 500 million. We will start to aim for the capital market goal. That was 12 -- 11% for Kongsberg Maritime. And as you can see, we will then start to report NOK 6.5 million -- 6.5%, and how we will build that up to 11%. So you can see that the margin in Kongsberg Maritime are developing healthy. 
+And what have we actually done? Because when you close down our Value Capture program 2 years ahead, what has actually happened? We have taken down 15 sites. They are closed down, and we are only paying for the rest of the rent to the landlords. We have exited 2 factories, 1 in Vietnam and 1 in Poland. We have done a streamlining and a restructuring on both deck and machinery and also ship design, not ship intelligence. We have done a huge reduction in the overcapacity because we saw that we have a lot of double functions. We are already located at Kongsberg, and we have the scalable organization that was possible to add on Commercial Marine. So a lot of FTEs that have been taken out is actually overhead FTEs. Then we have digital marine activities that we have unified benefit from the bonuses. We have very different bonus regimes. So the HR department have now been harmonizing all of those. And all of those costs have been taken in 2019, so we will be having all the same bonuses and all the same benefits from 2020. 
+Most important for you is probably that we have taken out 485 FTEs. We launched, at the first place, 260. All those FTEs are out of the business. And then we launched 180 to 200 at the Capital Markets Day, and now we have increased it to 225. So all the restructuring costs in terms of the 485 FTEs are already taken in the 2019 figures. I think that's gone well. 
+And we said originally that we will take out NOK 200 million in cost synergies. We lifted that to NOK 250 million after the 3Q. And now we -- you can see the end result for 2019, it was NOK 260 million, and we also raised the bar to NOK 500 million within 2 years. 
+So then we said that we will spend NOK 450 million in integration costs. In 2019, we have spended (sic) [spent] NOK 273 million. Last year, we spended (sic) spent NOK 110 million, and that brings us left with NOK 67 million. We will not spend any more integration costs. Those NOK 67 million are allocated to IT infrastructure and close down the rest of the legal entities. We received approximately 60 legal entities from Commercial Marine when we acquired them. And of course, we were already representing in a lot of the countries that they were, so it's obvious that we don't need all those entities. But this is legal costs and IT infrastructure costs, so we will not spend any more on that. And as I said, the restructuring cost for the 485 FTEs is also taken in 2019. 
+So if we come -- we will, of course, when we launch more efficiency programs now, we will come on with restructuring costs, but then it will come with the program together when we do the presentations for you. 
+Then the defense. The defense didn't grow at all in the first and the second quarter this year, and then it started to grow. But before we look into that, we can look into the orders. At NOK 20 billion in order backlog and NOK 16 billion in new orders, meaning that out of those NOK 20 billion in new orders, approximately NOK 7.2 billion will be delivered already in 2020. And when you look at defense today, they have a top line of NOK 7.2 billion, so it gives us a lot of comfort that we will grow also in 2020 in terms of the defense side. 
+Looking at the book-to-bill here. You can see it's much more healthy than the maritime side. It's 1.02 for the fourth quarter. But again, it's more than 2 -- 2.2 for the whole 2019. Gives again a very good comfort that we will grow on the defense side. 
+Looking at the fourth quarter. The orders increased by 42%. And it's -- if we look to the next slide, we will see where the orders came from this quarter. You can see the aerostructure, the F-35 has been very important this quarter and also the CROWS. All the CROWS that comes with the Protech system has been growing, and we also have the air defense -- integrated defense system. That's the Norwegian air defense order that came on the end of last year. There's also some on Space & Surveillance, and we also got a second order for JSM from Japan this quarter. 
+If you look at the whole 2019, you have the big contract that Geir mentioned on NASAMS Qatar on the air defense system and also the Australia contract on air defense system and the Norwegian air defense system. So you have 3 air defense systems on the order side in 2019, which have been driving the order backlog a lot. 
+Then you have, of course, the F-35. And here, you can also see the CROWS that came in on the end of the year, and it's still increasing. We still expect to have increased orders from the CROWS system. 
+From the next -- from this year, we will merge Protech systems and defense communication to one area. So for next quarter, you will see those together. And then we have order intake of 1 -- or in percentage of 133%. 
+Revenues. KDA grow by 30% [by Q]. Defense area grew by 30% in fourth quarter. If you deduct the AIM that we acquire in June, they grow by 24%. And but even more impressing, if you look at the whole year, they grow by 19%. And you can see the growth started in the second quarter here, and we believe that we will continue to grow also going forward. 
+It's only -- actually, it's only Japan that have ordered JSM missile. So we expect in the few years now to come and that there will come orders, especially on that area. 
+The EBITDA for the Kongsberg Defence system, 16% in the fourth quarter and 13.7% for the whole year. And if you remember on the Capital Markets Day, we say that they will aim for a 14% margin, and they are almost there now. But again, a lot of our contracts are fixed. So we need to be more efficient to actually lift that margin even more. 
+NOK 448 million in result for the fourth quarter and 16.1%. If you also see at the seasoning, you will see that the fourth quarter is normally the best quarter for the defense side, so it's always better. So you can't believe that this will continue in the first quarter. There will be some seasoning going forward also on this. 
+Quite healthy cash flow. I said on the third quarter that I was worried about the cash flow for the whole year and also for the fourth quarter because we are expecting the prepayment from the NASAMS Qatar contract. We haven't -- we didn't receive that, so it's still out there. But we received a lot of other prepayments. We have a defense department that just saw that, "Okay, we are not going to receive that prepayment." And so they did that tremendous job to actually receive a lot of other prepayments. So increased to prepayments were more than NOK 1 billion that we believe when were entering into the fourth quarter. 
+And EBITDA of 2.3, and then dividend from Contros and Patria. And then we have paid some tax and some pension liabilities. We acquired 2 companies, both AIM and Commercial Marine. Then we have invested in R&D. We paid out dividend on NOK 2.50 per share, the IFRS 16 effect. We paid down a bond last year. We have some interest. And then we end up with NOK 5.6 billion on the account at the end of the year. What you should be aware of is that out of those NOK 5.6 billion, approximately NOK 3 billion is now prepayment from the large defense customers. So it's not that we can just spend all NOK 5.6 billion at the moment. 
+So looking at the balance sheet. Quite healthy balance sheet still with NOK 5.6 billion on account. Of that, around NOK 4 billion gives us a net -- negative net interest-bearing debt. And equity ratio of 32.7 and return on capital employed of 10%. Quite healthy. 
+What you should be aware in the balance sheet is that we have invoiced NOK 1.4 billion on the NASAMS Qatar contract, where you will find both as an asset and as an liability. 
+And then to be able to calculate or actually do some guidings on the EBIT since we have been concentrating on the EBITDA. What we expected, this is the R&D. and as you can see, it has increased in 2019. We have acquired 2 new companies, and their R&D is approximately -- or ended up approximately NOK 1 billion for the year. What you can calculate with going forward is approximately 4% of the revenue in R&D. 
+And then for the CapEx, you see we have some peaks. We have some peaks in the CapEx when we are extended facilities. And for now, we are starting to extend the factory at Kongsberg to be able to deliver both on the F-35 equipment and also for the launches for the air defense system. 
+We're also going to do some investments in facility in terms of the missile production. But on top of that, for your calculation, you can calculate between 2% and 3% in CapEx going forward and then you are able to calculate how the EBIT will develop. 
+So to give even more details on that. If you look at the fourth quarter, we have approximately NOK 279 million in depreciation and amortization. Going forward, we will have between NOK 330 million and NOK 335 million, so that's how we can calculate the depreciation and amortization going forward. 
+We had some back-and-forth both in the second and the third quarter in terms of the 2 acquisitions where we needed to allocate the purchase price in the right accounts. But this is the run rate going forward. 
+And then as I can -- as I see, the happiest parts for you. If you look at the dividend, we have a Board now, as Geir said, that have a proposal for dividend for the shareholders with NOK 2.5 per share, NOK 550 million in ordinary dividend. Then you can add on an extraordinary dividend of NOK 10 per share and NOK 1.8 billion. And on top of that, they will launch a share back program -- buyback program if the general assembly accept it on the 14th of May. So that's what's going to be ahead of us, so meaning that we have a dividend policy of 40% to 50% of the net result with the ordinary payout dividend here on NOK 2.5 per share. It will actually increase that with 64%, even though the dividend policy is 40 to 50. But on top of that, when you add on the other, we are more than NOK 300 million. 
+So here, NOK 450 million, NOK 1.8 billion and then NOK 500 million in share buyback, then we will exceed NOK 15 per share in Kongsberg to the shareholders if the general assembly accept it. And also, in terms of the extraordinary dividend, we need to be sure that the Hydroid transaction actually will be a success at the closing point. 
+So with that, more business from Kongsberg.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Gyrid. Yes. I'm very pleased with the figures, as Gyrid presented. Let's take us through the business updates. 
+Kongsberg Defence & Aerospace. Kongsberg Defence & Aerospace was very busy, actually extremely busy last year and that will continue, as Gyrid mentioned. We have a strong order backlog that are to be delivered. And I think also, the fourth quarter was extremely active. 
+KDA had an order intake in Q4 of NOK 2.5 billion and also with the important contracts being awarded before the year and ending up in our order backlog of NOK 20 billion. 
+The activities was increasing in all division. And of course, the backlog means that we need to ramp up our delivery capacity. And as we announced just before Christmas, we are now ramping up also on the recruitment campaign across all business areas. And as Gyrid just mentioned, we also will do some expansion of our key facilities. 
+In -- from 1st of January, we -- the -- a new division, land division become in operation. That is former Protech and defense communication. I think this will give us a stronger foothold and a stronger division addressing the land segment. And of course then, our ambition is to secure a better footprint in that area. We are increasing our portfolio, and I think that the combined sales and marketing will give us results. 
+We also saw in the quarter that our strategic initiatives when it comes to the MRO was giving results. I think we got a stronger position within the Maintenance and Repair and Overhaul. 
+Kongsberg Aerospace -- Kongsberg Aviation Maintenance Services comes -- is following the integration plan. And the defense -- I think the defense forces already value the combined competence in the MRO scope. And a result -- as a result of that, just before Christmas, we signed 2 agreements with the Norwegian Defense Logistic Organization, strengthening our cooperation on air and sea. And both these 2 contracts are long-term commitment to the maintenance and preparation by both the Norwegian Armed Forces and Kongsberg. And I think this is a very good ground for further development of the expertise in this area. 
+The first order is building on the strategic agreement with the Norwegian Armed Forces, which we signed before summer. We announced a strategic agreement in June. And we are now to perform maintenance on the NH90 helicopters fleet and is initially a program from 2020 to 2026 with annual call-offs in this program. The estimated value is NOK 400 million distributed over the first 4 years and then we will have a -- subject to renegotiation after the 2 first year. 
+The second order is to support the Norwegian Armed Forces with maintenance and engineering services for Kongsberg equipment on board the Navy vessels. And I think it continues and expands over previous signed framework agreement with the Norwegian Armed Forces. And annual minimum scope of this is for NOK 71 million for the first 2 years. 
+So to the Kongsberg Maritime. I think I already touched upon several of the highlights of Kongsberg Maritime. But I would like to repeat that I'm very satisfied with the business areas' strong performance on the -- in the quarter and also that we are able to deliver organic growth in a fairly difficult market. And we are doing so at the same time as we are integrating CM. 
+The maritime market is still challenging. I think this is, of course, some uncertainties how this development will continue. We see that the day rates are increasing in some of the markets, but the new builds are still weak. Except for the LNG, ferries, cruise and the floating production storage and offloading segment. 
+The prediction for seaborne trade show a low numbers and as I said, very uncertain around the short-term growth in this area. 
+There will be -- I think it will be -- could be a positive impact on the IMO regulation. And also, I would say that the focus -- strong focus on the environment side could give us some positive effect in the market. 
+Just to give you an example of what Kongsberg Maritime is spending a lot of time on these days. We believe that we are a part of the solution for making the maritime and shipping greener. And we have a strong position in the green shipping. And as you see here on the slide, we have introduced a hybrid power solution, energy management solution, which gives fuel efficiency gains of around 20% with the corresponding reduction in the emission. These are 2 vessels that we upgrade for Golden Energy Offshore. And we have now documented a savings of 20% and then also 20% of the emission. 
+And we have done so for several vessels type already. And we have also now -- we are monitoring this with the Kongsberg Vessel Performance systems, which gives the owner, like Golden Energy Offshore, to gain deep insight and also transform their vessel operation to achieve the fuel savings that I already mentioned. 
+Then Gyrid also mentioned that we have announced selling our underwater technology company, Hydroid, Inc. in U.S. to Huntington Ingalls Industries. Huntington Ingalls Industries is one of the primes in -- towards the United States Navy. And I think this shows that Kongsberg has been able to create significant value for our shareholders since we acquired Hydroid back in 2007 for USD 80 million, and now we are selling it for USD 350 million on a cash and debt-free basis. 
+I would just underline that this is not an exit for Kongsberg on the underwater domain, rather the contrary. We will, as we also announced, enter into strategic alliance with HII. And this will give us an opportunity and an access to broad market within the maritime and Navy field in the U.S., but also globally. And of course, our ambition is to continue, develop and strengthen our underwater portfolio in Horten on the sonar side, on their hydroacoustic side, then to continue to be the world-leading supplier in that segment. 
+Then briefly on KDI and Patria. We did mention that we had a growth in the year for KDI of 10%. We are growing in KDI in fourth quarter of 25%. And I think Kongsberg did so -- have now proven their position in the digital area within their focus areas. The first installation of our Nyhamna digital -- Dynamic Digital Twin, that was signed for NOK 97 million in October. And as I said, we deliver, and it is in operation now from end of December. 
+Yes. And then on the Vessel Insight, this is an exciting area for us. We have now connected 200 vessels. And as I started saying, this represent a fleet of almost 4,000 vessels, which we going to be following very closely, and we are very much working actively now, together with KDI and KDM, are very actively working on rolling out the vessel inside to the fleet. And we have, in our installed base, more than 30,000 vessels, which of course then, is a target for us but of course, also vessels which we have not in our fleet today. 
+I would also mention in KDI, they have also signed up several OEMs like MacGregor and DNV GL with -- and others. And that is important that these OEMs decide to actually put their applications on the Vessel Insight platform. So we are excited about all these OEMs wanted to partner up with KDI. 
+When it comes to Patria, the revenue slightly up from year-on-year basically due to the BEC, which is also part of the AIM acquisition. I think there is one good news on the land business. There was recently announced at Finland and Latvia have agreed on a development program for a next generation of 6x6 vehicle platform. And Patria has been then selected as the supplier for this platform. This will be a major program and will, of course, then give Patria an additional important product in their portfolio. So we will, for sure, follow that program very closely as we go forward in 2020. 
+They have also launched and executed capacity adjustment, both in the land business and also in the aerostructure division. So of course, as Gyrid mentioned, we will follow-up Patria and work closely with Patria to make sure that we are turning around Patria and especially on the land business. 
+So to summarize. Entering 2020, I think we have a very strong position, maybe stronger than ever. And I think we can be fairly confident that we will see some growth in 2020 and also that we will have a sound development of the profitability in 2020. And that is despite still challenging maritime market. 
+The defense market is expected to stay quite strong. We have solid positions, and we have reason to believe that we are in a good position to close important programs going forward also for the next year and forward. 
+I mentioned that the maritime market in general in 2019 was historical -- at a historical low level. And of course, with that kind of market situation, there is a fierce competition out there. So that is also -- give an extra challenge to that segment. But the aftermarket is quite important -- or it is important for us, but it is also quite high activity in the aftermarket. We are addressing the 30,000 installed base. And with the environmental focus, and with Kongsberg Maritime solutions, we believe that, that could be an important market for us in -- despite the low level of new building. 
+In KDI, we'll certainly and definitely continue positioning ourselves for the digital applications and full speed on the rollout of both the Vessel Insight and the Dynamic Digital Twin. 
+I would like to mention that we got the Nyhamna Digital Twin contract, but we have also done several proof-of-concept with other major oil companies at the same time -- or last year. I think it was a sum of approximately NOK 50 million where we did proof-of-concept with different oil companies. So there is a lot of things in the pipeline with the Kongsberg Digital, and we're going to make sure that we are putting efforts into taking this to the next level. 
+Gyrid mentioned that we have already secured NOK 16.7 million of the revenues for 2020. And even though we have not secured the aftermarket, but the current running aftermarket revenue is approximately NOK 7 billion, and we should not take that for granted. But I expect that aftermarket will continue to be quite healthy also in 2020. And hopefully, we will also see that we can take out even more cross-synergies in CM and KM, addressing the aftermarket going forward. 
+By that, I think -- I say thank you for your attention, and then we open for Q&A.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [5]
+--------------------------------------------------------------------------------
+
+          We were so excited after third quarter that we didn't seem so excited now, but we are.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Hans-Erik Jacobsen,  Nordea Markets, Research Division - Senior Analyst    [1]
+--------------------------------------------------------------------------------
+
+          Hans Jacobsen, Nordea. You mentioned that there was a particular strong development within Sensors & Robotics. Could you be a little bit more specific in what areas those Sensors & Robotics are going into?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Yes. I would like to mention fishery. Fishery part of the subsea or Sensors & Robotics is very strong, continuously deliver growth with healthy margin. So that is one area. 
+Of course. Also, the hydroacoustic environment in Horten is deliver very strong, even though the offshore market, which is also an important part of the hydroacoustic market that has disappeared, basically. But we also see increased activities in the aftermarket on the hydroacoustic side. And then, of course, hydro has a strong performance in 2019, which Gyrid already mentioned that we have to take that out. But I believe that the position that Horten has in the sensor side and payload side in the underwater segment is really a world-leading position. And by partnering up with partners like Huntington, we will get access to a bigger market, of course, the U.S. Navy, but also globally. 
+So I think fishery and hydroacoustics is -- and then, of course, also like to mention Seatex, the company up in Trondheim, for the smart sensors there, is also performing very well in that Sensors & Robotics division.
+
+--------------------------------------------------------------------------------
+Hans-Erik Jacobsen,  Nordea Markets, Research Division - Senior Analyst    [3]
+--------------------------------------------------------------------------------
+
+          And on LNG issue, is it possible to give some guidance on your order book within that segment?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [4]
+--------------------------------------------------------------------------------
+
+          There is a high activities in LNG. I don't have the details right here now. I can give you later when I come to your office. But the activities in LNG is strong, especially now on the delivery side. But I think we have reason to believe that the contracting on LNG carriers going to be good also in 2020. 
+There is shipowners there, as we speak, discussing with the various shipyards, especially in Korea. So we have a strong belief that we're going to be part of some of these projects at least. So yes.
+
+--------------------------------------------------------------------------------
+Christopher Møllerløkken,  Carnegie Investment Bank AB, Research Division - Research Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Christopher from Carnegie. Just 2 quick questions. You mentioned the corona impact at the start. And of course, this has closed down or at least extended the holidays for a lot of Chinese workers and also closed down factories. Do you see any impact from your sub-suppliers affecting your Kongsberg Maritime business? And should it be fair to assume that the revenues you will have in first quarter will be a bit lower than normal due to this?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [6]
+--------------------------------------------------------------------------------
+
+          I think China decided to extend the Chinese New Year with the 2 weeks. I spoke with our Head of China operation on Sunday. She then informed me that they are gradually now coming back to a normal operation starting this Monday -- last Monday. 
+So -- but of course, we have seen that there has been lower activities in the shipyards. There has been some restriction of moving around. So I think we have to expect that there will be some impact on our revenues from China in Q1. But when I spoke with our Head of Operation in China on Sunday, she said that there was signals that things was turning the right way. But I think we have to expect that this will continue for a while before things are normalized. Our employees are on the way back to office as we speak. We are doing this in a very controlled way. Because of the Chinese New Year, we are taking them in step-wise. But -- and also that we are, of course, have to adapt to the situation in the various shipyards. So I think we have to expect some impact on Q1 figures. I cannot be more precise on that now.
+
+--------------------------------------------------------------------------------
+Christopher Møllerløkken,  Carnegie Investment Bank AB, Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+
+          You also guided for some revenue growth in Kongsberg Maritime in 2020. And is that despite losing the revenues from Hydroid? Or should we exclude Hydroid from our 2020 -- 2019 base when we look for growth in 2020?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [8]
+--------------------------------------------------------------------------------
+
+          I comment briefly on it because you have to deduct the approximately NOK 800 million from Hydroid going forward, and then they have to substitute those revenues. And then on top of that, we see flattish EBITDA maybe.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [9]
+--------------------------------------------------------------------------------
+
+          Yes. Yes. We see -- Kongsberg Maritime is growing. As you saw, 18% organic growth there. But of course...
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [10]
+--------------------------------------------------------------------------------
+
+          We won't see 18% again next year in terms of deducting Hydroid.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+          We hope for some help from the market, but we are not expecting it.
+
+--------------------------------------------------------------------------------
+Knut Erik Løvstad,  Kepler Cheuvreux, Research Division - Equity Research Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Knut Erik Løvstad, Kepler Cheuvreux. Normally, you have had a slide with some of the large defense projects that has been amounting to close to NOK 100 billion. Some of them you have secured already. But there are still some out there that you have commented on before. Would you like to make some comment more specifically on some of those potential projects today?
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [13]
+--------------------------------------------------------------------------------
+
+          Yes. We are working on several projects, as you know, and we have talked about it many times. The reason we're not mentioning it, not because we have lost it. Of course, we are still working very closely on the Qatar program, on the big vehicle program that is ongoing as we speak. 
+There is several air defense programs, other places that we are working on. There are, of course, continuous progress in the submarine program in Norway.  There are several, I would say, missiles program that we are working on. 
+So the progress is as expected. But again, defense business is a business where you have to be very patient, and not every time it goes as quick as you hope for. So -- but I can assure you that we are working on all the programs that we have talked about earlier. We are continuously working on it. And there is no sign that we are losing our momentum on these programs.
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Yes. Sveinung Alvestad, Arctic Securities. A couple of question from me, please. 
+First of all, you talked a bit about Patria and the efforts you are doing there to turn around that ship. Can you give us some thoughts about how we should look at the contribution in the next quarters, years from Patria?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [15]
+--------------------------------------------------------------------------------
+
+          I think in terms of Patria, what they are delivering now, you don't see a very increase from -- in the contribution from Patria the next 12 to 18 months because we have launched a lot of efficiency programs there, and we're also waiting for a huge contract on the land business. And those will not give any benefit in the short term.
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [16]
+--------------------------------------------------------------------------------
+
+          And also, you said that you have a couple of restructuring projects that's -- you have already started. Can you please give us some indication of what kind of magnitude we should expect those one-offs to -- compared to over the next year?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [17]
+--------------------------------------------------------------------------------
+
+          Then you are back to the Kongsberg Maritime businesses, yes?
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [19]
+--------------------------------------------------------------------------------
+
+          Now -- first of all now, in this year, 2020, we will concentrate on reporting on the NOK 500 million in cost synergies with Commercial Marine. And after that, we will continue to launch different efficiency program, and until we are satisfied with the margins. And as you know, we are never satisfied with the margins, so that will only continue.  But again, it's -- that will be the main focus after having ticked the NOK 500 million. 
+So as we said before, it's -- in terms of business case, we always look at the business case in terms of if we can benefit from it, we will launch it also in parallel with the NOK 500 million. But at the moment, it's a huge job to take out the rest of the NOK 500 million because, of course, you always do the low-hanging fruit first and then you have to do the hard work.
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [20]
+--------------------------------------------------------------------------------
+
+          And last one for me is on CapEx. You guided for a 2% to 3% of revenue going forward, but also talking about expansion on several plants.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [21]
+--------------------------------------------------------------------------------
+
+          It's included in that 2% to 3%.
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [22]
+--------------------------------------------------------------------------------
+
+          So 2% to 3% for 2020 should be base case?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [23]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [24]
+--------------------------------------------------------------------------------
+
+          Could I also mention that now this is the last quarter we'll present. So I think it's important now for us. We have been working 1 year now with the integration of CM,KM, and I really like to start talking about KM because it's now one company. And so from now on, you will not -- except for the Value Capture, you will not hear about CM and KM. It's one company. We are one team. And I think it's about time that we also start talking externally as one Kongsberg Maritime.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [25]
+--------------------------------------------------------------------------------
+
+          And not also, we've done without IFRS 16. Now we do with one set of figures and one company.
+
+--------------------------------------------------------------------------------
+Sveinung Alvestad,  Arctic Securities AS, Research Division - Research Analyst    [26]
+--------------------------------------------------------------------------------
+
+          I'm looking forward to that.
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [27]
+--------------------------------------------------------------------------------
+
+          That will be good.
+
+--------------------------------------------------------------------------------
+Unidentified Participant,   -     [28]
+--------------------------------------------------------------------------------
+
+          I think that was the last question. So thank you so much, all of you, for coming today. And what about an applause for the members and our presenters?
+
+--------------------------------------------------------------------------------
+Gyrid Skalleberg Ingerø,  Kongsberg Gruppen ASA - Group Executive VP & CFO    [29]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Geir Haoy,  Kongsberg Gruppen ASA - President & CEO    [30]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

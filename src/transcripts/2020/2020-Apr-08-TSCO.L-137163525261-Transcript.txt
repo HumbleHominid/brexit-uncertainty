@@ -1,0 +1,438 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Full Year 2020 Tesco PLC Earnings Debt Investor Update Call
+APRIL 08, 2020 / 10:15AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Alan Stewart
+   Tesco PLC - Group CFO
+ * Lynda Heywood
+   Tesco PLC - Group Treasurer
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Ronan Clarke
+   Deutsche Bank - Analyst
+ * Stephen Wilson-Smith
+   M&G Investments - Analyst
+ * Alex Moss
+   Insight Investment - Analyst
+ * Rebecca Clements
+   Fidelity Worldwide Investment - Analyst
+ * Elia Kushovah
+   JPMorgan - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Hello and welcome to the Tesco debt investor call. (Operator Instructions). Just to remind you, this conference call is being recorded. Today I am pleased to present Alan Stewart, Group CFO; and Lynda Heywood, Group Treasurer.
+Please go ahead with your meeting.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you very much and good morning, everybody. As Alexandra has said, I'm joined by Lynda, as usual, on the call. Today we announced our results for the year February 29, and while it now seems a long time ago, I actually say that we were very pleased with the performance of the business last year. We finished the turnaround plan that we started five years ago. And by focusing completely on customers, re-engaging our colleagues, and completely rethinking our relationship with suppliers, we were able to deliver value for our shareholders and our stakeholders. We exceeded all of the goals we set.
+But before we get into the business (technical difficulty) perspectives, I just want to acknowledge the very real and very serious human impact of this virus. It affects our whole Tesco family around the world, our colleagues, our customers, their families and loved ones. Nobody is untouched. And our thoughts are with everyone who has been impacted.
+Please note that the slides for this presentation are available on the results and presentation section of the website. And just to remind you that this was a 53-week year for us in the UK and Ireland. The numbers that we'll be talking to are on a 52-week basis, since that gives a better comparison. We're going to give a little bit of an update on the results and then also some update on the COVID and how we are responding to it as a business.
+If we turn to the group performance slide, we were pleased with performance in the year, with profit growing to GBP3 billion, and retail free cash flow growing to GBP2.1 billion. Reflecting on the performance, and given the strong liquidity and balance sheet, we are proposing to pay a final dividend of 6.5p per share, which will be payable after the AGM.
+I'll now and over to Lynda.
+
+--------------------------------------------------------------------------------
+Lynda Heywood,  Tesco PLC - Group Treasurer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Alan. Moving to segmental performance, the summary here of our key sales and profit numbers by segment. This includes a total for the retail businesses, which we have introduced to give clearer visibility of our [definite] profit stream and where we saw profit growth of 13.9% year on year. On retail performance, and taking each of our retail businesses in turn, in UK and ROI, sales increased slightly against the backdrop of subdued market growth. Profit growth of 16.9% was driven by improved product mix, our simplified operating model, and strong Booker synergies.
+In Central Europe, sales and profit growth, particularly in the second half, reflected the significant transformation we undertook within our business. We resized, simplified, and improved the relevance of our businesses in the Czech Republic, Hungary, and Slovakia, and transitioned to a two-format model in Poland. This has involved fundamental changes to space, store layout, and product ranges, which are now largely complete. As a result, we are seeing a more efficient operation and improved availability for customers.
+In Asia, strong profit growth reflected our actions to improve product mix and to accelerate cost-saving initiatives. You will be aware that in early March, we announced the proposed sale of our businesses in Thailand and Malaysia, and Alan will talk more about this later.
+Moving on to Booker, we are pleased to say that the benefits we outlined at the time of the merger have now been delivered. We have achieved our three-year target for cumulative synergies in -- one year early. Booker is EPS-accretive to the Group in its second year, and returns are well in excess of the cost of capital. As anticipated, we completed our acquisition of Best Food Logistics on March 7, and this will enable more customers to access Tesco's sourcing capabilities. We see many opportunities to unlock further benefits from the merger, with Booker as an integral part of our UK and ROI business.
+So moving to sources and uses of cash, we shared this waterfall many times and it represents how we think about sources and uses of cash. As a reminder, this reflects our free cash flow definition, including repayments of obligations under leases, as required under IFRS 16. I'm going to call out the most notable items, starting with the GBP4.5 billion of cash generated from retail operation. The net inflow from working capital was GBP163 million, which includes the reversal of last year's negative impact of GBP210 million, primarily relating to our general ledger implementation. Our planned progress for the year was held back by the timing of non-trade payment, the deleveraging effect of lower sales in Central Europe, and our continued prioritization of availability for customers.
+In line with our disciplined approach, cash CapEx came in at just under GBP1 billion. We have provided the usual breakdowns by region and type in the appendices. Net interest and tax was just over GBP1 billion, approximately GBP100 million lower than last year, mainly as a result of debt maturities and bond tenders, with new issuances at a significantly lower rate of interest than retired debt. The benefit from dividends, acquisitions, and disposals of GBP345 million primarily relates to the GBP277 million proceeds from the sale of our 20% share in the Gain Land China joint venture completed just before year end. Overall, this has resulted in a free cash flow of GBP2.1 billion in comparison to GBP0.9 billion last year.
+On liquidity and debt, in the current environment, it's especially important to set out here a reminder of the strength of our balance sheet and our liquidity position. We are a highly cash-generative business with significant liquidity. We have GBP3 billion of committed facilities which are undrawn, and we have proven access to the capital markets in euro and sterling. During the year, we regained our investment-grade credit ratings from Moody's and S&P such that we are now investment-grade with all three agencies. In line with how we manage our debt on a portfolio basis, we repaid GBP1.3 billion of debt during the year through a combination of maturities and liability management exercises, and issued around GBP1 billion of new debt at attractive interest rates.
+On total indebtedness, this was GBP14.7 billion, down GBP0.9 billion since last year. This was driven by a reduction of GBP0.9 billion in our lease liabilities, reflecting the purchase of our partner stake in the Atrato Property JV, as well as capital repayments made during the year. This was partly offset by a slight increase in our pension deficit to GBP2.6 billion, driven by falling corporate bond yields. Subject to shareholder and regulatory approval of the sale, we anticipate using GBP2.5 billion of the proceeds from the sale of our businesses in Thailand and Malaysia to eliminate the UK pension scheme funding deficit.
+Moving to debt mix and fixed charge cover. In addition to total indebtedness, fixed charge cover continues to be an important metric by which we measure ourselves. We intend to maintain a disciplined approach to our cost of debt and have continued to take action to improve this, having passed the threshold last year. Looking at the mix of our outstanding bonds, sterling secured debts have increased since our interims following the purchase of our partners stake in the Atrato Property JV, which has reduced our lease liabilities but increased our secured borrowings. We continue to maintain a mix of currencies in our outstanding bonds, of which 79% is swapped back to sterling.
+And on credit ratings, this is the first time we've been able to show this slide, this credit rating slide, with investment-grade credit ratings from all three of the agencies. Our ratings allow us to be eligible to access COVID-19-related programs from the Bank of England and the European Central Bank. The rating agencies have all commented on the proposed sale of our Asian businesses and use of proceeds, concluding that this is unlikely to change our rating, but eliminating the UK pension scheme deficit contributions will afford greater financial flexibility. As we have stated before, we view our total indebtedness on a portfolio basis, and believe that by reducing our pension deficit by GBP2.5 billion, we will make a meaningful commitment to further deleveraging and removing ongoing cost from the business.
+I'll now hand back to Alan.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Lynda. As I said on March 9, we announced the proposed sale of our businesses in Thailand and Malaysia. Subject to shareholder approval and regulatory approval in both of these markets, we expect to complete the transaction in the second half of 2020. And, as Lynda said, we propose to use the proceeds to seek to eliminate the UK pension fund deficit, return around GBP5.5 billion to shareholders, and strengthen the balance sheet.
+We have continued to take further actions to simplify and strengthen our business. As mentioned, sale of our 20% share in Gain Land has resulted in net proceeds of GBP277 million, as well as enabling us to continue to focus on our core operations. We generated GBP258 million of property proceeds in the year, relating largely to the sale of properties as part of our Central Europe transformation. Overall, our group freehold property proportion increased to 60%, primarily as a result of the JV buyback of 15 stores and two DCs.
+So, in summary, we delivered a strong performance in the year, and our liquidity and funding position remains robust.
+As we look to the coming year, we continue to operate with a (technical difficulty) allocation framework. The proposed sale of the businesses in Thailand and Malaysia releases material value and allows us to further simplify and focus the business, as well as returning significant value to shareholders and securing the pension scheme for its members. With the turnaround complete and the balance sheet strong, we are well placed to support colleagues and customers through the current a very challenging times, and in the long term, to reinvest into the customer offer.
+Turning now to COVID-19, in the webcast earlier this morning, Dave spoke at length about what we are (technical difficulty) in response to COVID-19 and I will touch upon some of this in the next few minutes. The first chart on the initial impact of sales shape shows that we -- as we reported, we saw a broadly flat market coming into the year end. And there you can see it was only really right at the end of the year in week 53 -- these are Tesco weeks, so week 53 corresponded to the end of February -- that we saw a significant spike. That spike ended up at about a 30% increase across our business with food underlying it more strong. And then we saw a negative impact of the government-imposed restrictions. Last week we saw a return growth but at a significantly lower level than the initial spike. And as we go forward, we'll clearly be monitoring the demand pattern from customers as the year unfolds.
+We [are] looking at a number of different scenarios, and the next slide on sales drivers gives you some indication of how the different elements may impact the mix of our sales across three different lockdown scenarios. In the base case, we have a material impact on the operations of our business and we are incurring significant additional costs, particularly in payroll, as we recruit additional colleagues to meet demand and cover the work of those colleagues who are absent and being paid. The stockpiling initially we would expect to be a one-off impact and we've really seen the end of that.
+Whilst the full impact of the crisis for the year that were in, the 2021 year, it is impossible to predict with a high degree of certainty, the scenarios gives some idea of the potential income -- outcomes on the business and the plans that we make appropriately. Dependent on this scenario, the estimated impact on our retail cost lines is between GBP650 million and around GBP925 million, including significant increases in payroll, distribution, and store expenses. This is primarily in response to our UK business where we have seen the strongest impact. A summary breakdown of these is included in the appendix.
+Against that, of course, we have the rates relief, which in the UK and Scotland is around GBP585 million. At this stage, it would not be prudent to provide financial guidance for the 2021 year. However, if customer behavior were to return to normal by August, it's likely that the additional cost headwinds incurred in the retail operations would be largely offset by the benefits of food volume increases, the 12-month business rates relief, and continued prudent operations management system. If the restrictions last longer, then you can see some positives and negatives in terms of our sales across the business.
+Moving on to the next slide, we've been focusing on four key elements in our business: food for all, safety for everyone, supporting our colleagues, and supporting our communities. So to give some examples of this, in the -- you will have seen that in the initial stages, we restricted to three items per customer, per product, and which have now been removed on the majority of products. Product is flowing into our stores and there are very few restrictions on any sales now. We have also introduced special hours in-store for both NHS workers and vulnerable and elderly customers.
+In terms of safety for everyone, we put in place new social distancing measures which we have summarized in the colleague advert which you may have seen over the weekend, which we shot overnight. And we have also put in place directional floor markings to help everyone keep a safe distance. And we are encouraging payment by card. We saw card payments in the UK business at around 80% last week, which is significantly up on the run rate previously.
+Our colleagues are receiving support, and have received support right from the start of the crisis. If a colleague self-isolates and goes off, then they receive full pay from the first day of absence. And we also pay 12 weeks on full pay for those who are vulnerable or elderly and who have been advised to stay at home. We have taken onboard around 45,000 new colleagues who have joined us since March 20, including pickers, drivers, and store colleagues.
+In terms of community support, we regularly, and on an ongoing basis, give GBP3 million of food donations via the Community Food Connection and our distribution centers, and we have increased that for the next three months for GBP15 million food donation; plus we are giving GBP1 million of funding over the next 12 weeks for FareShare and Trussell Trust in terms of the increased costs which they are facing. We are constructing the first dedicated NHS Nightingale Hospital pop-up store which will open in Birmingham, and we will make no profit from that. And on top of that, we have also announced the donation of 1 million meals to the NHS initiative, which we announced yesterday.
+I'd now like to hand over to any questions you may have, either in terms of the COVID response or the year ended. And Lynda and I will take those as appropriate.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions). Rebecca Clements, Fidelity.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Couple of questions for me. The first one is, with regard to the Thai business you're divesting, is there a specific amount of debt associated with that business currently?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [3]
+--------------------------------------------------------------------------------
+
+          It depends which spot you're looking at. In the Malaysian business, there is debt; the Thai business has got net cash. In the announcement that we made on March 9, we highlighted what that is. We sold it effectively on a -- as a standalone business, on a cash and debt-free basis. And the proceeds that we announced take into account the cash in the business.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Okay, take into account the cash and the debt in the business?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [5]
+--------------------------------------------------------------------------------
+
+          Yes, yes.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [6]
+--------------------------------------------------------------------------------
+
+          So I should assume that it will come -- basically there is no major change or any additional debt that you guys will have to pay off?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [7]
+--------------------------------------------------------------------------------
+
+          Exactly, yes.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Okay. And then regarding the actual transaction, given the environment right now, do you remain comfortable that there won't be any sort of material adverse change clause triggered? And also is there any linkage to an adverse change clause with respect to the bridge funding that the buyer has?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [9]
+--------------------------------------------------------------------------------
+
+          In announcing any transaction, Rebecca, you'll appreciate that we look at all of the terms of the transaction. The deliverability of the transaction is a key element of the decision we make in entering into it. So we've got full contractual protection. We've got the commitment on the part of the purchaser to work -- for us to work with them on the competition clearances they seek. And very, very important to us is the strength and robustness of the financing package, which they have in place as we announced the transaction. So I've got no concerns about any of that and fully expect the transaction to close in the second half of the year. We sold it effectively off the results off the February year end, so essentially the business risk passed to the purchaser from the date of March 1.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [10]
+--------------------------------------------------------------------------------
+
+          Okay. Okay, that's helpful. And then just a clarification (multiple speakers)
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [11]
+--------------------------------------------------------------------------------
+
+          Sorry. To the second question, in terms of their financing: their financing, as I've said, is something which we get -- we were fully comfortable with in terms of the strength and robustness of that.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [12]
+--------------------------------------------------------------------------------
+
+          Okay. I appreciate that. I just think that it's somewhat extraordinary times in the market. And for me specifically, I don't know the buyer that well. It sounds like they have a bunch of different sources of capital. So I wasn't sure if there was any risk there, given that globally we've clearly had some plumbing problems with the financing markets.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [13]
+--------------------------------------------------------------------------------
+
+          There is nothing that causes us to think that the transaction won't close in the time period we've sent out.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Okay. And then on your presentation this morning, just a clarification. You said you'd gone from 58% freehold to 60%. I assume that refers to the UK specifically?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [15]
+--------------------------------------------------------------------------------
+
+          No, that's across the Group. We don't have a target. It's a result of the -- of taking back control of this JV where the properties were previously in a JV and subject to leasehold. Now that we own 100% of the -- of that JV with the 15 stores and two DCs, those become owned properties. But it's across the Group, that 60%.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [16]
+--------------------------------------------------------------------------------
+
+          And does that include the Thai-Malaysian business? I'm not sure how much freehold you have there.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [17]
+--------------------------------------------------------------------------------
+
+          As of the end of February, it does, yes. The Thai business has got a larger proportion. But in the scheme of things, the UK proportion is, by far, the one which makes the biggest impact on the percentages.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Okay. So you wouldn't expect that to appreciably change, pro forma, for the Thai divestiture?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [19]
+--------------------------------------------------------------------------------
+
+          No. But as I say, it's not a -- we don't have a target for it. It's an outcome rather than a target.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [20]
+--------------------------------------------------------------------------------
+
+          Okay. All right. And on your share repurchase policy, have you actually stated a policy in terms of suspending that program or it not be -- I appreciate you are still talking about paying dividends, but has there been an announcement with respect to share repurchases?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [21]
+--------------------------------------------------------------------------------
+
+          No, no. And all we've done is we've reiterated, and doing so today, as well -- we are reiterating our capital allocation framework, and we have the payout ratio of 50%. And, therefore, dividends are clearly linked to profitability in the year. And to the degree that we -- once we have invested the capital in the business that's needed; looked at the other uses of cash, including if there are inorganic opportunities -- any excess cash, we've said we would intend to return to shareholders, likely through share buyback. But we have made no commitment to that beyond the excess capital we are generating on the sale of the Thai and Malaysian businesses.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          Okay. And from a government perspective, I appreciate that you wouldn't necessarily have the answer to this because it's not something that's been legislated yet. But given that there is a substantial benefit from the business rates holiday, is there a chance further down the road, once things have stabilized from an economic perspective, that the government may institute some sort of special tax to recoup some of that in future years? Is that something that you've considered when you are (multiple speakers) thinking about what excess cash is?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [23]
+--------------------------------------------------------------------------------
+
+          I can't comment on that. We have set out very clearly the very significant extra costs that we are incurring in terms of supporting the -- across all of our businesses -- supporting food for customers in each of the markets. And against that, we -- as we've said, we expect the rates relief will make some impact against those costs. But as you can see in the detail of the slide, the cost (technical difficulty) range in excess of GBP600 million to more than GBP900 million, depending on which scenarios. But the one thing we do know is that wherever we think today and we put forward as a scenario, the reality is going to be different, so will just have to wait and see how it changes.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Okay. No, I mean, that's fair. And then on your November 2020 maturity that you have, I believe -- according to Bloomberg, you have EUR295 million outstanding on that. Is that something that you would pay down with cash? Or would you look to fund that in the markets at a later date?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [25]
+--------------------------------------------------------------------------------
+
+          Lynda, you probably want to answer that.
+
+--------------------------------------------------------------------------------
+Lynda Heywood,  Tesco PLC - Group Treasurer    [26]
+--------------------------------------------------------------------------------
+
+          Yes. We are looking at options for that. We certainly could repay it with cash if we chose to.
+
+--------------------------------------------------------------------------------
+Rebecca Clements,  Fidelity Worldwide Investment - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Okay. I'll get back in the queue. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          Alex Moss, Insight Investment.
+
+--------------------------------------------------------------------------------
+Alex Moss,  Insight Investment - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Just follow up on one of Rebecca's questions there. In terms of your dividend payout, you've effectively reiterated your leverage target. So can you just give me a little bit more detail on how you would manage that if things don't recover according to your base case? Because quite clearly, if that's the case, your cost base will be going up. And how are you thinking about that in the context of the credit rating? Thanks.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [30]
+--------------------------------------------------------------------------------
+
+          Yes, so I'll start, and Lynda may want to add. So the -- you'll recall that we had a leverage target of 2.5 to 3 times. As part of the disposal of the Thai and Malaysian businesses, we have now slightly strengthened the leverage ratio and the -- reduced the range, so we are now around 2.5 times is our target. That reflects the fact that we have lost some geographical diversity. However, as Lynda said, we also are significantly reducing the indebtedness through the payment to the pension fund.
+The target is one which -- and we will continue to operate, and aim to have, but it may well fluctuate. Our payout ratio is 50%; and, therefore, in any period, we are only expecting to pay out half of what we are [earning] from shareholders.
+Lynda, I don't know if you want to add anything more to that.
+
+--------------------------------------------------------------------------------
+Lynda Heywood,  Tesco PLC - Group Treasurer    [31]
+--------------------------------------------------------------------------------
+
+          No, not really. I think you've covered it. I mean, the only thing I'd say, you asked about our credit ratings; I mean, clearly, in the leverage targets that we are setting, you can see that being an investment-grade credit is really important to us. And that's recognized.
+
+--------------------------------------------------------------------------------
+Alex Moss,  Insight Investment - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Okay. That's fine for me. Thank you very much.
+
+--------------------------------------------------------------------------------
+Operator    [33]
+--------------------------------------------------------------------------------
+
+          [Elia Kushovah], JPMorgan.
+
+--------------------------------------------------------------------------------
+Elia Kushovah,  JPMorgan - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Thanks for taking the questions. One is a follow-up on the Thai disposal fees. The line it was pretty bad, so I wasn't able to totally catch what you said. But, essentially, I was trying to understand whether there is any clause in the deal, or even with respect to the funding that might enable the buyer to pull out from the deal. And the second one is, would you be able to remind us what's the percentage in the UK of online [and GM closing]? Thank you.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [35]
+--------------------------------------------------------------------------------
+
+          Yes, so look, as I've said, I'm confident of the deal closing. We wouldn't announce something that we weren't confident in. And we seek to make that as robust and as unable to be changed as circumstances change at the time we enter into it. So I've got no -- I don't have concerns around it as regards the closing of the transaction, but we have to go through shareholder approval and we have to get regulatory authority. Again, we don't enter into transactions unless we have looked at all of those aspects very, very carefully and very, very clearly, as you'll recall with the Booker transaction.
+As regards the online, we don't split the sales like that, but I can tell you that the -- a bit of color on online. And online relates only to grocery home shopping; it doesn't -- we don't have a general merchandise or clothing online operation. That was running -- across the market, online was running at about 8% of the market as we entered the crisis. We've seen a very significant increase in that, and we are putting more capacity in. We have increased capacity online in terms of the slots available to customers by around 20% in the last two weeks, and we'll continue to bring more capacity in. But even if you double the online capacity in the market from, say, 8% to 15%, that still leaves 85% of the market which will be served by stores. And that's something which we are reminding people of. A lot of demand for online, and it is margin-dilutive to us; it costs us more to deliver an online order than it does to have customers shop in store.
+So we are focused on delivering it, particularly focused on serving vulnerable customers as defined by the UK government. But in terms of mix, it is margin-dilutive as we shift to online.
+
+--------------------------------------------------------------------------------
+Elia Kushovah,  JPMorgan - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Thank you. And in terms of clothing and GM in total UK, or even rough numbers would be very helpful. Obviously you mentioned online doesn't have any GM or clothing.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [37]
+--------------------------------------------------------------------------------
+
+          Is a relatively small part of our business. Our business is food. It's got a more attractive margin characteristics than food, but it's a relatively small part of our business. Lynda may be able to come back to you later with some more color on it.
+
+--------------------------------------------------------------------------------
+Elia Kushovah,  JPMorgan - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions). Ronan Clarke, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Ronan Clarke,  Deutsche Bank - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Apologies if you've covered this earlier; I joined late. But when you laid out the scenarios this morning, the three different scenarios, I didn't catch what period you were talking about in each case, as in how many weeks are you assuming for the base case, how many for the further scenario, and how many for the long-term?
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [41]
+--------------------------------------------------------------------------------
+
+          Yes. Look, Ronan, there are obviously quite broad brush, but in terms of those three that we talk about, the one we took as a 12-week period, a three-month period before the -- there's a return to normality. There is a 16-week period and a 20-week period, and that's the basis under which we set these assumptions. We are also trying to look at the demand, and how demand in the market will potentially change and then settle down. And given the significant changes that we are seeing in behavior, and those feed into the different scenarios we've looked at, but broadly it's 12-week, 16-week, and 20-week period that we looked at.
+
+--------------------------------------------------------------------------------
+Ronan Clarke,  Deutsche Bank - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay, that's very helpful. Thank you.
+
+--------------------------------------------------------------------------------
+Operator    [43]
+--------------------------------------------------------------------------------
+
+          Stephen Wilson-Smith, M&G Investments.
+
+--------------------------------------------------------------------------------
+Stephen Wilson-Smith,  M&G Investments - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          I have three quick questions. Firstly, on the disposals that you mentioned, the China JV, and the Central European disposals, I wasn't quite sure, have those already been done in this year, or are they coming? And then second question is just a question on how Booker, I suppose, is trading right now. Clearly there's been this shift to more consumption at home, and away from restaurants. It is trading reflecting that? And then on the call this morning, I think it was said that there's been a sort of -- your expectation is there's a 25% uplift in food sales currently, which is sustainable so long as restaurants and catering are all closed. Is that correct? And then do you have a view on how, or when, or if this all goes back to trade over time? Thank you.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [45]
+--------------------------------------------------------------------------------
+
+          Great, Stephen. So in terms of the disposals, the cash from the China JV was received immediately [before the year end], so it's in the numbers. And we also received cash, which we highlighted in respect of the sales of properties, particularly in Central Europe. And there are further disposals planned for Central Europe, and those will be received as and when we enter into transactions on those stores. But the fundamental repositioning of the Central European business is now complete.
+As regards Booker, you're right. Booker's business is a mixture of food service and supporting retail customers. The food service business has dropped quite significantly. Dave mentioned this morning, around 60% drop in food service. And the retail side has picked up by around 30%. Clearly, it's early days and we'll see how those change. Very, very difficult to say how that 25% uplift in food -- which is the right number; you're right in that -- will play out once things return to normal. And we will have to wait and see the -- we don't know whether customers will continue to eat more at home and cook more, which is what they've been doing in the last few weeks, or whether they will choose to recognize the fact that they have been constrained from eating out in restaurants and in pubs, and choose to go out more. We really don't know about that.
+But, broadly, will see this in the other presentation, which is available on our website. You'll see some sales graphs which show those three different scenarios, and we anticipate a flattening towards the end of that period. But they are very, very broad assumptions at this stage. We just wanted to give more color as to the way we are thinking about this.
+
+--------------------------------------------------------------------------------
+Stephen Wilson-Smith,  M&G Investments - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          And as there are no further questions, I will hand the word back to the speakers for any final comments.
+
+--------------------------------------------------------------------------------
+Alan Stewart,  Tesco PLC - Group CFO    [48]
+--------------------------------------------------------------------------------
+
+          Great. Thank you very much. And thank you, everybody, for your time. And in these very, very special circumstances, the last few weeks have been an extraordinary effort across the whole of Tesco with great challenges and also incredible humanity in terms of the -- our colleagues in the way they are facing with customers. There is likely to be a lot more change to come. We'll face into that and we are very, very well placed, we believe, given all the efforts that we've done over the last five years. Look forward to talking to you when we next get together at the half-year. And in the meantime, keep well and keep safe.
+
+--------------------------------------------------------------------------------
+Operator    [49]
+--------------------------------------------------------------------------------
+
+          This now concludes our conference call. Thank you all for attending. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

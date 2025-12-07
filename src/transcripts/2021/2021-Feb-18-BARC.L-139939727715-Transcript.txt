@@ -1,0 +1,318 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Full Year 2020 Barclays PLC Fixed Income Analysts and Investors Earnings Call
+FEBRUARY 18, 2021 / 3:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kathryn McLeland
+   Barclays PLC - Head of IR & Group Treasurer
+ * Miray Muminoglu
+   Barclays PLC - Head of Long-Term Unsecured Funding & Capital Issuance
+ * Tushar Morzaria
+   Barclays PLC - Group Finance Director & Executive Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Robert Louis Smalley
+   UBS Investment Bank, Research Division - MD, Head of Credit Desk Analyst Group and Strategist
+ * Daniel Ryan David
+   Autonomous Research LLP - Research Analyst
+ * Neel Shah
+   Credit Agricole Corporate and Investment Bank, Research Division - Financials Desk Credit Analyst
+ * Lee Street
+    - 
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+Welcome to the Barclays Full Year 2020 Fixed Income Conference Call. I will now hand you over to Tushar Morzaria, Group Finance Director.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [2]
+--------------------------------------------------------------------------------
+Good afternoon, everyone, and welcome to the fixed income investor call for our full year 2020 results. I'm joined today by Kathryn, our Group Treasurer; and Miray, our Head of Term Funding. 
+Let me start with Slide 3 and make a few brief comments before handing over to Kathryn. As I said this morning, our priority during the pandemic has been to support the economy, serving our customers and looking after the interest of colleagues and other stakeholders. It's been a very challenging year, but the pandemic has shown very clearly the benefits of our diversified business model. 
+Despite the effects of the pandemic, we reported a statutory RoTE of 3.2% or 3.4%, excluding litigation and conduct. The impairment charge of GBP 4.8 billion up almost GBP 3 billion year-on-year, reduced PBT from GBP 6.2 billion to GBP 3.2 billion, excluding litigation and conduct. With income up 1%, overall, we delivered neutral [draws] and a cost income ratio of 63%, slightly in excess of the group's target of below 60% over time. 
+Our capital position is also strong with a CET1 ratio strengthening further in Q4 to reach 15.1%, up 130 basis points over the year. Under the temporary guardrails, which the regulator announced in December, our statutory profitability allows us to distribute 5p in aggregate by way of dividend and buyback. 
+We plan to launch a share buyback of up to GBP 700 million by the end of Q1, which is attractive for us from a financial point of view, at current share prices and equivalent to 4p per share. In addition, we are paying a dividend of 1p and reaffirming our intention going forward to pay dividends supplemented as appropriate by share buybacks. We'll update the market further on distributions at the appropriate time. 
+Our balance sheet, resilience and ability to remain profitable in every quarter of 2020 means we're in a strong position to continue capital distributions to shareholders, absorb capital headwinds and operate in our target range of 13% to 14%. More on capital from Kathryn in a moment. 
+Before I hand over, a few words on impairment on Slide 4. You're already familiar with the significant increase of almost GBP 3 billion in the impairment charge year-on-year. This is being driven by deterioration in economic outlook as a result of the pandemic and has led to significant increases in the charges in each business. 
+However, this book up in provisions in Q1 and Q2 has not been followed by material increases in defaults. You can see much lower charges for Q3 and Q4 in the second chart. We've shown the charge for each quarter, splitting to stage 1 plus 2 impairment, mostly relating to balances, which aren't past due and stage 3 impairment on loans in default. As you can see, most of the elevated impairment in Q1 and Q2 was from book ups, while most of the Q3 and Q4 charges were on stage 3 balances. 
+On the next slide, we've shown the macroeconomic variables or MEVs we've used in the expected loss calculation. We updated the MEV slightly in Q4, as you can see on Slide 5. However, I would emphasize that with the reduction in unsecured balances and given the ongoing level of government support, the models on their own would have generated a significant provision write-back in Q4. 
+However, there is significant uncertainty as to what defaults we will experience as support schemes are wound down through 2021. And we have, therefore, applied significant post-model adjustments, totaling GBP 1.4 billion, as you can see in the table. This takes our reserves to GBP 9.4 billion, which broadly maintains our increased level of coverage. 
+Given our forecast for unemployment levels, we would anticipate an increased flow into delinquency as we go through 2021. But given our existing level of provisioning, we would expect a material lower charge for 2021. 
+And with that, I'll hand over to Kathryn.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [3]
+--------------------------------------------------------------------------------
+Thanks, Tushar. As you can see on Slide 7, we finished last year with a robust balance sheet across all our metrics. Our CET1 ratio was 15.1%; MREL finished ahead of our in set requirement at 32.7% of RWAs or 8% on a CRR leverage basis, and our LCR stands at a very strong position of 162%. 
+I'll start with capital on Slide 8. Over the course of 2020, our CET1 ratio increased by 130 basis points from 13.8% to 15.1%. As you can see on the slide, the largest driver for this was our ability to deliver profits every quarter in 2020 despite the external stress that we and the rest of the sector experienced. Pre-provision profits contributed to 203 basis points of capital accretion in the year. There was meaningful regulatory support in 2020, such as 100% relief to stage 1 and stage 2 impairments taken since the beginning of 2020. 
+And in Q4, we saw further uplift in the risk weighting of software assets, but we do expect that benefit to be reversed during the course of this year for U.K. banks. Tushar mentioned the resumption of capital distributions earlier, while the dividend cancellation in 2020 and nonaccrual throughout the first 3 quarters of the year helped our capital position. The resumption of distribution is a key part of our capital plan, given our strong capital position and resilient financial performance. 
+Turning to Slide 9, you'll see that we've provided color from the various moving parts over the next couple of years. You will see on the chart a rebased CET1 position of 14.7% that takes into account the share buyback and 2 regulatory items that impact our capital base in Q1 of this year. First is the removal of the PVA relief, which the PRA granted for 2020; and second is the IFRS 9 transitional release scaler for impairment stock taken in 2018 and 2019, which reduces from 70% to 50% this year. From here, our prudent capital planning takes into account the headwinds and tailwinds we have seen in the coming years. And of course, these are reflected in the calibration of our CET1 target range of between 13% and 14%, which I'll explain in a moment. 
+As you heard me say, our resilient business model delivered profits in each quarter of 2020, despite a very challenging year for the sector. We're confident that our diversified business model and the sustained performance of our CIB in particular, will allow us to continue to generate retained earnings and to help offset the headwinds ahead. 
+Given our strong excess capital position supported by our profitability, we expect to continue to return capital to shareholders, which reflects the soundness of our capital management and, of course, as this decision taken hand-in-hand with our regulator. As ever, maintaining a strong CET1 ratio is a key tenet of our capital management framework. And our capital plans take into account anticipated headwinds, which you will see on the slide, taking these in turn. 
+The first two in the list have been flagged throughout the stress period last year, with the potential for credit rating migration to drive a pro-cyclical increase in RWA and for impairment stage migration to impact the amount of IFRS 9 transition release. 
+Next, you would have seen the PRA statements about their stance on the risk weighting of software assets, and for that benefit to be reversed during the course of the year in full after a consultation that was launched this month. On the previous page, you will have seen that under the CRR, the software benefit contributed around 30 basis points of the accretion in CET1 we saw in Q4, and our prudent plan assumes this to be reversed in due course. 
+Next, we're flagging that the IFRS 9 transition relief scaler will continue to amortize through to the end of 2024, and there is a slide in the appendix which provides further detail on this. On the 2022 regulatory items, which we've also flagged in the past, the guidance remains of low single-digit billion RWAs for each of the changes to mortgage risk weighting models and SA-CCR. 
+And finally, like our peers, we have a pension deficit reduction plan with a GBP 700 million payment this year and GBP 300 million next year. Taking all the headwinds and tailwinds into account, we have today announced a target for our CET1 ratio of between 13% and 14%, and I'll spend a moment on this on the next slide. 
+You will recall that throughout the stress period last year, we guided to maintaining a capital position with an appropriate headroom above the MDA hurdle. Driven by our strong capital accretion and the regulator taking supportive actions, including taking the MDA hurdle down, we ended the year with a record headroom above the MDA of just under 400 basis points, equivalent to GBP 12 billion. 
+Of course, holding an appropriate headroom to our MDA continues to be part of our capital management framework and is taken into account when we calibrate this target. Going forward, we're aware that the MDA hurdle could change due to the dynamic nature of the Pillar 2A calibration and the potential reintroduction of a U.K. countercyclical buffer or CCYB in the medium term. 
+Our CET1 ratio target will continue to be assessed, but the target rate also reflects the potential fluctuations in the MDA hurdle. With the CCYB, we note that the regulator acted decisively at the beginning of pandemic to remove the requirement as they also did in 2016 following the outcome of the EU referendum. So it is clear that the CCYB is a macro stress buffer. So we're pleased to operate with a record headroom to the MDA hurdle during the stress in 2020, and we continue to prudently plan to maintain an appropriate headroom. 
+Turning now to leverage. The leverage ratios at year-end of 5.3% and 5% on a spot and average basis, respectively, reflects our continued sound leverage profile. As you can see on the slide, we operate well above minimum requirements. And our leverage profile has been running at a consistent level for the last 4 years. We note that the FPC is due to report back on its long-awaited leverage review this summer, with the potential to move to a single leverage framework for U.K. banks. 
+As you know, as a U.K. bank, we only have a leverage requirement under the U.K. basis, and our obligation under the CRR basis is currently only one of disclosure. Whilst the CRR basis doesn't have a cash exemption, the U.K. basis does, following the PRA's decision in 2016. Given this prior position, it seems a reasonable assumption that the final state U.K. leverage rules would include a form of cash exemption, noting also that this is committed under [BARDA] law. I mentioned this as it could be relevant to the Bank of England's MREL review, which is also due to report back this year. More on this on the next slide. 
+As you can see, our prudent build of MREL-eligible debt over many years has meant that we are ahead of 2022 requirements on all bases. Given this conservative position, our MREL issuance plan for the year of around GBP 8 billion is consistent with recent years. And when comparing like-for-like with HoldCo and OpCo maturities and calls, we expect to be a net negative issuer for the year. 
+You may have seen that the Bank of England published MREL requirements for all the U.K. banks in January, which showed the CRR leverage basis is binding for us alongside a number of other banks. However, it is possible that our MREL requirement reverts to an RWA basis, given the leverage review and the possibility of a cash exemption to be retained in the final rules, as I just mentioned. It's also notable that the current balance sheet reflects a surge in cash balances across the banking system caused by Central Bank's response to the pandemic, albeit we do acknowledge that this could persist into the medium term. While we wait for the outcome of the leverage review, we will continue to prudently manage our MREL position, and our intended issuance volume reflects this. 
+Turning to the next slide, which illustrates the structure of our total capital position. AT1 and Tier 2 capital are likely to once again form part of our GBP 8 billion MREL issuance plan for the year. We continue to target a conservative AT1 headroom, albeit this may temporarily be at an elevated level, recognizing that AT1 also supports leverage as we see attractive high-returning opportunities in our markets business where returns are materially in excess of the cost of AT1. On a long-term basis, our principles that underpin our AT1 target remain the same. The hedging serves to manage potential RWA and FX fluctuations and to manage through potential redemptions and any refinancing activity. In the near to medium term, this means managing through the RWA headwinds I mentioned a moment ago and planning for the call date for our outstanding AT1 instruments in 2022 and 2023. We also manage these risks in our Tier 2 stack and it's our aim to hold an amount in excess of the 3.2% requirement. 
+With regards to legacy capital instruments, we have received the Bank of England's request for the remediation of the prudential treatment of legacy instruments, along with the other U.K. banks. And of course, we will respond to the Bank of England before the 31st of March deadline. As you all have heard from us on prior calls, we have a very modest amount of Barclays Bank PLC issued capital instruments, of which we believe the majority should continue to count as capital after the end of this year. 
+Turning now to liquidity, which you can see on Slide 14. The liquidity pool of GBP 266 billion and our LCR Tier 1 ratio of 162% represented surplus above the 100% Pillar 1 regulatory requirement of close to GBP 100 billion. The December LCR position is stable year-on-year, following heightened intra-year positions that reflected strong deposit growth and a temporary and prudent increase in cost-effective short-term funding, which has now unwound. 
+Meanwhile, we continue to deploy excess liquidity to our businesses, allowing them to capitalize on prevailing market opportunities. Going forward, we intend to maintain a conservative liquidity position underpinned by a prudent funding profile given the persistent macro uncertainty, as you can see on the next slide. 
+The significant reduction of the loan-to-deposit ratio since the end of 2019 was primarily driven by the unprecedented level of deposit growth observed across the market through the crisis. This is a structural phenomenon driven by government and Central Bank policy that saw Sterling money supply up 14% on a year-on-year basis, whilst credit was only up by 4%. This money supply expansion contributed to an 11-point reduction in the loan-to-deposit ratio as our own deposit base increased by GBP 65 billion or 16%, driven predominantly by our GBP 43 billion or 23% growth across the CIB and business banking. We've continued to apply very conservative planning assumptions on the evolution of the deposit book to ensure that we are well positioned amidst the ongoing uncertainty. 
+Turning now briefly to our main subsidiaries, which you can see on Slide 16, both Barclays Bank PLC and Barclays Bank U.K. PLC continue to run prudent regulatory metrics. Barclays Bank Ireland PLC, which sits beneath BBPLC, was built out in response to Brexit, with a significant expansion in its capabilities. Following the end of the transition period in December, Barclays is positioned to continue providing services in the EU through this Irish subsidiary. It also means that we're not dependent on the EU and U.K. agreeing to financial services equivalent to continue to serve our clients and customers. 
+Turning now to our holding company and subsidiary credit ratings, which you can see on Slide 17. Maintaining strong credit rating for all of our entities with each of the agencies continues to be a strategic priority for the group. Due to the macroeconomic backdrop, a number of our entities have a negative outlook, consistent with the rest of the sector. We were though pleased when Fitch removed the rating watch negative in the second half of last year. We continue to highlight our credit strength to the rating agencies through our ongoing intensive engagement and, in particular, relative rating levels versus peers. 
+I'd like to take a moment to talk about ESG, which you can see on Slide 18. As Jes mentioned this morning, last year, we made particular progress in our commitments towards climate change. We set an ambition to be a net zero bank by 2050 and committed to align all of our financing to the goals of the Paris Agreement. I'm proud of the continuing efforts in this regard within treasury. 
+Our green bond holding on our liquidity pool now stands at GBP 3.1 billion, an increase from the prior year position of GBP 2.7 billion. And in November, we issued our second green bond, which made us the first U.K. bank to issue a sterling-denominated green bond, the MREL-eligible 6 non-core, 5 senior from our HoldCo. We'll continue to seek opportunities to expand our green offering to the market as we continue to deepen our dialogue with our investors on sustainability. 
+Before I finish, let me make a few remarks on LIBOR reform, given the impending deadline set by the FDA for the end of this year. For the first time, we have a dedicated note to our financial statements in our annual report on interest rate benchmark reform, with exposure to maturity profile to provide color on our progress. We've been actively engaging with our customers and counterparties to transition or include appropriate fallback provisions. 
+The ISDA LIBOR fallback protocol and the ISDA fallback suppl, which went live on the 25th of January, are a major step forward in the transition plan. And importantly, we've delivered the vast majority capability of other counterbodies and customers, non-LIBOR reference products across loans, bonds and derivatives, in line with official working group expectations and milestones.
+In terms of our own English law LIBOR linked liabilities, we're the first U.K. bank to offer investors the opportunity to transition away from LIBOR across an extensive range of securities at the same time. These included new and old style capital instruments, and we are pleased to have succeeded in amending the terms of 5 securities, including 3 AT1s and 1 senior MREL security. This was an important first step, which demonstrated our desire to fulfill the regulator's objective to prepare for a post-LIBOR world and to offer investors an opportunity to reduce their own LIBOR exposures. 
+So to conclude, we finished an incredibly turbulent year with a strong balance sheet, a record CET1 ratio and robust liquidity metrics. A diversified business model supported our ability to remain profitable in every quarter. And as we look ahead to 2021, we are in a strong position to be able to support the economy, serve our customers and look after the interest of colleagues and other stakeholders. 
+And with that, I'll hand back to Tushar.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [4]
+--------------------------------------------------------------------------------
+Thank you, Kathryn. We would now like to open up the call to questions, and I hope you have found this call helpful. Operator, please go ahead.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+(Operator Instructions) The first question today comes from Lee Street of Citigroup.
+
+--------------------------------------------------------------------------------
+Lee Street,   -     [2]
+--------------------------------------------------------------------------------
+I've got one broad one and three sort of technical ones, shall we say. So firstly, broad one. Stage 2 loan classification. So we've seen quite a big increase last year in stage 2 loans and now we start to see that decline on the other side. So my question is how are we supposed to interpret stage 2 loan classification? Is it actually saying that does really represent a genuine increase in credit risk? Or is it really just the outcome of the model that you're effectively just to taper off and we probably shouldn't be reading too much into? That's the broad one. 
+And then a couple of quick technical ones. Just you noted in the slides, Barclays Bank Tier 2 may qualify -- or may qualify as Tier 2 after 2020, out in 2022. Do you think you'll take an increase in your MREL requirement to offset that? Is that your expectation? 
+Secondly, on the building towards your 3.2% of target tier 2 level, you're currently around 2.5% of the HoldCo. Am I thinking this is implying about GBP 2 billion worth of Tier 2 issuance in 2022? 
+And just finally, you mentioned the LIBOR exchange that you do, or the LIBOR consent solicitation that you did has been an important first step. Obviously, there were a couple of securities in there that -- where the consent didn't pass. Is there a second step for those? Or will they just revert effectively what the contractual terms and conditions say? Those are my questions.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [3]
+--------------------------------------------------------------------------------
+Thanks, Lee. Thanks for your questions. Why don't I take the one on impairment staging, and I'll ask Kathryn to cover the other more sort of technical questions that you had. 
+Yes, staging with impairment, it is very much driven by models, particularly on the consumer side, where quite simply, if there's a meaningful change in the probability of default for any particular credit, then either it sort of gets into stage 2 immediately if you originated something with a meaningful probability of default or if it's more likely the case on stage 1, it moves into stage 2. So in that sense, it's more of a quantitative output than a sort of a credit officer going through name by name, looking for a judgment. 
+On the corporate side, so certainly large corporates, there's much more sort of credit officer involvement. You'll notice that the builds that we have in stage 2 impairment balances is actually mostly for -- overwhelming actually, for loans that aren't past due yet. So that sort of gets to the point where it's very much forward-looking that these credits have exhibited a more riskier profile than they were previously. And under the current accounting standards, we take an expected loss. And as I said in this morning's call, the model they're looking forward, expecting these -- the risk of delinquencies start to materialize. We're just not seeing that yet. It's markedly benign, both on the consumer side and on the corporate side, very much a function, I guess, of very much government support schemes at the moment, which is being very helpful. But hopefully, it gives you a little bit more context. 
+Kathryn, would you (inaudible)?
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [4]
+--------------------------------------------------------------------------------
+Thanks, Tushar. So Lee, I think you had three, what you call technical additional questions. And the first one was how do we think about the amortizing nature of the tier 2 and is that reflected in our MREL issuance plans. And certainly, I think it is a modest amount that we would have that would be in that category, and it would be reflected in terms of the GBP 8 billion target, which is the only guidance we've given for this year. As you heard, we said it is likely to encompass regular senior issuance, AT1 and Tier 2. And as you rightly identified, what we have said is that we intend to increase the level of Tier 2 that reflects upcoming calls that we may choose to exercise and redemptions from the OpCo and the HoldCo over the next few years. But I don't think we should be commenting on a particular quantum Tier 2 supply for either this year or next year, just that it will be part of our -- likely be part of our GBP 8 billion issuance plan for the year. And obviously, we'll be very thoughtful around accessing the market in terms of any potential refinancing activity that we may choose to do. 
+And so I guess, lastly, in terms of the consent solicitation around the 12 securities, referencing LIBOR that we launched in November of last year and concluded in December, as you said, we were successful in 5, which means there are 7 left. And we were pleased to have done this, to have done quite a comprehensive liability management exercise that spanned both sterling and dollar securities. And it would probably be challenging but wanted to give investors a chance to exit some of our LIBOR exposure. 
+So at this stage, we don't envisage doing anything else in relation to these securities. And as we said, we obviously are following all external market developments in this area and everything that the working groups are doing. So -- but no plans for us to follow-up on what we concluded in December.
+
+--------------------------------------------------------------------------------
+Operator    [5]
+--------------------------------------------------------------------------------
+The next question comes from Robert Smalley of UBS.
+
+--------------------------------------------------------------------------------
+Robert Louis Smalley,  UBS Investment Bank, Research Division - MD, Head of Credit Desk Analyst Group and Strategist    [6]
+--------------------------------------------------------------------------------
+Thanks for doing the call in New York accessible time as well. Greatly appreciated. The disclosure and enhanced disclosure that you're giving on that capital, greatly appreciated. 
+Two questions. First, on Slide 9, where you've got the green box on organic capital generation. In general, what do you think this number should be? What should the range be? How much organic capital should Barclays be generating on an annual basis? I ask because it's a real indicator of your ability to earn your way out of problems as they occur. So if you could give us some detail around that, that would be great. 
+My second question, similar type of question on the MDA headroom, you refer to appropriate headroom going forward. How do you determine what's appropriate? Do you look at peers? Is there some other internally generated number? Reason why I ask that is because that's often pointed to as investors is being thinner at Barclays than a lot of other peers.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [7]
+--------------------------------------------------------------------------------
+Yes. Thanks, Robert. Why don't I take the first one, and then I'll ask Kathryn to cover your question on MDA headroom. In terms of organic capital generation, I won't give out a forecast or sort of specific numbers. Suffice to say that we would expect to be very profitable. We were profitable in every quarter, actually, in 2020 and guided to a meaningful improvement in profitability in 2021. So you should take from there that we expect to be in a solidly profitable throughout the year. Well, of course, it's good capital as well. 
+Against that, we've guided to some sort of, if you like, technical headwinds, things that you can see in front of you. I think even when you net all of that in as best as we can forecast and about some growth for the balance sheet, which we take as a positive, we are able to originate new loans and grow our business, although that's somewhat a function of how strong the recovery is later on in the year. Even after all of that, we would be expecting to generate reasonable amounts of excess capital that we would like to then think about the most appropriate way to distribute that back to our equity holders and so forth. 
+So Robert, it probably has an (inaudible) question with a precise number, but suffice to say that at Barclays, we feel very confident that we'll be generating, after we've thought everything in the round, profitability headwinds, reinvesting back into balance sheet growth, a meaningful amount of excess capital, and that allows us to run the bank safely as well as the benefit of it, its debt and equity holders. And Kathryn, do you want to talk about MDA?
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [8]
+--------------------------------------------------------------------------------
+Thanks, Tushar. So Robert, in relation to the MDA and how we think about what is an appropriate distance that we'd like to run the capital ratio versus MDA. Obviously today, we came out with a new capital target, 13% to 14%. And clearly, at the end of the year, as you saw, I think we had an excess of MDA of around GBP 12 billion of capital. So it was about a 400 basis points profit to MDA. 
+And so the new targets that we've given out reflects a couple of things. It obviously will reflect the capital-generative capacity of the bank, as Tushar said, which we obviously demonstrated last year. But also the headwinds that we've communicated that you also highlighted that are coming and potential movements in RWA's pivot away and potentially also, at some stage, the reintroduction in the U.K. with the countercyclical buffer, which is very clearly a macro stress buffer as we've seen in 2016 at the beginning of this year, too. So that would be in a position where that's coming, when the bank would also be generating strong profits. 
+So having followed the bank, as I know you have for quite some time, you'll have seen where our targets have been historically over many years, probably 6 or 7 years in terms of how we've developed targets to MDA. The huge amount of thought, and we have certainly have an internal framework that we need to think about distance to MDA, it's incredibly important to us. We do look at it closely. Obviously, during the crisis of last year, looked at the distance to MDAs. We do consider peers as well in terms of where they are, the 13% to 14% target today does -- is very much in line with a lot of the peers that we have. 
+So I would just give you, I guess, some guidance that we think that it does give you confidence of us remaining at a prudent buffer above MDAs, when we think about the headwinds and the tailwinds that we have and that's reflected within the 13% to 14% target we've given today.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [9]
+--------------------------------------------------------------------------------
+Thanks for the question, Robert. Could we have the next question, please?
+
+--------------------------------------------------------------------------------
+Operator    [10]
+--------------------------------------------------------------------------------
+The next question comes from Daniel David of Autonomous.
+
+--------------------------------------------------------------------------------
+Daniel Ryan David,  Autonomous Research LLP - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Just a couple of questions on infection risk. You noted the March submission deadline to the PRA. Could you provide any guidance of the kind of regulatory time line after March? And you've previously commented, with note comments, that you could restructure internal AT1s to mitigate infection risk. Just wondering if you have the approvals to restructure the internals? And also if you were to restructure, would this be publicly disclosed I -- would we be aware of it? 
+And then just stepping back and considering more broadly the situation, how you weigh up the benefit of the positive market sentiment that will be generated from a legacy LME or recall versus the capital benefit and specifically thinking about some of the smaller securities you've got outstanding? 
+And just finally, just on LIBOR, noting your previous answers. Just thinking about Sterling LIBOR and the FCA synthetic LIBOR approach. Is this something that you'd consider using? And also, if you did, is there kind of a time line with which you think you'd be able to use synthetic LIBOR for a year after the LIBOR deadline? Or is it indefinite?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [12]
+--------------------------------------------------------------------------------
+Yes. Thanks for your questions. I'll probably hand over to Kathryn for them.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [13]
+--------------------------------------------------------------------------------
+Yes. Certainly. So in terms of your first question around infection risk, I think here, the story is very similar. I'm afraid that's what you've heard from us before, which is we have quite a modest amount of securities that are now smaller than they were before because of the [7 and 5-8 LMs] we did in December. So about GBP 3.5 billion at the end of this year and only GBP 1.5 billion at the end of 2022. And obviously, that is really quite small when you consider the GBP 100 billion of MREL outstanding. So I do think that we are in a good position when you think about the ability to assess all the impediments to resolution. As you know, these legacy securities is just one element that the Bank of England looks at. 
+So I think our position is pretty good. We've done a lot of work across all of the resolvability assessments that the Bank of England looks at. It's probably -- and we obviously clearly know what the bank commitment is also looking at in terms of their considerations around flexibility of payments, the level of subordination provisions, U.S. or non-U.K. law. At this stage, we are obviously submitting our response for the March 31 deadline. And there's no real guidance from -- at the moment in terms of where things go in terms of getting feedback and clearly, any decisions that the Bank of England may take. So I guess, we obviously know the external time line that's been in place for many, many years, and we'll just wait for feedback from the Bank of England on that. 
+So in terms of your second question, can you just repeat it again, and then we'll get on to the synthetic starting LIBOR? I just didn't quite catch a second question on regulatory treatment, I think it was.
+
+--------------------------------------------------------------------------------
+Daniel Ryan David,  Autonomous Research LLP - Research Analyst    [14]
+--------------------------------------------------------------------------------
+Sorry, just on the internal AT1s or on just the benefit of market financing?
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [15]
+--------------------------------------------------------------------------------
+Right. So should there be any need to restructure  or change the terms of internal securities? You would only potentially see them if there are securities issued by in the operating company accounts. So that would be the (inaudible) 
+And then on Sterling Synthetic LIBOR, it wasn't part of our consent solicitation in terms of the securities in December. I don't know...
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [16]
+--------------------------------------------------------------------------------
+Yes, I wasn't sure, Daniel, whether I think is that -- was that you're asking, Daniel? Or is there something else in.
+
+--------------------------------------------------------------------------------
+Daniel Ryan David,  Autonomous Research LLP - Research Analyst    [17]
+--------------------------------------------------------------------------------
+So I guess what we've noted in the U.K. is a helpful approach from the FCA extending potentially the life of LIBOR to avoid market disruption. And I guess what we're just kind of thinking through is if you flipped, or you continue to use LIBOR in a synthetic approach, is there a deadline further down the line where, say, the synthetic LIBOR needs to be switched off? Or is it that sterling LIBOR can continue in perpetuity, given that there's a new approach? I'm thinking in relation to how the Europeans have kind of tackled the problem.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [18]
+--------------------------------------------------------------------------------
+Yes. No, I can see your point. Miray, do you want to?
+
+--------------------------------------------------------------------------------
+Miray Muminoglu,  Barclays PLC - Head of Long-Term Unsecured Funding & Capital Issuance    [19]
+--------------------------------------------------------------------------------
+Yes, Dan. Good question, actually. Obviously, we are hearing the FCA comment on tough legacy. You would have picked that (inaudible) speech in January refer to a consultation that will come up sometime in the spring around tough legacy. And we actually would expect to hear their thoughts as to how long a synthetic LIBOR might be around. If I were to guess, probably longer than 1 year, but perhaps not into perpetuity, but we'll have to see how that plays out.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [20]
+--------------------------------------------------------------------------------
+And Dan, I think, apologies for the question. I know I didn't answer. It was just more a question around liability management in general and some of the smaller securities. And I think, again, we'll constantly look at where there may be opportunities like we did in December with the Tier 2 (inaudible), but certainly nothing imminent, but it's something we obviously always do look at.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [21]
+--------------------------------------------------------------------------------
+Can we have the next question please?
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+The next question comes from Neel Shah of Credit Agricole .
+
+--------------------------------------------------------------------------------
+Neel Shah,  Credit Agricole Corporate and Investment Bank, Research Division - Financials Desk Credit Analyst    [23]
+--------------------------------------------------------------------------------
+I've got 2 questions. So firstly, one starts a few times regarding the -- in November regarding the reference rate changes. So I think, Kathryn, you mentioned that 5 out 12 were changed. Was there a public announcement regarding that? Or what was the reason why there wasn't one? And regarding the remaining 7 securities, can you explain what the options that are available to yourselves going forward? And discussions you're having with the PRA? That's question one. 
+Question two, regarding issuing further Tier 2, you guided to having a building greater than 3.2%. Is there any positive impact regarding that with the rating agencies in terms of the way they look at your staff or (inaudible) securities? Could there be any outlook changes there?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [24]
+--------------------------------------------------------------------------------
+Yes. Thanks, Neel. Miray, why don't you cover the first question, and Kathryn can take the (inaudible).
+
+--------------------------------------------------------------------------------
+Miray Muminoglu,  Barclays PLC - Head of Long-Term Unsecured Funding & Capital Issuance    [25]
+--------------------------------------------------------------------------------
+Sure. Neel, thanks for that. I mean, obviously, the result of the conceptual station were announced, both around the ones that passed in the first meeting as well as the ones that passed in the adjourned middle of January. We have released the requisite RNSs at the time. We can sort of get them to you. Of course, in terms of the securities actually becoming mid swap SONIA back, we need first sterling LIBOR to be discontinued and that, in fact to happen for it to become effective, if you will. So if that's what you're referring to, that, of course, is still waiting for the FCA nonrepresentative, this order cessation announcement. But the fact remains that investors consent to us making that change. 
+With regards to those 7 that have passed, I think it's important to underline that we feel very strongly about the nature of the exercise that we have proposed investors. It was a fair and transparent restructured exercise with no value transfer from one side to the other. And importantly, I think it followed industry and regulatory guidelines. At this stage, we don't think there is room or a requirement for trying it again or really changing anything around it. As Dan David asked earlier, if anything is sterling LIBOR linked, I think we will have to look at whether it would count as tough legacy. If something is dollars that is not under U.S. law, U.S. legislative solution will not help us. So we're going to have to see what happens in terms of synthetic dollar LIBOR. 
+And finally, I would remind that all of these securities have some form of fallback, inadequate and old style, often reverts to either last fixing or first fixing. But there's something in there. We're going to have to watch developments in terms of where that ends up.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [26]
+--------------------------------------------------------------------------------
+And in terms of your question regarding any additional benefit that we might get in terms of Tier 2 issuance that we indicated in the call and in the Q&A with rating agencies. Obviously, we do -- for each of the agencies, look at their key metrics, LGS, [ADAC] and QJD. And so when we do and have all the discussions with the rating agencies, clearly, issuance plans do reflect where we sit on each of these metrics and how we see them evolving. So I suppose they are reflected in the GBP 8 billion number, which, as I said, does include Tier 2. But I don't think it's a material driver for us in terms of issuing the Tier 2 and, obviously, just in terms of ratings, we did spend a lot of time with the agencies. 
+As we said, we do feel that the rating for us on a good trajectory, certainly on a relative basis, we feel very good. And as you've heard on both the equity call and the fixed income call, we do feel that we have demonstrated very good financial performance, given the diversification of the group, which obviously does deliver several credit positives. So it's an area that we are certainly spending a lot of time in. But in terms of Tier 2 issuance that is not really a ratings driver behind it in any material size. 
+Do we have any further questions?
+
+--------------------------------------------------------------------------------
+Operator    [27]
+--------------------------------------------------------------------------------
+(Operator Instructions) We currently have no further questions, so I'll hand back to Tushar.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [28]
+--------------------------------------------------------------------------------
+Okay. Well, thank you very much, everybody. I hope you found this call helpful, and I'm sure Kathryn, Miray and the team will get a chance to maybe see you over a video over the past few days. Thank you again.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, this does conclude today's call. Thank you for joining. You may now disconnect your lines.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2021 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------

@@ -1,0 +1,510 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2019 AstraZeneca PLC Earnings Call
+APRIL 26, 2019 / 11:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Pascal Soriot
+   AstraZeneca PLC - CEO & Executive Director
+ * Menelas Pangalos
+   AstraZeneca PLC - Executive VP & President of Research & Development - BioPharmaceuticals
+ * Marc Dunoyer
+   AstraZeneca PLC - CFO & Executive Director
+ * Susan Mary Galbraith
+   AstraZeneca PLC - Head of Oncology - Innovative Medicines & Early Development Unit and VP
+ * David Fredrickson
+   AstraZeneca PLC - Executive VP & President of Oncology Business
+ * Ruud Dobber
+   AstraZeneca PLC - Executive VP & President of BioPharmaceuticals Business Unit
+ * José Baselga
+   AstraZeneca PLC - Executive VP & President of Research & Development – Oncology
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Sachin Jain
+   BofA Merrill Lynch, Research Division - MD
+ * Seamus Christopher Fernandez
+   Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals
+ * Richard J. Parkes
+   Deutsche Bank AG, Research Division - Director
+ * Mark Douglas Purcell
+   Morgan Stanley, Research Division - Equity Analyst
+ * Jo Walton
+   Crédit Suisse AG, Research Division - MD
+ * Andrew Simon Baum
+   Citigroup Inc, Research Division - Global Head of Healthcare Research and MD
+ * Keyur Parekh
+   Goldman Sachs Group Inc., Research Division - Equity Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, and good afternoon. Welcome, ladies and gentlemen, to AstraZeneca's Q1 2019 Results Conference Call and Webcast for Investors and Analysts. 
+Before I hand over the call to Pascal Soriot with AstraZeneca, I'd like to read the safe harbor statement. The company intends to utilize the Safe Harbor provisions of the United States Private Securities Litigation Reform Act of 1995. Participants on this call may make forward-looking statements with respect to the operations and financial performance of AstraZeneca. By their very nature, forward-looking statements involve risks and uncertainty, and results may differ materially from those expressed or implied by these forward-looking statements. The company undertakes no obligation to update forward-looking statements. 
+There will be an opportunity to ask questions after today's presentations. (Operator Instructions) We will now hand you over to AstraZeneca where the call is about to start.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [2]
+--------------------------------------------------------------------------------
+
+          Hello, everyone. It's Pascal Soriot here. Welcome to the first quarter 2019 conference call and our webcast for investors and analysts. We're in London today for the Annual General Meeting that will take place this afternoon. The presentation, as always, is available on astrazeneca.com, and we've also sent it to those on our distribution list.
+Please turn to Slide 2. This is our usual safe harbor statement. We'll be making comments on our financial performance using core reporting numbers and at constant exchange rates, CER, which are both non-GAAP measures. We'll also discuss other non-GAAP measures deemed helpful for investors and analysts. All numbers we refer to million U.S. dollars and growth rates will be at CER for the first quarter of 2019 unless we state otherwise.
+Please turn to Slide 3. We plan to spend a good half hour on the presentation and then go to Q&A. (Operator Instructions) Thank you so much for your help with this. 
+And today, I'm joined by Dave Fredrickson, our EVP for oncology; Ruud Dobber, our EVP for Biopharmaceuticals; Marc Dunoyer, our CFO; Mene Pangalos, who's our EVP for R&D BioPharmaceuticals; and José Baselga, our EVP for R&D Oncology. Also very pleased to have Susan Galbraith with us today. And Susan, as you know, is our SVP of R&D Oncology. She will join us for the Q&A. 
+Please turn to Slide 4. This is the agenda. We plan to cover all key aspects of our results today. So if we move to Slide 5. In March 2013, we launched a new strategy for AstraZeneca where we outlined the plan for achieving scientific leadership, returning the company to growth and being a great place to work for all our colleagues around the world. We have more than 60,000 colleagues working for our company. In the meantime, we have rebuilt the pipeline and returned to sales growth. 
+If you turn to Slide 6. With the progress that we've made, we recently updated our 3 strategic objectives, and they remain consistent with our previous priorities. But of course, they reflect a new focus for the next few years. And number one, it is to deliver the growth that we have created with the new products we're launching and to deliver our ambition to be a key leader in each of the therapy area where we're focused. Taken priorities to accelerate innovative science by moving some of our midstage pipeline to late stage as fast as we can, and we are prioritizing some of our projects to do that. And the third is to be a great place to work, and that is really fundamental to our future success, we believe. So our efforts with not only continue with our work to build an even greater place to work. 
+On the science side, our focus is now on accelerating the science we've built to the benefit of patients. First and foremost, AstraZeneca is a company focused on innovation. We're focused on prescription medicine and the medicine that bring true value and innovation to patients and society. We're well diversified with global presence and scale. And an important message for you is we have a geographical diversification, and also we don't rely on one therapy area. We have 3 therapy area in both primary care and specialty care. 
+This makes -- this takes me into growth and therapy area leadership which we updated to reflect our recent return to growth and to signal our clear ambition to create a company with sustainable sales growth. 
+We've now started to focus on the next wave of growth, that is growth towards the middle of the 2020. Please also let me emphasize that growth also covers earnings and cash flow. We continue to expect growth in earnings this year and the years to come and our cash flow improvement in 2020. I want to emphasize here that we are very much on track with what we said and to return to a cash flow by 2020 that delivers on our goal and enables us to start reducing debt by 2021 and beyond. We look forward -- Marc will cover those financials a bit later. And we look forward to keeping our shareholders and the analysts updated on the continuation of our strategic journey. We're really pleased to share that our first quarter 2019 results clearly demonstrate that we're more than on the right track. So if you turn to Slide 7.
+Essentially, if I summarize our quarter, our sales grew by 14% in the quarter. In fact, I would add that if you normalize for the impact of divestments, as you know, we've divested a number of medicines, our growth rate would have been 21%, and that reflects really the outstanding underlying growth and momentum in our business. We had strong performance with new medicines increasing by 83% and adding more than $900 million in incremental sales. So we almost increased sales by $1 billion out of new products this quarter. Very strong growth. 
+Oncology grew by 59%. But it was a very broad set of growth rates not only oncology. New CVRM, diabetes, Brilinta grew by 19%, and respiratory grew double-digit by 14%, and that growth in respiratory was driven by Fasenra and Pulmicort. 
+As we discussed before, AstraZeneca is well diversified across 3 main areas and also for global presence in Emerging Markets. So that brings me to our performance in the Emerging Markets. Sales there grew by 22%. This is a historical growth rate for us, first time we achieved such a high number. And it was not only in China, 28% growth there, but also we had growth, strong growth rate across all Emerging Markets. And collectively, they grew by 13% outside of China. Total revenue grew by 11% despite very limited collaboration revenue. 
+Our core operating costs increased by 5% and as a result, we saw strong operating leverage as we promised like last quarter we would deliver. Core operating profit jumped by 96%. Despite a higher tax rate, our core EPS doubled to $0.89. Our guidance remains unchanged this year as we are early in the year. 
+Outside the financials, the pipeline continued to progress, and we anticipate a very prolific news flow in the second half of the year. Finally, our focus on sustainable sales growth was strengthened through the agreement with Daiichi Sankyo regarding the collaboration on Trastuzumab deruxtecan.
+Please turn to Slide 8. If you look at the pipeline, we continued to make good progress, and that remains central to sustaining sales growth over the mid to long term. There were a number of highlights in oncology, including the regulatory approval for Lynparza in breast cancer in the EU and the regulatory submission in China for the same indication. Lynparza obtained positive Phase III data on pancreatic cancer, a new cancer type for Lynparza. Selumetinib got Breakthrough Therapy Designation for NF1, a rare disease. 
+In BioPharma, Farxiga obtained the first approval for type 1 diabetes in Japan and in the EU. And we also saw the DECLARE CV outcomes trial data accepted by regulators in the U.S. and in the EU. Brilinta met the primary endpoint in the THEMIS Phase III trial in type 2 diabetes patients with coronary artery disease. 
+In COPD, our partner received approval in the U.S. for Duaklir. On the list, we also got regulatory submission acceptance in the U.S. and the EU for PT010, a second trial result later this year. Finally, saracatinib, which was repositioned from cancer into IPF, obtained Orphan Drug Designation in the U.S. Mene and José will cover more R&D details later on. 
+If you turn to Slide 9. The first quarter with 14% growth was the third consecutive quarter of strong sales growth since the patent cliff, so we clearly have put the series of patent expiries behind us. We promised a return to sales growth in 2018. We delivered. We're now on the next journey of sustained sales growth in 2019 and beyond. 
+As we move through to 2019, the comparisons will get tougher in the second half of the year, but our sales guidance remain strong at high single-digit growth. And it remains tougher because, of course, the oncology business, in particular, is becoming bigger, so that impacts the growth rates. But also, we want to flag that we expect China to still continue growing at a fast clip but not as fast as we have experienced lately because we will start being impacted, as other companies, by the changes in the marketplace. 
+Our new medicines continued to make a significant contribution to growth, this time increasing by 83%. Overall, the biggest contributor remained Tagrisso, which is now our largest selling medicine. Imfinzi and Lynparza also did well and had significant sales. Fasenra, Brilinta, Farxiga grew strong double-digit sales growth in BioPharmaceuticals. Together, the new medicines added more than $900 million of incremental sales in the first quarter of 2019.
+If you look at Slide 10 and our main therapy areas. And if you look at the emerging market, the well-diversified nature of our company becomes much more visible. We're more diversified than in the past, and we are more diversified than our peers. Oncology is approaching $2 billion per quarter, and it grew by 59% in the quarter. It's now more than 1/3 of our total sales. 
+CVRM, new CVRM with diabetes and Brilinta grew by 19% to more than $1 billion and represent about 1/5 of our total sales. Respiratory grew by 14% to now around 1/4 of our total sales. And finally, other medicines declined by 21% as expected. And importantly, here, you'll see the reflection of the final -- impact of patent expiries, but also as I said earlier, the impact of divestments, which is a big part of this decline here. But importantly, you can see these other medicines are now representing less than 1/4 of the total sales. And I would add to this that if you look at other medicines outside the emerging market, these are really now representing a small portion of our total sales, and other medicines in the Emerging Markets continue to grow. 
+Our geographical diversification is important for the future of our company. The Emerging Markets broke the $2 billion mark, 22% with more than $1 billion in China for the quarter and a growth of 28%. So it's really pleasing. 22% is a historical growth rate for us. And we have many opportunities to help patients in China and many countries around the world. 
+It's not on this slide, but I want to make a note of our fantastic performance in Japan. Our team there did a really great job, and AZ Japan grew by 27% in the quarter. So I would like to offer my thanks to our Japanese colleagues who have worked very hard to return AZ Japan to growth and now bringing important medicines like Tagrisso, Imfinzi, Lynparza and Fasenra to more patients.
+If we turn to Slide 11. Very recently, late March, we announced the collaboration with Daiichi Sankyo on Trastuzumab deruxtecan, an innovative antibody-drug conjugate or arm antibody. With the addition of this new medicine, we added a phased pillar to our oncology strategy. We already have leading medicines for lung cancer with Tagrisso and Imfinzi. We have Lynparza in ovarian cancer but also across multiple cancer types. And we have Calquence for blood cancer. And breast cancer has always been an important priority for us, and this new agent will help us build a strong presence in breast cancer but also outside of breast.
+We have been a pioneer in breast cancer with Nolvadex, Arimidex but also now with Faslodex and Lynparza. And so this new agent will also expand -- will help us expand our presence in precision medicine that follows the success with Tagrisso and Lynparza. And importantly, we have a strong knowledge of HER2 among many people in the company that have operated in the field either in development or in the commercial field, and it's an important aspect of our collaboration with our colleagues at Daiichi Sankyo. 
+We like the long-dated nature of the medicine and therefore, we were also prepared in this exceptional case to use long-dated financing in the form of an equity insurance to bring the medicine in. But I also want to add that the equity issuance is a unique event of course, but it reflects the uniqueness of the asset. And I think people will learn to discover the potential of this medicine. We believe as we progress and produce more data, it will become very apparent to everybody that this is a transformative agent that has enormous potential. 
+We look forward to keeping you updated on further progress with our oncology strategy, and I will hand over now to Dave for a review of the latest oncology performance, so please turn to Slide 12.
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [3]
+--------------------------------------------------------------------------------
+
+          Great. Thank you so much, Pascal, and I think that is a nice segue to bridge from a conversation about the oncology strategy to the performance within the first quarter. After I do that, I'll hand over to Ruud Dobber, who'll give an update on CVRM, respiratory and Emerging Markets. 
+Please turn to Slide 13. 2019 has really started off well for oncology. Sales of $1.9 billion in the quarter represented 59% growth, and the 4 new medicines contributed $700 million of incremental sales. In the lung cancer franchise, Tagrisso and Imfinzi continued their launches in the new indications of first-line EGFR mutated non-small lung cancer and also within unresectable Stage III non-small cell lung cancer. 
+Lynparza continued to cement itself as the leading PARP inhibitor with the first-line ovarian cancer launch now underway and expanding across the globe. We continued to see encouraging uptake of Calquence in the smaller mantle cell lymphoma indication now with sales of $29 million in the quarter. The majority of sales coming from the approved indication in the U.S. where we estimate as many as 40% of the patients are being treated with Calquence. And we saw the majority of use in patients naïve to BTKi inhibitors. This launch allowed us to build the infrastructure as we prepare for the larger chronic lymphocytic leukemia indication where we have 2 pivotal Phase III readouts coming in the second half of the year. 
+And finally, while it's not mentioned on the slide, I do want to note that Faslodex held ground, with sales of $254 million in the quarter and growth of 4% mainly driven by performance in Emerging Markets that were up 28%. And we do note that we anticipate to see the first generic fulvestrant in the U.S. market relatively soon. 
+With that, let's go into the product specifics and turn to Slide 14. Starting first on Tagrisso. We're excited to share that Tagrisso is now the largest-selling medicine in the AstraZeneca portfolio. It demonstrated continued growth, up 92% in the quarter with $630 million in sales as the launches in the frontline setting are really taking effect across the globe. The U.S. exhibited strong demand growth with Tagrisso sales of $259 million as we reached a high level of penetration in the frontline setting in the EGFR-mutated non-small lung cancer setting. Though that high demand was offset by inventory reductions and some gross-to-net adjustments which resulted in a sequential decline in the U.S. But again, we saw really good underlying demand growth.
+Europe reported $100 million of sales in the quarter with growth of 55% driven by increased testing rates and strong levels of demand in the second-line setting as more countries start to reimburse for the first-line indication following the approval in June 2018. 
+Japan delivered Tagrisso sales of $123 million, up by 153% as Tagrisso reached new highs in adoption following the first-line launch in the third quarter and is now the region where we actually have the highest market share for Tagrisso across the globe. 
+Emerging Markets delivered $138 million in sales with China contributing more than half as the NRDL listing started to take effect. And we look forward to China first-line regulatory decision later this quarter. 
+Please turn to Slide 15. Staying within lung cancer and moving on to Imfinzi. Imfinzi continued quarterly growth as the U.S. continued to see adoption of the PACIFIC regimen in unresectable Stage III non-small cell lung cancer. Imfinzi reported sales of $295 million and is now annualizing at over $1 billion a year with the vast majority coming from the U.S. and the lung indication. 
+In the U.S., we're seeing more than half of patients are now getting chemoradiotherapy with more than half of those then getting Imfinzi after chemoradiotherapy. We see that the most immediately available patients are now benefiting from Imfinzi as evidenced by the increasing patient infusions, illustrated on the graph. And our focus in 2019 is really on making sure that we drive the same level of performance outside the United States as we've now seen within the United States. 
+During the quarter, Imfinzi secured more approvals for the PACIFIC regimen, and now we're approved in over 45 countries. Sales outside of the U.S. are starting to ramp up as we gain reimbursement in more countries. Japan alone delivered $34 million in sales. Europe, $23 million. And we are excited to bring Imfinzi to more patients across the globe in this area of high unmet need through 2019. We've also kicked off a number of other trials in the early settings in lung cancer and beyond building on the foundations set by PACIFIC.
+Please turn now to Slide 16. Finally for me on Lynparza. Lynparza demonstrated continued progress with sales of $237 million and growth across all regions as we continued to roll out the broader second-line maintenance label on ovarian cancer and the breast indication in the U.S. and in Japan. As of last month, Europe was approved in breast cancer. And at the end of last year, we received U.S. approval in the first-line ovarian cancer setting, a new growth contributor. U.S. sales were $119 million, where Lynparza continues to be the leading medicine in the PARP-inhibitor class as measured by total prescription volumes in what is a very competitive marketplace. Increase in demand came from the all-comers label in second-line ovarian cancer and the subsequent first-line label as well as the growing use within breast cancer. As you would expect, we continue to see the majority of the use of Lynparza in the ovarian cancer setting. 
+European sales were $65 million, up by 62% and reflecting increased bracket testing rates as we roll out additional launches and secure reimbursement across several markets with the inclusion of the broader EU label in ovarian cancer and for tablet. Some EU sales are also attributed to clinical trial supply. Japan delivered sales of $22 million following the launches in ovarian and breast cancer last year. Lynparza was the first PARP inhibitor launched in China, which contributed to the $26 million in Emerging Markets in the quarter. 
+And with this, I hand it over to Ruud, and please turn to Slide 17.
+
+--------------------------------------------------------------------------------
+Ruud Dobber,  AstraZeneca PLC - Executive VP & President of BioPharmaceuticals Business Unit    [4]
+--------------------------------------------------------------------------------
+
+          Thank you so much, Dave. Today, I'm here to talk to you about the BioPharmaceuticals business. Total sales of the 2 therapy areas was $2.3 billion in the quarter, growing at 16%. We're very pleased with the continued growth of Farxiga and Brilinta and the ongoing successful launch of Fasenra. Symbicort and Pulmicort also continued to deliver strong sales. We look to build on this growth, including through further launches for Lokelma during 2019. 
+Please turn to Slide 18. Moving to new CVRM. Sales were up by 19% despite intense competition in diabetes with total first quarter sales at $1 billion. Growth for both Farxiga and Brilinta remained strong with double-digit increases globally. Farxiga delivered sales of $349 million in the quarter with 23% growth maintaining volume market share leadership globally. Farxiga saw U.S. growth of 3% in the quarter with growing slowing due to increased competition and formulary plant changes taking effect in the quarter. Outside the U.S., where we have 62% of sales, we have seen encouraging performances with increasing volume growth. 
+Sales in Europe were up by 30%, and the emerging market sales were up by 51%. Brilinta delivered sales of $348 million with 24% growth driven by strong performance in Emerging Markets, up by 38%. We also had continuous growth in the U.S. and Europe, up by 33% and 3%, respectively. European underlying demand growth was high single-digit despite some negative inventory impact. We continue to be very pleased with the performance of Brilinta, which is still outgrowing the market in all regions. 
+Bydureon, including the autoinjector Bydureon BCise, continued to perform well with sales up 4% despite the impact of supply constraints for the new BCise device. We are on track to resolve this throughout the year and be back to normal supply in the second half of this year.
+Please turn to Slide 19. Turning to respiratory. We saw 14% growth in the quarter driven by Fasenra and Pulmicort. Symbicort was down by 3% with the growth in Emerging Markets not fully offsetting pricing pressure in the U.S. and Europe. Volume growth continues, and we remain the global volume market share leader in the ICS/LABA class. U.S. Symbicort sales were down by 4%, and Europe was down by 8%. However, in Emerging Markets, Symbicort was up by 13%. Growth in China continued to be supported by the inclusion of Symbicort in local guidelines in 2018 as the only ICS/LABA on the China Essential Drug List. Pulmicort was up by 16% with sales of $383 million. Emerging Markets was the driver of this growth, up 23%. Fasenra continued to perform, annualizing a $0.5 billion of sales with $120 million of sales in the quarter with the majority of the sales coming from the U.S., Germany and Japan. In the U.S., Fasenra is performing against new competitors with $93 million in sales. Europe and Japan continued to deliver with $18 million and $16 million in sales, respectively. Fasenra in the U.S., Japan and Germany maintained its market leadership in new patient share of novel biologicals. 
+Now I will move to Emerging Markets. Please turn to Slide 20. Emerging Markets continued to track ahead of our long-term performance ambition, which is to grow sales on average by a mid- to high single-digits percentage with 22% sales growth overall. Again, China delivered a very strong performance this time with 28% growth. China clearly benefited from the addition of Tagrisso on the national reimbursement drug list which took effect at the beginning of the year. 
+Outside China, overall sales were up by 13%. And especially, Brazil delivered a strong quarter of double-digit growth driven by Farxiga, Tagrisso and recently Lynparza. 
+Finally, the strong performance was spread across our main therapy areas with 1/4 of oncology sales coming from the Emerging Markets. New CVRM was up 40%, driven by Brilinta and Farxiga, and respiratory sales were up by 26% with Pulmicort as the key driver. 
+With this, I will hand over to Marc.
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO & Executive Director    [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Ruud, and hello, everyone. I want to take you through our financial performance in the quarter as well as our financial priorities and guidance. Could you please turn to Slide 22. 
+As usual, I will begin with the reported P&L before turning to the core performance. As Pascal mentioned earlier, product sales grew by 14% while there was minimal collaboration revenue in this quarter. Other operating income of around $600 million included the impact -- including the impact of divestment of right to synergies for the United State.
+Please turn to Slide 23. Moving to the core P&L. Our gross margin ratio improved by over 2 percentage points to 80.5%, reflecting the phasing of our mix of sale. Operating costs, which increased by 5% in the quarter, represented 61% of total revenue, which was a 4% point reduction versus the first quarter of last year. With product sales growth ahead of operating costs, we are beginning to deliver operating leverage, and our core operating profit margin reached 30% supported by other operating income. The core tax rate was 23% impacted by the geographical mix of profits and disposals. Despite the higher-than-average core tax rate, our core earnings per share doubled to $0.89 underpinned by top line growth and cost leverage.
+Please turn to Slide 24. This is a slide I first showed you at the full year results in February, and I will use it going forward to demonstrate our progress. It describes our financial journey and what our priorities are. We are delivering strong and sustainable sales growth, driving operating leverage and improving on margin and profitability, but the story will not stop there. Our focus will be on taking this down to generate, in 2020, more cash so that we can direct it to deleveraging our balance sheet and towards our progressive dividend policy. 
+As mentioned at full year results for 2018 in February and looking at this year, our cash from operations plus divestment income will be broadly in line with 2018. However, there will be a number of one-off cash payments reflected in cash flows from investing activities relating to prior business development transaction. The significant proportion of this payment was made in the first quarter. As a result of the equity raise, we anticipate a reduction in net debt from the second quarter. The purpose of the equity raise was to fund the initial upfront and any of the milestones commitment arising from the collaboration with Daiichi Sankyo as well as to strengthen AstraZeneca's balance sheet. One of the company capital allocation priorities is to maintain a strong investment-grade credit rating. The share issuance strikes an appropriate balance between the company's equity investors and creditors.
+I am confident that our growing product sales and operating leverage will drive much improved cash generation over the cycle, and I'm looking forward to updating you on our progress in the future. Please turn to Slide 25. Finally, I would like to reiterate our guidance for 2019, which is on product sales and core EPS at constant exchange rate. With the patent cliff now behind us, I expect product sales to grow by a high single-digit percentage. It is worth noting that the tough comparison we have on product sales in the second half of the year. With operating leverage and a core tax rate of 18% to 22% in 2019, I anticipate growth in core EPS between $3.50 to $3.70. Outside of guidance, I also expect a reduction in the totality of collaboration revenue and other operating income. Core operating expense are expected to increase by low single-digit percentage with core operating profit anticipated to increase by a mid-teens percentage. Lastly, capital expenditure is expected to be broadly stable, and we are also targeting a reduction in restructuring charges. 
+With that, I will now hand over to Mene.
+
+--------------------------------------------------------------------------------
+Menelas Pangalos,  AstraZeneca PLC - Executive VP & President of Research & Development - BioPharmaceuticals    [6]
+--------------------------------------------------------------------------------
+
+          Please turn to Slide 26. Now thank you, Marc. Good afternoon, everyone. I'm delighted to be here today to provide an update on the progress in the pipeline since our last announcement. I'm also joined today by my counterpart, José Baselga, who'll discuss the oncology pipeline and our upcoming news flow. 
+Firstly, and this is something I'm very passionate about, I'd like to take a moment to speak about the improvements in our R&D productivity over the past few years. Please turn to Slide 27. 
+As you know, we're committed to the productivity and quality of our science across the portfolio, and I just want to highlight a few examples of the progress that we've made over the past 5 years in our attempt to bring new and better medicines to patients. 
+First is the number of accepted high-impact publications have increased tenfold to over 100 in 2018. This, as you know, is a clear measure of the high quality of sciences underpinning the research and development in our organization. Secondly, the number of Phase II projects has increased by 1/3. And with this, we've also achieved 30 projects and validated proof of mechanism in the same period. Again, this is a demonstration of the quality of molecules we're putting into the clinic, which improves the probability of transitioning them from early development to late. Finally, we've received more than 50 regulatory designations in major markets. And I'm very proud of what we achieved in 2018. It was a record-breaking year with both new molecular entities and major life-cycle programs, seeing 23 major market approvals in total, the most ever attained in 1 year in AstraZeneca's 20-year history. 
+Please turn to Slide 28. In respiratory, our partner, Circassia, received U.S. regulatory approval for Duaklir, a medicine for the treatment of chronic obstructive pulmonary disease. In the same indication, we also listed regulatory submission acceptance for the inhaler triple combination medicine, PT010. During the quarter, we received U.S. orphan-drug designation for saracatinib. This is a potential new medicine for idiopathic pulmonary fibrosis, a devastating diagnosis that results in the scarring of the lung, and this could initiate in Phase II later in the year. 
+Regarding Fasenra, we intend to build upon its fast onset unique model of action and strong efficacy seen in severe asthma with an extensive life-cycle program across a variety of eosinophilic-driven diseases. This will include eosinophilic granulomatosis with polyangiitis and hypereosinophilic syndrome, both of which recently received U.S. Orphan Drug Designation. I'm glad I said that properly.
+Please turn to Slide 29. Now focusing on new cardiovascular, renal and metabolism. Farxiga received approvals for the treatment of type 1 diabetes in both Europe and Japan this quarter and regulatory submission acceptance for the DECLARE cardiovascular outcomes trial in both the U.S. and the EU. We also received label inclusion for Bydureon's safety data in the U.S. and Brilinta's THEMIS trial at the primary endpoint in patients with pulmonary artery disease and type 2 diabetes. 
+Last month, we were pleased to see favorable guideline updates from the American Heart Association and the American College of Cardiology recommending the SGLT2 inhibitor class, including Farxiga, as primary prevention against cardiovascular events. This is truly important for diabetic patients who tend to be at higher risk of developing cardiovascular disease. We have a really solid life-cycle program for Farxiga, which includes the trials Dapa-HF, Dapa-CKD and DELIVER, looking at heart failure with reduced ejection fraction, chronic kidney disease and heart failure with preserved ejection fraction, respectively. Dapa-HF is now expected to read out this year, earlier than we previously anticipated.
+It's important to remember that all of these life-cycle opportunities are in both diabetic and nondiabetic patients aiming to establish Farxiga as the cornerstone treatment for cardio, renal and metabolic diseases.
+Please turn to Slide 30. Finally, I wanted to take a moment to focus on roxadustat, the first-in-class hypoxia-inducible factor prolyl hydroxylase inhibitor, HIF-PHI, and potential neural medicine for patients with anemia caused by chronic kidney disease, CKD. As a reminder, in December 2018, we and FibroGen received Chinese regulatory approval for roxadustat in the dialysis setting and the regulatory decision in the nondialysis independent setting is anticipated in China later this year. Late last year, we also announced the Phase III OLYMPUS and ROCKIES trials met their primary endpoints. During the second quarter, we're expecting the aggregated safety data across the whole program, the combination of programs between Astellas, FibroGen and ourselves. The totality of evidence from these trials will help inform our regulatory interactions, and we now expect to make a U.S. regulatory submission in the second half of this year. 
+Thank you all for listening, and I will now hand over to José. Please turn to Slide 31.
+
+--------------------------------------------------------------------------------
+José Baselga,  AstraZeneca PLC - Executive VP & President of Research & Development – Oncology    [7]
+--------------------------------------------------------------------------------
+
+          Thank you, Mene, and hello to everybody on the call. My name is José Baselga, and I'm very excited to speak to you here on our results call today for the first time. 
+I'd like to start reporting on another successful quarter for oncology and also get into some insights in that we're preparing for a very busy second half of 2019. Since the last full year results, some new highlights include the regulatory approval in the EU of Lynparza in BRCA-mutated metastatic breast cancer and also the positive high-level results from POLO. This is Lynparza's Phase III trial in the BRCA mutated metastatic pancreatic cancer. 
+In the APOLLO trial, Lynparza met its primary endpoint of progression-free survival as the first-line maintenance monotherapy in patients with genuine BRCA-mutated metastatic pancreas cancer, whose disease had not progressed on platinum-based chemotherapy. We also announced that the results were not only positive but were also clinically meaningful. The regulatory submission is anticipated to take place in the second half of 2019. 
+In addition, in the U.S., selumetinib has received a Breakthrough Therapy Designation in a very debilitating disorder mostly in children in neurofibromatosis type 1. 
+Now if we move to upcoming presentations at ASCO, that's the middle column, we will present updates on Tagrisso, on Lynparza and on Imfinzi. And we also have new data on capivasertib, which is our oral -- novel oral selective AKT inhibitor, which will enter Phase II, Phase III studies soon. 
+On the final part of the slide on the right, this is the news flow in the second half of this year. It's going to be busy for Imfinzi. We anticipate data readouts in the metastatic setting for a number of tumor types, including non-small cell lung cancer, small cell lung cancer, head and neck and bladder cancer. For Lynparza, we are expecting to have Phase III data readouts in prostate and in first-line all-comers ovarian cancer. 
+And then lastly, Calquence is anticipated to have 2 pivotal Phase III CLL trial readouts in frontline and in the relapsed/recurrent disease setting also in the second half.
+Let's turn to Slide 32, and I would like to spend some time on a very exciting compound that you have heard already from Pascal. On March 29, we announced a strategic collaboration in oncology with Daiichi Sankyo for Trastuzumab deruxtecan. This is an antibody-drug conjugate which we feel strongly that is potentially transformative for the treatment of breast cancer and other tumor types. This new medicine will add to our rich heritage in breast cancer. It has a unique structure that delivers a higher intensity chemotherapy from the well-established tecan family. I'd like to make the point here that this payload is very unique, unlike other ADCs. And not only that, but it provides more payload on each antibody. It has a very high ratio of payload per molecule. It also has -- upon being cliffed, and it is a very unique linker that is very stable until it's been internalized. But when it's cliffed, this drug has high-membrane permeability that potentially contributes to its high efficacy in the HER2-low and in the HER2-mutant cancer. 
+Now if you look at the data that is available in large -- in a very large Phase I study, it has shown a robust unprecedented duration of response of over 20 months together with a response rate close to 60% in a very, very heavily pretreated HER2 population. These patients had 7 lines of therapy as a median. Now in addition to the activity in HER2-high, the data obtained in HER2-low also shows a promising response rate of 47% and reduction of response of 11 month, also unprecedented in this population. 
+Trastuzumab deruxtecan has already been granted Breakthrough Therapy Designation status in the U.S. in the third-line HER2-positive metastatic breast cancer. We anticipate to have data coming along. We're going to have the data of the Phase II trial, the so-called DESTINY-Breast01 study in the second half of this year with the regulatory submission of the biologics license application in the U.S. in the same time frame.
+Let's now move to Slide 33, where I'd like to summarize some of the key new flow items still to come across all therapy areas. Mene mentioned earlier that the pool safety data of roxadustat is expected during the second quarter with the U.S. regulatory submission now anticipated in the second half of 2019. 
+Now let's look at the data on the different key readouts, including key regulatory submissions and potential regulatory decisions. If we focus first in oncology. For Tagrisso, we are expecting a regulatory decision for its first-line use in China, and it is anticipated in the second quarter. We also expect to have a final overall survival data for Tagrisso in first-line use in the second half of the year.
+Moving to immuno-oncology. We expect a regulatory submission -- regulatory decision, I'm sorry, for Imfinzi in unresectable, Stage III non-small cell lung cancer in China in the second half. And also in the same timeframe, for Lynparza, we also anticipate regulatory decisions for the SOLO-1 trial in first-line BRCA-mutant ovarian cancer in the EU, Japan and China. 
+If now we move to CVRM. For Farxiga, we expect to receive regulatory decision in Type I diabetes in the U.S. and a regulatory decision regarding the inclusion of cardiovascular outcome data for DECLARE during the second half of the year. We also plan to submit data from THEMIS, Brilinta's cardiovascular outcomes trial in coronary artery disease and Type II diabetes for regulatory review in the second half of the year. 
+And lastly, in respiratory, we hope to receive a regulatory decision for PT010 in COPD in China and Japan in the second half of the year and see data from the ETHOS trial. We also anticipate regulatory decisions for Fasenra's self-administration and auto-injector in the U.S. and EU, for Symbicort in mild asthma in the U.S. and for Bevespi in COPD in Japan and China in the second half of the year. 
+Now if we turn to Slide 34, and this is an important slide. I'd like to present our rich mid-stage pipeline, and we are going to be selecting some -- we're going to show some selected molecular entities. Last quarter, Mene presented an introduction with insights into some of our new medicines that will shape our future over the next 5 years. Going back to Pascal's point, these are potential new medicines with the opportunity for sustainable sales through using clinical practice, and the number has expanded following internal reviews. We now have a quality, breadth and depth to our mid-pipeline, which begins to gain pace with the initiation of the Phase III program in asthma for PT027 and also, as I mentioned already, for Trastuzumab deruxtecan. We look forward to providing you with more updates through the year for the year. 
+Thank you, everyone, for your ongoing support, and thanks to all the colleagues in AstraZeneca who work hard to continue to deliver new medicines to patients. I have been extremely encouraged by the level of enthusiasm and expertise and science that I've seen so far. 
+And with that, I will now hand back to Pascal for closing comments. Pascal?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [8]
+--------------------------------------------------------------------------------
+
+          Thank you, José. So in the interest of saving time for Q&A, I'll skip the last slide and just remind you product sales grew by 14%, and operating profit is up 96% with an operating margin of 30%. We reconfirmed our guidance for the year, and our pipeline is making good progress. 
+So with that, we'll now move to the Q&A. (Operator Instructions) We'll also take written questions from the webcast. (Operator Instructions) Thank you, and we'll now get started with Richard Parkes at Deutsche Bank. Richard, over to you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Richard J. Parkes,  Deutsche Bank AG, Research Division - Director    [1]
+--------------------------------------------------------------------------------
+
+          Since I'm first, I'll ask the inevitable cash flow question, and it's got 2 parts, unfortunately. So obviously, the decision to raise equity as part of the Daiichi collaboration is raise overall focus cash flow and your balance sheet, and I think that was triggered by the decision to raise more cash than was required for the initial upfront and milestones. So I just wondered if you could talk about that decision. And was that driven by the fact that the rating agencies take into account the longer-term milestones with them looking at your rating? Or was it because you're seeing these additional payments from legacy business development deals impacting cash flow in the short term? So that's the first part. 
+The second part is just on the cash flow in the first quarter. You've given some clarity on that in the release. Obviously, it's still a significant negative in the first quarter when you look at working cap short-term provisions and noncash movements of more than $1 billion negative. Can you help us to understand those and get a sense of how those will develop for the full year?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [2]
+--------------------------------------------------------------------------------
+
+          Thanks, Richard. So I think that the line was not really good, but hopefully, we captured the 2 parts of your question. The first will relate to the equity raise, and the second relates to the cash flow itself and some of the negative movements in the cash flow statement. Marc, do you want to cover both of those?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes. Let me start. Richard, thank you very much for these 2 informative questions. So the first one on the equity. So we -- as we have said, the equity was -- the purpose of the equity was to pay for the upfront and the milestone in the early years for the Daiichi Sankyo product right acquisition as well as to strengthen our balance sheet as we have a repayment of $1 billion bond in September of this year. So this is exactly the way we explained it. 
+Now turning to your question on the credit rating agencies. They tend to look at the cash flows and other -- a lot of financial metrics usually within a 12- to 24-month horizon. So they are informed and well aware of our 2019 cash flow progression. You will certainly remember that at the full year results in February of this year, I have flagged that in 2019, we would have larger proportion of business development payments to be made, some of them linked to deals that we have done recently, but some others linked to the deals that are much older. In particular, we have had a substantial payment for a true-up of a joint venture with Merck in the United States that started in 1988 for Nexium. So some of them are recent. Some of them are more historical. So that, I think, answers the situation of why the credit rating agencies were looking at our credit rating with some level of scrutiny. 
+Turning to the current quarter cash flow and what can we learn from the quarterly cash flow for the full year. So first of all, we have to be very much aware that quarter-to-quarter cash flow comparisons are very delicate. You could have in 1 quarter a positive, and you can have a similar quarter the following year a negative. And of course, this exacerbates the difference. And I think the quarter 1 of 2019 is a very good example. We have, as I've just described, a true-up with Merck for historical joint venture. This was a negative of $400 million. In 2018, we had a positive for litigations that we had settled. We -- so we have one-off on one side, one-off on the other side. Since they were both of about $400 million each, so you have a variation in that quarter of $800 million, which of course is not reflective of the progression of profitability. So this is why quarter-to-quarter comparison are very delicate. Now if you go for the full year, this is a bit less variable, but still, you could have some variability. So we have said that in 2019, we will have more CD payments than we have had in the past. And therefore, we said that the results of cash flow for 2019 will not be as good as they have been in 2018, and I think I can confirm again the same for that.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [4]
+--------------------------------------------------------------------------------
+
+          So we'll move to Mark Purcell at Morgan Stanley. Mark, over to you.
+
+--------------------------------------------------------------------------------
+Mark Douglas Purcell,  Morgan Stanley, Research Division - Equity Analyst    [5]
+--------------------------------------------------------------------------------
+
+          As part of the ongoing U.S.-China trade talks, it's been reported that China's offered U.S. pharma companies 8 years of regulatory data protection in China for the biologics they develop. Pascal, what are your thoughts on this and other potential offsets to the political agenda, which is driving earlier and more rapid uptake of innovative medicines in China? 
+And if I may, just a point of clarification on the last question. Could you tell us which year the dividend is going to be covered by cash flow before financing activities and which year is going to mark the start of a sustained improvement in your net cash position before M&A and internalization consideration? So just think of my last question and early comment that you made at the beginning of the call.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [6]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Mark. So the first question as it relates to China, I will really start by saying that everything we've seen happening over the last year or 2 in China goes in the right direction, quite frankly. I mean -- and I could list, for instance -- the government is really protecting -- going in the direction of protecting IPO, respecting IPO rights at least in our industry. There is an emergence of an innovative industry in China, and of course, that's something that they can only develop and flourish with an IP system in place. So clearly, China is focused on IPO rights. 
+Now we've seen acceleration of review and approval of new, innovative medicines, which is a real positive. We've seen funding being deployed to reimbursing and facilitating access to new, innovative medicines like Tagrisso; Farxiga which, quite frankly, not long ago, nobody would have thought would be reimbursed. On the other side, we've seen -- of course, we've seen the emergence of generics and the price pressure on older products. So you can see China transitioning to a model that is more aligned with what we see in the Western world and driven by innovation, quite simply. We've seen that coming since quite some time, and we've spent a lot of time and effort preparing for it and accelerating the development of our new products. 
+Now as it relates to these ongoing discussions between the U.S. and China, I -- and I would think that it is a little bit early to comment. I think we should wait until the discussions conclude. But again, I think the fact that we are debating 8 years or 10 years or more is actually reflecting that there is a discussion around IPO rights, which is a good one, good discussion to have. I will only say that the gold standard really for biologics protection is 12 years. International norm has started to establish itself around 10 years. That's what you see in this recent agreement between the U.S. and Canada and Mexico. So I can only say that I would hope that China and the U.S. can agree on 10 years, but we'll have to wait until the end of this discussion. But really, I think I would look at it with a positive approach really. I mean the discussion reflects really good progress on IP protection. 
+So dividend, Marc, do you want to cover that?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO & Executive Director    [7]
+--------------------------------------------------------------------------------
+
+          Yes. So I did not understand your question very clearly, but I assume that you wanted to ask about the payment of the dividend in 2020.
+
+--------------------------------------------------------------------------------
+Mark Douglas Purcell,  Morgan Stanley, Research Division - Equity Analyst    [8]
+--------------------------------------------------------------------------------
+
+          Yes. Sorry. I'll just repeat it. The question was just based on what Richard was asking and some of the concerns here that, which year will the dividend be covered by cash flow before financing activities? And which year will mark the start of a sustained improvement in your net cash position before considerations around M&A and internalization?
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO & Executive Director    [9]
+--------------------------------------------------------------------------------
+
+          Very good. So I think the -- so first of all, one remark on the underlying trends. Obviously, the continuous margin expansion and operating leverage will lead to a better cash generation from 2020. So as we -- regarding the share issuance and the relationship with the Daiichi Sankyo investment, we have said that the share issuance was going to cover the upfront and the milestone in the early years. So if we exclude the impact of Daiichi Sankyo, we anticipate to reach a coverage of our dividend in 2020. So first. And then the job will not be finished. We will continue to work on increasing profitability, increasing operating leverage and margin expansion from 2020 onwards.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Marc. I mean I think Mark, we can only -- Mark Purcell, that is, we can only reconfirm what we've told you before. I mean there's no change to what we've said. We will basically cover the dividend from 2020, start reducing debt from 2021. And as Marc Dunoyer said a minute ago, essentially, the equity issuance will enable us to cover the cash outlays related to this DS-8201, which again I think people will learn to appreciate the significance of this asset and its enormous potential.
+So let's move to Andrew Baum at Citi. Andrew, over to you.
+
+--------------------------------------------------------------------------------
+Andrew Simon Baum,  Citigroup Inc, Research Division - Global Head of Healthcare Research and MD    [11]
+--------------------------------------------------------------------------------
+
+          First question relates to a topic you've already touched on in AstraZeneca's success in building a very sizable pipeline. So by your own admission, I think you call out 157 projects. I'm counting around 133 for Roche. You spend about $5 billion per annum. They spend $10 billion. Without getting too hung up on the absolute numbers and talking about probability of success, I guess what I'm getting at is, could you give us some indication on the rate of increase for R&D spend given the opportunities in front of you? And then related to that, could you talk about the extent to which there can be much further prioritization of your portfolio, including throughout licensing, especially now given the integration of MedImmune? 
+And then separately, if Susan is on the line or to José, there's now been 2 sets of data with PARP inhibitors showing that prostate cancer having ATM mutations are not PARP-responsive, and this is obviously part of the population for the primary endpoints of your PROfound trial, which reports at the end of this year. How do you think about the risk of the pairing and the size of the market in the event this pans out within that trial? And apologies for the second question.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [12]
+--------------------------------------------------------------------------------
+
+          Thanks, Andrew. That's great -- 2 great questions. So maybe what I would propose, Mene, if you could cover the first one, and then if José allows me I'll ask the mother of this great medicine, Lynparza, to answer the second question if that's okay. 
+So Mene, do you want to cover the...
+
+--------------------------------------------------------------------------------
+Menelas Pangalos,  AstraZeneca PLC - Executive VP & President of Research & Development - BioPharmaceuticals    [13]
+--------------------------------------------------------------------------------
+
+          Yes. So size of the pipeline, so as you articulate, we do have a rich array of molecules across our therapy areas in early to mid-stage, and I think the key actually is generating confidence in the datasets that enable you to be comfortable and confident moving into late stage development where obviously, the big investments are made. So I think rigorous prioritization, which is something that we're actively doing on a regular basis, and then making sure that we ask really good questions in early development to demonstrate proof of mechanism, early signs of efficacy so that when we move things into Phase III, they have a high probability of successfully launching the medicines I think is key. And that's a much better place to be than not having enough molecules in your pipeline, where you're actually just moving in stores because you can. And then the surplus molecules that we have, if there are things that are low priority, Andrew, absolutely, we'd outlicense them or work out how to partner them in a way that gets them to patients as fast as possible.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [14]
+--------------------------------------------------------------------------------
+
+          And we're on this process, Andrew, of prioritizing a few mid-stage projects and accelerating them to the extent we can and doing this prioritization and selection of the most promising projects.
+But I think that, as Mene said, we should keep in mind, our productivity has increased. And we have been able with the low R&D budget to deliver a very rich pipeline relative to some of our competitors. But still, we need to continue prioritizing. 
+Lynparza, Susan?
+
+--------------------------------------------------------------------------------
+Susan Mary Galbraith,  AstraZeneca PLC - Head of Oncology - Innovative Medicines & Early Development Unit and VP    [15]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks, Andrew for the question. So the one thing to note is there will be more data that's coming out from expanded dataset from 2 Part B at ASCO coming up. So look for that from Johann de Bono's group. Clearly, across the panel of genes that can produce homologous repair recombination deficiency, there is some variation in the relative sensitivity to PARP inhibition. Nonetheless, we've got very good strong proof of principle from the data in the image not 2 Part B, that patients with ATM loss do have activity as being with long and durable responses were the last group treatment. 
+So one thing to bear in mind is the testing for ATM. As with all of these big genes, I think there's probably increased sensitivity when you've got biallelic loss rather than just monoallelic loss and I think still getting the testing right is important. We've taken that consideration into account where we've designed the studies that we have ongoing. So we remain confident that the study is designed well to look for the size of benefit that it has been found to detect across the patients that were enrolled.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [16]
+--------------------------------------------------------------------------------
+
+          Thank you. So thanks, Susan. So let's move to Naresh Chouhan at Intrinsic Health, sorry. Naresh has a question that is asked online. I think it's for you, Dave. And the question -- I will read the question so everybody can benefit from it. And it is, please can you help us to understand the slowdown in Tagrisso? I guess the question relates to the U.S. mainly. Underlying demand only grew mid-single digits quarter-on-quarter, but penetration is only 60%. Some discussion about where you expect penetration to peak out would be helpful.
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [17]
+--------------------------------------------------------------------------------
+
+          Thanks, Pascal, and thanks for the question. I think, first, to start with, so I think you're pointing out that in the U.S. that there was a decline in the sequential growth quarter-over-quarter. I do think that it's important to point out that obviously, the year-over-year growth of Tagrisso has been quite tremendous. And I think that given where we are in the launch of Tagrisso, we're quite pleased with mid- to high single-digit demand. We look at the demand as the primary measure of the health of the brand. And at the end of the year, there are always inventory movements and one-offs. And you'll recall that we had described that as happening in the fourth quarter last year within China, and we saw China rebound back quite nicely, as we said that it would in the first quarter of this year. 
+I think the other piece that I'd like to highlight here is just that I think what you see is also the strength of the diversity of the geographies that we operate in. And again here, you saw sequential growth globally of 6% for Tagrisso. And I've been working in oncology a long time. You see these S curves, where the goal is you get as rapidly up the adoption curve as possible in various regions. And you know that U.S. will be first. And usually, Japan and Europe follow on the heels of that, and then China comes after that. 
+So on your question about what's the top penetration that we can expect, TKIs as a class have about 80% to 85% penetration of the frontline market space. There are remarkably still patients despite TKIs having been in the market for decades that are still getting chemotherapy or even I/O chemo as their first therapy. That's part of our educational effort, but that's what I'd look at in terms of what the maximum potential of the class is.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [18]
+--------------------------------------------------------------------------------
+
+          Thank you, Dave. So Jo Walton at Crédit Suisse, please. Next in line. Jo, go ahead.
+
+--------------------------------------------------------------------------------
+Jo Walton,  Crédit Suisse AG, Research Division - MD    [19]
+--------------------------------------------------------------------------------
+
+          I wonder if I could just return to China and get a little bit more information about it. Sanofi pointed in their strong results in China today to a pull-through of demand into 1Q that would otherwise have been in 2Q because of the change to value-based pricing. I wonder if you felt that there was any distortion in your numbers. And then as you reflect on how things go going forward, should we see -- are there any particular products where we should see a decline in growth? And I wonder if you could also help us by giving us the absolute sales of Tagrisso in China.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [20]
+--------------------------------------------------------------------------------
+
+          Thanks, Jo. So I'll ask Dave if he -- if you have the number to answer the second question. The first question is clearly no. We haven't had any effect, as you described that Sanofi mentioned. In fact, I would say it was the other way around as we are concerned. We had an inventory decrease in Q1. And at the end of Q1, trade inventory is frankly the lowest it can get to. I mean we couldn't get lower, or we would have supply issues. So we have very low inventory in the trade in China. We haven't seen that effect. In fact, again, we have had an inventory decline. 
+So the Tagrisso question in China, Dave, do you...
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [21]
+--------------------------------------------------------------------------------
+
+          Yes. So Jo, we don't share the specific sales levels for individual brands within China. What I can say is that we certainly saw a very nice increase in oncology sales in the emerging markets, oncology sales growth of 43%, and Tagrisso was a significant contributor to that.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [22]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. 
+So Keyur Parekh. Keyur, go ahead.
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs Group Inc., Research Division - Equity Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Two questions, please. The first one, coming back to cash flow for Marc. Marc, when you talk about covering the dividend in 2020 from operational cash flow, is that pre- or post-CapEx annual royalty payments to Bristol and Shionogi and things like that? 
+Just linked with that, how -- what is it that is likely to change so dramatically over -- between kind of the cash you're generating today versus 12 months' time? Because inherently, what you're talking about is an increase in quarterly cash flow generation of about $1 billion. So just if you can help us bridge the gap, that would be great. 
+And then secondly, Dave, to -- just a clarification on your comment regarding the Imfinzi growth outlook. I just want to make sure I heard you right in saying you -- we should be thinking about Imfinzi growth in the near term as being driven by ex U.S. rather than the U.S.?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [24]
+--------------------------------------------------------------------------------
+
+          So on the cash flow, so what I just said a few minutes ago that since we have used the share issuance to cover the upfront for -- the upfront and early milestones for Daiichi Sankyo, I'm looking at the coverage of the dividend excluding the impact of the Daiichi Sankyo product acquisition. So you need to remember this caveat. So the coverage of the dividend will be done after CapEx, after restructuring expenses, after the normal outflows, but excluding the impact of the cash payments related to Daiichi Sankyo. 
+I'm sorry. And then why is it -- I guess why is it getting better? Well, I think I have also outlined that for 2019, we have reasonably high level of payments for business development deals. Some of them, we have done in 2018. Some of them, we have done much earlier. And I mentioned the true-up joint venture with -- historical joint venture with Merck in the U.S. But also we have some molecules which are progressing for the development momentum, and hopefully, some will be approved. And there are milestones, which are accompanying these regulatory approvals in the course of 2019. So I see it as a good news in a way. Because to me, these products will reach market expansion. 
+So 2 effects really. Okay, I mean the obvious one is the improvement of our operating margin that goes down to the cash flow. And the second, as Marc said, some of these one-off payments will decline. And remember, in Q1 of this year, we had a big one, $400 million relating to next year which is a 20 or 30-year-old joint venture and it's the final milestone relating to the undoing of this JV. 
+I think there was a question on Tagrisso for you, yes?
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [25]
+--------------------------------------------------------------------------------
+
+          So it's on Imfinzi actually. So the Keyur, the first part, we -- I certainly have the expectation for continued growth within the U.S, but I do think that growth rate on a percentage basis sequentially is going to be lower than what we've seen. We saw a fairly significant catalyst with the overall survival data at ESMO, and we saw a sequential growth rate of 27% on the heels of that within the U.S. And we saw a lower rate in the mid-single digits in terms of the growth rate that we saw at 7% in terms of sales within the U.S. We see CRT rates now really well above 50%, probably getting close to 60% within that. We think that there's some opportunity for continued growth there, but we're also under the belief and we listen to what the physicians are speaking through. I think that there are patients for whom CRT just isn't a viable option, and so that's probably getting close to near where its max is.
+Again, we also see opportunity for continuing to have more patients treated with Imfinzi post-CRT, but we have a greater opportunity to get to U.S. levels of performance outside of the U.S. We have just recently launched within Japan, where we saw really strong uptake in the quarter. And we're encouraged by the trajectory that we come into Q2 on. In Europe, recent approval, and we're starting to seek reimbursement coming onboard, where demand is increasing in Germany, increasing within France, and we're still yet to see reimbursement in a number of other countries. So U.S. growth still there. Other markets outside of the U.S. have an opportunity to get to the U.S. levels, and that was the comment that I was making.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [26]
+--------------------------------------------------------------------------------
+
+          Thanks, Dave. The next question is online...
+
+--------------------------------------------------------------------------------
+Keyur Parekh,  Goldman Sachs Group Inc., Research Division - Equity Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Pascal, sorry, just a clarification to Mark's answer.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [28]
+--------------------------------------------------------------------------------
+
+          A minute there. I'm just thinking forward to answer the second part of Jo's question about China a minute ago. She was asking what product could be impacted moving forward on a negative basis. And as I said, the second half in China will be impacted by some of those new policies of tendering products that are patent-expired. So I would say that the one product that you could see being impacted in the second half will be Crestor because we lost a tender. In fact, as you probably noticed, of all the tenders that were issued in China, only 1 tender went to an international company, and that's -- as with IRESSA. But we did lose the Crestor tender, so certainly, that product will be impacted. 
+So the online question related to PACIFIC 2, and it is, do you still estimate that the PACIFIC in eligible population due to progression after chemo that could become eligible based on PACIFIC 2. It's still at 25%, or are you seeing a lower number in the real world given the difficulties associated with defining progression in the setting on the availability of Imfinzi as an option? And this is a question from Mari Miemietz. It's for you, Dave.
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [29]
+--------------------------------------------------------------------------------
+
+          And so, Marietta, on this question, I guess the main focus for PACIFIC 2 is testing the hypothesis that can we actually get more patients through CRT and those that progress or drop out within it. The rate that you're using there is a reasonable one in terms of what we see of patients that while initiating therapy do drop out. Now I think that maybe implied within this is another question, which is we do not promote to this, but we do see that there are physicians that are utilizing Imfinzi in patients post maybe just radiotherapy or if they're not able to actually give a full course of CRT in the way that they want to for tolerability reasons. But again, that's a minority of use that we're seeing. And I think that PACIFIC 2 provides us the opportunity to be able to give evidence in the setting, which we believe is an important area of opportunity.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [30]
+--------------------------------------------------------------------------------
+
+          Thanks. Dave. So we'll take last 2 questions. Hopefully, we can deal with them within the time allocated. We're a bit behind time. 
+So the first one is Seamus Fernandez at Guggenheim. Seamus, do you want to go ahead?
+
+--------------------------------------------------------------------------------
+Seamus Christopher Fernandez,  Guggenheim Securities, LLC, Research Division - Senior Analyst of Global Pharmaceuticals    [31]
+--------------------------------------------------------------------------------
+
+          Yes. So maybe just if I could make one suggestion, and then I'll follow-up with a question. But just in terms of the cash flow dynamics, I think it would be helpful to everybody if we had a slide or a schedule of potential payments going forward so people can understand more clearly the specifics around cash flow dynamics that's become an overt focus relative to the future growth of the company. So just a suggestion there. 
+And then separately, my question really is in terms of our thoughts around the growth opportunity for the overall portfolio and the various programs that you have studied outside of the Daiichi Sankyo program. Which programs are you particularly excited about to really improve cash flow going forward? I think probably the biggest focus right now is on roxadusat. And I feel like that program maybe isn't appropriately understood in terms of where the pushes and pulls are for roxadusat. So I'd really love to know a little bit more of AstraZeneca's thoughts around that program and how you drive the opportunity in anemia.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [32]
+--------------------------------------------------------------------------------
+
+          Thanks, Seamus. First of all, the comment when -- so thank you. The question of growth opportunities is least of -- I mean not least. There's more than one, of course, cost focus is an important one. We will have SOLO-1. We'll have a lot of -- well, we'll have, well, PT010. But it's probably more for 2021 and beyond in term of cash flow generation. But -- so roxa, we will have Lokelma that we have to launch. We'll have some of our I/O readouts. So there's quite a few. But maybe what we could do is focus a little bit on roxa since we must focus on it. Or do you want to say a few words about the opportunities, Ruud?
+
+--------------------------------------------------------------------------------
+Ruud Dobber,  AstraZeneca PLC - Executive VP & President of BioPharmaceuticals Business Unit    [33]
+--------------------------------------------------------------------------------
+
+          Yes, of course. First of all, we need to see the safety analysis, and we have said that it will be done in the first half of this year. But the opportunity, of course, is very substantial both in the dialysis segment. To give you a few numbers, roughly, there are 600,000 patients in the United States on dialysis. It's growing. But the -- especially, the nondialysis population is at least 4 or 5x bigger than that. 
+And at the moment, in the nondialysis setting, only iron, oral iron or IV iron is used because of the black box warning of EPO. Equally, the opportunity in China is very substantial. In China, roughly, there are 800,000 patients on dialysis. We already have secured approval in that indication, and we are doing our best in order to get on NRDL as we speak. So we need to wait and be more patient, but we will launch roxadusat in the second half of 2019. 
+So all in all, depending, of course, on the outcome of the safety analysis, we feel very good about this opportunity. And that medical need is very, very substantial, but we just need to be a bit more patient in order to see the full data set.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [34]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Ruud. I mean -- and maybe that gives me an opportunity to make a comment on this dataset because I know some of you have been wondering when is it coming, and we communicated earlier that it will be first half, and we're on track on this. You have to keep in mind that it's a very complex database. I mean it's -- first of all, large database, several studies. But importantly, it's not your standard one company sort of analysis. We have 3 companies involved. So we have to consolidate all of these. 
+FibroGen is taking the lead, of course, consolidating these. Then when it is all done, we'll have to have the 3 companies working together to analyze the data and agree on the conclusions. So this is not a very simple exercise but (inaudible) process. As soon as we have the results, we're very well aware of obligations here, we will communicate those results immediately when we know the safety analysis.
+So with that, maybe Sachin Jain at Bank of America. Sachin, go ahead.
+
+--------------------------------------------------------------------------------
+Sachin Jain,  BofA Merrill Lynch, Research Division - MD    [35]
+--------------------------------------------------------------------------------
+
+          Sachin Jain, Bank of America. One question on roxa and then one clarification. On roxa, Slide 30, I know I'm overinterpreting, but will it be 1 safety press release or 2? Because you referenced a poor safety analysis followed by totality of evidence. So is there a splitting of the CV versus a broader safety update? Or am I overinterpreting that? 
+And then just the second question just on -- back to the cash flow and the BD payments. Marc, just to clarify, you had said that predominant payments were in 1Q. In your prepared remarks and an answer to a prior question, you said there were further payments through the course of this year. And so is it fair to assume that further payments are smaller than the $400 million for Nexium? And is there any larger payments you could call out? For example, I know you were due $600 million in development milestones on roxa. So should that be positive would we expect that cash outflow this year?
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [36]
+--------------------------------------------------------------------------------
+
+          Thanks, Sachin. So the first question, maybe I can cover. The second question, Marc, you would cover. The first question, very quickly. Again, I just kind of -- I can only repeat what I said a minute ago, Sachin, is that it's a very complex data consolidation, 3 companies involved. The lead, the partner here is FibroGen. This is their product. We take their lead, and so we're working as fast as we can, but today, I can't answer your question in the end whether we will have a safety, safety -- CV safety analysis that we release. So we will release everything in one go. It will depend on how quickly we can get those analysis completed. And of course, we know everybody is focused on the CV safety. So as soon as we have this, we know we have to release it. Ideally, we would release everything in one go. But it may be that we have 2 sets of data releases. Again, we're going to have to take our lead from FibroGen on that one. 
+Marc, do you want to cover the...
+
+--------------------------------------------------------------------------------
+Marc Dunoyer,  AstraZeneca PLC - CFO & Executive Director    [37]
+--------------------------------------------------------------------------------
+
+          Yes. So as I said, there won't be a payment as large as the true-up for the joint venture with Merck later in the year, but there will be multiple other commitments that we'll have to satisfy and pay, and I described most of them. They are usually milestone of some form of success, progression of a development program, or approval of that development program. So they are -- there is still quite a few programs that we will have to pay for in 2019. But we have also given an indication that the spend into the outlay in 2019 first quarter was relatively large quarter. So I think from there, you can probably project the rest of the year.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [38]
+--------------------------------------------------------------------------------
+
+          Yes, that's an important piece. And the majority of this large payment has just taken place in Q1. 
+So maybe the last one question because we are out of time, unfortunately. There's a few more questions, but we'll take one last one online that relates to Tagrisso. Dave, for you, and it's saying that U.S. and Japan are well penetrated in the existing indications. China is the future key growth driver. And I would not underestimate Europe or so. I mean, unfortunately, I have to say really unfortunate in Europe, patients are at the back of the queue. They have to wait until reimbursement is achieved. That's a sad reality of our reimbursement system in Europe across all products in all markets, quite frankly. So they -- but we are getting there in terms of getting second-line reimbursement. As soon as we can, we'll get first-line. So Europe still has to make a contribution. But the question here relates to China. Where is the China penetration now, Dave? And where do you see these verticals filling in?
+
+--------------------------------------------------------------------------------
+David Fredrickson,  AstraZeneca PLC - Executive VP & President of Oncology Business    [39]
+--------------------------------------------------------------------------------
+
+          So let me take James' questions in reverse order. So in terms of the second line, which is where we've got both the approval and the NRDL listing, we estimate that there are, within China, as many as 80,000 patients. Now we take in our own mind about 20% to 25% access cut on that. So we think that there is between 16,000 and 20,000 patients treated in the second line that have the ability to really get access to.
+We have a small percentage of those patients, and we've got opportunity for quite a bit of continued growth, and that's just in the second line. So obviously, we look forward as well to frontline indications, and then we'll be looking forward to frontline NRDL opportunities. So there's really a tremendous amount of China opportunity for Tagrisso. And I can only reiterate what Pascal said, which is that we still see quite a bit of frontline opportunity across the rest of the globe, and I think it's important to look at the China numbers and the composition and see that it is a product that really, U.S., Japan, China, Rest of World, all make important contributions, too.
+
+--------------------------------------------------------------------------------
+Pascal Soriot,  AstraZeneca PLC - CEO & Executive Director    [40]
+--------------------------------------------------------------------------------
+
+          And again, on China, remember, we have the tender. We won the tender for IRESSA. And it's actually very important because coupons for IRESSA is important for first-line lung cancer patients in China. But it's also important for Tagrisso because in doing this, we kind of create if you will, the second-line market, and the opportunity there is still very large in China. And as Dave said, we'll then move on to first-line, hopefully.
+So we'll close here, and I would like to again thank you for your interest and repeat that we believe we are very much on track with what we told you before. We're now focused on driving this top line growth, taking it to the bottom line, improving our operating margin and improving our cash flows. And what we have said to you before remains true. 
+And I also want to maybe close by saying this DS-8201 opportunity was a unique one, and hopefully, over time, people do realize the potential of this agent, which is we believe enormous and explains and justifies why we did this equity raise. 
+So with that, again thanks for your interest, and I wish you a good rest of the day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

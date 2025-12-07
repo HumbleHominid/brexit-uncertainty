@@ -1,0 +1,328 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Half Year 2020 Barclays PLC Fixed Income Analysts and Investors Earnings Call
+JULY 29, 2020 / 2:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Kathryn McLeland
+   Barclays PLC - Head of IR & Group Treasurer
+ * Miray Muminoglu
+   Barclays PLC - Head of Long-Term Unsecured Funding & Capital Issuance
+ * Tushar Morzaria
+   Barclays PLC - Group Finance Director & Executive Director
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Tom Ian Jenkins
+   Jefferies LLC, Research Division - SVP and International Credit Analyst
+ * Robert Louis Smalley
+   UBS Investment Bank, Research Division - MD, Head of Credit Desk Analyst Group and Strategist
+ * Daniel Ryan David
+   Autonomous Research LLP - Research Analyst
+ * Lee Street
+   Citigroup Inc., Research Division - Head of IG CSS
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the Barclays Half Year 2020 Results Fixed Income Conference Call. I will now hand you over to Tushar Morzaria, Group Finance Director.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [2]
+--------------------------------------------------------------------------------
+
+          Good afternoon, everyone, and welcome to the fixed income investor call for our half year 2020 results. I'm joined today by Kathryn, our Group Treasurer; and Miray, our Head of Term Funding. Let me start with Slide 3 and make a few brief comments before handing over to Kathryn. 
+As I mentioned this morning, the results of the first half show the benefit of our diversified business model. Profits for the first half were down on last year, reflecting material increase of GBP 2.8 billion in the impairment charge to GBP 3.7 billion. The growth of 8% in income for the CIB delivered a strong performance and a decrease of 4% in costs resulted in a profitable half and an RoTE of 2.9%. 
+Given the uncertainty around the economic outlook and the low interest rate environment, we do expect the second half of the year to remain challenging. While we continue to believe that above 10% RoTE is the right target for Barclays over time, we need to see how the downturn plays out before giving any medium-term guidance. 
+Before handing over to Kathryn, I want to spend a moment on the impairment charge at Q2, given its importance to our fixed income investors. Slide 4 explains the workings behind the GBP 1.6 billion impairment charge in Q2. The modeled impairment calculated for the quarter using the macroeconomic variables, or MEV, we said prior to running the COVID scenario for the Q1 close generated a charge of GBP 0.4 billion. I think of this as a baseline model charge. 
+In addition to this, we took another GBP 0.2 billion in respect to single name wholesale charges within the CIB. As in Q1, some of these names may have been affected by the onset of the pandemic, but the sum of these 2 is not materially above our underlying quarterly run rate in previous years of around GBP 0.5 billion. The remainder of the increase reflects the GBP 1 billion net impact from using updated COVID scenarios, reflecting the deterioration in forecast to MEV and including an overlay of GBP 150 million for selected sectors. This book up, as I call it, compares with the GBP 1.34 billion we charged in Q1. 
+We've shown on the slide some of the key U.K. and U.S. macroeconomic variables used and is more detailed in the results announcement. The key changes are that while the peak unemployment level in the U.S. is lower than in the Q1 COVID scenario, the unemployment levels for both the U.K. and U.S. remain high for longer. The level of defaults flowing through will be a key determinant of charges within a few quarters. The extension of support programs may delay visibility as to the ultimate level of such defaults and to the extent they were already included in the expected loss book up. 
+On Slide 5, it's important to look at the coverage ratios to see the full extent of our cumulative protection against downside risk. This slide summarizes the loan books, impairment build and resulting coverage ratios for the wholesale and consumer portfolios over the last 2 quarters. 
+You can see that our coverage ratio has increased at the group level from 1.8% as of 2019 year-end to 2.5% in Q2. Of course, the coverage ratios vary materially across the secured and unsecured portfolios, the wholesale coverage has increased from 0.8% to 1.4%, and a large portion of this is in the selected sectors that we consider to be more vulnerable for the downturn. 
+I would remind you that we are looking at the major risks in corporate lending on a name by name basis, including taking into account assessment of the value of any collateral. The other major focus area is the coverage on the unsecured consumer books, where the coverage ratio has increased from 8.1% to 12% overall and a 23.1% on stage 2 balances, most of which are not past due. 
+Before the current crisis emerged, we've already taken various prudent actions to manage credit risk, including the actions taken in the past 4 years to mitigate potential Brexit-related headwinds. Be it through synthetic protections on our corporate book or simply not growing the U.K. unsecured book, we've been happy to sacrifice income in order to reduce downside credit risk. 
+Together with our diversified revenue streams, we continue to believe that we are well positioned to navigate this stress event. Our balance sheet remains resilient, having strengthened over recent years to put us in a position to absorb precisely the types of stress we are now experiencing. 
+And for that, I'll now hand over to Kathryn.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Tushar. As you can see on Slide 7, we finished the first half of the year with a robust balance sheet across all our metrics. Our CET1 ratio is 14.2%, MREL finished ahead of our end-state requirement at 32.4%, and our LCR stands at a very robust position of 186%. 
+I'll start with capital on Slide 8. Over the course of the second quarter, our CET1 ratio increased from 13.1% to 14.2%. As you can see on this chart, we had another strong quarter of preprovision profits that were partly offset by the net impairment charge taken, which you can see has transitional relief applied to CET1 of 35 basis points. 
+The CET1 ratio position for June landed materially better than where we've guided in April at the time of our Q1 results, when we had expressed our comfort of potentially going below 13%. The support from government, Central Bank and regulators has been unprecedented. This was not all anticipated at the time we gave that guidance. The extensive package of support measures has indirectly impacted our CET1 position this quarter by delaying the expected RWA inflation we have guided to. 
+In addition, wholesale lending balances reduced the diplomatic reopening of capital markets and consumer balances fell across our unsecured lending portfolios. 
+Lastly, regulators provided release to capital calculations of which most notable for us in Q2 were IFRS 9 transition relief and PDA. Let me begin by looking at the RWA dynamics over the quarter. RWA is reduced as the procyclical impact on our exposures was more modest than originally anticipated due to the government support measures and robust capital markets I just referenced as well as proactive management actions that we took. For example, government schemes led some clients to pay down their loans. More than half the RCF drawed in Q1 have now been repaid. This meant that the credit quality deterioration we saw in the quarter, which led to a GBP 5 billion inflation of credit risk RWAs, was more than offset by the GBP 7.6 billion reduction from net lending. 
+In counterparty credit risk, RWA is reduced by just over GBP 3 billion. As we took management actions, which offset some deterioration in book quality. In market risk, we also took management actions, which including a reduction in risks not (inaudible) or (inaudible) RWAs led to a net reduction of GBP 2.7 billion the quarter. 
+Looking forward, with the material uncertainty that still exists and assuming that government support begins to be phased out during the second half of the year, our prudent planning assumes we do see some further RWA inflation this year. This includes the downward rating migration of our exposures. 
+I will now turn to the interaction of IFRS 9 and our CET1 ratio. Our June 30, CET1 ratio of 14.2% benefited from a total of around 75 basis points of IFRS 9 transitional support. Stage 1 and 2 impairments taken since the beginning of the year now attract 100% release from the June so-called CRR Quick Fix package, while we continue to benefit from 70% transitional relief on impairment stock from prior years. 
+As a reminder, the regulated judges are capital adequacy on this transitional basis, including the distance to MDA. In a steady state environment, we would expect the amount of transitional relief to remain broadly static and for this to roll off as the release scale declines over time. Given the stress we're undergoing and the IFRS 9 standard requiring us to take impairments early in stages 1 and 2, this transitional release under the revised rules had also increased materially. If our economic forecast have correctly predicted how the stress will evolve from here, we would expect a lower rate of new stage 1 and 2 impairments in subsequent quarters. And to some of the existing stage 1 and 2 impairments to migrate into stage 3. 
+If this does materialize, since stage 3 impairments are not eligible for transition relief, we would expect the difference between transitional and fully loaded CET1 ratio to narrow. This is an important dynamic to highlight as while the CET1 ratio could decline in the remainder of the year. The impact could be less pronounced on a fully loaded basis. 
+Turning to Slide 11. As guided at the time of our Q1 results, we anticipated a reduction in the Pillar 2A ratio requirements to offset the impact of higher RWAs, which appear and later formalized into revised calibration methodology that allows the ratio requirement to respond dynamically to RWA fluctuations. 
+As a consequence, our MDA hurdle reduced by 30 basis points to 11.2%. With the added impact of the countercyclical buffer requirement for the U.K. reducing to 0 in Q1. Our MDA hurdle has declined materially by 130 basis points from the initially anticipated December 2020 level of 12.5%. This means we're currently operating at 300 basis points above our MDA hurdles. Although this could reduce through the second half of the year, if the potential headwinds to capital I've just highlighted materialize. However, this could be partially offset by a declining Pillar 2A requirements in percentage terms if RWAs were to inflate. 
+It's worth noting that when the economy begins to recover, under the current regulatory framework, we would expect the MDA hurdle to increase. Firstly, as the Pillar 2A increases as RWAs deflate. And secondly, assuming the reintroduction at some point of the countercyclical buffer. Importantly, our approach remains the same, to maintain an appropriate buffer to the MDA hurdle through the stress while supporting our customers. 
+Turning to the next slide. We've summarized the key drivers of our capital ratio during this stress. Over the first half of the year, the tailwind of our resilient preprovision profits, management actions we've taken and regulatory support have outweighed the headwinds of RWA procyclicality and impairments as our CET1 ratio increased from 13.8% to 14.2%. 
+As I've just mentioned, these headwinds have the potential to affect our capital ratio in the second half of the year, although Q2 has demonstrated how difficult this is to forecast. It's important to remember that some of the benefits from the regulatory forbearance are expected to be transitory. The most meaningful upcoming change is the expected application of risk weighting to software assets, rather than the current treatment for full deduction from equity. We expect the impact to be an uplift of around 20 basis points possibly from the second half of this year. However, we will have to wait to see if the PRA we want to offset some of this benefit in the calibration of our Pillar 2A requirements, which they referenced in their June 30 statement. 
+Moving briefly on to leverage, which you can see on Slide 13. As with the CET 1 requirement, the leverage requirement is also reduced since the start of this crisis. And for the ratio of 5.2% today, we are operating 140 basis points above the minimum requirement of 3.775%. The ratio now reflects the netting of settlement balance assets and liabilities, and we expect further tailwinds to come through when the remaining CRR II  changes come into effect in June next year. 
+In addition, the CRR leverage requirement, due to become binding from next year, will only be at 3% as the G-SIB component will now not apply until 2023. Moving briefly on to our subsidiaries. Slide 14 shows the June 30, CET1 ratio for Barclays Bank U.K. PLC and Barclays Bank PLC of 14.2% and 14.3%, respectively. These ratios continue to reflect prudent headrooms to their respective MDA hurdles, which now also reflects the PRA's change to their Pillar 2A methodology. 
+You can also see the major subsidiaries beneath Barclays Bank PLC, including the U.S. IHC and Barclays Bank Ireland. Taking into account, you would have seen in June that the IHC past CCAR for the third consecutive year that's projected capital ratios remaining above regulatory minimum required levels across all 9 quarters of the test. An expanded Barclays Bank Ireland has been serving customers and clients for more than 18 months and stands ready to offer continuity after the end of the Brexit transition period. 
+Turning now to the other elements of our capital stack on Slide 15. We continue to target an AT1 level in our capital stack at or around the current ratio of 3.4%. Our approach remains the same. We aim to maintain this headroom above the regulatory optimum to cover potential RWA as FX fluctuations and to manage through potential redemptions and any refinancing activity. Our core policy also remains unchanged. And is based on the long-standing test of economics in the round. And, of course, is subject to PRA approval. Same principle applied to Tier 2 as it does for AT1 with the added dimension of the regulatory value amortizing beyond the call date. 
+Turning now to our HoldCo issuance plans. Despite the challenging backdrop, we're pleased to have successfully issued around GBP 5 billion of MREL this year and to report today a HoldCo MREL ratio of 32.4%. This compares to a 29.7% expected 2022 requirements following the latest Pillar 2A change. Our MREL funding plan for 2020 remains unchanged at around GBP 7 million to GBP 8 million and during the second half of the year, we will consider issuance across the capital stack depending, of course, on market conditions and investor appetite. We may also opportunistically access the funding market via our operating companies. As you saw with the GBP 1.75 billion, 2-year senior bond issued at a BBPLC in May. 
+As you'd expect, we continuously revisit our insurance plans for RWA fluctuations when we do our capital planning. As things stand today, the original guidance of GBP 7 billion to GBP 8 billion remains the right rate for us to be aiming for. We will continue to look for opportunities to expand our green offering to the market via our updated green bond framework published in Q4 of last year. So we have extended the eligibility criteria beyond U.K. residential mortgage assets. 
+Turning to liquidity. The liquidity pool at GBP 298 billion and LCR at 186% represents a GBP 135 billion surplus above our 100% Pillar 1 regulatory requirements, a significant expansion over the first half of the year. The primary driver of the higher LCR position is a very strong growth we've seen in customer deposits, with 12% growth in the first half, consistent with the growth observed across the wider market as starting deposits increased by 8% in the 3 months to May alone. 
+To put this into context, sterling money supply has grown at the fastest rate in over 100 years, largely reflecting the unprecedented volume of QE and other public support schemes implemented by authorities around the globe. In addition, as we mentioned when talking about our capital moves, over half the RCF drawn during the initial rate COVID-related volatility in March have now been repaid. 
+Our robust liquidity position ensures that we are well positioned to continue providing support to our customers over the coming months through what are uncertain times, not only in relation to how we recover from the ongoing COVID pandemic, but also ahead of any potential reemergence of Brexit-related volatility as we approach year-end. 
+Let me make a brief comment here on LIBOR transition. We continue to play a leading role in driving an orderly transition via our representation in official sector and industry working groups across all major jurisdictions and products. An orderly transition away from LIBOR remains a key priority for this year and next. And I'm pleased to say that the execution of our internal LIBOR transition plan has not been materially impacted by COVID-19. 
+I want to take a few minutes to comment on the interest rate environment, given the developments that have taken place since my last call. Clearly, the unprecedented cut to a 10 basis point base rate represents an earnings challenge for all U.K. lenders. As a universal bank, we face this revenue headwind from a strong position. Our diversified revenue streams means that in the first half 64% of our revenues were from noninterest income. 
+For interest income, our structural hedging program helped smooth the income profile, and we've been significantly growing the structural hedge program over the last few years, which helps to protect NIM in an environment such as this. Of course, we have seen our peers on the European continent deal with 0 and negative base rates for some years. And we too have experience it with our European businesses. This means that we stand ready to take management actions on both sides of our balance sheet should both rates be taken to 0 or even into negative territories. 
+We expect Q2 to be the low point of NIM due to the onetime hit of the lag associated with repricing deposits, which we anticipate will have rolled off over the second half of the year, with only the impact of margin compression continuing. 
+Finally, a comment on our ratings position, which you can see on Slide 19. Maintaining strong ratings for all our entities with all agencies remains a strategic priority for the group. Given the macroeconomic backdrop, there are a number of our entities that either have a negative outlook or are on watch negative. These sorts of ratings moves have taken place across all industries, sovereign corporate and financials. 
+In these S&P earlier this month highlighted that the number of credits with negative outlooks or on watch negative are at a record high. We continue to highlight our credit strength to the rating agencies, particularly on a relative basis as we defend our current rating levels. 
+So to conclude, we finished the first half of the year with a robust balance sheet and prudent capital and liquidity positions. These were supported by resilient preprovision profits, with our diversified business model enabling us to remain profitable after taking impairment charges of GBP 3.7 billion in the first half despite the stress we and the rest of the sector are undergoing. 
+And with that, I'll hand back to Tushar.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [4]
+--------------------------------------------------------------------------------
+
+          Thank you, Kathryn. We would now like to open up the call to the questions, and I hope you have found this call helpful. Operator, please go ahead.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) The first question today comes from Lee Street of Citi Group.
+
+--------------------------------------------------------------------------------
+Lee Street,  Citigroup Inc., Research Division - Head of IG CSS    [2]
+--------------------------------------------------------------------------------
+
+          Just on capital. Obviously, it's quite hard to predict where the CET1 ratio is going to come out, given sort of what happened in the quarter. So I know you are sort of careful to about giving capital guidance this morning. But is it fair to assume that Barclays, you're not going to need to revisit that 13% sort of threshold and drop below? As you said (inaudible) that completely -- it's a factor that's completely off the table now? That would be the first one. And second one, just on additional Tier 1. Obviously, your Pillar 2A requirements come down, so I think your guidance is you're looking to sort of around or about 100 basis points over and above what you need for the Pillar 2A. Why are you keeping such a (inaudible), I guess, given the cost of that and the rate environment are like? And then finally, just to what extent -- or how do you think about the big increase in Stage 2 wholesale loans that we've seen in the quarter? Is that just sort of a consequence of IFRS 9? It's not something to worry about? How should -- what do you -- color would you give us to think about that, please?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [3]
+--------------------------------------------------------------------------------
+
+          Yes. I'm going to Kathryn to cover the questions you have on capital, and I'll come back and cover the impairment question that you have.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [4]
+--------------------------------------------------------------------------------
+
+          Yes. So (inaudible) with capital. And I think you referred back to the guidance we gave at Q1. And obviously, at the Q1 results, we've seen a very meaningful impact from RWA inflation in Q1. When we're in the height of the stress in March, extreme moves in RWAs, it increases certainly in market risk, RWAs in particular. So we did certainly, at that time, not anticipate the quite extraordinary intervention that we saw in the second quarter from central banks and government. So we had expected some of that RWA inflation to continue into the second quarter. And obviously, what we saw, which you heard both on the equity call and just now is obviously, capital markets reopening significantly. More than half of our revolving credit facilities being repaid, consumer unsecured lending balances also reducing. And then we saw additional government support measures. So where we stand today, we are 120 basis points above that 13%. And certainly looking forward to the end of the year, what we've said in both these calls is that we do cautiously, for planning purposes, assume some RWA inflation in the second half of the year. So that may put some downward pressure on the capital ratio, but it is quite difficult to tell exactly when that is going to happen, given the government support schemes that are in place and uncertainty as to what will happen when they end later this year or in fact do they get extended. And the second impact on capital that we'd mentioned in the fixed income slide is just obviously, as some of the stage 2 and stage 1 impairments migrate into stage 3, they don't get that 100% transitional relief. So at that point, should that come through in the second half of the year, you would also see an impact on the capital ratio. But we're not guiding or referencing that 13% at all today. We're at a 300 basis points buffer to MDA, which has also reduced. That buffer is double what it was at Q1. It was about 150 basis points at Q1. So I think we feel confident in the capital ratio that we're printing today. There may be some headwinds, but there remains meaningful uncertainty in terms of when that -- when those headwinds or if those headwinds may come through. In terms of the AT1, we've not actually guided to 100 basis points buffer. What we've talked about in terms of the amount of AT1 that we are comfortable holding is in terms of the percentage. And we're around 3.4% at the moment. We've said we're comfortable staying at around this level. And we think it delivers us benefits to accommodate FX volatility that we face, obviously, we've seen some extreme moves, RWA volatility, which, again, we're seeing some meaningful moves over the course of the year. It gives us some benefits for both of those under BAU in stress and also gives us some Tier 1 benefits. So look, we're happy staying at below 3% and I certainly wouldn't encourage you to think about any buffer. I don't think we've mentioned that in the context of AT1. And so Tushar, do you want to cover stage 2?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [5]
+--------------------------------------------------------------------------------
+
+          Yes. So stage 2 impairment for wholesale, as you point out, we increased the amount of loans that we categorize as stage 2. That's somewhat as a consequence of the sort of the triggers that we would use to do that staging migration movements Q1, for example, oil prices and various other things will do automatic -- or result in automatic movement in those loans as our assessment of the probability default was changed. Once those wholesale loans go into stage 2, obviously, we need to take expected losses that we may incur on there. And those loss estimations are, in many cases, driven by our individual credit officers, particularly for the more riskier and more larger credits. So we would look at what collateral we have, how close we are to covenant breaches, whether we have any hedges in place, where we are in the capital structure, whether we've got an operating company exposure or holding company exposure, et cetera, et cetera. And that will be very much a key driver of the credits that are more significant. And particularly for the vulnerable sectors that we've called out in the slides for this morning. So we feel actually reasonably well covered there given that we've transferred a lot of loans over and had our credit officers look at the most important ones there. So yes, we feel pretty comfortable with where we are at the moment on that. Thank you for the question, Lee.
+
+--------------------------------------------------------------------------------
+Operator    [6]
+--------------------------------------------------------------------------------
+
+          Our next question comes from Robert Smalley of UBS.
+
+--------------------------------------------------------------------------------
+Robert Louis Smalley,  UBS Investment Bank, Research Division - MD, Head of Credit Desk Analyst Group and Strategist    [7]
+--------------------------------------------------------------------------------
+
+          I hope you're all well. A few questions. First, I want to start on Slide 17, where you have a box talking about a temporary increase of less than 1 year of wholesale funding. Could you talk about that, the need for that? Particularly given the increase that we saw in deposits and a couple of questions around that. Have we seen these deposits stay relatively sticky in the bank despite that revolvers are getting paid down? Also, on the same page, LCR at 186%, is part of that COVID? Is part of that Brexit? Can you kind of give us a little idea on your thinking there? And then my last question is more general. When we're looking at some of the government mitigation programs you're participating in, is there any information that you can use from that around corporate or consumer behavior to try and predict loan losses or impairments when we start to see them as these programs roll off?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [8]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Rob. Why don't Kathryn you cover the questions on liquidity and I'll talk a little bit about the government programs.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [9]
+--------------------------------------------------------------------------------
+
+          Yes. It's good that you identified the increase in our short-term funding because certainly, we've had that -- those 2 pie charts showing how our reliance on short-term funding has reduced over the years. So essentially, what we were doing in the second quarter is take advantage of the reopening of money markets to increase our CP and CD issuance. And obviously, try and get as decent duration in that as possible. So obviously, 3 months, 6 months, ideally as long as possible. But we did really feel, again, that it was prudent to try and just increase the liquidity that we have even if it is short-term liquidity. So we do think that, that short-term percentage will reduce over time, but it was the prudent thing that we wanted to do in the second quarter. And certainly, it has been quite encouraging for us to see strong money market conditions, good pricing that we're able to get new counterparties come online to us. So it was more of a prudent increase rather than anything else changing structurally in the balance sheet. And the deposit increase also that you highlighted is really quite an extraordinary impact of the QE that we've seen here in the U.K. also in the U.S. and then some evidence of that was in the U.S. bank's initial results. And I think when they published their additional disclosures, you'll see further details about that. And obviously, we've seen almost a 20% increase in corporate deposits and the business banking was just over 20%. And even on the retail consumer side, I think it was about a 7% increase. So we've done a lot of work looking at the quality of those deposits, how we think about them in terms of stickiness. Obviously, we do see that some of these deposits are relatively good quality given what they've also benefited our LCR ratio. And also just one interesting development, which would impact us probably a little bit differently from some of the other U.K. players is that should we perhaps see, say, consumers draw down on their deposits. You may then see that come back to us via corporate deposits. So we're in a slightly different position, again, the diversification that we've got across the group's balance sheet, across the group's P&L. We also actually benefit from having deposits from different types of depositors from consumer, from business banking and from corporate. So certainly, again, in terms of planning, we will assume that some of those deposits may reduce over the second half of the year, for example, the CBILS program in the U.K. where we've extended north of GBP 7 billion to the smaller U.K. entities, that some of that will flow into higher deposits. So again, for conservative reasons, we will assume some outflows, but certainly, we do think that we would probably benefit, unlike some other banks, by having more diversified source of deposits, and it might come back in through the door in another area. And there's a lot of work has been done in that. And we also do our own conservative internal stress test, and you rightly identified, obviously, the 2 issues that we think about in the second half of the year, a potential worsening in the COVID scenario and what that might do to liquidity for the bank and the rest of the sector; and secondly, an increase in intentions or difficulties with the negotiations between the U.K. and the EU. So I do probably expect that our liquidity will stay strong into the second half of the year. And then obviously, further out, we need to make sure that we've got the prudent mix of liability growth and asset growth. So -- but for now, until we see some of this uncertainty with Brexit and with the COVID shape of the recovery from here, we will stay fairly liquid. So I wouldn't encourage you to think that the LCR will move materially. Tushar, perhaps on any insight from the government support program?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [10]
+--------------------------------------------------------------------------------
+
+          Yes. Thanks, Kathryn. Yes, on the government programs, I'll talk more about the consumer ones. Obviously, for the corporate ones, things like the CBILS program in the U.K. or the commercial paper facility, again, in -- for example, in the U.K., we're either sort of doing a couple of credit underwrite or indeed acting as the agent that takes the companies into those programs. So I'll put them to one side and focus more on maybe the consumer and small business area. Programs such as government furlough schemes, the bounce back to loans for very small businesses. Yes. We -- what we try and do as best as we can now, now where we have a full banking relationship with a consumer we have all sorts of indicators and flags. So we'll try and identify if someone is in, for example, a vulnerable sector or all their spending sort of patterns have changed in a way that sort of puts up a flag, et cetera. And would try and proactively contact them to try and get ahead of if there are any brewing issues there. And in the background, we're actually materially increasing the staffing that we have in the department called financial assistance, but it's really there to help those consumers that may end up struggling to make payments to figure out what's the best program to get them on to -- just to help them work through that situation. One interesting set of data that we have do have is those customers that paid down balances and/or indeed taken payment holidays, and that is quite interesting. For those where we've seen balance declines, particularly on card balances, it's been noticeable, actually, both in the United States and in the U.K. There may have been a feeling that it would be the better credit that would be able to pay down their balances and those that are weaker credit would keep their card balance running. And therefore, your sort of -- your riskiness of your portfolio as your balances decline increases. It's actually not at all what's happened. We've seen our balance decline really as a vertical slice of credit, so they will behave very consistently and really declined very much just as spending levels have declined. So we're not seeing any particular sort of decile of credit act any differently to any other decile. 
+The other interesting is on payment holidays, where both in the United States and in the U.K., and we've granted holidays, and in the U.K. got the option to extend. In the U.S., we've seen folks as they come off our payment holidays, and we've had a slide in our equity slides this morning that as people roll off, well, 2 interesting things. One is that about half of the consumers that elected to actually take a payment holiday did continue indeed to still make payments even though had a payment holiday. And secondly, those that have rolled off, I think, already 80% are back on regular payment plans. And in the U.K., similar situation, where, again, for those that are rolling off the payment holidays 80% have already gone to a regular payment plan and what we've seen in the U.K. thus far now, it's a little bit early because a lot of the first wave of payment holidays sort of expire in July. So it's a sort of a spot indicator. But we're not seeing a very significant number of people, particularly in the unsecured credit balances, elect to extend their payment holidays where they have the right to do so. That may change as we go into the summary, it's hard to forecast. But certainly, as we sit here at the moment, it looks like those folks are behaving, if you like, rationally and not looking to extend and roll further interest onto their balance, but looking to manage down their balance given the high interest rates that you have on unsecured credit. So hopefully, it gives you a flavor of some of the stuff we're seeing. The final thing I'd say, Rob, and really for others on the call is, it's important for us when we take a step back from all of this is just what coverage ratios do we have against these types of credits. Now for those that are on payment holidays where in the U.K. are over 40% provided for stage 2 balances and most of the folks on payments holidays are in stage 2, and I think the 35% or so in the U.S. and it's a declining balance anyway. And when I look at to the unsecured credit, generally speaking, and in the U.K. business, U.K. cards with 16% coverage ratio and in an almost 14% in the U.S. and just give a measure of sort of what does that mean. In our U.K. cards business at the last recession of the global financial crisis of '08 and '09, our losses in the U.K. cards were about 6.9%. Now unemployment was about 8% to 9%, no government assistance programs, different recession and different sort of characteristics. But obviously, we're extremely well covered relative to the losses we experienced there. And so I hope it gives you a little bit of the flavor of what's going on the consumer books.
+
+--------------------------------------------------------------------------------
+Robert Louis Smalley,  UBS Investment Bank, Research Division - MD, Head of Credit Desk Analyst Group and Strategist    [11]
+--------------------------------------------------------------------------------
+
+          Yes. I appreciate the detail. Your coverage on cards in the U.S. is very comparable to your peers, too.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [12]
+--------------------------------------------------------------------------------
+
+          Yes. No, thanks for your question, Rob.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Your next question comes from Tom Jenkins of Jefferies.
+
+--------------------------------------------------------------------------------
+Tom Ian Jenkins,  Jefferies LLC, Research Division - SVP and International Credit Analyst    [14]
+--------------------------------------------------------------------------------
+
+          Sorry, I had to hop off for a few minutes, but -- so you may have mentioned it, and I do apologize if I'm treading over old ground. But if you didn't, and if not, if we can, can you give us some guidance on your issuance, supply expectations for, in particular, subordinated debt, with the AT1, Tier 2 for either the rest of the year or for next as well? Would be quite interesting to see what you've got planned. And then I've got a follow-up question after, if that's all right. But yes, stick with that, very simple.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [15]
+--------------------------------------------------------------------------------
+
+          Kathryn, you want to...
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [16]
+--------------------------------------------------------------------------------
+
+          Yes. I can take that, Tom. And you've not missed any question on that yet. Just I made a couple of comments in the speech about that. So I guess you've seen that we've issued around GBP 5 billion of MREL year-to-date. And we previously guided to about GBP 7 billion to GBP 8 billion for the year. So today, we're reiterating the same issuance target for the year. So still around GBP 7 billion to GBP 8 billion. And at Q1, if you remember, we said we probably look to be doing around half of that in senior, but issuing across Tier 2 and possibly AT1 as well. And so that really hasn't changed. And so in thinking about the numbers for the year, we obviously need to think about what we might need between now and the end-state requirements, as you know, we've been pretty successful at front loading our issuance over the last couple of years. So we are doing several years of around GBP 11 billion to GBP 12 billion, which puts us in quite a nice position today where we've done a meaningful amount of what we have to do for the remainder of the year and much less than the issuance we've been raising over the last couple of years. And so we've said that we would look across the capital stack in terms of what we might issue in the remainder of the year. And the only thing you may have missed was there was a question on AT1, and we've said that we're happy with the current level we've got, which is around 3.4%, so in the low 3s. But also, you'll be aware that we have Tier 2 redemptions in the future, so we might look also to raise Tier 2.
+
+--------------------------------------------------------------------------------
+Tom Ian Jenkins,  Jefferies LLC, Research Division - SVP and International Credit Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Sure. Okay. That's super. And then I've got a follow-up, if you don't mind. And this is more sort of just personal curiosity. I mean others on this call may disagree, but I looked at your numbers today, and we were, obviously, looking at it from a bondholder's perspective. And there were, obviously, certain parts you don't want to see in this, but there's more good things and bad things. I'm just wondering, I'm seeing the stock down sort of what is about 5.5% right now. Is it just the bear rate by 1 particular house that might or might not be happening? Or what's the internal thoughts on that? I mean because it does affect the -- yes, the appetite for the sort of secondary tertiary investor in Barclays paper. And I just wondered if -- in your internal thoughts or whatever feedback you've got so far, is there a reason why there's such a dichotomy between what seems to be pretty good results from a bondholder's perspective and what seems to be such sort of not so good results from an equity holders perspective. Maybe a difficult question, but...
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [18]
+--------------------------------------------------------------------------------
+
+          Yes. Tom, it's Tushar here. I've been doing this job long enough that I tend not to...
+
+--------------------------------------------------------------------------------
+Tom Ian Jenkins,  Jefferies LLC, Research Division - SVP and International Credit Analyst    [19]
+--------------------------------------------------------------------------------
+
+          Me too.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [20]
+--------------------------------------------------------------------------------
+
+          Yes. Tend not to get so excited about the share price on a day. There've been quarters, and Kathryn's done many of these with me as well, where I sometimes a bit surprised how positive their reaction is and thereby I'm a little bit surprised how negative it is. I think there's a lot of -- on results days, at least in my experience, there's a lot of fast money that positions itself going into a set of results, and that creates a little bit of momentum one way or the other, and that's just the way these things are. I know I tend to sort of get better sense of how people feel about where we're performing in maybe 2 weeks, 3 weeks a month time. I would say that -- I think what I'll do -- I mean, certainly, as of this morning -- we'll see where we are by the end of the week, but as of this morning, we were the best-performing U.K. bank share. So there's maybe a little bit of that going on, who knows. I think you're right, though, to say that if I look at it from a financial resilience perspective, we're profitable in the first quarter, we're profitable in the second quarter and therefore, profitable in the half. Capital ratio has never been so high, liquidity level has never been so strong. We've taken a fair chunk of impairment build. Most of our charges in the first half have been impairment build coverage ratios, I think, are pretty strong robust level. So we really feel we're trying to have a strong and a protected balance sheet as we can to be honest and get to a point where we get to clean earnings and sustainable levels of profit. So I think that will play out in due course. But on the day share price action, we were not trying to explain that, take a sort of a 50-day moving average is probably more what I look at rather than on the day.
+
+--------------------------------------------------------------------------------
+Tom Ian Jenkins,  Jefferies LLC, Research Division - SVP and International Credit Analyst    [21]
+--------------------------------------------------------------------------------
+
+          No. That's fair enough. It was just -- it comes across every now and again and I just think, what the hell. I mean I normally throw those questions in the bin, but I'd ask it, what the hell.
+
+--------------------------------------------------------------------------------
+Operator    [22]
+--------------------------------------------------------------------------------
+
+          The next question is from Daniel David of Autonomous.
+
+--------------------------------------------------------------------------------
+Daniel Ryan David,  Autonomous Research LLP - Research Analyst    [23]
+--------------------------------------------------------------------------------
+
+          I've got a couple of questions, if that's okay. The first one, just on LIBOR transition, which is fast approaching. Could you just provide a bit of an update? And is there a cost guidance to be recognized or has been recognized today? Are there any worries with specific products missing the deadline as we approach? And the second one, just moving on to the AT1 call in December. Doesn't that latest recent issuance and call change your view on the economics, cognizant of the capital hit that they took? And also just considering the legacy Tier 1, which wasn't called in March, do you view the AT1 holders differently to those legacy Tier 1 holders? And what might drive the call of one versus the other?
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [24]
+--------------------------------------------------------------------------------
+
+          Kathryn, do you want to take the LIBOR question and maybe either yourself or I cover the AT1 question.
+
+--------------------------------------------------------------------------------
+Kathryn McLeland,  Barclays PLC - Head of IR & Group Treasurer    [25]
+--------------------------------------------------------------------------------
+
+          Yes. Perfect. Dan, so on LIBOR, I think I made a couple of comments in the script about that. It certainly is one of the biggest projects that we have within the bank. And it involves many work streams, as you can imagine, I know from derivatives in the IB to the loan book, to work in treasury. And you will have seen the consent solicitation that we did for our sterling covered bond, I think, back at the end of Q1. So -- and it's obviously one of the areas that the regulator has also been quite clear that there's going to be no delay in terms of the compliance date. I think we have seen a push out by about 4 months of sterling loans, which has recently been done, I think, from September to January, but we certainly remain very much on track and are engaged also in all the external industry working groups and obviously, Tushar's role here in the U.K. So I think you asked about cost. So obviously, there are a couple of questions on cost in the equity call this morning, there's nothing really to call out on LIBOR. As I said, it's one of the -- it's a project. We manage it like we do some of these other big req projects we might have. And that's just all taken into account in terms us trying to ensure that we are disciplined on cost and that we see positive draws and they're careful as we think about the -- obviously, the subdued economic backdrop. So in terms of how we think about AT1 and the position with regard to the security that's callable in December. And whether there's any different approach between that and other legacy securities. I'll just make one important comment and then I'll hand over to Miray. So our -- and obviously, we've seen not just NatWest, but Lloyd's taking a different route on their AT1. So we have very much the same approach we've always had, which is we consider the economics and around, and that captures everything from the day 1 FX impact, the refinancing spread, impact on the broader liability stack. Sometimes we refinance in different currencies, which may make it just a little bit different. And I suppose, obviously, just at the moment, you'd expect us as you've heard in remarks from Jeff and Tushar this morning and today to remain really careful and conservative in our planning assumptions. And you'd obviously expect us and other U.K. banks and the regulator to act in the same way given the stress that we're in. But Miray, do you want to make some additional comments?
+
+--------------------------------------------------------------------------------
+Miray Muminoglu,  Barclays PLC - Head of Long-Term Unsecured Funding & Capital Issuance    [26]
+--------------------------------------------------------------------------------
+
+          Sure. So thanks, Kathryn. Yes, what I would add with regards to the February noncall of the legacy securities, and I think we believe we've done a good job expanding that at the time, engaging with a number of investors. Obviously, that was an exchange security, so we gave an ounce to investors many years ago that they could go into an AT1. That AT1 was called on time last year, and there was only a ramp-up, 300-odd million outstanding. So certainly, that was -- that is a different consideration compared to perhaps the more kind of the new generation securities. It was also important that, that was good Tier 1 for us for some more time to come with a very, very attractive cost of funds. So I wouldn't necessarily compare them like for like, and I would just basically reiterate that for every security because these things will happen in a case by case, we will run the same test of our economics and around, and that will be the case going forward for AT1 as well.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [27]
+--------------------------------------------------------------------------------
+
+          Thanks for your question, Daniel. Operator, can we check if there's any more questions on the line?
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) We currently have no further questions. So I'll hand back to you.
+
+--------------------------------------------------------------------------------
+Tushar Morzaria,  Barclays PLC - Group Finance Director & Executive Director    [29]
+--------------------------------------------------------------------------------
+
+          Okay. Thanks very much, operator. And well, thank you for joining us. I'm sure we'll see some of you virtually in meetings, Kathryn, Miray and myself, but thank you for joining us. Hopefully, this call is useful, and we'll see you later. With that, we'll close the meeting.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

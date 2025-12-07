@@ -1,0 +1,224 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q1 2019 Tomra Systems ASA Earnings Presentation
+MAY 07, 2019 / 6:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Bing Zhao
+    - 
+ * Espen Gundersen
+   Tomra Systems ASA - Deputy CEO & CFO
+ * Stefan Ranstrand
+   Tomra Systems ASA - President & CEO
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, my name is Stefan Ranstrand. I'm presenting together with Espen Gundersen and Bing, TOMRA's First Quarter Results 2019, out of the Asker office in Norway.
+The first quarter was a good quarter. We experienced continuous good market momentum and resulting in a revenues growth of 19%. The gross margins were slightly up, predominantly driven by the product mix and a strong recycling growth. We are continuing to investing in growth-related initiatives in both businesses, both Collection and in Sorting, resulting net operating expenses are increasing.
+In the period, we are pleased to see growth in earnings, EBITDA of 46%. We have solid cash flow generation in the quarter, although impacted by the IFRS 16 implementation, which Espen will explain more in detail later. And we experienced growth in both businesses, Collection and in Sorting.
+If I look into the market in which we are active, TOMRA is well positioned in both areas of the recycling sector, both with Collection and Sorting, what we label under circular economy. We see that this is taking off strongly, also driven by regulations like in China, National Sword, but also driven by other needs.
+We also see that our automation solutions for the food industry are sought after. Our customers, they need a -- to improve their quality, they need to improve their resource productivity, and our solutions are meeting many of these needs. In this quarter, however, we saw somewhat slower order intake in Food on back on a strong quarter in -- end of last year.
+I will hand over to Espen to go through the financials and I will see you shortly.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, Stefan. As always, quick look at currencies. Strong dollar developments, almost 10% increase from same quarter last year. A more stable euro, but it gives somewhat positive impact from currencies, particularly in the Sorting business.
+Quick look at the P&L. Good growth, 19% up on top line growth, both from Collection and Sorting. Collection 8% up, mainly from our Australian activities and in Sorting, up 20%, growth both in Food and Recycling, but recycling grew somewhat faster.
+Margin -- gross margin up 1 percentage point, because of higher margins in Sorting. Operating expenses is increasing due to ramp up in Collection, general high activities, some currencies and also 3 months of BBC, which in the comparable figures only includes 1 figure. The bottom line 46% up on EBITDA from last year.
+Moving on to the balance sheet. As Stefan said, we have implemented IFRS 16 and consequently, the figures are little hard to analyze since the comparable figures from 2018 has not been restated. So I will come back on to this on the next slide -- on the effects. But if we're -- just for IFRS 16 effects, there is very similar balance sheet items at the end of this quarter as it was at the end of 2018.
+The working capital is at NOK 944 million and is identical what we had 3 months ago when you adjust for currencies. Strong cash flow, also without IFRS 16 effects, still solid company low gearing. And yesterday, the annual general meeting approved a dividend of NOK 2.5 of ordinary and NOK 2.0 of extraordinary dividend in accordance with the Board's recommendations to be paid out 20th of May this year.
+IFRS 16. According to IFRS 16 you need to restate your financial statements now recognizing the net present value of lease agreements in your balance sheets. And for TOMRA, this is mainly related to building some land around this and also car service -- tax [cars]. So in total, there is NOK 1 billion on net present value of rent or lease payments, that's now put in a the right-to-use assets -- as a tangible fixed asset. And the same amount is recorded on the debt side as interest-bearing debt, increase our balance sheet.
+It also have an impact over the P&L. I mean, now it take out the rents, and then add back depreciation, so it has a slight positive impact on the EBIT. But then you have a negative effect on the finance, because the loan has implicit interest that's being recorded on the finance line. But bottom-line on the P&L, is NOK 0.01 or 1 Øre EPS impact, rather limited.
+It is also an impact on the cash flow as previously the lease payments was recorded as expense, and consequently, expensed as cash flow from operations. According to IFRS, this is now moved down to cash from financing. Consequently, we have an improvement on the cash flow from operations and a similar decrease in the cash flow from financing of NOK 64 million in this quarter. So 10% effect on balance sheet, higher gearing, because you get more interest-bearing debt into the balance sheet, limited impact on the P&L and a positive impact on the cash flow in respect of measuring cash from operations.
+We had about the end of last year almost or a little north of NOK 2 billion of available credit limits, including overdraft facilities, and utilized little more than NOK 1.5 billion of this. EUR 60 million expired in April and since the dividends over NOK 658 million was about to be paid out in May, we need to refinance. So consequently, a new loan was established also in April. And we now have a little more than NOK 2.5 billion as available financing, sufficient to pay out the dividends in May.
+This loan is only for 1 year, and consequently, we will need to refinance during this period and the idea is to start utilizing the bond markets. TOMRA has not been present this previously, and as we go forward, it's natural to believe that the gearing in TOMRA will increase, and consequently we also will need to have more than one source of financing. So we think this is the time for introduce TOMRA in the bond market. Timing, we'll come back to you at later stage.
+Then we are going to Collection Solutions.
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Thank you, Espen. Collections Solutions being the origin of TOMRA, remains a very important and positive business for us. We are present in some 40 markets -- traditional markets. We are in some new markets, which we recently installed. And we are pursuing new markets. So it is a mix of activities. We have to manage in parallel.
+If I look into the existing situation, we are -- experienced 8% growth. The growth is driven predominantly by the newly installed markets, namely in Australia, which is New South Wales and Queensland. We are performing well in these markets as planned, but we must say we are pleased with the development there.
+The gross margin was unchanged in the period. Operating expenses are increasing. It has to do with that we have predominantly focusing on ramp up, that means preparing for new markets. That both is on the market side, meaning people in the market, sales and service and consultation, but also development activities of products and digital solutions. So this is something we will continue to experience. The ramp up will be part of how we prepare for new markets.
+If I look into the new market -- potential markets, we experienced a discussion in Western Australia where the authorities are studying how they will define a container deposit legislation for the state. We are waiting for the responses. So we have no news to tell here and we estimate an startup based on the indications we've got earlier around early 2020.
+Scotland has -- since a couple of years, since September 2017 communicated that they will introduce a container deposit legislation. They have gone through a consultation period. And as we speak, we are waiting for feedback from this process. We have no dates or further communication given to us. But based on our estimates, that market could go live late 2020.
+Portugal has adopted legislation for container deposit. They will run some pilots to test out which model is best for the country and for the market and we intend to be active in these pilots. And they will work on framing their legislation or their system framework. An estimated startup is early 2022.
+England has communicated that they will introduce a container deposit legislation. They have started a consultation, which was opened February 2019. We estimate that the consultation period will take some 10 to 12 weeks. After that, they will then analyze the results of this consultation and start building the framework for their system. An estimated startup date would be 2023. So a lot of activity is going on here and we are pursuing them all.
+If I look at the traditional business, we are maintaining a strong market position in all the markets serving -- which we have been serving traditionally. We see a slight growth in Northern Europe, slight decline in rest of Europe, a growth in North America. A slight growth in North America -- also currency affected here. And especially, we see growth in the new markets, meaning Oceania, which is then Australia. Cost -- gross contribution remain on the same level and earnings increased from NOK 121 million to NOK 139 million.
+So going into Sorting Solutions. As you know, we are active in 3 sectors, the biggest being Food. We are active in recycling and we're active in mining. Right now, we have good dynamics in recycling. It started actually on back of the China National Sword regulation that went live, beginning of 2018. Since then we have seen a strong demand for our sorters in most parts of the world.
+It comes from the fact that many of the traditional markets in the Western Hemisphere have actually underinvested over years in this sector and have relied very much on exporting their waste to markets like China. And as China suddenly imposed this ban on imports, they were facing challenges in processing their waste volumes. Some have sort shelter, if I say so, in trying to export to other markets like Malaysia, like Vietnam, like Indonesia. These markets are challenged by this situation. They are trying to ban it, because it's not a environmental friendly and sustainable solution for them. And in parallel to that, many of the existing markets are investing more. So we will continue, as we can see, to see a demand driven by this -- in the aftermath of this National Sword for some period going forward.
+In addition to that, we are seeing more and more demand for the use of recycled material, as consumer goods companies, the bottle industry are transforming more and more towards using recycled content in their products. We also have countries like or regions like European Union, which with a Single-Use Plastics Directive are driving for more recycled content and collection.
+They announced in February that -- in the parliament that the Single-Use Plastics Directive will be implemented, telling that by 2027, 75% of all bottles in European Union need to be collected -- PET bottles, and 25% being a recycled content. And by 2029, 90% of all the bottles -- plastic bottles being sold in the region need to be collected and 30% of all new bottles need to contain recycled content or the content of new bottles need to be minimum 30%.
+That drives the circular economy sector as such. So collection and sorting are being interlinked. And we're actually seeing the demand increasing by legislation driven, by consumer goods companies. And the fact that they need to reuse or use recycled content drives what we call circular economy. And that's exactly where TOMRA is aiming to work now and in the future. I refer to our Capital Markets Day of last year were we talked about the future of TOMRA and one part of it being circular economy.
+Food, had a strong order intake in the fourth quarter last year. It was slightly lower in this quarter here -- in the first quarter. And we saw specifically in United States some delays in orders. And our customer tells us that it is temporary delay and there's certain uncertainty in the market, predominantly due to the trade situation or the trade dispute between USA and China. We see that in the -- our activity and pipeline that it's picking up and we look forward to an improved situation in the year.
+In the quarter, we also had a nice development in the mining sector. Thanks to TOMRA technology, we discovered a new large diamond, this time 1,758 carat, which actually is the second largest diamond ever recovered. So an interesting quarter -- revenues, up 20%; order intake at NOK 1.1 billion, slightly down from last year, up in recycling and somewhat weak in Food, as I mentioned; and order backlog NOK 1.46 billion. We also had the acquisition of BBC made pretty much 1 year ago and we see that has been a good progression there.
+So in summary, Food had a improvement in revenues in the quarter, a somewhat decline in order intake, as I mentioned in U.S. And recycling mining had a strong development in the quarter, and we anticipate that this development, particularly in recycling, will remain.
+Then looking at the financials, we can see that we have a 20% growth on the top line. It's coming from all main regions. So both Europe, North America and especially Asia is growing strongly. We see improvement in gross contribution, partly driven by product mix, but we also see that the actions we are taking in Food are starting to pay off, even though in this quarter somewhat negative, that we have less sales in the USA. So the underlying activities there are improving.
+We are continuing to invest in operating – in sales and R&D. In order to continue grow, we need to expand our sales force, our service force and we need to continue develop new products. So as we grow at this rate, we need to continue to invest. So operating expenses is growing and will continue to grow and we see a good development on the earnings side.
+Just want to mention to little bit how it works on the revenue side or our outlook on the whole market. Traditionally, we work with our clients for maybe 1 to 2 to 3 years before a order is actually being recognized in our systems. We identify the needs in discussion with our clients. We then follow these projects and we see that, based on the information we get from the clients, when we will actually come to effective order date. What we have experienced in this quarter here was that there were some delays in decisions. We haven't seen that we have lost any orders. We're just seeing some delays. So that is to that point.
+With that, I come to the end of my part here, talking about the order backlog. You can see that it's been rather stable now on the level where we are for this period and we have an order backlog of NOK 1.464 million or NOK 1.464 billion and we expect a conversion ratio of 80% to 85% in the quarter to follow.
+With that, I hand over to Espen to talk about the outlook.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thank you. Yes. Collection Solutions. It was a stable quarter. It was quarter when we looked at all areas except Australia. Australia was growing and this is the situation we assume also will continue also into second quarter where still year-over-year we have some positive effect from New South Wales, and of course, from Queensland which was not live before November 1 last year.
+Operating expenses, we said at previous presentation that we assume that we would have very wrong figures, NOK 100 million increase in operating expenses in collection in 2019 versus '18. This quarter, meaning first quarter, it was NOK 25 million up and I assume we are on track more or less to what we said and consequently we stick with the statement that round figure is NOK 100 million up for the year is what we assume that will we have to book as a consequence of the ramp up and this step is currently ongoing.
+In Sorting, as Stefan said, 80% to 85% conversion ratio, but that did indicate a strong quarter in second quarter in Sorting. Looking down on the business streams. There has been a very positive momentum in recycling. All parameters increased in the right direction in first quarter. So this is the situation that we assume continuing into second quarter with the good activity in recycling overall.
+In Food, as Stefan also mentioned, fourth quarter was a good quarter for Food. It's been softer in the first quarter order intake wise, the situation that we assume will go into second quarter as well. But looking at our important KPIs related to the most tests and so on, we feel there is an underlying good momentum. So we assume this to be on the temporary situation.
+As always, remember currencies which they [regime], we also should assume that they have some positive effects from the strong dollar if today the rates will stay out the quarter and the way we see it today comparing to same period last year.
+With that, we conclude the presentation and open up for questions from the web.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [1]
+--------------------------------------------------------------------------------
+
+          We start with a question from [Alexandra Darkangelo].
+Do you see growth picking up within the next 2 years with the new EU loss on plastic? Do you see such trends being followed by other countries regions?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [2]
+--------------------------------------------------------------------------------
+
+          Thank you for the question Alexandra. We anticipate that the EU will be formalized for active -- now -- or is formalized and that it will -- the national legislations needs to be formulated for the member states by 2021. And then we see the first goal in 2025, meaning that there will be a number of years to work on here.
+There will probably be some countries that starts earlier with the studying and implementation of solutions to meet the European Union targets and there will be some countries that will be later. So in a short summary, we could anticipate a slow advancement fairly early, and then an acceleration towards end of the process.
+We're also -- on the second question, I know for sure that what the European Union is doing on single used plastic directive and the circular economy is being observed by other regions. Here I would, in particular, mention emerging markets like Asia. I think it will be observed closely. And seeing how parts of these frameworks can be adopted to these markets.
+We should also remember that matter like plastic ocean is a global challenge and it's a big challenging in markets like -- big economies like China, Indonesia, India. And also due to that reason they are looking to solutions that can be adapted in their market. So also there I think we will see an increased attention to the matter as driven also by the European Union.
+
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [3]
+--------------------------------------------------------------------------------
+
+          Thank you for your thorough answer Stefan.
+And then we move on with the question from [Sven Eggerhead]. Any developments in the U.K.?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [4]
+--------------------------------------------------------------------------------
+
+          Yes. We touched upon that in the presentation. And I think there is not much more to add now. The consultation period started 12th of February. There is a 3 months consultation period. So meaning, 12th of May, in a few days this ends. And one should assume from other process that we've build lot of other inputs and that needs to be processed by the government and that needs just to wait and see. So there is honestly not much more to report on that cycle. It's a ongoing process and now the government needs to take into consideration the inputs they received into this process.
+
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [5]
+--------------------------------------------------------------------------------
+
+          Thank you, Espen. A question from Truls Engene representing SEB. 
+You report temporary slowdown in Food. When do you expect activity order intake to pick up?
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [6]
+--------------------------------------------------------------------------------
+
+          I think on the outlook statement we were as precise as we could be on that. We said that fourth quarter was good, first quarter slow -- slower and situation going into second quarter, underlying KPIs still gives a indication of very good activity in the segment, and for that reason we assume it's to be temporary. So I don't think it can't be more precise on that really.
+
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [7]
+--------------------------------------------------------------------------------
+
+          Understood. Then the question from Marcela Klang, Handelsbanken.
+How is your profitability developing in New South Wales and Queensland?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [8]
+--------------------------------------------------------------------------------
+
+          We will not be able to disclose any details, but we can be telling that we are pleased with the development, that's [model], so I cannot say. And it's also in early stage. So remember that it's not all optimized. It's not full economy or scaled, so to say. But if we look into our plans, we are in with them.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [9]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [10]
+--------------------------------------------------------------------------------
+
+          Then a follow-up question from Marcela.
+Can you talk about your joint venture with Atotech, how is it going?
+
+--------------------------------------------------------------------------------
+Stefan Ranstrand,  Tomra Systems ASA - President & CEO    [11]
+--------------------------------------------------------------------------------
+
+          I think we do not go into developments there. All I can say is that we have a good cooperation with Atotech. We have recognized that they really take this cooperation seriously. When it comes to individual orders and the factual numbers, we're also bound by the confidentiality. So I would not like to go into any details there. But we are committed to the cooperation.
+
+--------------------------------------------------------------------------------
+Bing Zhao,   -     [12]
+--------------------------------------------------------------------------------
+
+          Thank you, Stefan. And then there is no more questions. So we conclude the webcast. Thank you.
+
+--------------------------------------------------------------------------------
+Espen Gundersen,  Tomra Systems ASA - Deputy CEO & CFO    [13]
+--------------------------------------------------------------------------------
+
+          Thank you.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
