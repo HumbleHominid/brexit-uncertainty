@@ -1,0 +1,384 @@
+
+
+Refinitiv StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2020 Deutsche Post AG Earnings Call
+NOVEMBER 10, 2020 / 9:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Melanie Kreis
+   Deutsche Post AG - CFO & Member of Management Board
+ * Frank Appel
+   Deutsche Post AG - Chairman of Management Board & CEO
+ * Martin Ziegenbalg
+   Deutsche Post AG - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Muneeba Kayani
+   BofA Merrill Lynch, Research Division - Director & Head of European Transport
+ * Matija Gergolet
+   Goldman Sachs Group, Inc., Research Division - Equity Analyst
+ * Robert John Joynson
+   Exane BNP Paribas, Research Division - Senior Transport Analyst
+ * Daniel Roeska
+   Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst
+ * Sumit Mehrotra
+   Societe Generale Cross Asset Research - Equity Analyst
+ * Cristian Nedelcu
+   UBS Investment Bank, Research Division - Associate Director and Aerospace & Defense Analyst
+ * Adrian Pehl
+   Commerzbank AG, Research Division - Head of TMT and Consumer
+ * David Kerstens
+   Jefferies LLC, Research Division - Equity Analyst
+ * Neil Glynn
+   Crédit Suisse AG, Research Division - Head of the European Transport Team and Global Transport Sector Coordinator
+ * Mark John McVicar
+   Barclays Bank PLC, Research Division - Head of European Transportation Research
+ * Chi Onn Chu
+   Deutsche Bank AG, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [1]
+--------------------------------------------------------------------------------
+Thank you, and a warm welcome from my side. Good morning to everyone out there. I guess for the next call around, you deserve somewhat more upward -- upbeat music whilst waiting for the call. Okay. Here we are. I take it you have the material in front of you. As flagged, we have with us Frank Appel, Group's CEO; and Melanie Kreis, Group CFO. And we proceed, as usual, Melanie and Frank are going to take you through the presentation, and we're ready for your questions after that.  
+And without that -- without further ado, over to you, Melanie.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [2]
+--------------------------------------------------------------------------------
+Yes. Thank you, Martin, and good morning, and welcome also from my side. So following up to our pre-release from October 7, we will today show you the details behind our strong Q3 performance. And I'm very pleased to say that we're not only talking about good top line growth and good EBIT numbers, but also strong cash generation. Which further testifies the healthy operating performance and the cash flow focus that we have implemented over the last years across the organization.  
+I'll quickly lead you through the most relevant aspects of the Q3 review now. In light of the still elevated uncertainties around us, Frank will then remind you of the key aspects of our Strategy 2025 and how these are providing us with a powerful compass to steer our company through the current turbulences in the world around us.  
+So turning to Page 4. I'll start the Q3 review with an overview of group revenue development. And I think there's quite a lot of good news on that page. Organic growth has accelerated to 9% in Q3, up from 4% in Q2. In essence, we have seen continued strong growth through the quarter in our e-commerce-related activities across the group, i.e., Parcel Germany, Express as well as DHL eCommerce Solutions. At the same time, B2B activity has recovered from the Q2 low point, which is, for example, visible in the growth acceleration in Express and the good recovery in Supply Chain revenue and EBIT. 
+The main KPIs on P&P, which you can see on Page 5, shouldn't come as a surprise anymore. We have seen continued double-digit growth in parcel volumes in Germany. It's somewhat slower than around the Easter peak in Q2 but accelerating again as we approach the Q4 peak season now. So Parcel clearly stays above normal trend. And as you can see on the right side of the slide, this growth remains supported by business customers across all sizes. 
+Mail volumes, at the same time, also recorded a stronger decline than the long-term trend, although momentum has somewhat improved from Q2 also in Dialogue Marketing. Last but not least, revenue continues to develop better than volumes, reflecting our yield measures, both in parcel and mail.  
+Page 6 gives you a quick overview of the wage agreement, which we reached for P&P in the course of the third quarter. We booked a onetime payment in Q3 EBIT, EUR 42 million, which will be paid out in Q4. Wages will then be raised in 2 steps, each at the start of the year '21 and '22. And I think the very good news here is that we now have planning stability for P&P wages for more than 2 years. So no more fundamental tariff negotiations until the beginning of '23.  
+Turning to the DHL divisions. Yes, so I guess when we look at the overall numbers for the third quarter, the Express EBIT result is clearly one of the highlights in the third quarter.  
+And Page 7 shows you where this is fundamentally coming from. As you can see here, we saw an acceleration in TDI volume growth. The overall number was 15.8%. But I think what is equally important in the third quarter, we saw a much more balanced growth profile across the divisions compared to what we saw in the first half of the year. And this good distribution of growth across regions and trade lands allowed an excellent network utilization, and that was ultimately the basis for the very strong EBIT margin of 15.5%, which we recorded in the third quarter.  
+Page 8 gives you a quick deep dive on the product categories, which are driving the strong B2C growth in DHL Express. So I guess there are some things which are not surprising. We have a high share of e-commerce in sectors like retail and fashion. We see continued good growth there. I think the interesting thing is that we have now also seen an acceleration of e-commerce growth in those sectors, which have historically been less exposed and penetrated by e-commerce. For example, life science and technology, where you see growth rates in the high 40s. I think that is also an encouraging trend going forward.  
+Just as a quick reminder, as you may have seen, we had a B2B e-commerce tutorial for DHL Express in early October. The material and the replay of the tutorial is still available on our IR website, should you be interested in more details.  
+Key numbers for Global Forwarding, Freight on Page 9, shows similar trends compared to what we saw in Q2. Rates and GP per ton in Air Freight have come down somewhat from the very extreme levels in the second quarter. However, they remain well above previous year and hence, still drive absolute GP growth in Air Freight year-over-year. As you can see here, GP and air freight was up 8.8%. 
+In ocean freight, we have been rather selective with regard to volumes, and that has been the basis for the good development in GP per TEU, volumes are down. But in combination, as you can see here, GP is also up on the ocean freight side. EBIT performance for the division is overall furthermore supported by tight cost control. And the ongoing process improvements, which then led to a nice improvement in DGFF EBIT. I think that's one of the positive things to point out, all those continuous improvement activities, including the rollout of CargoWise have continued despite the further complexities due to the COVID restrictions. So that is all going according to plan.  
+Turning to Supply Chain. Yes, so as we already discussed with the Q2 numbers, Supply Chain is the division where the fundamental business model is most directly linked to individual customer activities. That led to a significant decline in revenue in the second quarter when quite a number of our sites were really locked down either due to government regulations or due to back of business activities in the customer.  
+As you can see on Page 10, there has been a significant improvement, but reported revenue has still been down. When you look at the organic revenue development, we were almost back to last year's level. Organic revenue growth was minus 2% compared to 13% in Q2. And you will also see when we talk about the EBIT, if you adjust for the special bonus that was booked in Q3, operating profit in Supply Chain was also largely back to the last year's level. So not yet to back to what we would have hoped for the division, but more in line at least with last year's level for Supply Chain.  
+Last but not least, DHL eCommerce Solutions on Page 11. Yes, I think you just see some very nice numbers on this page because our DHL eCommerce Solutions portfolio shows the full benefit of the e-commerce acceleration. Overall revenue up 26% and some of the markets well in excess of that. And as you will have seen already in the preliminary numbers, our youngest division has, on that basis, delivered sizable positive EBIT contribution of EUR 76 million in Q3 based on better network utilization and continued strong cost control.  
+Page 12 shows the summary of divisional Q3 EBIT and the detail of all noteworthy effect. I'm not going to talk through all the details. Just to point out that the final number for the special bonus, which we booked in Q3 was EUR 163 million. So if you take that into consideration, the underlying EBIT improvement was even stronger than the 46% you can see here on the top of the page. And when you look at how the divisions are doing, I mean, the 2 divisions which are most impacted by the onetime bonus, most people-intense divisions, P&P and Supply Chain, both had an impact of more than EUR 50 million. And if you take that into consideration, we actually have 4 divisions with very strong EBIT growth year-over-year and as mentioned before, on that basis, Supply Chain is pretty much on last year's level.  
+Turning to the group P&L on Page 13. I guess there's not a lot of explanation needed on that slide anymore as the numbers do speak for themselves. Revenue growth organically, 9%; EBIT growth, 46%; group margin up from 6.1% to 8.5%; taxes are also up because of higher EBIT and a higher tax rate. But putting all that together, when you look at the consolidated net profit line and earnings per share, growth above 50%. I think that's a very pleasing result for the third quarter of 2020.  
+Our cash flow statement is actually pretty straightforward for Q3 2020. So there haven't been any exceptional movements. You can see how the EUR 435 million EBIT increase is translating into a EUR 500 million plus OCF increase. On the CapEx side, last year, we had the peak of the 777 investment. On that basis, CapEx is EUR 200 million lower. And that leads then to a very strong free cash flow improvement year-over-year, up more than EUR 750 million. When you take out the 777, as you can see in the last line, our free cash flow improved by EUR 500 million year-over-year and ended up at EUR 1.28 billion. I think that is a very encouraging development. And I guess there's hardly any better conclusion on the Q3 numbers and this nice free cash flow performance to conclude my numbers review.  
+And with that, I want to hand over to Frank for some of the strategic considerations.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [3]
+--------------------------------------------------------------------------------
+Yes. Thank you, Melanie. Good morning as well from my side. So yes, let's go straight to Page 16, where you really can see a reminder to our strategy. As you know, we have launched the strategy last year's autumn. Of course, since April, we have looked into the strategy again and again, giving the permanently changing environment and the outlook, we believe the strategy is a very good compass and very robust against any scenario. The elements are clear in our purpose, our vision and values are right. Excellence. Simply Delivered. is the right focus. And of course, we will continue to invest in our profitable goal -- core by, of course, allowing for more digitalization.  
+On Page 17, I said several times already, starting in last autumn that the company has never been in better shape than now. And we left 2019 and started in 2020 in a great shape and then pandemic hit us. What we definitely have proven is that our purpose, which we have now since 2009, has helped the organization through the crisis. Our team is very proud of keeping the world moving with connecting people, improving lives, and that definitely has helped us to perform well through this particular crisis.  
+You can see that easily in our 3 bottom lines on Page 18. What, of course, is a very early indicator for the future is the employee engagement. We had a record score. Just -- we got that just 3 weeks ago, the scores are 82. The goal was to go to 80 until 2020. So we outperformed that goal. At the same time, we were awarded as the second best workplace in the world from a great place to work, which is a proof that we really have done the right stuff through the pandemic, and our people are really committed to work for our company. And that is the earliest indicator because in a service industry, people who are highly motivated and more motivated than ever before, definitely provide fantastic service, and we see that that our indicators are heading in the right direction. We have really helped many customers to keep moving. And of course, that is finally reflected in our financial numbers as well with our guidance we confirm today and with an improved free cash flow situation we are facing.  
+Page 19 is also where we are working on, and I know that many of you are becoming more -- see that as a more important part now. We are currently working on our ESG Strategy 2.0, that we have already taken certain decisions. So we have launched a carbon-free product since summer in Eurapid in our freight organization. Now the less-than-container load we will offset as well and reduce the carbon footprint as well by January 1, so you can buy that as well. So these are just a couple of elements of our GoGreen strategy. 
+Under social, we -- as you know, we have several Go initiatives with GoHelp, GoTeach. And that's the third one on social where we really educate small- and medium-sized customers and companies in emerging countries to get better connected. We believe that this can help tremendously these companies to get -- or to participate better in the world. 
+And finally, on the governance, of course, we are a company who follows, in a compliant way, the laws but we want to do now even more and want to report. That's the reason why we will integrate the ESG report now through the financial annual report.  
+If you then switch to 20. We have shown that picture to you for many, many quarters now. It shows that we have a very balanced, diversified portfolio, which definitely stabilizes the situation for our company. On the right, you can see as well in comparison to the launch of our Strategy 2020, we have improved all our margins across all the divisions, if you compare to 2014, which is nice to see. And the group went up by more than 1 percentage point, but it's driven by all 5 divisions, which all have improved over these periods. Of course, eCommerce Solutions, our youngest kid on the block, but also shows now a positive contribution to the company. And of course, that shows that our portfolio is really in good shape and delivers consistently to the success of our company.  
+On Page 21, we are just reflecting on what we have seen now in the last months. We saw a leapfrogging of e-commerce for a couple of years. The share in the total retail sales has increased significantly. We believe that we will see next year a normalization of a growth rate, but we definitely see a fundamental higher level of share of retail sales of the total -- e-commerce sales of total retail sales. So that will continue. And we are with our portfolio well equipped to participate in that.  
+As you can see on the next page, where we really show for our divisions, what they are doing, where they participate. We are enlarging our Parcel Locker network, which is really a competitive edge we have in Germany. We have now significant volume in our eCommerce Solutions countries. Supply Chain has already 30,000 people working in the e-commerce fulfillment world, and we win a lot of new business here. And finally, Express, the growth is not only driven by B2B and definitely, B2B will come back in the next quarters. We have now a 30%-plus share of B2C already in that business without any compromises on the profitability, as you just saw in the third quarter.  
+Digitalization on the next page is also on Page 23, is key as well without a doubt. And we are doing a lot. myDHLi is a new portal for our customers of DGFF, the acceleration of digitalization. Many of these things have been explained anyway recently in a virtual tutorial, but Supply Chain is really getting now to a more automated approach to their warehouses. Data analytics, we learn a lot on a daily basis how valuable data is for us to optimize ourselves and the experience of our customers. For P&P, you can see on the bottom, a lot of things, which we are just introducing or augmenting what we have already. So all that will definitely help us to grow faster and become more profitable as a company.  
+So that brings me then to the guidance, finally, on Page 25. We reconfirm what we have given you on October 7, the upgrade in comparison to summer. We upgrade one element that the free cash flow projection is now EUR 200 million better than it was in October 7, that shows that we are not only improving your profitability, but also the cash conversion consistently and that we are doing already for a couple of quarters. So I'm, of course, very happy about that. All the other indicators and guidance numbers staying the same.  
+On Page 26, you see the bridge. If you exclude the onetime effect of this year, the announcement of StreetScooter, we have given the market already in February. You see here, EUR 350 million because EUR 50 million of that restructuring costs will be moved to 2021 because we will now produce a couple of more cars, and that has led to a shift of some of the cost to next year. But that is good news and not bad news. So the cars are in good shape, and we can use more material when we originally planned, and that helps us. You can see here, if you exclude then the bonus in -- other one-offs we had this year, we would end up with EUR 4.7 billion to EUR 5 billion in this year, a significant lift over the performance of last year.  
+Finally, the guidance for 2022 is exactly the same as it was. We don't know yet what we will get as a V,U or L shape. The likelihood after the announcement of Pfizer and BioNTech about the vaccine makes it more likely that we will see now a faster recovery, particularly if a vaccine really is coming. But overall, we are reconfirming all our guidance we have given you in July.  
+So in summary, on the last Page 28. We are very well positioned to capture the potential of the e-commerce room. The organization is on high energy at the moment. When I talk to country management and teams in a virtual form, you get tremendous impressions from the attitude and the mood of the people we have around the world, and that's great because it definitely will help us to continue to grow our business profitable. We also see that the trends, fundamental trends we are talking about since 2015, globalization, e-commerce, sustainability and digitalization will continue. Digitalization, sustainability definitely will gain more momentum prove across this now. And as I said, we are working on both quite intensively.  
+And with that, in summary, we had a great quarter without a doubt. We are heading to a very good number this year, and we feel with our strategy well prepared for whatever the future will bring in the next quarters. Thank you for listening, and now the floor is yours.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Robert John Joynson,  Exane BNP Paribas, Research Division - Senior Transport Analyst    [1]
+--------------------------------------------------------------------------------
+I have a couple of questions on Express and then one on e-commerce, if I may. So first of all, on Express, there was a press release sent out a couple of weeks ago, which said that volumes are expected to be up by more than 50% during the peak season. Could you maybe just clarify what the definition of the peak season is? I assume the references to a few weeks of Q4 rather than Q4 as a whole. 
+And then second question on Express. On Slide 8 of the presentation today, you provided some really useful information on the share of B2C revenue for TDI during the first 9 months of the year. But could you maybe just provide an indication of what the B2C revenue share was the DHL Express overall during Q3 specifically? 
+And then the final question on e-commerce. It was, obviously, a great quarter in Q3, the EBIT was EUR 76 million. How should we think about the quarterly run rate EBIT going forward?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [2]
+--------------------------------------------------------------------------------
+Okay. So maybe starting with the first one on the Express peak season. Yes, so obviously, the reference was more to the e-commerce B2C part of the Express business and really to the peak season, i.e., a couple of weeks. So that is not an indication that TDI volume growth overall will be in that order of magnitude. I think what I can say is what we have seen in October is a good continuation of the strong growth we saw at the end of the third quarter. And clearly, as I said in the press release, on the B2C part, we do expect now even an acceleration as we go into the peak.  
+In terms of B2C, I mean, as you may have seen in one of Frank's slides, where we kind of like show you the overall B2C e-comm exposure across the group. In terms of volumes, the B2C share is now at 40%. And I think that's also a good indication for what we had in the third quarter even a bit higher than that. When you look at the growth patterns, obviously, the strong growth driver in Q3 was still from e-comm. What we saw on the B2B side is that in the course of the third quarter, we recovered and are kind of like back to kind of like neutral growth territory, but the big chunk was from e-comm in terms of growth.  
+With regards to revenue, also driven by the lower abate per shipment in e-comm. The revenue share is actually substantially lower than the volume share.  
+And then finally, on eCom Solutions. Yes, I mean, EUR 76 million was a great number in the third quarter. Can we just multiply that by 4, going forward? It's probably a bit too early to do such a simplistic mathematical approach. What we expect is that there will be a base effect, which is going to last. And then good growth from this higher base. But I think we need a bit more time to see how that is playing out. But here as well, October trend was a very positive continuation of what we saw in the third quarter.
+
+--------------------------------------------------------------------------------
+Cristian Nedelcu,  UBS Investment Bank, Research Division - Associate Director and Aerospace & Defense Analyst    [3]
+--------------------------------------------------------------------------------
+Three if I may. Firstly, in Express, do you think you can grow the Express EBIT in 2021 year-over-year? And can you talk a bit about the moving parts here, stickiness of B2C volumes, air freight costs or load factors going forward? 
+Secondly, in Parcel Germany, can you give us a better picture what is the situation on the capacity utilization in the broader parcel market in Germany today? And what are your pricing expectations for 2021? 
+And lastly, on free cash flow. So you're guiding more than EUR 2 billion this year, assuming some underlying profit growth over the next -- over each of the next years. Is there any reason why the yearly free cash flow generation should not further improve in 2021 and 2022?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [4]
+--------------------------------------------------------------------------------
+Yes. So first of all, on what do we expect for Express EBIT growth in '21. I mean we will give the usual DHL EBIT guidance in March. But obviously, stagnation is nothing our Express team would shoot for. I think we now really have to see how we finish the year what will be the final number for the fourth quarter to then set a reasonable aspiration for '21. Fundamentally, like I said, before for eCom Solutions, we do think that some of the structural e-comm acceleration, like, for example, the now higher penetration in tech and healthcare. Some of those elements are going to last. So that is a fundamental positive. 
+There is also clearly upside against the depressed B2B growth in 2020 -- '21. But of course, there are some quarters where we also had kind of like abnormal stuff in the network, which will not come back. So like the P&E flying in the second quarter. Once we have concluded the year, we will come up with a reasonable growth aspiration for Express.  
+In terms of Parcel Germany, yes. So I think at the moment, everybody is preparing for a strong peak. So are we. That will lead to high utilization. And clearly, this capacity constraints, that should also allow for some pricing opportunities going forward. As you can see in our Q3 numbers, we had a significantly higher revenue growth in Parcel Germany than we had on the volume side. And that is, of course, something which we fundamentally like.  
+With regards to free cash flow, yes. So first of all, we are very pleased with the development we have now seen in the 9 months of 2020. On that basis, we have upped our free cash flow guidance for 2020. Here, again, we will now see how we finish the year. How our plan comes together. And in March, we will give you free cash flow guidance for '21. And then also new cumulative free cash flow guidance for the period '21 to '23. There, of course, things should move in an encouraging direction.
+
+--------------------------------------------------------------------------------
+David Kerstens,  Jefferies LLC, Research Division - Equity Analyst    [5]
+--------------------------------------------------------------------------------
+Also 3 questions from my side, please. First of all, I think you said that you saw parcel volume already accelerating again going into the peak season. I was wondering if you can please quantify that what you've seen so far. Is it closer to the level that you had in the second quarter, which I think was just over 20%? 
+And a similar question for mail volume. You said it had improved, but it's nowhere near the longer-term objective of 2% to 3% volume decline. Do you expect to further -- to see this further normalizing going forward? 
+Then the second question is related to a one-off element in DHL Parcel. Is it possible to already quantify at this stage what part of the volume you do not expect to reoccur in 2021? And maybe also for DHL Express. And would it be fair to assume that any one-off elements in the volume in 2020 could potentially be offset in 2021 by the potential for the vaccine distribution, COVID-19 vaccine distribution?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [6]
+--------------------------------------------------------------------------------
+Okay. So with regard to the parcel volume acceleration, yes, we have indeed now seen an acceleration in October but in a, I would say, healthier way than what we saw around Easter. So it's a healthy growth, which we can cope with, operationally. And I think that is encouraging also for the remaining weeks in the year. 
+With regard to the mail volumes, yes, obviously, it's now still close to minus 10% in the third quarter. That is significantly higher than our long-term trend, better than Q2, but significantly worse. And I think here, it's really too early to say of what that will mean for the future. I think we just need a bit more time to kind of like find what the new trend is. I think the overall encouraging thing is that when you look at the profitability of P&P with a 8.5% margin now in the third quarter, obviously, the significant mix shift on turbo speed has been managed quite well by the team.  
+In terms of how much of the volume surge is one-off, how much is there to stay. I think our general feeling, be it in Parcel Germany, be it in Express, be it in eCom Solutions, is that there is quite a lot of the fundamental acceleration, which is there to stay, which takes us to a new level from which we then eventually expect more normalized growth rates going forward.  
+In terms of the whole vaccine distribution, I think, that is way too early to say. And I think that is also something we are potentially, for example, our Global Forwarding division may benefit from.
+
+--------------------------------------------------------------------------------
+Daniel Roeska,  Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst    [7]
+--------------------------------------------------------------------------------
+Starting with Express. Can you talk about how you're managing utilization in Express? It looks like productivity has improved substantially. Just wondering what the key drivers, and if that's something you can kind of carry into 2021 or whether that's kind of due to the sudden volume shifts you've seen in the market? 
+And could you update us on the pricing activities in Express? We've seen a couple of announcements over the past months for rate increases from January 1. How are -- what's customer feedback doing? How confident are you that you'll be able to push those price increases into the market starting in January? 
+And then lastly, Melanie, upgrade on free cash flow guidance a bit stable EBIT, could you call out any of the moving factors here? And what of that is kind of just an effect of 2020? And what of that is kind of more fundamental performance in the organization?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [8]
+--------------------------------------------------------------------------------
+So I think in terms of Express utilization, what we now really saw in the third quarter was a much more balanced utilization across the network. When you look at Q3, Q2, we had a serious underutilization in the European network, very strong growth outbound from China. Of course, we adjusted the aviation but there's only so much you can do. What we now saw in the third quarter was a much more balanced growth across the regions and the trade lanes, and that really helped us on the Express utilization. 
+I think overall, we have to see that our aviation cost is still significantly higher than what we had planned. A, because of the volume surge. But b, because we have to fly routes which normally we would have served in the belly space of passenger aircraft. When you, for example, think about flights to Africa. So there is a higher cost to our aviation network, which we are offsetting partially by selling off excess capacity at the higher rates in the market, but that doesn't cover all of the excess costs which is why we introduced the emergency surcharge. 
+That takes me then maybe to the pricing question. So on the ESS, we are really using that as a cost offset. I think that also clear and transparent to our customers, and we are adjusting accordingly. In terms of underlying GPI, we have a very established annual price adjustment mechanism which we have also utilized this year, and we have communicated early on how we are going to adjust prices in the different countries. And I don't expect any more challenges in implementing this than what we have seen in the past years.  
+And then finally, on free cash flow. I think what we are really seeing here is the benefit of really putting that on top of the priority list for the overall organization over the last years. When I look at our collection's performance at our DSOs, that is really developing in a very encouraging way. So I think this is not only a short-term thing, but this is really kind of like reaping the benefits of the increased cash flow focus we have put into the organization over the last years.
+
+--------------------------------------------------------------------------------
+Daniel Roeska,  Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst    [9]
+--------------------------------------------------------------------------------
+Would it be fair to expect that to kind of continue? Are you satisfied where you are? Or do you think there's more to go?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [10]
+--------------------------------------------------------------------------------
+I think in terms of some of the fundamentals we are getting, for example, with regard to working capital management, two very good positions where we will now focus, of course, on holding it. Like I said in the past, I think, what we have not always been successful in the past was translating EBIT growth into OCF growth. And on that basis, getting free cash flow up. I think we are now at a good level in terms of EBIT to OCF conversion. And if we now hold this and see good OCF improvement with increasing EBIT going forward, I think, that should also lead to a satisfying free cash flow development.
+
+--------------------------------------------------------------------------------
+Chi Onn Chu,  Deutsche Bank AG, Research Division - Research Analyst    [11]
+--------------------------------------------------------------------------------
+Two questions please from me. Just maybe a comment, please, on shareholder returns. Obviously, no shareholder return since your first shareholder return in 2017. I guess if you're holding a sort of dividend payment of around about EUR 1.5 billion, then already this year, you could be generating around about EUR 0.5 billion of excess liquidity, which it's very clear with the capital allocation policy that will go to shareholders. And so just maybe some sort of comments around timing of return to shareholders. 
+And then secondly, on Express, just trying to sort of think about where you might end up and land this year. You basically delivered EUR 330 million of improvement in Express EBIT in Q3, excluding the COVID bonus payments. You've talked about a surge of Express volumes in the peak season. And clearly, volumes are in a good position. So maybe when I look at consensus and your company consensus that you published at the end of October, that consensus is just over EUR 100 million year-on-year in Q4. Does that kind of make sense to you? Is there any reason why the growth will be sort of stifled a bit in Q4 over Q3?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [12]
+--------------------------------------------------------------------------------
+Yes. Thank you for both questions. And again, it's really nice to get those questions. I think end of March, beginning of April, we probably wouldn't have expected to have such a discussion in November. So with regard to the shareholder returns, I mean, I'm very pleased that we were able to now pay out our regular dividend in the third quarter, honoring our finance policy in that respect. Focus is now on really getting a good full year free cash flow performance concluded. I think then we have to see in the course of '21 when we will also give you our new free cash flow guidance how the world looks at that point in time.  
+In terms of Express, and I think that's maybe also a group comment for our overall guidance with regard to the fourth quarter. I think we fully understand that this guidance can be interpreted as a bit on the conservative side as it obviously implies a significantly lower growth rate in the fourth quarter compared to what we saw in the third. 
+I think maybe 2 comments from my side. Given the circumstances, it is probably a time where being a bit on the conservative side is the right approach. And secondly, it will now really depend on how the volume develops in the remaining weeks of the quarter. We are taking on extra costs to be able to cope with the expected volume surges and if they then come in the right dose, that should be beneficial. But if there's then too little or too much, that could, of course, screw the balance. I think that's also a reason to be a little bit on the conservative side here.
+
+--------------------------------------------------------------------------------
+Neil Glynn,  Crédit Suisse AG, Research Division - Head of the European Transport Team and Global Transport Sector Coordinator    [13]
+--------------------------------------------------------------------------------
+If I could also ask 3, please. The first one, back to mail volumes. Just interested if you could confirm that the decline seemed to be more on the nonregulated products versus the regulated products. And also does, I guess, as you continue to dwell on those run rates, does it prompt any changes in thoughts on efficiency levels as you look towards the mail-related cost base into 2021, albeit, obviously, some of it shared with parcel? 
+And the second question on Supply Chain market capacity. My impression has been that the broader global market on the real estate side has been quite tight for some time. And I'm just interested in any thoughts as COVID-19 impacted the availability of facilities for you to grow into from 2021 onwards. 
+And then back to also e-commerce following on maybe from Robert Joynson's question on EBIT. You obviously highlighted a 5% long-term margin expectation back at Capital Markets Day just over a year ago. Just interested if there's anything that's happened through this pandemic, change your thinking on that is partially where I'm coming from is 5% relative to the P&P as well as the Express margin prospect is obviously quite low. And I guess, for that to warrant growth capital over the long term, I would expect, ultimately, that 5% probably needs to rise eventually.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [14]
+--------------------------------------------------------------------------------
+Okay. Yes. So let me start with the mail volume question. Yes. So I mean, the big driver for the overall decline was Dialogue Mailing, more on the unregulated side. We saw that very clearly in the second quarter, but also in the third quarter, decline rate on the Dialogue Marketing side was more than twice as much as what we saw on the Mail Communication side. 
+I think maybe one additional important point to highlight on the mail volume decline acceleration, parcel growth acceleration. What is really helping us on the profitability side, it's a program we have worked on for over 2 years now to better use the freed-up capacity in the mail network for small parcels. That has been accelerated. And I think that is one of the reasons why we are, a, operationally able to cope with the parcel volume growth; and b, why we're able to translate that into good profitability development.  
+Maybe I take the third question and then, I think, Frank is going to say something on the supply chain. Yes. So with regard to the eCom Solutions margin aspiration. When Ken Allen took over, and he put out this aspiration of a 5% EBIT margin. I think at that time, there was a lot of aspiration and relatively little evidence. We had 1 or 2 countries where we saw that this is really possible. I think the good thing is we now see how profitable the eCom Solutions business can be. And I think that is not something we also have to discuss internally what is the right margin aspiration level going forward for that business.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [15]
+--------------------------------------------------------------------------------
+Yes. And with regard to the real estate, of course, the markets will become more challenging because there's more need for logistics. But we, as a company, are well positioned to show our financial strength and also to the access to many customers. And that is definitely seen by landlords that they have a very reliable partner, and we are definitely a preferred partner. So if the market is very tight, we still have a preference over most of our competitors, we believe.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [16]
+--------------------------------------------------------------------------------
+Frank, Melanie. Just 2 questions for me. On DGFF, obviously, the volumes were still down quite sharply, a little bit worse than the market in air freight and quite a lot worse in ocean freight. And you're saying this is still a kind of a structural removal of volume. How much longer do you think that's going to continue? When would you have reached the base of cargo that you want to be able to carry? Is the first question. 
+And then the second question is, can you just confirm for us that when you give us the full year results as well as the 2021 guidance, you'll also roll forward and give us the '23 guidance. So we shouldn't expect the '22 to be updated, but it rolls a year. Is that right?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [17]
+--------------------------------------------------------------------------------
+Yes. To the second question, yes, that is correct. So we will roll forward and at the year '23 to the guidance and will also give you a new cumulative CapEx and free cash flow guidance for the time period '21 to '23. In terms of air freight, ocean freight, yes, I would say, I think on the air freight side, we are relatively in sync with market overall. On the ocean freight side, we are, indeed, in terms of volume development, worse than the market. As you know, we have pretty much completed the CargoWise rollout, and we have complemented that with a clear portfolio cleanup exercise, which should phase out in the course of '21.
+
+--------------------------------------------------------------------------------
+Muneeba Kayani,  BofA Merrill Lynch, Research Division - Director & Head of European Transport    [18]
+--------------------------------------------------------------------------------
+Melanie, I just wanted to check on how you're thinking about capacity utilization across the various segments with these higher volumes? And do you see the need to add to the capacity? 
+And then secondly, the pricing performance in Parcels P&P, if you could talk a little bit more about what's driving that. You talked about the strong kind of SME volumes, are there any surcharges? Would you consider surcharges in Parcels Germany?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [19]
+--------------------------------------------------------------------------------
+Yes. So maybe starting with the second question. So yes, indeed, the pricing performance in Parcel has been quite encouraging for a number of quarters now because we have systematically increased prices across all customer segments. And like we have had in Express for years, we now intend to have a regular pricing review also in Parcel, where our fundamental approach is not to work so much via surcharges, but more to bake it into the fundamental underlying price. 
+What we have seen on top in the third quarter is a beneficial mix effect because, as you saw, there has been a stronger growth from the small and midsized customers with higher average prices than from the large customers.  
+In terms of capacity utilization, yes, I think, the good thing is that we have been building out capacity consistently over the last years. Obviously, now with the volume surges, we are experiencing some extremely high utilization levels in certain areas. So we will continue adding capacity going forward. But I think that should be in a reasonable level compared also to volume and revenue growth. 
+I think the biggest distortion was obviously on the whole flying side, where it was not only the volume increase, but also the lack of passenger belly space capacity, which led to a quite high rate of additional charters and leases in the Express side. I think here, we are now looking at the capacity planning going forward. And we aim for a healthy mix between CapEx, own and leases going forward.
+
+--------------------------------------------------------------------------------
+Operator    [20]
+--------------------------------------------------------------------------------
+Next question is from Christian Obst from Baader Bank.
+Apparently, he has disconnected. The next question is from Adrian Pehl from Commerzbank.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [21]
+--------------------------------------------------------------------------------
+Two, 3 questions from my side. Well, first of all, on your low holding expenses in the third quarter, you probably enjoyed some savings on travel expenses and other related items. But I was just wondering myself whether we are bracing to some -- should be bracing for some increase on that going into Q4 and probably 2021? Or what is the sustainable part of this low holding expense side of things? 
+And then secondly, a question on Parcel Germany. Actually, you showed nicely on Page 5 in the presentation, the mix of large versus small customers. I was wondering whether actually Amazon used Q3 to put out more volumes out of your network and into its own. And having said this, how should we think of the unit price per parcel of EUR 3.65 roughly? To what extent is that actually a function of respective mix changes in the quarter or in the 9-month period versus actually higher pricing that you were pushing through in the market?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [22]
+--------------------------------------------------------------------------------
+Okay. So with regard to travel expenses. So I mean, as you can also clearly see this in the stat book, net other operating has developed quite favorably, and that is indeed driven by lower travel and entertainment expenses. Where our expectation for '21 is that at least parts of it will eventually come back. At the same time, we naturally have higher costs due to all the extra COVID measures, which you don't necessarily see in the net other operating expense line but in material expense and also partially in staff cost. So I would, overall, still expect that there shouldn't be too much of a headwind for '21 from that. 
+In terms of parcel volume, yes, I mean, we gave guidance at the beginning of the year in those long-forgotten days before COVID that we actually expect continued insourcing from Amazon. And on that basis, we had said that we expect Parcel volume growth of 0% to 5%. So obviously, things developed quite differently. With Amazon, I mean, we are -- they are still a very important customer for us. We are in intense discussions with them now with regard to the peak season, but the Amazon behavior is clearly one of the drivers. While for the top accounts, the growth was only 8% compared to the double-digit growth we saw in the rest of the portfolio. 
+Which takes me to the pricing question. In terms of pricing, there was clearly a mix effect from the higher growth in the small and midsized customers. But when you look at it like-for-like, there was also a real price increase pushed through in the market. Not only in the third quarter, but that is really something we have been working on since 2018. So we have increased prices, not only for small customers, but also for midsized and larger customers.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [23]
+--------------------------------------------------------------------------------
+All right. Can I quickly follow-up on what you said on your extra cost in COVID? I was just wondering whether you could roughly quantify that. And maybe a question linked to all this topic around COVID vaccine, et cetera. I think you said something in the presentation already, but I was just curious to hear your thoughts on, I mean, someone needs to ship it probably via freight. Is that actually volume-wise something where you would say this has the potential to even limit the air freight capacity going into 2021? Or is that just too small volumes or pallet count or whatever, not to change the picture that much?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [24]
+--------------------------------------------------------------------------------
+Yes. So I think on the whole travel and entertainment, to give you a feeling for the order of magnitude in terms of year-over-year, it is in the mid-double-digit order of magnitude. But again, we also see significant increases in what we are spending on our whole health protection measures for our people. So whilst it sounds like a sizeable number, I think, in the broader context, we still have higher expenses due to the COVID situation than we are saving on P&E. 
+In terms of -- sorry, what was the second question?
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [25]
+--------------------------------------------------------------------------------
+Sorry, that was on the vaccine, let's say, kind of volume-wise...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [26]
+--------------------------------------------------------------------------------
+Yes. Yes. So I think at the moment, I would say, as a logistics industry overall, we are getting ready to cope with the delivery of the vaccine. I think we are, as a company, as an industry, well prepared to deliver. I don't think the challenge in the firth months of the vaccines will be on the logistics side. I think the challenge will be on the production side. So as production ramps up, we will be ready to deliver.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [27]
+--------------------------------------------------------------------------------
+And you see -- do you see any, let's say, scarcity on the air freight due to that? Or is it not significant enough? What's your feeling about it when that ramps up actually?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [28]
+--------------------------------------------------------------------------------
+Yes. So I think it will require additional capacity, obviously. But again, when you kind of like look at the bottleneck, which will exist on the production side, the bottleneck will not be on the flying side, from my perspective.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+The next question is from Johannes Braun of Stifel. 
+The next question is from the line of Matija Gergolet from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Matija Gergolet,  Goldman Sachs Group, Inc., Research Division - Equity Analyst    [30]
+--------------------------------------------------------------------------------
+Two questions on my side. One is a little bit of a follow-up on the discussion in German mail and parcels. I'd say, well, mail decline is coming through a little bit stronger perhaps than expected. Parcels are coming a little bit stronger offsetting that. And you have shown basically good cost control and efficiency in the network. If this trend was to continue, say if '21, '22, you continue to have mail that is coming through weaker than expected but offsetted by parcels, is it easy for you to continue to switch some of the parcels, say, volumes on the mail network basically without incurring extra costs, i.e. can you basically continue to control costs if these trends that we've seen during 2020 continue? 
+And then second question is on the air freight, air freight benefit, I should say. Because there's a lot of debate in the market about how much of actually air freight benefit -- the tight air freight market benefited you this year. In your comments about Express, you mentioned that you also had some extra costs on the -- used to say, tight air freight capacity. But could you help us quantify what to say, the net benefit from the high air freight rates for you during 2020? And let's say, if nothing else, say, when you're thinking about your 2021, surely, you probably -- you must consider lets say, air freight maybe had a bit of an exceptional year in Express or in Global Forwarding. So how are you thinking about basically the base or the benefit that you got this year from this very tight air freight market when you think about next year?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [31]
+--------------------------------------------------------------------------------
+Yes. So on the latter parcel transformation, I mean, there is opportunity going forward, be it on the last mile. So we are expanding the area served by our combined delivery. We are investing into being able to sort even more small parcels in the letter sorting centers. I think my fundamental belief is, I mean, we have now seen a fast forward by, let's say, 3 years on the letter decline and on the parcel growth. Going forward, this -- it's probably going to be a plateau effect for better on the parcel and for worse on the letter side. But then we will probably see a more normalized growth and decline pattern going forward, which should also help us on the operations side to cope with the trend. 
+On the air capacity tightness and have we benefited from it. So I think on Express, as I said, we clearly see a significant increase in our aviation cost, much higher than what we had assumed in the budget, driven by the higher volume and by the lack of passenger belly space capacity. For Express, the higher air freight rates have helped us to offset this cost increase. But overall, we still had a net cost increase on Express. 
+In Global Forwarding. For me, the higher rate is helping us to deal with a significant volume decline. So that has been the basis for getting a reasonable GP development despite the significant volume declines. I think it's quite difficult to now predict what will happen in '21 because a big unknown here is how quickly will the volume come back. And if the volume comes back and we still have a very constrained market, rates will obviously stay high. But yes, I think, that is linked to the macro question of how quickly the overall recovery will be in '21.
+
+--------------------------------------------------------------------------------
+Operator    [32]
+--------------------------------------------------------------------------------
+Next question is from Sumit Mehrotra from Societe Generale.
+
+--------------------------------------------------------------------------------
+Sumit Mehrotra,  Societe Generale Cross Asset Research - Equity Analyst    [33]
+--------------------------------------------------------------------------------
+Actually, both my questions in a way have been asked by [Melanie], but I'll still try to dig deeper. First one is on P&P Germany. I mean this e-commerce boost that you've seen would have given you very core never before insights but the limits of your system. So I just want to know your thoughts that have you already seen the limit to which you can push the small parcels into your mail network and thereby you consider -- I mean, would you consider this past -- in these 3 quarters of the year as the best efficiency benefits you could have squeezed out and thereby, what should we think about margins going ahead in P&P on that count? 
+Second one is fairly simple. Can we now imagine that you see a print of negative growth in the second half of next year in Parcels Germany in '21? Is it feasible just because of the pace? And thirdly, again, on DGF, I hear you that you say, it's basically a trade-off between the volume development next year versus the air freight rates on gross profit units. But still, very simply what should we think about margin development in DGF for '21? That's it.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [34]
+--------------------------------------------------------------------------------
+Maybe starting with the last question. I think what makes it so complex is it's not a clear correlation, yes? So I think you can think about the scenario. If the volume comes back, and passenger aircraft are still not flying, then you would have an increase in volume on a still constrained capacity. And then you would have probably the situation where increased volumes are met with increased rates. Which should, of course, be positive in terms of profitability, yes? If volumes are recovering and due to a vaccination, a passenger flying also resumes and capacity comes back more in line with a B2B volume growth, I think, then you would have the volume benefit, but less expansion on the air freight rates. So it really depends on how the '21 recovery is going to play out. 
+In terms of parcel growth and could there be a situation where it's actually negative year-over-year. I mean our fundamental belief for Parcel Germany, for Express and eCom Solutions is that new customers and new end users have now discovered online shopping. And whilst they may resume going to the inner city for shopping, I think, most of them will have, on the customer side, understood that this is a fantastic new channel. If they have not invested in their website and having online presence, they're not going to give that up again just because shops open. 
+And I think equally on the end consumer side. People have experienced how convenient online shopping is, for example, when you think about the elderly, they're not going to give it up. So we don't think that there will be a step back. We see this really as a plateau effect, and then we will see some normalization in the growth rates from this higher plateau eventually. 
+In terms of P&P, are we at the max of shifting parcel into letter network? I think there is upside opportunity. This is a continuous transformation process. We are investing into making certain upgrades to the letter centers to be able to cope with more. So there is -- this is a continuous journey, which now has been accelerated, and we will continue on that.
+
+--------------------------------------------------------------------------------
+Operator    [35]
+--------------------------------------------------------------------------------
+There are no further questions at this time. And I would like to hand back to Martin Ziegenbalg for closing comments. Please go ahead.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [36]
+--------------------------------------------------------------------------------
+Well, I'm going to hand over further right away for Frank and wishing you a good rest of the day after the closing remarks by Frank.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [37]
+--------------------------------------------------------------------------------
+Yes. Thank you for all the questions. Thank you, Melanie. You almost answered all of them. That was an easy morning for me today. So I think we see a very happy about the overall performance of our company at the current moment. We have stress tested our strategy and believe that we have observed the right strategy to cope for trends. And also, with the pandemic, that's the reason why we are confident that we will deliver our guidance this year and even beyond. We will see profitable growth for our company with improved cash flow generation. On that basis, I would like to thank you very much for joining us this morning. And hopefully, we see each other maybe sooner now than originally expected in person again. Thank you, all the best and stay safe. Buh-bye.
+
+--------------------------------------------------------------------------------
+Operator    [38]
+--------------------------------------------------------------------------------
+Ladies and gentlemen, the conference has now concluded, and you may disconnect your telephone. Thank you for joining and have a pleasant day. Goodbye.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Refinitiv reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES REFINITIV OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2020 Refinitiv. All Rights Reserved.
+--------------------------------------------------------------------------------
