@@ -1,0 +1,626 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Full Year 2018 Deutsche Post AG Earnings Call
+MARCH 07, 2019 / 1:00PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Melanie Kreis
+   Deutsche Post AG - CFO & Member of Management Board
+ * Frank Appel
+   Deutsche Post AG - Chairman of Management Board & CEO
+ * Martin Ziegenbalg
+   Deutsche Post AG - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Dominic Edridge
+   UBS Investment Bank, Research Division - Executive Director and Analyst
+ * David Griffith Ross
+   Stifel, Nicolaus & Company, Incorporated, Research Division - MD of Global Transportation and Logistics
+ * Damian Brewer
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Joel Adam Spungin
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Tobias Sittig
+   MainFirst Bank AG, Research Division - Head of Equity Research Germany & Senior Equity Analyst
+ * Edward John Rodney Stanford
+   HSBC, Research Division - Analyst
+ * Adrian Pehl
+   Commerzbank AG, Research Division - Analyst
+ * Ed Steele
+   Citigroup Inc, Research Division - Director
+ * Mark John McVicar
+   Barclays Bank PLC, Research Division - Head of European Transportation Research
+ * Chi Onn Chu
+   Deutsche Bank AG, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good afternoon, ladies and gentlemen, and welcome to the Deutsche Post DHL conference call regarding the full year results 2018. (Operator Instructions) Let me now turn the floor over to Mr. Martin Ziegenbalg.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you, and a warm welcome to anyone out there listening to our Q4 full year 2018 conference call. As you have seen in the invitation, I've got with me our Group CEO, Frank Appel; and the Group CFO, Melanie Kreis. I hope you have in front of you the material that we sent out this morning, as you may have noticed in a slightly modified format designed to give you maybe a bit less busy, more focused slides, some early management comments. But I can assure you that to the material that we had in the past, no content has been dropped. So whatever we had in the past, you still find in the material either in the deck or in the stat book. 
+So with that more of a technical comment, right over to you, Frank, please.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [3]
+--------------------------------------------------------------------------------
+
+          Yes, thank you, Martin. Hello also from my side, and thank you for joining us this afternoon. Let me just start straight away with Page 2, where we summarize how we concluded 2018. 
+We had a strong year-end with a quarter result, which is very close to our previous record quarter in 2017. In particular, if you take into consideration our ongoing restructuring expenses in PeP and a one-off, which is not related to our company, but a consequence of a court ruling in the U.K. 
+The second, we proposed a stable dividend. We are very confident that we will deliver our -- this year's and next year's numbers and therefore, we also want to demonstrate as a sign of confidence that we are paying a stable dividend this year. 
+And finally, our guidance. We come to that later more in detail, but the guidance for this year is relatively broad. We'll explain later on why that is the case, but we believe that the measures we have in place will deliver that, and we will create through that delivery a good -- a very good basis to deliver our midterm goals 2020. 
+If we now go to the next page, I will focus on the top line more, and Melanie will cover Chapter 2, 3 and 4, and I will come back then to our dividend and guidance for this year and next year. 
+So if I turn to Page 4, you can see the results pretty straightforward. We had, as a group, good organic growth in Q4, even above the average of the year. We had, as I've said, a good EBIT result as well, despite that we had some negative one-offs. And overall, we met our guidance as predicted in the summer when we changed our guidance. 
+PeP has continued to grow despite the decline in mail. I come to that later on. And the quarter was strong enough that we're slightly better than we originally guided at EUR 600 million, fully loaded here with all restructuring expenses. 
+Express, strong growth, very good development on the bottom line in our very strong overall year-to-date -- or year, total year margin. We are very happy about the progress. 
+DGFF, as you can see as well, healthy top line growth, very good bottom line development that shows that the strategy simplified is getting more and more traction, and our IT conversion is getting traction, too. 
+Supply Chain, good growth. Flattish on the bottom line, but if you back end -- in the EUR 42 million from the pension charge, then we would be even nicely up. 
+So overall, if I include then Corporate Functions and consolidation, just to the point slightly better than the EUR 420 million we mentioned in our guidance. 
+On the next page, you can see the development in volume and revenue. Nothing new on the mail side, still in the corridor. If you correct for these election type of things, we are at the upper end, but we are still on the corridor of minus 2% to 3%. Volume growth in parcel has been a little bit slower, but still in the range of the market growth 5% to 7%. We don't know exactly the final growth. The full year was even better than that. But what you see, and what is encouraging, is that our price measures are gaining traction now because revenue growth was stronger than volume growth. And you have seen in the past the opposite trend. That is very encouraging. And we see also in the new year already the acceptance of customers to accept higher prices is pretty good. That's the reason why we are confident that we can see a good development on the price front in 2019. 
+Next page shows you the revenue growth of our new division, eCommerce Solutions, continuation of strong growth. Ken -- definitely, Ken Allen, will now focus on defining the strategy. We have good areas in good bits of pieces there and some challenges. I think the objective has to be that we define more precisely how we want to grow in that part, profitable from the overall eCommerce trends. 
+Page 7. Continuation of the strong growth shipment-wise and revenue-wise. You see here the trend. Europe has been still our powerhouse, very healthy growth. That's very encouraging. We have, without a doubt, again, had another year in 2018 where we gained market share. Of course, we were supported by strong B2C growth as well. 
+Next page, on DGFF. Tim's strategy to be selective is working very well, despite that we lost quite some volume in the fourth quarter on air freight; stayed stable on Ocean Freight. We had a nice growth in gross profit and also gross profit per ton and TEU. That is exactly what we try to achieve. At the same time, we are streamlining our operations. That should help us to deliver even more EBIT and a better conversion rate, and we are now shooting for, by 2020, a 20% conversion rate. We have still some upside then for that division. We are very confident. But also we want to grow again. That has to happen in this year as well, that we start growing again but in a profitable way and not just by market share again. 
+Supply Chain, also very consistent picture here. We had some challenges in the U.K., but if you take then overall the growth, it's very nice in Americas, North and South, very good profitability development. Melanie will talk about that later. Europe as well had good growth. APAC looks a little bit weak, but as you can read from the management comments, there is a change for some contracts we have in Australia where we have pass-through revenue, which is under IFRS 15 differently recognized, and that has led to the small number. If you exclude that, we had been almost 8%. So steady organic growth and good improvements in these regions as well. 
+On Page 10, that's more a reminder of our well-balanced portfolio. We have some businesses which are exposed to GDP; decline if that happens, even if we believe still that we should expect for this year, 3% to 3.5%. And on the growth side overall, we have some very strong businesses like the eCommerce-driven, and of course, the Post is not a structural growth business. Supply Chain sits more or less in the middle. We believe that this is a very balanced portfolio. 
+On Page 11, we put that intentionally in to just demonstrate, despite that we don't expect a significant global downturn, but if it happens, we have more than enough measures in all parts of our business to be well prepared. So what we mentioned here is more a reminder for our capabilities. We have seen before as well a reduction in the growth. Even if we don't expect that and we feel very well prepared if that happens, even if we wish that it doesn't happen. And again, at the moment, we have not seen any major decline. We expect 3% to 3.5%. 
+Brexit, the same. That's only a good idea in the first place. But if it happens, whatever happens, we don't know, but we feel well prepared. We have worked intensively in all parts of our business for preparing for that. Our mantra is to serve our customers in the best possible way. And of course, we will have then chats with our customers that they compensate us for any extra costs. That will be seen. And if Brexit happens, I'm optimistic that we will do the best for our customers, and that should help us. But whatever the impact will be will depend very much in what really will happen, and we don't know that yet, but we can assure you that we feel very well prepared for any outcome. 
+So that's more or less on the revenue and market front. We feel very well equipped to continue growth in this year in 2020. 
+And with that, I will hand over first to Melanie on the profitability and cash flow, and then I will come back on our dividend and our guidance.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [4]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you very much, Frank, and good morning, good afternoon to all of you listening, and thank you very much for joining us. 
+As Martin mentioned in his introduction, we have added our management comments directly onto the presentation, which we published this morning. We hope you find that useful. And don't worry, I'm not going to read it all out to you. I'd rather point out a few noteworthy developments so that we have ample time for your questions at the end. 
+And starting now with group P&L on Page 14. I, again, want to point out what Frank has already covered. Despite all the often-mentioned uncertainties, 2018 was a good year for us in terms of top line growth with an organic growth of 6%. The delta between the reported revenue growth of 1.8% and 6% is partially due to the Williams Lea Tag disposal, but clearly also has a significant currency component in there. So FX effect had, once more, a significant negative effect on the top line, but also on EBIT. 
+As you know, group EBIT is down due to PeP restructuring as well as, to a minor extent, Supply Chain one-offs while we had very strong EBIT growth in Express and Forwarding. 
+The IFRS 16 effect on EBIT is slightly higher than our initial assumption because, in our Supply Chain division, we signed more leases with, on average, longer contract terms. But for the other divisions, we actually made a spot landing. And I have to admit that we are a little bit proud of having been able to predict the IFRS 16 effect quite accurately. 
+One effect of the IFRS 16 accounting change, which we had predicted, was that the negative impact in financial result would be higher than the positive effect in EBIT, and that explains the more pronounced decline in net profit compared to EBIT. 
+The good news on this is IFRS 16 is now done for us. So in 2019, it will be a year-over-year comparison without IFRS 16 extraordinary explanations. So that is the last call in which we have to talk about that topic. 
+So obviously, putting it together in terms of EBIT progression and also net profit progression, it was a challenging year, which is why we have included Page 15 to put things into a slightly more long-term perspective. Because looking at this longer-time horizon, while we have had our ups and downs in 2015 with NFE and the postal strike in 2018 with PeP restructuring, overall, we have made a significant and steady progress in group margin expansion. And very obviously, that progress is, by no means, over. And every division has its role to play. As I said, I'm now turning to the divisions, and for quite obvious reasons, I will start with PeP and we'll spend a bit more time on PeP, which in the last presentation, we're now talking about in the old structure with Germany and the international activities combined. 
+So starting on Page 16 with the 3 buckets of restructuring and turnaround activities we have been focusing on since June. I think the first important message here is nothing has changed with regard to the categories we are addressing. So there have been no new surprises, and we have actually made good progress in all 3 dimensions. I will talk about pricing in more detail on the next page, so let's briefly talk about the cost measures. 
+First of all, on the direct cost side, on the productivity, we have said that this is more about ongoing investment to improve productivity going forward. And we had indicated that we intend to spend, on an ongoing basis, around about EUR 150 million in this area. We only started in June so it's not surprising that in this first year 2018, we have only spent EUR 120 million, EUR 65 million of which in the fourth quarter. So I think we are now in a good, steady state and we are beginning to see the first benefits. But as we have already said in the previous calls, this is clearly a very, very big machine room, more than EUR 10 billion in costs. So that is probably the slowest moving from all the 3 categories. 
+On the indirect cost side, we had said that we would invest EUR 500 million into restructuring, the biggest chunk of that going into early retirement program for civil servants. And we did, indeed, spend the EUR 500 million. The remaining quarters saw EUR 59 million, taking us to a total number of EUR 502 million. And obviously, both cost improvement measures will contribute to improvements in 2019 and then continue to ramp up towards 2020. 
+Looking at the first categories of pricing measures on Page 17. I think there are 2 different topics we have to talk about. What is happening on the letter side and what is happening on the parcel side. 
+So regarding the regulated postal product, we had a first decision on the letter pricing at the beginning of the year, which foresaw a headroom of a price increase of 4.8% on the whole bucket for the time horizon 2019 to 2021. But since then, we have had an announcement that the underlying regulation is going to be changed. And on this basis, the regulator has put the pricing decision on hold because they have to wait for the new regulation and then, on this basis, come up with the final decision. 
+The unfortunate news on that is that there is a further delay so we still don't have the final decision. I think on the positive side, we obviously hope to get a bit more headroom than this initial decision, but we now have to wait for the final decision of the regulator. 
+On the parcel side, you will probably have seen that already in Frank's presentation. In the fourth quarter, you saw that revenue in parcel grew more rapidly than volume. So we are really beginning to see the positive impact from the year's activities, which the parcel team has been very focused on since the summer. And that is obviously something we expect to continue into 2019, and a very important element then also in the ramp-up towards 2020.
+Turning to Page 18. Since the start of the year, we have also implemented the new divisional structure with Post and Parcel Germany focusing on the German activities under the leadership of Tobias Meyer from the 1st of April onwards. And the international activities being regrouped on our DHL eCommerce Solutions under the leadership of Ken Allen. 
+After reporting 2018 in the old structure, you will, of course, get full restated 2018 numbers with our Q1 reporting, but I already want to draw your attention to the split how would it look like going forward. So when you look at the revenue, we have around about EUR 15 billion in Post & Paket Deutschland, German activities, eCommerce Solutions and the youngest member of the family is close to EUR 4 billion in revenue. In terms of profitability, not surprisingly, the profit is being made in Post and Parcel Germany. Because in eCommerce Solutions, we have quite a lot of start-up activities and the starting point for '18 is going to be around minus EUR 27 million for that new division. 
+So much for PeP, and I now come to the DHL divisions, starting with Express on Page 19. Regarding the outlook for Express, we expect continued B2C growth; while visibility on B2B growth is impeded by the general economic uncertainty. For your modeling, it's worth having in mind that our active yield management to price heavyweights out of the network is leading to lower average weight per parcel. That is something you should expect in the next quarters. Revenue per day will grow less than shipments per day in the upcoming months due to this heavyweight effect. 
+Turning to Global Forwarding on Page 20. You can see that the yellow bars how the GP to EBIT conversion has developed over the last years. It's quite pleasing to see that Tim's measures are really taking a hold now. DGFF is delivering. For Global Forwarding, the Q4 EBIT margin was the highest since 2012. But obviously, that's not the end of the journey. Tim has said very clearly that for GP to EBIT conversion, the short-term aspiration is to get to 20% by 2020. And I think based on the trajectory we have now seen in 2018, we are on a good path to get there. 
+Turning to Supply Chain on Page 21. Obviously, when you look at the combined EBIT for the division, you don't see progress from '17 to '18 because of the pension effect in Q4, because of the challenges we had in the first quarter in U.K. I think that is really covering up a bit of the very good progress we had in the Americas, in Asia Pacific, also in mainland Europe. 
+In the Americas and Asia Pacific, we have now reached very remarkable margins. And obviously, the 1 region where we now have to pay specific attention to is the U.K. And that is something we are addressing partially using the EBIT gained from the Supply Chain China transaction, which has been completed in February. And you can see that on Page 22. 
+So as a reminder, the deal which we have just closed with SF, the sale of our Supply Chain business in China and the entry into a partnership, where we will get a share of revenue going forward. 
+(technical difficulty)
+financial impact, we will get a onetime EBIT gain of around about EUR 400 million. You will see that in the first quarter of 2019. We will lose, through this sale, revenue of around about EUR 500 million and EBIT net around about EUR 30 million. That's kind of like the EBIT of the division -- of the business we have sold minus the income stream we expect going forward. 
+Out of those EUR 400 million, it's our intention to reinvest around about EUR 150 million into the Supply Chain business 
+(technical difficulty)
+chunk, around about EUR 100 million, is intended for the U.K. That is the last region where, yes, we still have some work to do. There's a very clear improvement agenda for the U.K., and the proceeds we get from the SF transactions is now giving us the means to address those challenges. The intention is to really get into a steady improvement. Obviously, we want to compensate at least the EUR 30 million we are losing from Supply Chain China by 2020. But the intention is to really use these funds wisely so that it is leading to a sustained improvement in the profitability of Supply Chain. 
+And coming to our new DHL eCommerce Solutions division on Page 23. Well, as you know, 
+(technical difficulty)
+he has been off to a flying start, even though he's officially still in his first 100 days. He is going through a thorough initial portfolio review. There are a number of very nicely profitable countries in the portfolio. There are a number of countries which are more in a start-up phase, and we have granted Ken also a bit of headroom so that he can take the actions he deems necessary within eCommerce Solutions. He has put the expansion on hold for the moment. I think the most important strategic topic here is the long-term vision for the division, which is dealing with end-to-end eCommerce Solutions, also stitching together components of what we are offering through the other divisions. And you will certainly hear more about this in the course of the year once Ken has a bit more time to look into his new area of responsibility.
+So much for the divisional earnings improvement agenda. And with that, moving from earnings to cash, starting with CapEx on Page 25. For 2019, we do expect a significant CapEx increase as we will see the peak of our investments into the Boeing 777 Express re-fleeting. This will increase CapEx by EUR 1.1 billion for the year. We will then also have a significant impact in 2020 and then it will trickle off in 2021. 
+When you look at the underlying CapEx, taking out this spike from the 777 re-fleeting, the underlying regular CapEx has been increasing gradually over the last years, mainly supporting the expansion of our Express and Parcel network, and you should expect this to continue in a steady fashion, in line with growth in the business. So nothing extraordinary there. 
+Page 26, I think, is very important because it shows that group ROCE has been going up in parallel to the CapEx increase. So I think that's the evidence that these investments we have made over the last years have been paying off. But here, again, IFRS 16 is rebasing the starting point. So due to IFRS 16, 2018 is starting from a new base. But still even under the new accounting standard and including fully loaded PeP restructuring costs, our ROCE remains above our WACC, also for this rather challenging year 2018. Clearly, going forward, we anticipate to continue our track record of profitable investment and again show steady improvements in ROCE off this new base. 
+And with that, I come to the cash flow statement on 28, which is always a bit of a complex page to look at. And I think this year, unfortunately, even more so because there have been several larger moving parts which you need to consider when looking at our cash flow statement. 
+When you look at 2017, we had the Williams Lea disposal and the U.K. pension funding, 2 big discrete events. This year, we see a very strong impact on OCF from IFRS 16, which we have spelled out here on this page. But you will also see the fact that the PeP reducing costs had a strong impact on EBIT in 2018 but not so much on cash. 
+For free cash flow, as you probably all know, we have an apple-for-apple comparison because IFRS 16 is not impacting free cash flow, and I'm really glad that I'm also saying this for the last time. So when you look at our free cash flow development overall, it is down EUR 373 million compared to last year. But when you look at the CapEx line, yes, the biggest driver of that is the fact that we have continued to invest for future profitable growth also in the course of 2018. And when you compare it to our guidance, we actually closed the year on a more positive note than what we had expected. We had said that we would generate more than EUR 1 billion, excluding the 777s. We now have finished at EUR 1.059 billion, including EUR 180 million from the 777. 
+And finally, one technical remark because we had some questions on that. The same as stamp provision, this has changed lines in the cash flow statement. IFRS 15 has -- overall had limited impact on us. One of the impacts Frank mentioned in the Supply Chain Asia revenue growth. One other impact was that the utilization of the stamp provision is now recognized in the cash flow statement as a working capital movement and no longer as a change in provision. In terms of order of magnitude, nothing materially has changed. It's just changing lines, so that is making it again a little bit more complex. I think bottom line is free cash flow is below last year due to the continued investments, but we are quite pleased that we have ultimately delivered a full year free cash flow well ahead of our guidance. 
+Regarding the operating cash flow development by the divisions. You can see that on Page 29, obviously, IFRS 16 has had quite a significant impact here. We have taken this out on this page. And you can see here that both Forwarding and Express had a very good year, not only on the EBIT side, but also on the operating cash flow performance, whilst PeP was actually obviously impacted by the down trading in the core business in Germany. 
+As IFRS 16 -- I think that's really now the last time I will mention it. As IFRS 16 has brought along quite some changes across many balance sheet figures, we have added a very brief summary on some key balance sheet ratios that you can see on Page 30. I think the key message here is, yes, the numbers have changed significantly after the first full year under the new accounting regime. Nevertheless, we feel very comfortable with those new ratios. We have a very strong balance sheet position, and I think that is what those numbers show you. Net debt-to-EBITDA at 1.9x and a 5x interest cover are very solid numbers. 
+So while there are challenges on the PeP side that we are addressing and while we continuously work on improving our cash flow performance, we still are generating good cash flows to finance our growth CapEx, and we are in a very solid balance sheet position, which is, of course, relevant for shareholder remuneration and, in particular, our dividend proposal. 
+And with that, I will hand back to Frank for the last chapter.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [5]
+--------------------------------------------------------------------------------
+
+          Yes. Thank you, Melanie. That leads us straight away to the dividend. As you can see on Page 32, we are suggesting, as already mentioned, EUR 1.15 as a payout. This is exactly in the range of our Finance Policy now for many, many years. We, of course, reconfirm that policy as well. It's a very good dividend yield based on yesterday's share price. And we do that because we are confident that we will continue to improve our performance in 2019 and '20, and we believe as well that we should give something back to our shareholders. 
+If you look then into how we use the proceeds of the transaction we have done in China on 33, you can see here the EUR 400 million Melanie mentioned already as a onetime gain from the P&L.  We want to invest some of that in the restructuring of our operations in Supply Chain, in particular, in the U.K. That should help us to close the gap. We now have some -- our midterm plans from the sale of our Chinese business. We also want to do something in the eCommerce Solutions, as already mentioned as well, and that should give us still a EUR 200 million upside in the DHL numbers, which is reflected as well in our guidance. 
+In Corporate Functions, we still have -- expect to ramp up in StreetScooter and SmartTrucking that will be visible in our numbers, and that's the reason why the amount of EUR 100 million will be reflected in the Corporate Functions and Corporate Incubations line. Nevertheless, at the end of the day, we will have -- still have a net positive EBIT impact from EUR 100 million. 
+Then turning to the next page, the guidance. We reconfirm first our guidance for next year that we will deliver more than EUR 5 billion based on EUR 1.6 billion, which was originally EUR 1.7 billion. But we carved out eCommerce Solutions, and we always said it will be 0 to EUR 100 million, so that's now included in DHL, the EUR 3.7 billion above that and the reconsolidation line will be then EUR 350 million negative, leading us to, in total, more than EUR 5 billion. 
+In 2019, the range for our P&P is pretty broad. That -- the reason for that is because we still have significant uncertainty with the postage, and we also are preparing in case that the postage is not meeting our expectations that we have headroom to do something to accelerate our indirect cost reduction. So that combined, is then the reason why we put a broad range into that. We believe that this year it's important to prepare for the significant lift we anticipate for 2020 in PeP -- or P&P, sorry. We are confident that we can make that. We believe we have the measures. But as I said, depending on the outcome of the postage decision, we want to be prepared also to accelerate our reduction in our costs to ensure that we can make the 2020 [number]. In DHL, which includes our eCommerce Solutions, we have a much more narrow range. EUR 200 million of that comes from the onetime gain. So there is significant lift year-over-year to this year, but we are very confident that we have -- we are well prepared in all parts of DHL to deliver that. 
+Corporate Functions, the EUR 100 million are reflected here as well. And next year, it should go down because we believe that we can make significant progress in Corporate Incubations and keep the costs stable in Corporate Functions. 
+So that's the guidance. So in summary, to wrap up, we believe that we continue to be in a very strong position, not only strategically, but also financially. We have clear measures to improve our EBIT numbers this year. If we deliver what we have promised here, it will be a new record for us. And if we deliver that, we are very confident that we have laid out the right base for next year's success. 
+So overall, strong cash flow, good balance sheet, healthy balance of growth investments and opportunities in the business and a clear list of measures how we want to accomplish that. 
+So that's it. Thank you very much for listening. And now the floor is yours for any Q&A. Thank you.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [6]
+--------------------------------------------------------------------------------
+
+          Operator, you initiate, please.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And the first question comes from Mark McVicar from Barclays.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [2]
+--------------------------------------------------------------------------------
+
+          I have 3 questions. One, sort of a slightly soft one and one numeric. The first one is just on guidance. Can you just remind us of the process that you and the board go through before you either issue new guidance as you've done for '19 or reiterate the 2020 guidance, which you've also done? Can you just give us a sense for kind of how formalized all that has to be or not?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+
+          Okay. Yes, so I mean, it is ultimately quite -- there is a quite formal element
+(technical difficulty)
+the guidance is part of our annual close process. So the corporate board has to officially discuss the guidance and agree on the guidance. It then goes through the Finance and the Audit Committee of the Supervisory Board, where we discuss it with the Finance and Audit Committee and then finally, it is being discussed with the Supervisory Board. So there is this very formal sign-off process by Corporate Board, Finance and Audit Committee and Supervisory Board. But I think for me, probably even more relevant, we have regular discussions in the corporate board, both about what do we want to do with the guidance for 2019, but also in this context, how do we feel about the 2020 guidance. I think that's probably the background to your question looking at the steep step-up from '19 to '20, do we really stand behind it. So I think perhaps Frank can maybe talk a little bit about what you have to believe for the PeP guidance element, maybe I say 2 sentences on the other 2 buckets. So I think when you look at the DHL number, when you take the number for 2019, the EUR 3.4 billion to EUR 3.5 billion range. We have the EUR 200 million onetime benefit in there. So if we take that out and we look at the midpoint of, let's say, EUR 3.25 billion. To get to above EUR 700 million -- to get to about EUR 3.7 billion implies a step-up of EUR 450 million, which obviously looks quite ambitious. But then you then look at what we have achieved over the past years quite consistently in terms of step-up in Express and you then take into consideration that with Global Forwarding, we now in '18 had the second DHL division joining in, when you then consider that we are -- by the way, in Forwarding, we saw EUR 145 million year-over-year improvement from '17 to '18. When you then look at all the good stuff which just happened in Supply Chain, which unfortunately again has been obscured in 2018 by onetime effects, and you believe that that won't happen again in '19 and '20, and that with restructuring spend we're now really also getting U.K. on the right trajectory, we should have Supply Chain delivering absolute year-over-year contributions. And finally, you know Ken. I don't think he's going to be satisfied having his division being the 1 DHL division with the wrong sign. So we also expect significant improvement in DHL eCommerce Solutions. So a [EUR 400 million] 
+(technical difficulty)
+from '19 to '20 looks like a big number for DHL, but what gives me confidence on this number is that we're actually steaming ahead on 4 cylinders now and not like in some of the past years just on the Express engine. And on the Corporate Functions side, yes, around EUR 500 million this year, includes some headroom for the start-up activities in Corporate Incubations, where we have to use the time in 2019 to bring that in terms of run rate on a more positive trajectory. And on that basis, we should be able to get back to the range of around EUR 350 million, where we were before. So -- I think I'm taking some time for this answer because that is the question we heard repeatedly, how did you get to this guidance and how confident are you? So maybe, Frank, you will answer for the PeP part and then we have that pink elephant covered.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [4]
+--------------------------------------------------------------------------------
+
+          Maybe we can even go one step before I come to P&P, please. So what we actually do, in particular Melanie does it first with her respective division, but also I do that with them that we go also for the individual measures. You might remember we showed for the PeP recovery a clear waterfall chart how we want to do that. And you might even ask why we -- it's not in the deck. I'll come to that in a second. Today, we do that for all divisions and we also reconcile the P&L, what has to happen on price, average price, what has to happen on average costs and all these kinds of stuff. And if you do these 2 things together, you get a pretty comprehensive view what is doable and what needs to happen and how realistic that is. Are these assumptions doable? And this is what we have done, pretty comprehensive I think in autumn up to Christmas until we put the budget in place, and also we'll be renewing that in the new year again in what we'll see as an operational result. So that's what we do, and that makes us confident that this is doable. So you might ask why the waterfall chart is not included. The reason is due to the unknown postage, we have too many moving targets and we felt it's inappropriate that we are changing these numbers. We better wait now for a ruling and then we will update. What we, of course, internally do is that we are constantly looking into the moving parts. And as I already said, the guidance is pretty broad for P&P because we have assumptions what we need to do if A happens or B happens. But we would like to disclose it more if we know at least 1 significant pillar, which is the postage. And that's the reason why we didn't update the picture because it might confuse only everybody if we come then again later on why is that moving and so on, therefore, we felt it's now better. We are still working on the same plan. We are confident that we have enough measures in place to deliver what we have promised. But as long as we don't know the postage, we abstain from updating that, but we will do that if we know what's going on with the postage.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [5]
+--------------------------------------------------------------------------------
+
+          Okay. That's great. My other 2 small questions were, first of all, within the P&P range, do we therefore assume that the low end of that range would include some restructuring costs if you felt you had to cut further into the cost base? Is that why the bottom end is where it is?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [6]
+--------------------------------------------------------------------------------
+
+          Yes, that's the right assumption.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [7]
+--------------------------------------------------------------------------------
+
+          Okay. And then my final question is with the EUR 150 million going into Supply Chain, can you give us a few, maybe one or two, practical examples of things that you've got to deal with? Is it retail? RDCs in the U.K? Or outdated road network? So just a little bit of color around where that money's going to go because people have noted it's quite a large sum of money.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [8]
+--------------------------------------------------------------------------------
+
+          Yes. So it is quite a large sum of money, and I think the first important message is that kind of like indicative. Of course, we will have a business case for each individual component. And there will be several components. You actually touched upon some of them already. So one of the attractive growth areas where we have underinvested in the U.K. is transport management. So that is an area which is going to get some, yes, growth investment going forward. We have, in the retail area, indeed, a couple of contracts and sites where we have more of the capital cost of change. So it will be a mixed bag. And if in the end, we come up with a lower number and we don't spend the full EUR 150 million, so be it. I think we just wanted to give you an indication for the order of magnitude we have granted to the Supply Chain team. They now have to bring forward the individual business cases. Because we're not just going to blow the money for blowing the money but we really want to have a very clear return path to compensate, as one element, the EUR 30 million net EBIT loss due to the divestment of the Supply Chain China business, but this is more about really getting us into a sustainable profits run rate for Supply Chain U.K. also beyond 2020.
+
+--------------------------------------------------------------------------------
+Operator    [9]
+--------------------------------------------------------------------------------
+
+          The next caller is Tobias Sittig, MainFirst.
+
+--------------------------------------------------------------------------------
+Tobias Sittig,  MainFirst Bank AG, Research Division - Head of Equity Research Germany & Senior Equity Analyst    [10]
+--------------------------------------------------------------------------------
+
+          I've got 3. Firstly, on eCommerce Solutions, could you provide a little bit of granularity on what you've done, what you've been doing? You already discontinued some loss-making operations. How much does that save you in EBIT? And how should we be looking at those EUR 60 million that you provisioned for 2019? Is that something which allows you to exit one or the other country operation? Or will that be operating losses in your mind? How should we be looking about that? Secondly, if I'm correctly informed, the NHS contract, which is one of your biggest ends this year, could you give us some idea on what that will do to the Supply Chain division? And lastly, your free cash flow number, does that -- the guidance for 2019, does that include the EUR 700 million proceeds from selling Supply Chain China? Or is that excluding that cash inflow?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [11]
+--------------------------------------------------------------------------------
+
+          Okay. So I take the second one, and Melanie may answer then the first and the third. So on NHS, we still have significant business. They wanted to distribute the suppliers -- or the government wanted to have several suppliers providing. We still kept pretty attractive businesses but, of course, that will not generate the same EBIT impact as we had before, but that is already reflected in our guidance. And that happens once in a while that sometimes you win and sometimes you lose, but that's what it is. But we still have significant NHS business in the U.K.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [12]
+--------------------------------------------------------------------------------
+
+          And on your first question with regard to eCommerce Solutions, I mean, it is relatively early days. Ken hasn't completed his first 100 days yet, so I can't give you a full and precise answer. I think what is already clear is -- so when you look at the eCommerce Solutions portfolio, it is quite a mixed bag. We have nicely profitable businesses in there. We have early-stage start-up activities which are lossmaking in there. So I think the EUR 60 million will probably be spent on 3 categories. The first one is there is obviously a component of overhead restructuring taking place here as well because we had to build up overhead, yes, not in line with the more start-up nature of this division. So that is going to be one clear component. We will have some countries where we are going to right size our operations, maybe take a different approach so that is going to consume a bit of cost of change. But there will also be a very positive forward-looking element, so there are some countries where we would actually like to accelerate the growth based on the good performance we are seeing. I will say that we probably have to give Ken a little bit more time, and then in one of the next quarters, we will probably give you a more holistic view on what is happening in eCommerce Solutions, but that is directionally where we intend to spend the EUR 60 million. With regard to our free cash flow guidance, so we also got a couple of questions on that this morning obviously because the EUR 500 million looks relatively low. It does include the proceeds from the Supply Chain China sale as a very positive cash-in. It also includes the cash-out for the 777s as a very negative cash-out of EUR 1.1 billion. It also includes some other moving parts like we will have a higher change in the provisions line this year due to some of the cost of change from the civil servants in PeP are now becoming cash effective in 2019. So I would emphasize that, obviously, the intention is to do better and we have said that the EUR 500 million is our minimum aspiration and that I mentioned.
+
+--------------------------------------------------------------------------------
+Operator    [13]
+--------------------------------------------------------------------------------
+
+          Next question, Adrian Pehl, Commerzbank.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Analyst    [14]
+--------------------------------------------------------------------------------
+
+          This is Adrian. Three questions from my side. Actually, first of all, there was quite some operating cash flow swing in Q4 net of the IFRS 16, in fact, in Supply Chain. I was just wondering whether you could give us some more insight on what happened here because it was quite a sizable number actually. The second one is on CapEx net of the 777s. So I was just asking myself should we continue to expect CapEx in 2020 to be at the level of '19 or lower. Or what is the, at least, qualitative assumption that we should take here? And last but not least, on parcel pricing. When I did the math correctly, actually, the parcel unit price is more or less flat in 2018 versus 2017 at 3.76 roughly. So it looks like that it actually picked up a little bit in Q4. But I was asking myself, is the market ready in 2019, actually, for a more sizable increase, i.e. EUR 0.10, 3% or something, for example? Is that what you are aiming at? Or what should we think about it?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [15]
+--------------------------------------------------------------------------------
+
+          Okay. So maybe starting with the Supply Chain cash flow question. Indeed, we had a very, very strong cash flow in Supply Chain in the fourth quarter. And that was also driven by our real estate venturing activities, which are a regular part of our Supply Chain business, but where we have a typical cyclical pattern over the year. Because we look at venturing stuff is when we win a new customer contract, we have the opportunity to go and lease a warehouse or in certain attractive cases, we can also build the warehouse ourselves and then sell it on the real estate gain to somebody who then wants to operate it or wants to keep it in its books going forward. And that's been a part of the Supply Chain business for years. 
+In terms of phasing over the course of the year, given that a lot of this stuff still happens in Europe and North America, you typically start the project in the spring and then complete the construction towards the fall. And then everybody tries to get the transaction closed before the year-end. I would prefer this to be spread out more evenly across quarters, but unfortunately, the colleagues tell me that this is the nature of the business. But that was the big driver because, during the course of the year, we built this up in working capital, and then it is re-leased and really brings us the cash in when real estate transaction happens. 
+With regard to CapEx, what I call kind of like the regular underlying CapEx, yes, this has grown gradually over time. We don't see a catch up in each year. It's not that we have underinvested, but we also expect that it will continue to grow gradually with business growth. So I think it's a very steady pattern we expect also going forward with incremental step-ups year-over-year in line with business growth. 
+And then finally, with regard to the parcel unit price, yes, when you look at the full year 2018, it looks relatively flattish. The important thing is that even though we only started with the heavy year of management activities in the second half of the year, it was quite pleasing to see already in the fourth quarter stronger revenue growth than volume growth. And that is very obviously something we expect to continue in 2019 because we are increasing prices quite significantly. The benefit here is the whole market has been ready for price increases because also our competitors feel very strong cost pressure. We have a 45% market share. So obviously, we, as a market leader, also have to take the lead in that area.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [16]
+--------------------------------------------------------------------------------
+
+          And maybe I add to that. We have -- we don't talk about the Q1, but of course, we have changed quite a bit of contracts January 1. And what we've got so far as a visibility is that we continue to see good healthy growth in volume, but we also see good increase in the average price, and that is very encouraging. So I think the market is ready for significant price increases. We will never comment on cents per parcel, but there is acceptance in the market. And I have no doubt that our competitors are following our role model as well because we all have cost pressure due to the low unemployment in Germany; and the increases in transportation costs; not too -- last, by the toll increase that the government has taken January 1. So we are very confident that we will see a significant increase in average price even if you still have to keep in mind mix and match because we are doing that mainly on the business customers. And of course, on private customers, we have done very little and, therefore, the average price will not -- fully visible in the average, but we will see that in their respective segments.
+
+--------------------------------------------------------------------------------
+Operator    [17]
+--------------------------------------------------------------------------------
+
+          The next question is from Andy Chu, Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Chi Onn Chu,  Deutsche Bank AG, Research Division - Research Analyst    [18]
+--------------------------------------------------------------------------------
+
+          Three questions, if I may, please. Firstly in terms of CapEx and from an underlying CapEx perspective, I understand that the EUR 2.6 billion probably won't include anything that Ken needs to do on his -- in his new role. So could you give us a flavor of what sort of headroom may be granted to Ken to sort of accelerate the strategy within the new DHL eCommerce Solutions? So could that be a material uplift in CapEx going forward? Secondly, on the P&P division, why are you not going ahead with restructuring? And why does that depend, I think you mentioned, Frank, on the stamp price and where that goes? Isn't that something that you can control in terms of indirect costs and potentially sort of restart or start again the early retirement program for civil servants, for example? And then in terms of yesterday's announcements in P&P of a new head, who's been with the group for some time, but in some strategic roles or -- and within the DGF division of late, how important do you think it is to have somebody that is sort of in tune or aligned with sort of union negotiations? Or is that not a big consideration when making that appointment?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [19]
+--------------------------------------------------------------------------------
+
+          So I think Melanie will say something about the CapEx for eCommerce Solutions. So maybe I talk with the appointment. Tobias has been around and known as well by our social partners for a while, of course, that plays a role. I think he has demonstrated in the short time period that he really digs into the business just to -- he has been out in the field to deliver parcels and letters almost 10 times. That gives him tremendous credibility with also the unions and the workers' council, not even about our operational leaders and our mailman. And he has taken that decision from day 1 when he took over the COO role. That has been also his recipe for success when he joined DGF. He did exactly the same, fundamentally understands the business. What I hear from our social partner, they highly respect what he has done, to go out and understand before he takes actions. That's one of the drivers. He is very smart, but he's also very close to the detail. He will be a great operational leader for that type of business despite that he has a different background. He's from education and engineer. That might help as well. So I think I will see a lot of tailwind even in that relationship. And by the way, the negotiations are usually led by our HR Director, Thomas Ogilvie. So I think that will work. 
+On the other side, the whole process with the regulation is pretty complex and we try to avoid any disturbance in addition to what we have already. And that's the reason why we are a little bit cautious to mention too many things. It might confuse the process even further because we might get question what does it mean or that means. And that's the reason why we are a little bit reserved for talking too much what we should do. In addition, therefore, we wait and let's see what comes out. And of course, we are thinking as well what we can do in addition.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [20]
+--------------------------------------------------------------------------------
+
+          And then on your first question, the concern that we may see a surge in CapEx from DHL eCommerce Solutions. That is nothing I would be concerned about. First of all, for this year, in the midterm planning horizon, we have split the old PeP CapEx planning into a portion for Ken and a portion for Tobias because, of course, we had included something for DHL eCommerce Solutions already in the old plan. With Ken's current approach, I think he's going to be extremely restrictive on this. That was also mention on the DHL eCommerce Solutions slide that before spending more, he really wants to finish his comprehensive business review. So additional CapEx step-up from DHL eCommerce Solutions, I wouldn't put into the very category.
+
+--------------------------------------------------------------------------------
+Chi Onn Chu,  Deutsche Bank AG, Research Division - Research Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Okay. Yes, just maybe one more. Just in terms of the stamp price.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [22]
+--------------------------------------------------------------------------------
+
+          Where we stand on the process? Or...
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [23]
+--------------------------------------------------------------------------------
+
+          Andy? You were sort cut off. Sorry, Andy, we can't hear you. You're either on mute or try again. We would try to maneuver you in again.
+
+--------------------------------------------------------------------------------
+Operator    [24]
+--------------------------------------------------------------------------------
+
+          Okay, next question, Damian Brewer from Royal Bank of Canada.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC Capital Markets, LLC, Research Division - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          Yes, I've got probably 3 questions as well. Might as well, because everyone else has. First of all, on the DHL division in the Express side, seems like with the focus on actually what seems to be yielding up on the more optimal sized parcels, the focus in 2019 since returning a little bit more to margin rather than volume or share. More generally thinking, at what point do you think you would need to sort of reverse that process and start focusing on volume again? Or are you becoming self-diluting to prevent anyone else starting to erode your position? So just where are we before you think bumping margin caps out in that business? Second question, and I guess this ties to the sort of corporate center EBIT guidance. One assumes the extra EUR 100 million there, a lot of that relates to StreetScooter. Can I ask when does StreetScooter not just turn profitable, but start to cover its 8.5% sort of standard cost of capital in the business? And therefore, what does StreetScooter become? Is it going to become a sixth division of the business? Or what is the long-term objective there? If you could elaborate a little bit more on that, I think that will be quite interesting. And then very finally, just turning to financials. Could you clarify in terms of the PeP restructuring charges, the EUR 502 million, if we're to look at the cash phasing of that, how much of that is already in the '18 numbers? How much of that turns into cash out in '19? And how much is left to come out in '20 or onwards?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [26]
+--------------------------------------------------------------------------------
+
+          Okay. Yes. So maybe starting with the last question. So the biggest chunk of the EUR 500 million is the early retirement program for civil servants, the EUR 400 million. And that had very little cash impact in 2018 but will have a cash impact going forward. The highest one will be in 2019, and we actually assume that in 2019 that will be around EUR 100 million, and then it will go down in the subsequent years with the civil servants all the time going into full retirement. So that is the biggest chunk out of the EUR 500 million, and it is going to have a material impact on cash flow in '19, gradually then going down in the subsequent years. 
+In terms of StreetScooter. So I mean, StreetScooter has been chunking up the production in 2018 going into 2019 and is in a typical financial pattern of a start-up company, which is, yes, very dissimilar to our rest of the business portfolio. We said clearly that we don't want to stay an automotive manufacturer or turn into an automotive manufacturer. So we are very pleased with the operational progress StreetScooter is making, but we are looking for the right financial set up going forward, where we should be able to give you more clarity in the course of 2019. 
+And then with regard to Express, yes, that is really a very fine, delicate balance. I mean, this is why we included this picture on the gross profit triangle in the presentation. To make money and a good margin and a good growth in Express, you need constant rebalancing along those dimensions starting, of course, also with what you do on the top line where we have seen very strong shipment per day growth. And what we have now started in the second half of last year was a campaign on heavyweight shipment where we've managed out quite a bit of heavyweight stuff. That leads to a reduction in weight per shipment and, hence, also to a reduction in revenue per shipment. And so what we expect very clearly now in the first quarter is a delta between revenue per day and shipment per day. I think in terms of more general how to calibrate optimally in the year, I think we have to see a little bit more of the first quarter. I mean, January and February are notoriously difficult to interpret, and in those macroeconomic times even more so. What gives me confidence on the Express side is that we have this extremely experienced team, with John now taking over from Canada in a totally smooth fashion. They know how to optimize along this triangle. We really have to see now in the course of the first quarter what is really the right position for the year 2019.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC Capital Markets, LLC, Research Division - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Can I just follow-up with one, just given that cash in focus, particularly at the moment. How much capital is being sunk into StreetScooter? And therefore, how much potentially is there sitting in the business that could be released if there was to be a change in that business?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [28]
+--------------------------------------------------------------------------------
+
+          I think the big portion of cash drain in StreetScooter have been working capital, which again is not unsurprising in a start-up business, where we have ramped up production quite significantly with opening the second production facility in 2018. So very obviously, one of the key priorities now for 2019 is to really find the optimum balance between production output and sales uptake of the StreetScooters.
+
+--------------------------------------------------------------------------------
+Operator    [29]
+--------------------------------------------------------------------------------
+
+          And the next question comes from Edward Stanford, HSBC.
+
+--------------------------------------------------------------------------------
+Edward John Rodney Stanford,  HSBC, Research Division - Analyst    [30]
+--------------------------------------------------------------------------------
+
+          Two questions, if I may for a change. First of all, going back to your guidance on PeP and the spread between the upper and the lower band. Are we to assume in the upper band that you have made some assumptions on what pricing might look like? And I'll chance that by asking if you're going to tell us what that is? Secondly, looking at the air freight business, obviously, volumes have come under -- have weakened in Q4, and that's been consistent with the rest of the year. But hearing from your competitors that the air freight market was quite challenging anyway. Can you perhaps provide a flavor of the extent to which the volume fall was market-driven and the extent to which it was if you like a choice to have profitable volumes? And how is it looking so far this year?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [31]
+--------------------------------------------------------------------------------
+
+          Yes. So on the postage, unfortunately, Edward, I'm very reluctant in giving public guidance somehow to the regulator what we would think is sitting there and where. Because that has, of course, potential impact on the process. Let's wait what now finally the government will do, and then we will look into what the regulator will decide. We definitely assume that it will be better than the 4.8%, which we gave as the first time, but we don't know yet. And of course, we're assuming certain elements, which are necessary to happen. And also, the timing is important, when it happens and how much compensation we might get for the delay of the process. All these are still moving parts, and I'm pretty reluctant in say more than what I've just said.
+
+--------------------------------------------------------------------------------
+Edward John Rodney Stanford,  HSBC, Research Division - Analyst    [32]
+--------------------------------------------------------------------------------
+
+          Can I just follow up on that? But -- sorry to interrupt. Just to say that you have made some assumption on all those variables at the upper end of the guidance, right?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [33]
+--------------------------------------------------------------------------------
+
+          Of course, sure.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [34]
+--------------------------------------------------------------------------------
+
+          So then on the air freight side, so the shrinkage of the business is very predominantly associated with our own internal decisions, so it's not a statement on the market. It has been this focus on yield, which we have pursued especially in the last 1.5 years since Tim came on board. And the focus for 2019 is to slowly get back into growth territory so to change the sign. We don't have to grow in line with market yet. The focus is really on keeping the good profitability levels we have achieved but getting from a shrinking position into, again, growing position. That's the top priority, get into profitable growth mode for both ends of the freight.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [35]
+--------------------------------------------------------------------------------
+
+          Operator, maybe before we go to the next caller, Andy Chu dropped out of the line, but got on his keyboard and sent us the last one question that he wanted to take regarding stamp price regulation. We still think that the 3-year framework is going to be the basis for the decision. That's basically his question.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [36]
+--------------------------------------------------------------------------------
+
+          That's the question.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [37]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [38]
+--------------------------------------------------------------------------------
+
+          Yes. We are still assuming that will be until of end of 2021.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [39]
+--------------------------------------------------------------------------------
+
+          Okay. Andy, so that's for you, okay. And over to the next caller, please.
+
+--------------------------------------------------------------------------------
+Operator    [40]
+--------------------------------------------------------------------------------
+
+          And next question, Ed Steele from Citi.
+
+--------------------------------------------------------------------------------
+Ed Steele,  Citigroup Inc, Research Division - Director    [41]
+--------------------------------------------------------------------------------
+
+          Two areas I'd like to ask about, please. The first is, am I right in thinking that with regards to the extra EUR 100 million of ramp-up costs in the Corporate Functions, the assumption that that'll just be a one-off is because you expect gross profit from those associated Corporate Functions to grow by that amount at least in 2020. If that's correct, what can you say to help us be reassured that that's a reasonable assumption, please? And then on the second question, again, on these modeling considerations, the EUR 100 million restructuring efforts in the U.K., obviously, is a very big number relative to the size of the business and its profitability. What has been the misjudgments made, please, by that team in pricing of their contract bids in the last few years, such that this is necessary? And why should we not be fearful that these are signs of industry maturation that could repeat in other geographies over time, please?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [42]
+--------------------------------------------------------------------------------
+
+          May I take the second and, Melanie, the first part. I think if you look into the U.K., what probably happened there is we were a little bit too satisfied with the progress we have seen because that's a big business. It's not a small business, a huge region. It's the foundation of excellence when we acquired, and they did over many years, pretty well. And if that happens, then maybe there had been some mistakes in detail made, and I think it's now time to correct them somehow. We brought a new management team in to shake up that, and we found some challenges, which we better address now. And with the opportunity we got, we can do that now and that will help us to get the U.K. business back on growth and profitable growth. And therefore, I think it's a decision from us as a management team that we say, "Let's go for it and to correct some things." So in a sense, the standardization is significantly less than we have in other parts of the world. The upgrade of facilities is probably a little bit not done in the way as we should have done. And that should be all addressed by these restructuring expenses. So I think there's opportunity to improve the underlying performance quite a bit. And John said I would like to reuse some of the proceeds we get from our sale to invest that and to help us to close the gap we have gotten from the sale of our Chinese business.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [43]
+--------------------------------------------------------------------------------
+
+          And on your first question, the EUR 100 million Corporate Functions. So 2018 was the first year of Corporate Functions, where we had grouped together some of the start-up activities we had in the group overall. We have now developed solid business plans for all of those activities, with StreetScooter and SmarTrucking in India being the 2 biggest elements in the portfolio. On the basis of these business plans, we assume that, yes, in 2019, we will see quite a burden in our P&L, which is why we have flacked the EUR 100 million. But of course, the anticipation is that we will see some return and, hence, elimination of the EUR 100 million by 2020, turning things into the right direction. And again, I think this is really -- in terms of profile, we are talking about start-up activities here where we need the years '18, '19 to really get it into profitable territory. I think on the underlying profit center, that is quite unspectacular. It actually had a very strong finish in 2018, and we're keeping a tight cost control on that bucket. So it is really making sure that the Corporate Functions start-up activities deliver according to plan.
+
+--------------------------------------------------------------------------------
+Ed Steele,  Citigroup Inc, Research Division - Director    [44]
+--------------------------------------------------------------------------------
+
+          Okay. Just on that though, what is it that -- obviously, you've got a business plan. But what is it about your order book or your client discussions that gives you that conviction that that level of revenue is going to drop through so quickly, please? Did this actually happen or is it more just conversation?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [45]
+--------------------------------------------------------------------------------
+
+          I think there are a number of important elements. I guess, for me, the most important element is the professionalization of the management team we have been working on over the last month. We brought a new CFO from the automotive business into the company 6 months ago, who has helped us enormously with inventory management, matching production and order book. We have announced just last week that we have a new CEO for StreetScooter. So I think we have gone now, over the last month through the transition, from a very much engineering research company into a professional operations managing company. And I think for me, the biggest reason for my confidence is the strength of the management team. And just looking at what the new CFO has already done over the last 6 months on the finance side, I think we are seeing very good progress.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [46]
+--------------------------------------------------------------------------------
+
+          Yes. And not to forget, we have now 9,000 cars ourselves out in the street, and we are gaining every day more experience how you charge these cars, how long they last. And that is factual evidence also for external sales because people see now that this is not just one winter. It's really now on a big scale and has worked pretty well. So of course, I hear noise from the operation being the head of that for some time and also from our workers' council. 
+The only subject that didn't come up in the last weeks with regard to what we do in operations and when users complained is the performance of the StreetScooters. That's interesting. That's not positive evidence, but negative evidence because they usually don't ever stop to complain because they hear it from the (inaudible), and it had worked very well. We deliver great service quality through Christmas despite that we have 9,000 vehicles now in the business. So that is also important for the new management because that demonstrate that we really have a robust vehicle produced, and that should help accelerate external sales as well.
+
+--------------------------------------------------------------------------------
+Operator    [47]
+--------------------------------------------------------------------------------
+
+          Our next caller is Joel Spungin with Berenberg.
+
+--------------------------------------------------------------------------------
+Joel Adam Spungin,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          I've just got a couple left, actually. The first one is -- sorry to once again come back to the issue of the P&P guidance, but just curious to understand whether you considered maybe setting a range about around the PeP profitability for 2020 in the way that you've done for 2019, especially given how much the swing, how much it could swing in 2019. And also, given that I should imagine the regulator is going to look at this and say, well, if you think you can make EUR 1.6 billion of profit in 2020, which would be a margin back up to as high as it's pretty much been, that might have some bearing on whatever decision they come to. So I'm just interested to understand why you think, under any circumstances, EUR 1.6 billion is where things will drop out? And then my second question is, again, just back on the investment you're making into Supply Chain and actually, indeed, into eCommerce. Melanie, I was wondering if you could just clarify how much of that expense is noncash as opposed to cash. And also interested to understand what you think the payback will be, and how long we'll see -- it will take to come through, particularly on the Supply Chain side. The underlying margin in Supply Chain actually wasn't that bad if you strip out the one-offs, so I'm interested to understand where you think it could go from here.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [49]
+--------------------------------------------------------------------------------
+
+          Yes. So let me start with the first one. So the number we are planning for next year has been already been brought to the regulator. To artificially change that now just to say the number is lower, they would not trust us anyway. We believe we have all the measures, and we have to disclose all the measures as well to them, too. And it's very difficult to say these are the measures we intend to do, and this is the impact. And then say, but overall, it doesn't lead to these numbers. So that's the reason why we were confident that we have more than enough measures to make that number. And now to change that number to a lower number just to hope that postage regulation will get better, it would be screwing up the process entirely. So we looked into that again and again. We believe that we can achieve that goal through the measures we have on our desk.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [50]
+--------------------------------------------------------------------------------
+
+          And the Supply Chain question. So I can't give you the final answer yet because we're just going through the long list of individual projects, which are applying against the EUR 150 million pot. It is, however, clear that in terms of cash out for this year, that will be substantially lower than the EUR 115 million -- EUR 150 million. And I think I would also say that overall, not all of the EUR 150 million will be cash relevant, but we'll probably need a couple of weeks more to really get to the final answer. That's just in terms of direction. In terms of EBIT margin, yes, I mean, we have a very good EBIT margin performance already in the Americas, in Asia. What has been holding us back over the last years was mainland Europe, which has now consistently moved in the right direction and now it's the U.K. But I really think overall, we have put out some time ago this 4% to 5% EBIT margin range for Supply Chain. I see no reason why we shouldn't be now really solidly moving into this territory.
+
+--------------------------------------------------------------------------------
+Joel Adam Spungin,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [51]
+--------------------------------------------------------------------------------
+
+          Okay. And then just in terms of the 150-ish of investment, that's all going to be one-off. We shouldn't expect there to be more going in, in 2020.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [52]
+--------------------------------------------------------------------------------
+
+          No. No, for Supply Chain, I think -- and Frank also said that. So I think, historically, you will recall that we had a couple of challenges in the mainland Europe region to fix in Supply Chain. I think the U.K. was a little bit of, yes, fortress of its own. That is really the one area where big chunks of the Supply Chain agenda driving standardization, digitalizing and so on has not been picked up in the same way as in the other regions. We are confident that with what we are now granting them as headroom in 2019, they should be able to really address those challenges. So it is clearly a one-off, and you shouldn't see a continuation in 2020.
+
+--------------------------------------------------------------------------------
+Operator    [53]
+--------------------------------------------------------------------------------
+
+          And the next caller is David Ross, Stifel.
+
+--------------------------------------------------------------------------------
+David Griffith Ross,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD of Global Transportation and Logistics    [54]
+--------------------------------------------------------------------------------
+
+          Starting off on PeP. The slide you showed about longer-term margin changes at the different divisions on Page 15 of the presentation, showed that really PeP was the one that's been underperforming. As you think about that longer term, where do you see it settling out? Is the 6% roughly a floor? Do you see it trending back up closer to 8%? And then what does it need to be to earn an excess of your cost of capital in that business?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [55]
+--------------------------------------------------------------------------------
+
+          Yes. So I think the first distorting element was that over the past years, we had 2 very different animals in PeP. One was the start-up activity in what is now called DHL eCommerce Solutions where, as you will have seen on one of the slides, we're talking now EUR 4 billion revenue, which has been ramped up over the last years at virtually 0 EBIT, so that had a margin dilutive effect. So that is obviously now very high on Ken's agenda for the year at eCommerce Solutions, to turn it from loss -- slightly lossmaking 0-ish position into something where we earn a reasonable return. So I think Ken's aspiration is to first go to kind of like the mid-single digits in terms of EBIT margin aspiration. That is going to fix that part of the problem. 
+I think in Germany -- and Frank can maybe also comment on that. So for Post & Parcel Germany, we had for a long time been quite successful in managing the transformation from letter to parcel. 2018 was a setback, but I think clearly now, the aspiration also with the guidance for 2020 is to go back to the levels we had before. That is quite an ambition because, yes, we are still losing on the high contribution product in letter, and we are ramping up in parcel. I think these are measures that we have explained we are quite confident that we can get to the 2020 number.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [56]
+--------------------------------------------------------------------------------
+
+          Yes. So and on the cost of capital, we are earning far above the cost of capital. You might remember that we changed -- or the government changed regulation a couple of years ago from a return on capital into a return on sales comparable to the players in the market. The reason is because this is not a tremendously capital-intensive business, but a very labor-intensive business and, therefore, the return on sales is a better yardstick. So we also continued last year that we earned our cost of capital, and there is no risk that we not will earn. We are not guiding you on margins because we are committed to more overall absolute EBIT because there are so many moving targets of top line and price average and all these kind of stuff. So we feel more confident instead of guiding for a return on sales. But what is happening at the moment that the government is looking into that more and make it more precise what is a comparable return on sales. And it looks that this is a higher number than they have assumed so far, so that should give us room for improvement as well. So we want to increase the return on sales, but we are not guiding on that because we think it's -- we feel more confident to guide on the absolute number for profit. But I can assure you, we are making our cost of capital including charges for goodwill.
+
+--------------------------------------------------------------------------------
+David Griffith Ross,  Stifel, Nicolaus & Company, Incorporated, Research Division - MD of Global Transportation and Logistics    [57]
+--------------------------------------------------------------------------------
+
+          That's very good. And then, last question, Frank, you've got a unique perspective on what's going on in China and Asia more broadly through Supply Chain, through Forwarding, through Express. What -- I guess, how do you see the Chinese economy right now given the trade tensions with the U.S. in the broader Asia Supply Chain?
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [58]
+--------------------------------------------------------------------------------
+
+          Yes. So that's a difficult question because we are now at the end of February and not further on. And Chinese New Year is always something special in the numbers. We definitely have seen some significant traffic from China into the world by the end of last year, particularly the U.S., and we see a continuation of that even. 
+(technical difficulty) 
+That is an early reflection of expected increases in duties and all whatsoever, we don't know. We believe that China will continue to grow on a pretty high level still, taking the scale of the economy into consideration. 
+So -- but Chinese New Year is always -- every time when we have our annual numbers, some -- one of you asking that question and I -- we always say the same to say really something about China, we need March and April, the first 2 months, because it's driven by assumptions these guys have made to shut down their operations, and they are not changing that on short notice because they give people vacation, all this kind of stuff. So it's tricky. I don't believe that we are really getting massive solved. We read as well the newspapers, but they say the expectation is lower than last year's. They now want to do a tax reform and all this kind of stuff. So I think the Chinese government always looks into that very carefully, and that's the reason why I believe we will see a continuation of good growth out of China.
+
+--------------------------------------------------------------------------------
+Operator    [59]
+--------------------------------------------------------------------------------
+
+          Yes, one more caller, Dominic Edridge, UBS.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS Investment Bank, Research Division - Executive Director and Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Just 2 very quick ones. One clarification just again just running back onto the free cash flow. Melanie, can you just confirm. I know you said there's EUR 100 million from the early retirement plan. Is that the only other -- is that the only major movement we should be thinking about year-on-year, except, of course, for the CapEx and other things? It's just because looking at the EBIT growth that you're -- that you're guiding to, that implies a lot better cash flow. Should we just assume -- and I know that you did say it in the presentation that that's the floor for free cash flow and, therefore, it could easily be higher than that depending on circumstances. And then the second question is related to that a little bit on the new aircraft. Can you just remind us what benefits you'll get from the CapEx on that new aircraft? And b, how you're financing it. And just lastly, the benefit you're talking about, is that just the financial benefit of owning versus leasing? Or are you including any operational benefit from lower OpEx in there?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [61]
+--------------------------------------------------------------------------------
+
+          Yes. So on the free cash flow guidance, there are a number of moving parts. First of all, there are the kind of like 3 one-off elements: the cash in from China Supply Chain, the cash out for the 777. We then have, as I said, around about EUR 100 million from the civil servants. And there's probably going to be a little bit from the other -- restructuring change and provision stuff on top of the ordinary stuff. I think the 2 other things which we have assumed is that we assume that we will have an increase in cash taxes paid. We have also guided for an increase in our tax rate. So that is also something you have to take, unfortunately, into consideration when modeling for the cash flow. And of course, in growing business, we have assumed that in line with growth, there will be some cash out from working capital. But I mean, we said more than EUR 500 million and, of course, it would be very nice if we could just give you a positive surprise. I think it's very early in the year. We have to see how a number of these elements develop, but the EUR 500 million is clearly the floor in the guidance. 
+On the aircraft financing, that's also a topic where we will probably give you a bit more of an update in one of the next calls. I think -- so in terms of where we stand on the actual financing, we are working on this. We are getting the first 777s delivered in the second quarter, so we are looking at very concrete financing concepts for those aircraft. That is a very special market with some very creative opportunities, so I'm quite optimistic that we will really get excellent financing deals done for those aircraft. 
+In terms of fundamental logic, why are we doing it? So historically, we've had those intercon airplanes, to a large degree, leased by our aviation partners, where we took not only crew and maintenance but also the aircraft from our flying partners. 
+When you look at the strength of our balance sheet and the financing conditions we have as a BBB+-rated company and the spreads that give to other companies, which would finance those aircraft potentially, there's just so much upside for us doing it ourselves that we decided it would be financially stupid not to leverage our balance sheet for financing those aircraft. They will still be flown by partners to a large extent. 
+And I think the last argument is, we would've had them on the balance sheet now anyway in terms of IFRS 16 accounting. But for me, the important bottom line is when you look at the free cash flow, you get benefits, both from the financing and also by replacing aging 747s with modern aircraft. That is going to be the big impact you will see in the Express OCF going forward because we are going to use more fuel-efficient aircraft than what we had before.
+
+--------------------------------------------------------------------------------
+Dominic Edridge,  UBS Investment Bank, Research Division - Executive Director and Analyst    [62]
+--------------------------------------------------------------------------------
+
+          I'm sorry. Just to go back onto the -- just follow up on the tax. I know that, obviously, it's a bit of a moving part. So I think it went down by about EUR 1 billion your unrecognized deferred tax assets. Can you just say what the sort of situation is on the tax side? Is this always -- is it always the case of just waiting and seeing how the planning works out for this year?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [63]
+--------------------------------------------------------------------------------
+
+          Yes. So I think this time, we have given for the first time a range on tax because it has always developed a bit differently from what we had guided for in the beginning of the year. Last year, that was actually due to the reduced profit in Germany. In terms of tax loss, we still have around about EUR 5 billion in unutilized tax loss. And that is, of course, something which can potentially have some impact on how the tax rate develops. And I think we have to see how the business performance is. That was the reason why we have now given the range for 2019 with regard to tax.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [64]
+--------------------------------------------------------------------------------
+
+          Okay, operator, any further callers waiting?
+
+--------------------------------------------------------------------------------
+Operator    [65]
+--------------------------------------------------------------------------------
+
+          No. There are no further questions.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [66]
+--------------------------------------------------------------------------------
+
+          Well, in that case. Thank you very much for your very good questions. I hope you are equally satisfied with the answers. Thank you to Melanie and Frank. And before we now rush out and going to see you over the next couple of weeks on road shows and conferences, for some final remarks on this call. Over to you, Frank.
+
+--------------------------------------------------------------------------------
+Frank Appel,  Deutsche Post AG - Chairman of Management Board & CEO    [67]
+--------------------------------------------------------------------------------
+
+          Yes. So to summarize, of course, we are satisfied that we met all indicators of our revised guidance. It was a bumpy year for us. We have taken all the actions which are necessary to put us on the right foot this year. We have seen good traction in all parts of our business in the last quarter. If you look into the year-over-year development of the last quarter, it was pretty positive. That's the reason why we believe that we can make the EUR 3.9 billion to EUR 4.3 billion this year. And it also makes us confident that we have then the right base to deliver more than EUR 5 billion next year. So I think we turned the corner. We are heading again in the right direction, and we are working on all cylinders now somehow and having all divisions in -- have the right momentum and the right direction and the right measures in place. And of course, I'm very happy that I have now my complete team back. We have Tobias joining April 1. And then I also can focus more on the midterm and long-term perspective for the company, which is, of course, important for me as the CEO as well. 
+So thank you very much for listening. We are looking forward to see you very soon again in different settings, and thank you for joining us today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------
