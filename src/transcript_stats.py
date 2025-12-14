@@ -16,6 +16,7 @@ def create_transcripts_dataframe() -> pd.DataFrame:
 
     for transcript_file in PROCESSED_DIR.rglob("*.txt"):
         ticker, year, month, day, id = transcript_file.stem.split("-")
+        file_name = transcript_file.relative_to(BASE_DIR)
 
         rows.append(
             {
@@ -23,7 +24,7 @@ def create_transcripts_dataframe() -> pd.DataFrame:
                 "year": year,
                 "month": month,
                 "day": day,
-                "filename": transcript_file,
+                "filename": file_name,
             }
         )
 
