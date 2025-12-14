@@ -1,0 +1,792 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q2 2019 Deutsche Post AG Earnings Call
+AUGUST 06, 2019 / 8:00AM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Melanie Kreis
+   Deutsche Post AG - CFO & Member of Management Board
+ * Martin Ziegenbalg
+   Deutsche Post AG - Head of IR
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Matija Gergolet
+   Goldman Sachs Group Inc., Research Division - Equity Analyst
+ * Robert John Joynson
+   Exane BNP Paribas, Research Division - Senior Transport Analyst
+ * Damian Brewer
+   RBC Capital Markets, LLC, Research Division - Analyst
+ * Joel Adam Spungin
+   Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst
+ * Christian Obst
+   Baader-Helvea Equity Research - Analyst
+ * Daniel Roeska
+   Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst
+ * Andre F. M. Mulder
+   Kepler Cheuvreux, Research Division - Analyst
+ * Cristian Nedelcu
+   UBS Investment Bank, Research Division - Associate Director and Aerospace & Defence Analyst
+ * Adrian Pehl
+   Commerzbank AG, Research Division - Head of TMT and Consumer
+ * David Kerstens
+   Jefferies LLC, Research Division - Equity Analyst
+ * Mark John McVicar
+   Barclays Bank PLC, Research Division - Head of European Transportation Research
+ * Chi Onn Chu
+   Deutsche Bank AG, Research Division - Research Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Good morning, ladies and gentlemen, and welcome to the Deutsche Post DHL conference call regarding the second quarter results 2019.
+(Operator Instructions) Let me now turn the floor over to your host, Mr. Martin Ziegenbalg.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. And good morning to everyone out there, to our Q2 2019 results call.
+As outlined in the invite, I've got Melanie Kreis, Group CFO, with me here today. And we're going to do straightforward standard procedure. Melanie is going to take you through the deck I take you have in front you, and after that, there will be time for Q&A.
+And without any further ado, Melanie, please?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+
+          Yes, thank you, Martin. And hello, everybody. Thank you for joining us this morning.
+As Martin said, same procedure as in the last quarters. We have taken the step of adding management comments into the slide, so I guess you already have a lot of information in front of you. And I'm just going to highlight some points of special interest so that we have sufficient time for questions and answers at the end of the call.
+Starting on Slide 2, I'm very happy to report that, despite all the global macro concerns, we have had a good second quarter, with all divisions contributing to the improved performance. And this is mainly due to our focus in all divisions on yield management and cost control, which all come under the heading of self-help. Because we have final clarity on and have now implemented our mail price increase, we are able to tighten our 2019 guidance and lift the lower end of the P&P guidance from EUR 1.0 billion to EUR 1.1 billion. The lower end of the group guidance is similarly raised so that we now expect a range from EUR 4.0 billion to EUR 4.3 billion for the full year 2019. And we leave our 2020 guidance unchanged.
+Slide 3 is our agenda slide and should, hopefully, look familiar to you as we have used it before. It summarizes quite well our unchanged key drivers. And I will walk you through those elements starting with number one, a sustainable top line growth based on a well-diversified footprint. On Slide 4, it is encouraging to see that all divisions continue to grow their top line also organically. That was already the case in Q1, but it also continues now in the second quarter. It's worth pointing out that FX had a small positive impact on the top line. EBIT growth was, however, actually held back again by ForEx movements.
+Moving over to the divisions, starting with P&P on Slide 5.
+Just as in the first quarter, our Parcel yield measures are coming through nicely in our numbers. Volume growth also remains well sustained without any significant sign of price elasticity. Still as mentioned before, we would not draw any final conclusions before the end of the summer on this topic. It is also worth mentioning that the working day effect in Q2 was negative, minus 1 working day. And once you strip out that effect in May, we are still very close to our historic and expected volume decline corridor of minus 2% to minus 3% per annum, so we do not see any pronounced change here.
+On Slide 6, I would just like to remind you of the increases to mail prices that we are implementing. As you know, we have implemented an average 10.6% price increase on the EUR 2.8 billion of regulated mail products on July 1, so obviously those benefits will now become visible in our Q3 results and also in the subsequent quarters. We've had a number of questions on what we intend to do with the Parcel services revenues. We decided here not to do anything in the second half of 2019 in order not to surprise our business customers, but we plan to reduce our discounts in order to drive an average increase of between 3% to 4% as of January 1, 2020. This is similar to our practice in the last pricing period, so spreading out our price increases to business customers into smaller annual rounds should help to mitigate elasticity in this segment.
+On Page 7. The situation in Express continues very much as I expect, starting in March of this year. Our heavyweight campaign means we have faster shipment per day growth than revenue per day growth. This should begin to annualize out over the course of Q3, but you can still see the delta in the second quarter. What is encouraging is that, after the slower start to the year, we have seen a normalization of volume growth in Q2, again as we had already anticipated in May.
+Moving to Slide 8. The effect of slowing global trade flows, particularly in air freight, is visible in our DGF volumes, but here again strong internal discipline helped to mitigate some of these effects. Especially in air freight, we have also seen the buildup of GP margin, which is quite usual in a market downturn situation.
+So that takes me to the EBIT slide on Page 10. I'm really glad that, this quarter, once you adjust for our restructuring charges, all divisions were back to growing the bottom line. And we've had a clean group EBIT increase of 6.5%, so we were growing at twice the rate of revenues. So I think really now in the second quarter we had top line growth across all of the divisions, but we also saw an organic EBIT growth across all of our operating divisions. And I think that is very encouraging, and we haven't had that for a number of quarters now.
+Looking at the divisional details and starting with P&P Germany on Slide 11. Just as we discussed last quarter, in the second quarter, P&P continued to face headwinds from ongoing cost inflation, but this quarter, the progress we are making with cutting indirect costs and improving productivity has become more tangible so that we have turned towards year-over-year growth in EBIT again for the first time since the fourth quarter of 2017. So this is really an important milestone. And we look forward to even greater improvements in the second half of the year as we make continued progress with our combined yield and cost measures and the mail price increase is now implemented as of the 1st of July.
+Now that we have certainty on the letter price increase, let's revisit our P&P Germany EBIT bridge on Slide 12. We first introduced that slide last summer. And when we now look at a comparison to where we were a year ago, when this 2018 to 2020 EBIT bridge was first introduced, we can reiterate our confidence in our 2020 guidance with a P&P EBIT contribution of greater than EUR 1.6 billion. Looking at the individual building blocks, we have so far seen higher-than-expected revenue contribution from the various price and yield measures and particularly on the Parcel side that has obviously worked better than what we had assumed when we first introduced the slide. However, these are offset by generally higher cost inflation so that the sum is essentially the same, an EBIT contribution of EUR 150 million to EUR 250 million. Our measures to increase productivity are on track and we are still looking for the targeted improvement in the EUR 150 million to EUR 250 million range, but as expected, this is more skewed towards 2020 as those measures are gradually ramping up. With regard to overhead cost measures, they are in full execution; and will deliver, as planned, a contribution of above EUR 200 million. We are, however, working on identifying additional measures for indirect cost reduction. And I think it's important that you are aware that we expect any potential additional restructuring charges in P&P in the second half of the year to be largely offset by positive pension revaluation effects, so this would hence have no material net impact on 2019 EBIT and the related guidance. And we will certainly talk more a lot on this and the second half of the year with our Q3 results.
+Looking at Express on Slide 13, let me quickly remind you of the major effect of our heavyweight campaign and why this is currently holding back EBIT growth, while the volume growth is very solid at 6.6%. You can see on this slide the Express cost triangle as presented before. What you can see at the top of the triangle is the difference between shipment per day growth and revenue per day growth, and that is what we have been flagging for quite some time. Heavy shipments are low in volume count but high in revenue and hence twice as better between SPD and RPD growth. When you move to efficiency and ground operations: Initially, we saw an increase in operating cost per move, which we have mostly digested. We are now moving more towards medium-term improvement we have been targeting. 
+Similarly, because we carry the full cost of the aviation network, but have a temporary dip in utilization, which we reflect in the chart on the lower right-hand side of the page, our cost per kilo initially goes up. As we now gradually backfill the capacity and annualize the initiation of the heavyweight campaign, these effects will turn around, but in Q2, EBIT growth was still held back as expected.
+Turning to Global Forwarding, Freight on Slide 14. We continue the upwards trend in conversion ratio and EBIT margin in DGF. I want to be clear here that most of what you see in terms of improved ratios so far is due to the GP sales focus and the process improvement aspects of Tim Scharwath's simplified program. It's not so much due to the benefits of the CargoWise rollout, as the implementation is still ongoing and we're still in [cold systems] mode at the moment.
+Now turning to the group P&L on Slide 15. The main additional aspect to note here is that our good revenue and EBIT contribution is not reflected in net profit and EPS because of the much higher tax rate. And why is that? That is because last year, when we lowered the EBIT assumption, that also led to a lower full year tax rate, which resulted in a really unusually low tax rate in Q2 2018. In 2019, the Q2 tax rate is at 22%, in line with our full year guidance, compared to 9% in Q2 2018. So that explains for the difference here.
+So let's turn to the question of cash generation on Slide 17. Our operating cash flow is lower than last year despite the EBIT improvement. This is largely due to the utilization of the provisions built up during last year's restructuring, which affects the changes in provisions line. And we also had a year-over-year higher cash tax phasing this year and the growth-related cash out from working capital. Free cash flow generation was significantly lower than last year, but this is due to the timing of our CapEx spend, specifically a payment of EUR 743 million for the Boeing 777 Express refleeting. This is fully aligned with our gross CapEx guidance for the year of EUR 3.7 billion, EUR 1.1 billion of which will be for those 777 refleeting.
+So all movements on the cash flow statement are coming in as we anticipated, allowing us to maintain our free cash flow guidance in 2019 of more than EUR 500 million for the full year.
+And this takes us to Page 19 and our guidance. I've already talked about the reason why we have tightened the lower end of the P&P range and how that affects our group guidance. And as mentioned before, any potential additional restructuring charges in the second half of the year in P&P are not expected to have a material net effect on EBIT given that we should have the opportunity to cover them with a positive pension reevaluation effect.
+With regard to all other guidance elements, our current assessment allows us to confirm all of them, including the group 2020 guidance. We are aware, of course, that there is a lot of skepticism in the market, also with regard to the macroeconomic uncertainties, so let's take a look at Slide 20. We would like to reemphasize here not only our diversified revenue exposure which we have seen before but also our self-help EBIT drivers. The aim of the chart on the left is to demonstrate that we have a portfolio with different degrees of macro exposure on the revenue side, which allows us to maintain a steady path even in times of economic uncertainty. And I think you can see that very nicely in our Q2 numbers. Obviously, the air freight volumes are more exposed than the revenue growth we see in Supply Chain and the Parcel growth in Germany. And even the post decline in P&P Germany is very resilient. It's around minus 2% to 3%, independent of what the macro situation is. The right side of the chart shows what we are doing on the operating leverage. It's important for me to note here that each division has well-defined self-help agenda, which is geared towards EBIT margin improvement. And I think the important thing here is also that most of those plans are not new. Some of them have been in execution for several years now so that we are familiar with their trajectory. And we know that they support economic resilience, which is one of the main benefits of our group structure.
+So allow me to wrap up on Slide 21.
+We are very satisfied with our Q2 performance, as all our restructuring and yield measures are bearing fruit. Without a doubt, there still remain significant clouds on the economic horizon, and we are watching them closely. We are not immune to what is happening around us, but we are able to narrow our 2019 guidance upwards and we remain committed to delivering on our 2020 goals.
+So that was the short overview, and now over to you for your questions. Thank you.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions) And the first questioner is Robert Joynson from BNP Paribas.
+
+--------------------------------------------------------------------------------
+Robert John Joynson,  Exane BNP Paribas, Research Division - Senior Transport Analyst    [2]
+--------------------------------------------------------------------------------
+
+          Melanie and Martin, I -- a couple of questions for me on Express, to begin with, please. First of all, on the network utilization, you mentioned, Melanie, that the utilization is temporarily lower while volume is growing, so that the capacity freed up by replacing the heavyweight items, but maybe just comment on how long it will take before the network utilization returns to the optimal level. And then secondly, on TDI volume growth. It was obviously very good at 6.6% up, but it was particularly strong in Europe where the volume growth was up by 8.2% despite the obvious headwinds from weak German Ifo data and various other issues. So maybe just comment on what's driving TDI growth in Europe specifically, please. And then just a final question, on the impacts of IFRS 16 on net income. When Deutsche Post introduced IFRS 16 beginning of 2018, you communicated that the impact on net income would be negative initially, but then it would transition back to being neutral over time. Could you maybe just provide an update on where we are in that respect, please, Melanie?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [3]
+--------------------------------------------------------------------------------
+
+          Yes, okay. So on Express utilization, we started with the heavyweight campaign after the summer of 2018, and we now expect utilization levels to increase back to the more normal levels in the course of the second half of the year. So I mean obviously, when you take out those heavy stuff, particularly on the flying side, it frees up quite a bit of capacity and we now needed time to really grow into it. I think 2 things are going to help. The first one is the more dynamic growth of the nicer, smaller shipments now, the 6.6%; and then of course, also the annualization of the phasing effect. With regard to the shipment per day growth of 6.6%, I think in general but also very clearly for Europe we see the continuation of the structural e-commerce growth supporting this growth figure quite substantially. B2B growth is there. So we are growing also on the B2B side, but that is more in the lower single digits. So a lot of growth dynamic is coming from B2C and e-commerce, and that was also the case in Europe. The important thing for me is, and I think that is where the Express colleagues are just doing a really terrific job, we have to be extremely selective with what type of B2C stuff we allow into our premium network. We could have substantially higher growth rates but at the expense of margin. I think the real success of Express over the last years has been finding the right balance between good top line growth but at the right price so that we have had a margin expansion. And I think -- although, when you look at the second quarter, margin now is at 12.3%. That is a very, very good margin.
+On IFRS 16, yes. So what we explained last year was that we get the benefit on the EBIT side because part of the old operating leases costs go down into financial results, below EBIT. The problem is that the interest component and the depreciation component are different in the way you treat the liability and the asset, and that is leading to a bigger hit in financial results than the gain you get on the EBIT side. And when you look at last year's numbers, the order of magnitude was what we felt in terms of pain on the financial result was twice the amount of what we got in benefit on the EBIT side. And that is also not going out of the system. That will take time. The root cause for that is that we pretended that all leases started on the 1st of January 2018. And given that those are normally multiyear leases, it will take time to wash out. The important thing is that in terms of year-over-year comparison we are now back to comparing apples with apples.
+
+--------------------------------------------------------------------------------
+Robert John Joynson,  Exane BNP Paribas, Research Division - Senior Transport Analyst    [4]
+--------------------------------------------------------------------------------
+
+          Wonderful. Could you be -- could you -- sorry, just a quick follow-up. Could you maybe just provide maybe a kind of an estimate of an indication, Melanie, of when the IFRS 16 impacts on net income will become neutral compared with when it was in 2017? Are we talking maybe the kind of mid- to early 2020s, or is it just too difficult to say?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [5]
+--------------------------------------------------------------------------------
+
+          I think it is really too difficult to say because there is so much dynamic happening. I mean it's like a rolling process, which is why for us, also when you look at [ROCE] and these things, the past is the past. 2018 is a new starting point. And for us, the important thing is that we now show year-over-year progress from the new starting point 2018 after the implementation of IFRS 16.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [6]
+--------------------------------------------------------------------------------
+
+          Okay, Rob?
+
+--------------------------------------------------------------------------------
+Robert John Joynson,  Exane BNP Paribas, Research Division - Senior Transport Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Okay. That's clear.
+
+--------------------------------------------------------------------------------
+Operator    [8]
+--------------------------------------------------------------------------------
+
+          Next up is Mark McVicar from Barclays.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [9]
+--------------------------------------------------------------------------------
+
+          Two questions, one small one and one big one. The first one is on FX. Can you give us a sense of what the EBIT headwind was in Q2? Is it EUR 10 million? Is it EUR 30 million? That's the right way to think of it?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [10]
+--------------------------------------------------------------------------------
+
+          [Yes].
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [11]
+--------------------------------------------------------------------------------
+
+          And second...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [12]
+--------------------------------------------------------------------------------
+
+          Well, that's the easy question. Now let's hear the difficult one.
+
+--------------------------------------------------------------------------------
+Mark John McVicar,  Barclays Bank PLC, Research Division - Head of European Transportation Research    [13]
+--------------------------------------------------------------------------------
+
+          Yes. The slightly more difficult one is if we look at your underlying EBIT in 2018 was just over EUR 3.6 billion and the target remains to get that to at least EUR 5 billion by 2020. With all the restructuring programs, how much of that EUR 1.4 billion uplift do you think is coming directly from those programs? And how much still realized on some kind of growth out there in the markets. If you can give us a sense of that, it would be good.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [14]
+--------------------------------------------------------------------------------
+
+          Okay, so maybe starting with the currency question. So actually the biggest pain point for us year-to-date, and also now in the second quarter was the dollar. And so I think overall in terms of negative effects we're talking about order of magnitude of minus EUR 40 million from currency headwinds in the second quarter. With regards to the EUR 5 billion question, so I mean obviously delivering on the numbers for 2019 is already going to take us a big step closer to the EUR 5 billion, but we naturally acknowledge that there is still significant step-up from '19 to '20. When you look at where it's coming from in the different divisions: So in terms of absolute step-up, the biggest contribution had to come from P&P, and there really the majority of the uplift is pretty much directly under our control. If you assume that the parcel market in Germany is not going to collapse completely, then we don't have any reason to believe that this will be the case. I think the rest of the measures on the P&P side, being disciplined on the Parcel yield, continuing this taking out indirect costs and the productivity measures, those are all things which are under our control. So I would really say on P&P it's 90% plus. When you look at the DHL divisions, there is also a lot of self-help agenda in there, be it the simplified program in global forwarding, be it the automation and standardization approach in Supply Chain, be it the continuity yield and indirect cost discipline in Express. But obviously, for example, when you think about global forwarding, getting the GP-to-EBIT conversion up from a certain point onwards gets easier if you have a bit of macro tailwind. So I think on the DHL side I would still say the majority of the uptick is linked to self-help measures, but here a bit of macro would be a positive contribution but we don't count on it at this point in time.
+
+--------------------------------------------------------------------------------
+Operator    [15]
+--------------------------------------------------------------------------------
+
+          The next caller is Cristian Nedelcu from UBS.
+
+--------------------------------------------------------------------------------
+Cristian Nedelcu,  UBS Investment Bank, Research Division - Associate Director and Aerospace & Defence Analyst    [16]
+--------------------------------------------------------------------------------
+
+          Can I start with Parcel, please, Parcel Germany? Should the price increases tailwind accelerate in Q3 versus what we've already seen in the second quarter? And secondly here maybe, we are hearing Zalando talking more about diversifying its last-mile partners. Do you expect this to be a headwind to your Parcel volumes into the second half? And secondly, one last one, on Express, if I may. And looking a bit at the cost base in Express for the second half of the year, could you tell us the main dynamics there? I guess on the purchase goods we've seen relatively good performance in Q2. Do you expect to see some further benefits from lower air freight rates and lower oil prices? And equally so, in staff costs what are your expectations of staff addition and cost inflation for the second half in Express?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [17]
+--------------------------------------------------------------------------------
+
+          Okay. So starting with Parcel Germany. I mean, as I already tried to say with regard to the full benefit of all the yield measures, I think we really have to see now in the course of the third quarter. I mean, if customers, because of our price measures, decide to change and there is pressure on the yield side, that would now happen before the peak season, yes. So I think, by the third quarter, we will have a good feeling on how it develops. I don't think that there will be an additional boost, but I think order of magnitude we should still see an increase in revenue per parcel. But again I think, now after the third quarter, we will get a better feeling for kind of like the running rate here.
+Zalando diversifying on the last mile. I think what we have already said also with regard to our very big customers here in Germany. And we are not as dependent on 1 or 2 customers as it may sometimes seem reading the newspapers. So overall, I mean, of course, we love working with the big e-comm senders, but we also have a very broad customer portfolio below the big senders, and on that basis we are relatively relaxed. I think this is more the usual shifting around between players in the market.
+Then on the Express side with regard to cost development. I mean the big chunk of the flying in Express is actually through our dedicated network. We do [audio gap] commercial airlift and where we will see some benefits of the falling freight rates. At the same time, we are also selling off excess capacity in our dedicated fleet, so I don't expect a significant positive benefit from the net position of those two. With regard to staff costs, we are at the moment still seeing an increase in our direct FTE because the volume is growing. So staff costs will continue to go up, but in Express, like in the other divisions, we have a very tight focus on indirect costs because again that is an important element of our self-help agenda. And those uncertain times really make sure that we keep particularly the indirect costs line under control.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [18]
+--------------------------------------------------------------------------------
+
+          Okay. All 3 questions answered, Cristian. Any more?
+
+--------------------------------------------------------------------------------
+Cristian Nedelcu,  UBS Investment Bank, Research Division - Associate Director and Aerospace & Defence Analyst    [19]
+--------------------------------------------------------------------------------
+
+          No, I'm fine.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [20]
+--------------------------------------------------------------------------------
+
+          Good.
+
+--------------------------------------------------------------------------------
+Operator    [21]
+--------------------------------------------------------------------------------
+
+          The next caller is Joel Spungin from Berenberg.
+
+--------------------------------------------------------------------------------
+Joel Adam Spungin,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [22]
+--------------------------------------------------------------------------------
+
+          I've just got two, actually. Maybe just to start off: You mentioned potentially doing some more restructuring in the P&P division in the second half, and I was just wondering if you could elaborate a little bit on what you're thinking about there. And specifically, do you have a sense at this stage, I know it's early, but what the quantum of that might be? And also you mentioned obviously it'd be offset by a pension gain. Does that mean that we will be seeing something like a cash restructuring charge being offset by a noncash gain? Is that the right way to think about it, or is that incorrect? So maybe we'll start and I'll come back. I've got another question on Express as well.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [23]
+--------------------------------------------------------------------------------
+
+          Okay. So on the P&P restructuring, again, I mean, like this is early stage. And we are now working through a number of options which in essence are very similar to things we have done now in 2018 and the first half of 2019, where for example on the civil servant side we actually have found ways to do things which had a positive NPV because we were, over time, paying out less cash than we would have paid if those civil servants had stayed onboard until their retirement, all under the assumption that we don't have to refill those positions. So that's another important -- an element where we have identified additional opportunities, and we are now working through this. In terms of order of magnitude, I think the important thing is it can be up to, I would say, EUR 200 million, but overall we would expect it to be more or less neutralized by a net cash-neutral pension valuation effect. And we will explain all the details once we have firmed up the program probably in the course of the third quarter, but I don't think you should expect any nasty surprises, neither on the EBIT nor on the cash side.
+
+--------------------------------------------------------------------------------
+Joel Adam Spungin,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [24]
+--------------------------------------------------------------------------------
+
+          Okay. Okay. And then maybe just another one on Express. I was just wondering a little bit if you could comment maybe just qualitatively, if nothing else, on what the pricing trends within Express are, say, on a revenue per kilo basis?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [25]
+--------------------------------------------------------------------------------
+
+          Yes. I think in Express we have seen a very strong discipline on the pricing side for, I would say, now over the last 5 years. So really in terms of getting base revenue per kilo up, that has been quite consistent over time. There are, of course, some structural headwinds, like for example we have a product mix shift ongoing also in Express. And we have a document portion in our Express volume, which is not growing as dynamically as the parcel stuff, but overall this had a positive base revenue per kilo quite consistently over the last years. And that is also not changing now. And I think that is, for example, an area where we have been extremely disciplined also in dealing with currency fluctuations. So if you have a country where the local currency devalues not just short term but in a lasting way, that's an important input factor into our pricing decisions because we acknowledge that our network cost is in hard currency, in U.S. dollar and so we really have to recover that in local currency.
+
+--------------------------------------------------------------------------------
+Joel Adam Spungin,  Joh. Berenberg, Gossler & Co. KG, Research Division - Analyst    [26]
+--------------------------------------------------------------------------------
+
+          Okay. And then maybe just one very quick follow-up on that. UPS has talked about sort of increasing their investment into their own cross-border B2C product, which I think is an area where you've -- probably have an advantage over some of the others. Is that something you're seeing at all in the market, or is that too early to say?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [27]
+--------------------------------------------------------------------------------
+
+          I think it's clearly too early to say. I mean, if I understand it correctly, they are building a deferred postal-like product, where we have the advantage of also having our post legacy. And that is what we are trying to leverage in our eCommerce Solutions division. So I think we are quite uniquely positioned here in the sense that we have the high-value, speedy TDI express offering whilst also having a postal product and a deferred product available.
+
+--------------------------------------------------------------------------------
+Operator    [28]
+--------------------------------------------------------------------------------
+
+          The next caller is Damian Brewer from the Royal Bank of Canada.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC Capital Markets, LLC, Research Division - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          I've got 3 questions, please. First of all, could I just come back to yield and sort of price elasticity limits? And could you elaborate a little bit more about how much more you think you could take that, both in the second half of '19 and into 2020, particularly in areas where you haven't seen much in the way of volume pushback? Second question...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [30]
+--------------------------------------------------------------------------------
+
+          Sorry. Are -- is that relating to Parcel Germany or to Express?
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [31]
+--------------------------------------------------------------------------------
+
+          Or both.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [32]
+--------------------------------------------------------------------------------
+
+          Or both.
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC Capital Markets, LLC, Research Division - Analyst    [33]
+--------------------------------------------------------------------------------
+
+          Across the businesses, Parcel and Express and also, frankly, in the Freight, Forwarding business as well. Then the second question, really about your customers. Are you seeing any change, given how thinly supply chains have been stretched and where inventory has gone, in terms of forward-looking inquiries for the air cargo side of the businesses, whether it's freight, forwarding or air-related Express? And if you have, could you elaborate a little bit more on anything you're seeing there? And then very finally, in the Supply Chain business that clearly did very well in H1, is there anything unusually nonseasonal in that business? Or would -- or should we still expect Express to do about 60% of its -- sorry. It's not Express. Supply Chain to do about 60% of its EBIT in the second half of the year on an underlying basis?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [34]
+--------------------------------------------------------------------------------
+
+          Okay. So I think on the yield side, when I look at the maturity levels across the divisions, I would say the Express guys have been the masters in the art of smart yield management. We have now cross-fertilized the Parcel pricing teams with the knowledge of Express. So there has been a very vivid exchange. So I think, this year, we see a lot of benefits obviously on the Parcel pricing side. I think what we now have to get to is having a standard annual price review, a GPI process like we have in Express so that we continue to see annual price increases which obviously we need in Parcel Germany to offset the cost inflation. But I think this year was very much a catch-up year. I think, on the air freight side, it is trickier because of the nature of the market. What is helping us here is more and more IT support also with regard to spot rate quotation tools and so on. So I think there will be an IT-supported and sophistication increase in global forwarding, which should help us on the GP side. Nevertheless, I would say in forwarding the main focus is still on process efficiency and the GP-to-EBIT conversion. And with regards to, do we see any specific customer groups, industries now coming after air freight capacity, I really haven't heard this, so I wouldn't feel qualified to point out a specific industry here. I'm looking at Martin, but I think it -- there is no clear pattern at this point in time. I mean, like everybody else, we also see that automotive isn't having a great time. And so the usual observations, but I don't see anything totally noteworthy and somebody now showing signs of revival.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [35]
+--------------------------------------------------------------------------------
+
+          No. That will be my answer provided that we understood your question correctly, Damian...
+
+--------------------------------------------------------------------------------
+Damian Brewer,  RBC Capital Markets, LLC, Research Division - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Okay. Yes, you have. Yes, indeed you have.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [37]
+--------------------------------------------------------------------------------
+
+          Yes. Then on the last question, Supply Chain. Is there a -- is there kind of like a nonseasonal element in there? So I think fundamentally in terms of all the warehousing and transportation activities, Supply Chain is the most stable of our business [audio gap] e-commerce activities in there which have a little bit of a Christmas peak. I think the biggest seasonal effect we have seen in recent years is our real estate venturing business audio gap where we utilize the customer understanding in the Supply Chain team to also make a development profit on real estate venturing opportunities. That tends to be more seasonal. There's a lot of projects being constructed in the course of the year and then being completed towards the end of the year, but the fundamental Supply Chain business is very nonseasonal and stable. I always say, I mean, like it's a lot of consumer stuff and papers and toothpaste, relatively nonseasonal.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [38]
+--------------------------------------------------------------------------------
+
+          Okay. Well then, thanks, Damian.
+
+--------------------------------------------------------------------------------
+Operator    [39]
+--------------------------------------------------------------------------------
+
+          Next up is David Kerstens from Jefferies.
+
+--------------------------------------------------------------------------------
+David Kerstens,  Jefferies LLC, Research Division - Equity Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Two questions, please. First, on P&P and the relatively larger suite of 4% price increase on the Parcel services. How should we see that price increase in relation to the expected cost inflation you anticipate for 2020? I understand you have the next pay rise on October 1 of 2.1% under the current labor agreement. And what do you anticipate will be coming in 2020? And could you please provide a time line of when the next negotiations with the unions will start? Then secondly, on -- also on Supply Chain, I saw you did not discuss it in the slide deck, but the restructuring of the U.K. operations, when does that benefit really start to kick in? Will that lead to a further acceleration in earnings momentum in the second half of the year, or will it mainly come in 2020?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [41]
+--------------------------------------------------------------------------------
+
+          Yes. So First of all, on the cost inflation in Germany. We had a 3% wage increase on the 1st of October 2018, and that is quite visible in our staff cost development. And we will now have a relatively moderate 2.1% increase in the -- on the 1st of October, which will then take us to next spring. And we will have the next round of tariff negotiations in the spring of 2020. That will be a relatively straightforward tariff negotiation, so no other complexities around that, but that is clearly one of the major to-dos for P&P in 2020. Anticipating what we see -- so I mean like, looking at what we currently see in the market in terms of labor agreements, I think it's safe to say that we're probably more than 2%. And that is why so important that we work on the letter prices and that we are really keeping the discipline on the Parcel yield side.
+
+--------------------------------------------------------------------------------
+David Kerstens,  Jefferies LLC, Research Division - Equity Analyst    [42]
+--------------------------------------------------------------------------------
+
+          I mean, is that already included in the staff cost increase that you highlighted in the slide deck of EUR 150 million to EUR 250 million? Or will that 2% come in addition to that range?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [43]
+--------------------------------------------------------------------------------
+
+          That is not -- no. That is, of course, included there. We have put an assumption in there for also what to expect for the remainder of 2020 beyond the 2.1%, but that is one of the reasons why we have this relatively wide range in this number.
+
+--------------------------------------------------------------------------------
+David Kerstens,  Jefferies LLC, Research Division - Equity Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Understood, yes.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [45]
+--------------------------------------------------------------------------------
+
+          Then on the Supply Chain question. So yes. Indeed we didn't point it out in detail in the presentation because it was, I think, in terms of news not materially different to what we had discussed with the Q1 numbers. We had the second booking of restructuring charges now in the second quarter, EUR 53 million, for Supply Chain. So again, if you take that out, we saw solid underlying growth in the Supply Chain results. The improvement program for the U.K. is delivering benefits year-over-year, but there are some legacy topics there which will really take us into 2020 to get fixed. So there will be also a year-over-year contribution in 2020 from what we do this year, in terms of restructuring in the U.K.
+
+--------------------------------------------------------------------------------
+Operator    [46]
+--------------------------------------------------------------------------------
+
+          The next caller is Adrian Pehl from Commerzbank.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [47]
+--------------------------------------------------------------------------------
+
+          First of all, a question again on the yield side of things just to be very clear on that. It sounded that you were pretty happy with the 3.6% increase, but I sense a little bit that you were positively surprised to some extent but refrain a little bit from being more upbeat on H2 price measures. Do you fear a little bit that we see, let' say, a lagging volume effect in Q3? So otherwise, it seems that you need even more price increases to offset the cost items that you just mentioned. And then I have 2 housekeeping ones, actually just to be clear also on this item. Can you rule out that there were any positive pension revaluation effects already in the second quarter? And a question a little bit linked to what has been asked in Supply Chain on any special effects. However, I would gear this towards operating cash flow. Obviously, that was quite strong in Q2. I was just wondering. Were there any kind of real estate effects or other effects that posted up? And what we -- should we think of it going forward? And then I might have follow-up.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [48]
+--------------------------------------------------------------------------------
+
+          Okay. So I think on the Parcel yield side that was more not to let expectations run away. I think we now really have to see, and after the summer, how the whole thing stabilizes. I very clearly expect solid, continued growth in Parcel volumes; and I also expect a continued healthy increase in parcel revenue per shipment. What we clearly see in the market is that competition is also following. I mean like they feel the same or -- and even higher cost pressure. I mean given that their whole delivery model is to a large degree built on top contractors. And it's just difficult to find people willing to deliver a parcel at minimum wage in Germany. The inflationary cost pressure in many cases is even higher. So I think we have a healthy balance developing here. How big that is going to be, let's see in the second half of the year, but the fundamental trend is definitely a healthy one. And Parcel marketing and sales team is doing a terrific job here. In terms of pension effects, no, there were no pension effects in Q2. And that is something which we will be very transparent about, should we do something now in the second half of the year.
+In terms of special effects in the Supply Chain cash flow. There were none in the second quarter. I think the fundamental topic with some of those real estate venturing projects is that whilst you develop a site you have a buildup in working capital, which is then released when the site is sold. So the whole real estate venturing is creating volatility on the cash flow side. We saw that very strongly in Supply Chain last year. Then we had a abnormally high cash in Supply chain in the fourth quarter. I think we also talked about that in March briefly, because that was really extremely pronounced. And that was really then driven by a lot of those real estate venturing projects being concluded just before Christmas, but now in the second quarter I will say it's more the ordinary course of business and working capital management.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [49]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Adrian Pehl,  Commerzbank AG, Research Division - Head of TMT and Consumer    [50]
+--------------------------------------------------------------------------------
+
+          All right. And then just quickly just to get a sense of the magnitude or if the effect is potentially negligible is, I learned actually that there was some sort of shortage on stamps in July and was just wondering whether you had to face any kind of extra cost in Q3. And was it actually the reason that you granted a contingency period for a couple of days in July, with respect to the increased stamp price? Or is that not an effect worth mentioning here?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [51]
+--------------------------------------------------------------------------------
+
+          No, I think it's an absolutely immaterial effect. I think it's sometimes interesting how on the media side certain personal experiences can be blown up into a big topic. I can say from the numbers side there were no extra distribution costs for stamps or anything material which would impact our third quarter numbers.
+
+--------------------------------------------------------------------------------
+Operator    [52]
+--------------------------------------------------------------------------------
+
+          Next up is Andre Mulder from Kepler.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [53]
+--------------------------------------------------------------------------------
+
+          A few questions on Parcels again. And can you just give us a split between the price and the mix effects? Normally these mix effects are negative in Parcel, so I assume that the price effect was then a bit larger than what's shown in the numbers. And secondly, you're looking at a possible change in the setup of countries. You already made an agreement with Austrian Post on Austria and Slovakia and the Czech Republic. What more countries can we expect? And how is the path going forward there? And last question is on the e-commerce. Loss is still quite high there. And can you talk us through the different parts, how these are developing?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [54]
+--------------------------------------------------------------------------------
+
+          So I think on the price/mix effect in Parcel I will just say that we are very clear that with the price increases we are not only targeting small and mid-size customers, but we are also targeting big customers. And those considerations, of course, also take mix effects into account and also seasonal volatility and which we see from large customers. So I will say at the momentum it's really a healthy price development across the whole product set. With regard to eCommerce Solutions, yes: So I mean we have already said that with our pan-European network we don't have a "one size fits all" approach. And we don't necessarily have to do the last mile ourselves. We're doing [the sales] successfully, for example, in the Netherlands, but we now have the opportunity for Austrian and also for Slovakia to strike partnership deals with Austrian Post. And they will do the last mile for us, whilst we will do the last mile for Austrian Post in the Czech Republic. So I think this is really a very pragmatic and undogmatic approach which is quite obviously opportunity-driven. When you look at the e-comm solutions results, they are indeed negative, but that is largely driven by a EUR 28 million restructuring charge we now took in the second quarter. There has been a clear focus, under the leadership of Ken Allen, in taking out overhead costs and streamlining some of the organizational setups he found when he took over on the 1st of Jan. So when you take that out, we are actually seeing good year-over-year progress on the operating performance. In terms of what's in there, I mean, it's unchanged. It's our pan-European network. And it's a selective number of activities outside Europe, with the biggest countries outside Europe being the United States and India.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [55]
+--------------------------------------------------------------------------------
+
+          A follow-up on that. How are things developing in the U.S., the costs? We heard some other postal operators having difficulty there.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [56]
+--------------------------------------------------------------------------------
+
+          I think we have had a very nice and profitable niche business there for many, many years. And we are actually quite pleased with the performance of the U.S. business, both in terms of top line as well as EBIT development.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [57]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          And then last one. On the Parcel side you mentioned these agreements with Austrian Post. They have some other countries there as well. And how will you look at those areas, the former Yugoslav republic?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [59]
+--------------------------------------------------------------------------------
+
+          I think the big benefit we have for the really small countries is, being a postal operator, we can still use the ties to the local post offices. That's kind of like the default option which we utilize in most of the really small countries. And alternatively, and that's also a nice element of the group structure, in all of those countries we also have our Express network. So for each country, we have 2 default options: give it over to the postal incumbent or give it over to the Express sister division. Obviously, we don't plan to build up own last-mile activities in any of those small countries.
+
+--------------------------------------------------------------------------------
+Operator    [60]
+--------------------------------------------------------------------------------
+
+          The next caller is Christian Obst from Baader Bank.
+
+--------------------------------------------------------------------------------
+Christian Obst,  Baader-Helvea Equity Research - Analyst    [61]
+--------------------------------------------------------------------------------
+
+          I have 3 questions. First is on the volume in Express. How much of the entire Express volume currently is B2B, and how many -- how much is B2C? And can you give us the growth rates you talked about? B2B is approximately 2% to 3%, if I got it right. And B2C, is it going to a double digit, or is this only a high single-digit growth there? And what will you expect for the time to come there? Then it goes to Supply Chain: Staff costs increased by approximately 11% on a year-on-year basis, also in Q1. Maybe can you give us some clarity what's happened there? And the last one is on GFF. CargoWise is implementing. And we've talked about that you are running 2 systems in parallel, and there is no impact so far. When do you expect first meaningful impact from the switch towards CargoWise in the forwarding business?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [62]
+--------------------------------------------------------------------------------
+
+          Okay. So starting with the Express question. So the current split B2B, B2C is 70-30 in terms of volume. We see, as I said, low single-digit growth in B2B at the moment. And we see double-digit growth in B2C, in the teens. I think, again, for us an important element here is to keep this in a healthy balance on the yield side. And as long as this is beneficial on the margin side overall, this is something we will continue, but believe me. This is one of the most closely targeted and monitored topics within Express and also within the group overall. On the Supply Chain staff costs side, I mean, there is a general increase in head count and the salary inflation, but there is also a specific topic with regard to health insurance. And there was a reclassification of some health insurance cost which was previously in the U.S. not shown in staff costs but which is now, as of the first quarter, being recognized in staff costs. So there is also a shift between buckets in there. So it's a combination of head count growth in line with business growth, cost inflation, but there is also this movement between the categories.
+
+--------------------------------------------------------------------------------
+Christian Obst,  Baader-Helvea Equity Research - Analyst    [63]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [64]
+--------------------------------------------------------------------------------
+
+          Yes. And then on the CargoWise time line...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [65]
+--------------------------------------------------------------------------------
+
+          And then on the CargoWise, yes. Sorry. On the CargoWise time line. So we are well advanced with the rollout of ocean freight. And intention is to really get the ocean freight completed towards the end of the year so that for ocean freight we should leave the [cold systems] phase in the course of 2020. And for air freight, the rollout will continue throughout 2020 and into '21, but 2020 will be the first year when we should really kind of like begin to see the benefits on the ocean freight side.
+
+--------------------------------------------------------------------------------
+Christian Obst,  Baader-Helvea Equity Research - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          Okay. One last question is concerning Freight, Forwarding. So the air freight volume is going down and in the quarters before. And then so it was...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [67]
+--------------------------------------------------------------------------------
+
+          (inaudible), yes.
+
+--------------------------------------------------------------------------------
+Christian Obst,  Baader-Helvea Equity Research - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Yes, it didn't, yes, yes, yes. And reduced volume to improve productivity going forward. So how far can you lower your volume going forward without having a massive negative effect on the fixed cost base?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [69]
+--------------------------------------------------------------------------------
+
+          Yes. So I think what we have now seen in the second quarter is indeed a combination of 2 effects. It's, first of all, our selective approach and where we have -- also coming back to the yield management theme there, we have taken out lower-yielding customers in air freight. That was now clearly augmented by the general development of the market. And it is now at a level where we have to take a look at staff levels because obviously with this amount of volume decline, you see an impact on productivity per FTE. And the team is already working on this.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [70]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Operator    [71]
+--------------------------------------------------------------------------------
+
+          The next caller is Daniel Roeska from Bernstein Research.
+
+--------------------------------------------------------------------------------
+Daniel Roeska,  Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst    [72]
+--------------------------------------------------------------------------------
+
+          Just two from me on that, both on P&P Germany. Number one, could you comment on the current discussions on the USO; and kind of how the discussions on the USO, whether or not should move to, let's say, a 5 delivery framework, is factored into your plans and how you would expect to -- that to evolve and when we could expect kind of -- or how long that discussion will actually take? And then secondly, we've talked about the restructuring measures you're putting into the business. You're getting the price increases. This doesn't sound like an environment where unions would be willing to give you a lot of concession, so could you kind of just comment on the current kind of, let's say, temperature level of your union, how the relationship is going and maybe also on the willingness of the works council to continue working on more efficiency measures?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [73]
+--------------------------------------------------------------------------------
+
+          Yes, I think 2 very good and very broad questions. I think, first of all, on the universal service obligation, I mean, in the coalition agreement there was already a clause in there that the postal law should be reformed during this legislative period. And we feel that this is really overdue, because obviously the law is around about 20 years old. And looking at what happened with e-substitution and digitalization, we feel there is a time to take a new look at it. And we have not factored that into our plans now for 2020 because, I think, it will take some time for this to now go through. I mean like we will get the opportunity to comment on the law like other involved parties, and then we have to see how it's developed now after the political summer break. I see that more as upside potential for us, particularly for the case should there be an acceleration in the mail volume decline, which we don't see at the moment. But I think it is only prudent to prepare. Should there be an acceleration, it would be quite helpful if we had the opportunity to reduce the number of delivery days per week.
+And then for the union environment, relationship with the works council. In the beginning of the year, we struck a very important and groundbreaking deal with the union. You may recall that, in 2015, we had a very massive confrontation with the union about the conditions under which we can hire new people into Deutsche Post AG. That led to the foundation of new entities, and we started hiring new parcel delivery people into these new entities. And they were, of course, an object of hate for the unions. And we have now struck a very forward-looking deal with the union, bringing those companies back into the mother ship but giving us the opportunity to hire all people, not only parcel delivery people but also other people, at more favorable starting conditions. So I think that was really a win-win deal because the unions were able to show that they brought those "evil" new entities back home. And we now got what we had been aiming for from the start, the opportunity to hire at more competitive levels for all categories. And I think that has helped us to improve the relationship with the union. I think also they understood last year that there was a need to do something different. And they also positively acknowledged that we are reinvesting in productivity and in the people in the fields out there. So I think, compared to where we were a couple of years ago, it is actually a quite constructive atmosphere at the moment.
+
+--------------------------------------------------------------------------------
+Daniel Roeska,  Sanford C. Bernstein & Co., LLC., Research Division - Research Analyst    [74]
+--------------------------------------------------------------------------------
+
+          Is that true for both the unions and the [the staff]?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [75]
+--------------------------------------------------------------------------------
+
+          It is true for both. I think normally, yet in many cases independent of union politics, very good relationships with the works councils. And they also see that, a lot of the stuff we are now doing, for example, vis-à-vis invest in productivity and new tools for people, that this is really helping people do their jobs.
+
+--------------------------------------------------------------------------------
+Operator    [76]
+--------------------------------------------------------------------------------
+
+          And the next caller is Andy Chu from Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Chi Onn Chu,  Deutsche Bank AG, Research Division - Research Analyst    [77]
+--------------------------------------------------------------------------------
+
+          Two questions, please. First one is on Express. I wondered if it's possible to give the market any comfort, any sort of comfort that the rebound in profitability is already happening. Is it possible to sort of maybe talk about the spread between revenue per day in terms of TDI of revenues and volume in TDI. That spread, is that actually close to sort of flat or even slightly positive as you've exited Q2, into Q3? And then I'm switching to Corporate Center. You spent EUR 200 million in the first half, nothing in terms of the EUR 100 million of investments. Is EUR 500 million still the right sort of number for the full year?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [78]
+--------------------------------------------------------------------------------
+
+          Yes. I think, on Express, I mean, we obviously expect both with regard to RPD and SPD but also with regard to the leverage of the network a positive development in Q3. I mean we're just getting the July numbers in, and so I wouldn't feel comfortable making both statements on the topic, but I obviously would expect a clear positive direction. In terms of Corporate Center costs, yes. So the reason why we have a different guidance from that EUR 350 million we normally have for Corporate Functions is the areas we have in Corporate Incubations where we have a couple of plans now in the second half of the year, which is why just taking the H1 run rate and doubling it is here not the right approach. So we are still expecting around about minus EUR 500 million for Corporate Functions.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [79]
+--------------------------------------------------------------------------------
+
+          Good questions.
+
+--------------------------------------------------------------------------------
+Operator    [80]
+--------------------------------------------------------------------------------
+
+          And the next caller is Andre Mulder from Kepler.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [81]
+--------------------------------------------------------------------------------
+
+          Some follow-ups. Firstly, on the ForEx effect. I think the effect on sales was something like EUR 100 million. And the EUR 40 million that you mentioned here, was that just the dollar, or was that the total ForEx effect?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [82]
+--------------------------------------------------------------------------------
+
+          Yes, so first, on the revenue side you see a relatively small delta between reported and organic growth, but that is actually because we have a net effect in the organic calculation. We have around about EUR 100 million FX on revenue, and then we have around about EUR 110 million in revenue loss from the divestment of the China business. So on the revenue side, it's indeed around EUR 100 million, and the EUR 40 million on EBIT was the total number there. However, the dollar is the biggest chunk by far, yes.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [83]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [84]
+--------------------------------------------------------------------------------
+
+          And then on tax rate. So far, it's at 22%. That then led you to change your guidance of 19% to 22%.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [85]
+--------------------------------------------------------------------------------
+
+          No. I mean, at the moment, we are at 22%. I think we still have to see how now the dynamic in the second half of the year develops. I think it's too early to say that there will be upside, so I think at this point in time 22% is the best number.
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [86]
+--------------------------------------------------------------------------------
+
+          Last question then, on Asia, Looking at the development, at the [deficience]. And only at Supply Chain, I think, the effect is a bit large there even if you strip out the China thing. Can you comment on that? Why is it stronger there? I would have expected that it will be stronger at -- in Express.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [87]
+--------------------------------------------------------------------------------
+
+          Sorry. I'm not sure I understood the question correctly. Martin...
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [88]
+--------------------------------------------------------------------------------
+
+          No. Can you repeat, rephrase maybe?
+
+--------------------------------------------------------------------------------
+Andre F. M. Mulder,  Kepler Cheuvreux, Research Division - Analyst    [89]
+--------------------------------------------------------------------------------
+
+          If a look at the development of turnover of the [deficience], be it in e-commerce and Express or Supply Chain, both in e-commerce and Express the development in Q2 is about the same as what we've seen in Q1. Only in Supply Chain there's a somewhat bigger decrease compared to Q1 even if you strip out the China acquisition -- the China disposal. And it seems like the Q2 number in Supply Chain is a bit weaker for Asia Pacific than, for example, Q1?
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [90]
+--------------------------------------------------------------------------------
+
+          So I think, when I look at the revenue in Asia Pacific for Supply Chain, it was EUR 482 million in Q2. And I think...
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [91]
+--------------------------------------------------------------------------------
+
+          (inaudible)
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [92]
+--------------------------------------------------------------------------------
+
+          Yes. And then I mean in the second quarter, we didn't have anything from China. So I think that was an effect of around about EUR 110 million in revenue loss. And in the first quarter, we still had the China revenue for Jan and Feb and we only missed it in March.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [93]
+--------------------------------------------------------------------------------
+
+          Well, good.
+
+--------------------------------------------------------------------------------
+Operator    [94]
+--------------------------------------------------------------------------------
+
+          Cristian Nedelcu from UBS.
+
+--------------------------------------------------------------------------------
+Cristian Nedelcu,  UBS Investment Bank, Research Division - Associate Director and Aerospace & Defence Analyst    [95]
+--------------------------------------------------------------------------------
+
+          Apologies. 2 short follow-ups, if I may. The first one, in the Mail Communication segment in post, if I look at Q2 volume per working day, I think this is down 4.7%. And I think it's sort of the biggest decline we've seen in a few quarters now. Anything in particular there to keep in mind? And did I understand well that you do not expect significant demand elasticity post the price increases in July? And just the second one, on Express: If I remember correctly, you gave us a bit of color into Express volumes for April at the Q1 results. I was wondering if you can provide probably a bit of color about July, how these Express are volumes starting in the quarter.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [96]
+--------------------------------------------------------------------------------
+
+          Yes. I think -- on the Express July question, I think it's really too early to say anything definitive. I will say that we don't see a fundamental change to the trend we saw in the second quarter, so so far, no peculiarities. In terms of Mail Communication, I mean, we had 1 day -- 1 less working day in Q2. So when you look at the volume decline normalized for working days, it is more in the usual range, so I wouldn't overinterpret this. And we indeed do not expect a lot of price elasticity on the increase we have now implemented for the ex ante regulated EUR 2.8 billion basket.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [97]
+--------------------------------------------------------------------------------
+
+          All right. And looks like my bold prediction was correct and there are no further callers. Operator?
+
+--------------------------------------------------------------------------------
+Operator    [98]
+--------------------------------------------------------------------------------
+
+          We have one more caller in the queue.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [99]
+--------------------------------------------------------------------------------
+
+          So close. Okay then...
+
+--------------------------------------------------------------------------------
+Operator    [100]
+--------------------------------------------------------------------------------
+
+          So it is Matija Gergolet from Goldman Sachs.
+
+--------------------------------------------------------------------------------
+Matija Gergolet,  Goldman Sachs Group Inc., Research Division - Equity Analyst    [101]
+--------------------------------------------------------------------------------
+
+          Yes. Sorry for then last-minutes questions. I have two, hopefully quick. Firstly, on the guidance. So you're still keeping the full year EBIT guidance relatively wide, particularly in post and parcels. I'm not sure I fully understand that because you do say that you might have more restructuring charges but that will be offset by the, say, revaluation benefit on the pension. So why is the guidance in the mail and Parcel still relatively wide? What are you basically particularly, say, fearing or monitoring? And the second question, just on cash -- operating cash flow in the second quarter: Can you just remind us basically what were the outflows for the restructuring charges in the quarter; and perhaps also, say, give us a bit of, say, color what you expect for the coming quarters into the, say, restructuring cash outflows? Because I just think that's one area, particularly in mail and Parcel, where numbers were perhaps a bit below what was maybe expected by some.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [102]
+--------------------------------------------------------------------------------
+
+          Okay. So I think, on the second question, I think the overall amount of cash out we expect for the restructuring is around about EUR 90 million for the year. That is clearly skewed towards the second half of the year. So I will say it's roughly 1/3, 2/3 between first half and second half of the year, but just kind of like order of magnitude, but the overall number for the full year should be around about EUR 90 million order of magnitude. In terms of why do we still have a relatively wide range for P&P, I mean, obviously, like I said, we have to see how the whole Parcel volume growth yield meanders out. I think, however, the biggest uncertainty is on the whole productivity, which is the area which is more back-end loaded, where we are now beginning to see an encouraging trend, but we really have to see how rapidly that now ramps up in the second half of the year.
+
+--------------------------------------------------------------------------------
+Operator    [103]
+--------------------------------------------------------------------------------
+
+          There are no more callers in the queue.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [104]
+--------------------------------------------------------------------------------
+
+          Oh. Well then...
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [105]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Martin Ziegenbalg,  Deutsche Post AG - Head of IR    [106]
+--------------------------------------------------------------------------------
+
+          Melanie, over to your closing remarks.
+
+--------------------------------------------------------------------------------
+Melanie Kreis,  Deutsche Post AG - CFO & Member of Management Board    [107]
+--------------------------------------------------------------------------------
+
+          Yes. I think we've covered a lot in the Q&A. I do hope that what you take away from this call is that it was a quarter where, despite all the volatility out there, we were able to grow not only the top line, but really the underlying operating result in all of our divisions and that gives us confidence that we will continue on the path towards delivering on our 2019 and 2020 guidance.
+So thank you very much, and have a nice rest of the day.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2019 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

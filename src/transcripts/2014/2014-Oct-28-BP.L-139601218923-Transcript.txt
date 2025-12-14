@@ -1,0 +1,949 @@
+
+
+Thomson Reuters StreetEvents Event Transcript
+E D I T E D   V E R S I O N
+
+Q3 2014 BP PLC Earnings Call
+10/28/2014 02:00 PM GMT
+
+================================================================================
+Corporate Participants
+================================================================================
+
+ * Jessica Mitchell
+   BP PLC - Director Group IR
+ * Brian Gilvary
+   BP PLC - CFO
+
+================================================================================
+Conference Call Participiants
+================================================================================
+
+ * Anish Kapadia
+   Tudor Pickering & Holt - Analyst
+ * Irene Himona
+   Societe Generale - Analyst
+ * Jon Rigby
+   UBS - Analyst
+ * Jason Kenney
+   Banco Santander Brasil S.A. - Analyst
+ * Oswald Clint
+   Stanford Bernstein - Analyst
+ * Robin West
+   Redburn - Analyst
+ * Alastair Syme
+   Nomura Securities International, Inc. - Analyst
+ * Fred Lucas
+   JPMorgan - Analyst
+ * Blake Fernandez
+   Howard Weil Incorporated - Analyst
+ * Stephen Simko
+   Morningstar - Analyst
+ * Neill Morton
+   Investec, Inc. - Analyst
+ * Thomas Adolff
+   Credit Suisse - Analyst
+ * Lucas Herrmann
+   Deutsche Bank - Analyst
+ * Theepan Jothilingam
+   Nomura International - Analyst
+ * Doug Terreson
+   ISI - Analyst
+ * Gordon Gray
+   HSBC - Analyst
+ * Guy Baber
+   Simmons & Company - Analyst
+ * Jason Gammel
+   Jefferies & Co. - Analyst
+ * Chris Coupland
+   Bank of America - Analyst
+ * Lydia Rainforth
+   Barclays Capital - Analyst
+
+================================================================================
+Presentation
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          Welcome to the BP presentation to the financial community Webcast and Conference Call. I now hand it over to Jessica Mitchell, Head of Investor Relations.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [2]
+--------------------------------------------------------------------------------
+
+          Hello and welcome. This is BP's third quarter 2014 results Webcast and Conference Call. I'm Jess Mitchell, BP's Head of Investor Relations and I'm here with our Chief Financial Officer, Brian Gilvary.
+Before we start, I need to draw your attention to our cautionary statement. During today's presentation, we will make forward-looking statements that refer to our estimates, plans and expectations. Actual results and outcomes could differ materially due to factors that we note on this slide and in our UK and SEC filings. Please refer to our Annual Report, Stock Exchange announcement, and SEC filings for more details. These documents are available on our website. Thank you. Now over to Brian.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [3]
+--------------------------------------------------------------------------------
+
+          Thanks, Jess, and welcome, everyone, to today's Webcast. Before we go through today's call, I would like to say how deeply saddened we all are by the tragic loss of Christof De Madre. The oil industry has lost one of its most distinguished champions, a charismatic leader and a man for whom I had great personal respect and affection. We will all miss him greatly.
+Turning to today's results, it has been an eventful quarter with significant volatility and uncertainty both geopolitically and in the markets. BP's third quarter results have shown further progress in our Business Operations along with strong operating cash flow which supports delivery of the 10-point plan we laid out to you three years ago.
+I will start with a brief overview of the environment before taking you through the numbers in more detail. I'll then provide the usual updates on our US legal proceedings followed by the business highlights for the quarter. At the end, there will, of course, be time for your questions.
+Starting with the environment. Oil and gas prices have shown significant volatility over the last decade. Recently, we have seen a prolonged period of Brent Crude trading around $110 per barrel. In the third quarter, this fell to an average of just under $102 per barrel and we have seen a significant decline in recent months with Brent averaging around $88 per barrel in the fourth quarter to date.
+A number of market fundamentals are driving this trend. Global supply has increased from the return of shut-in production in a number of locations as well as continued production growth in the United States where inventory storage also remains relatively high. At the same time, there is weaker demand growth globally. In China, demand growth has weakened to roughly half the rate of 12 months ago.
+Henry Hub gas prices also fell in the third quarter. The cold winter in the United States at the start of the year led to some large spikes in the gas price followed by an increase in supply and a significant build in inventories. The supply and inventory increases saw prices falling through the middle part of the year with stocks now around average levels ahead of the forthcoming winter in the United States. As you'd expect, we have seen some impact from lower oil prices in our results today and the outlook remains uncertain. In the environment, we benefit from being an integrated business with a strong downstream but we expect weaker oil prices will impact our results while these conditions prevail.
+Turning now to the financial results in more detail. BP's underlying replacement cost profit in the third quarter was $3 billion, down 18% on the same period a year ago and down 16% on the second quarter of 2014. Compared to a year ago, the result reflects a much lower contribution from Rosneft following the significant depreciation of the rouble as well as lower oil prices and the associated tax duty lag effects. Lower oil realizations and the absence of one-off benefit in the third quarter of 2013 related to the transAlaska pipeline system, partly offset by a recovery in the downstream environment.
+Operating cash flow for the third quarter was $9.4 billion. The third quarter dividend payable in the fourth quarter increases to $0.10 per ordinary share, an increase of 5.3% year on year. This reflects our confidence in delivering our 2014 operating cash flow targets and the reverseness of our financial framework in a weaker oil price environment.
+Turning to the highlights at a segment level. In the upstream, the underlying third quarter replacement cost profit before interest and tax of $3.9 billion compares with $4.4 billion a year ago and $4.7 billion in the second quarter. Compared to the third quarter of 2013, the result reflects lower oil realizations, the absence of a 2013 one-off tax benefit already mentioned, and higher DD&A, partly offset by increased production in high margin areas, primarily the Gulf of Mexico and higher gas realizations. Excluding Russia, third quarter reported production versus a year ago was 2.7% lower, primarily due to the Abu Dhabi onshore concession expiree in January. After adjusting for this and for entitlement and divestments impacts, underlying production increased by 4.1%.
+Compared to the second quarter, the result reflects lower oil and gas realizations, slightly higher DD&A and lower gas marketing and trading results, partly offset by increased production in higher margin areas. Third quarter production benefited from the absence of seasonal adverse weather in the Gulf of Mexico. Depending on weather and the closing of the Alaska package sales to Hill Corp., we expect fourth quarter reported production to be slightly lower.
+Turning to Rosneft. For the third quarter of 2014, we have recognized $110 million as BP's share of Rosneft's estimated underlying net income compared to $810 million a year ago and $1 billion in the second quarter. BP's share of Rosneft's estimated production for the third quarter was just above 1 million barrels of oil equivalent per day, an increase of 4% compared with a year ago. Geopolitical uncertainty in the region continued the third quarter but did not have any significant impact upon Rosneft's day-to-day operations.
+Financial performance was adversely affected by the significant depreciation of the rouble as well as by lower euros prices and the associated tax duty lag effects. In July, we received our share of Rosneft's dividend in respect of 2013 which amounted to around $700 million net of taxes. BP will continue to comply with all relevant sanctions. We remain committed to our strategic investments in Rosneft and hope for diplomatic solutions to the current issues. We have worked in Russia over many decades and continue to believe in the opportunities that reside in this fast hydrocarbon province. Rosneft's recent first discovery in the Arctic's Coral Sea is a clear indication of the long-term potential of the region and its importance in balancing the world's energy demands.
+In the downstream, the third quarter underlying replacement cost profit before interest and tax was $1.5 billion compared with $720 million a year ago and $730 million in the second quarter. The fuels business reported an underlying replacement cost profit before interest and tax of $1.1 billion in the third quarter compared with $340 million in the same quarter last year. The increase reflects a significantly stronger refining environment, stronger supply and trading and a higher contribution from our fuels business underpinned by the Whiting Refinery.
+The lubricants business continued to deliver consistent performance with an underlying replacement cost profit before interest and tax of $340 million compared with $330 million in the same quarter last year. The petrochemicals business reported an underlying replacement cost profit of $70 million in the third quarter, compared to $50 million in the same period last year mainly reflecting improved margins in the acetized business.
+Looking to the fourth quarter in the fuels business, we expect a similar level of turnarounds to the third quarter of this year. Additionally, we anticipate lower seasonal demand versus the third quarter to negatively impact margins in both the fuels and petrochemicals businesses.
+In other business and corporate, we reported a pretax underlying replacement cost charge of $290 million for the third quarter compared to $390 million a year ago. This reflects a number of one-off benefits in the quarter. Our full-year guidance of an average charge of $400 million to $500 million per quarter remains unchanged.
+The underlying effective tax rate for the third quarter was 41% compared to 31% a year ago. This primarily reflects the impact of the strengthening of the US dollar on deferred tax balances and the significantly lower contribution of equity accounted from Rosneft which is reported net of tax. We continue to expect the full-year effective tax rate to be around 35%. The charge for the Gulf of Mexico oil spill was $43 million for the third quarter, primarily reflecting the ongoing costs of running the Gulf Coast restoration organization.
+The total cumulative pretax charge for the incident to date is unchanged at $43 billion. This does not include any provision for business economic loss claims that are yet to be received or processed. There is a small provision for some claims that have been processed and are not subject to appeal within the Claims Facility. As we previously advised, it is still not possible to reliably estimate the remaining liability of the business economic loss claims. We will revisit this each quarter as we continue to contest what we consider to be unreasonable claims, a process which could take some time.
+Regarding the Clean Water Act, as you know, we will be appealing the recent gross negligence ruling. We continue to believe that our original provision of $3.5 billion represents a reliable estimate of the penalty in the event we are successful in our appeal and we have maintained the provision at this level. Today's Stock Exchange announcement includes further information on the provision and contingent liabilities associated with this matter.
+The pretax cash outflow on costs related to the oil spill for the third quarter was $290 million. The cumulative amount estimated to be paid from the trust fund has now reached $20 billion. The previously reported headroom in the trust of approximately $700 million has now been utilized, primarily by higher estimates for claims administration and also charges in the quarter for business economic loss claims and natural resource damage assessment costs. Going forward, additional costs not provided for will be charged to the Income Statement as they arise.
+At the end of the quarter, the aggregate remaining cash balances in the trust and qualified settlement funds totaled $6 billion including $1.1 billion remaining in the see-through compensation fund, with $20 billion paid in and $14 billion paid out. I will provide a more general update on the legal proceedings later.
+Turning to progress on divestments and our objective to divest $10 billion of assets by the end of 2015. Agreed deals have now reached $4 billion. These include the sale of a package of assets on the Alaskan North Slope, the farm down of 40% of our interest in the Oman Khazzan project, the sale of our Texas [Ugitan] and Panhandle West gas assets and the sale of our global aviation turbine oils business. Our intention is to use the post-tax proceeds from this divestment program predominantly for shareholder distributions with a bias to share buybacks.
+Moving to cash flow, this slide compares our sources and uses of cash in the first nine months of 2013 and 2014. Operating cash flow in the first nine months were $25.5 billion of which $9.4 billion was generated in the third quarter. Excluding oil-spill-related outgoings, underlying operating cash flow in the first nine months of 2014 was $26.7 billion, $9.8 billion higher than a year ago. This includes a working capital release of $2.3 billion year-to-date of which $1 billion is in respect of the third quarter, in part reflecting the recent fall in oil prices. Note as with previous years, we expect working capital in the fourth quarter to include an outflow for German mineral oil taxes which is typically around $2 billion.
+Organic capital expenditure was $16.3 billion in the first nine months and $5.3 billion in the third quarter. We now expect capital expenditure for the full year to be around $23 billion, relative to our guidance of $24 billion to $25 billion. In the first nine months of the year, we have brought back $4 billion of shares including $1.6 billion in the third quarter. The cumulative total since early 2013 is now $10 billion. Around $8 billion of this reflects the proceeds of the sale of our interest in TNK BP with the balance coming from the proceeds of our $10 billion divestment program.
+Net debt at the end of the third quarter was $22.4 billion with [gearing] at 15% compared to 13.3% a year ago. This largely reflects the impact of our share buyback program over the course of the year. Our intention is to keep gearing in a target bend of 10% to 20% while uncertainties remain.
+Turning to our financial outlook. The strong operating cash delivery in the quarter and the year-to-date total of $25.5 billion leaves us on track to deliver the $30 billion to $31 billion of operating cash flow planned for 2014. This will mark the delivery of our 10-point plan. Relative to 2013, it reflects the higher expected contribution from major projects in the upstream, the progressive ramp-up of the Whiting Refinery and some reversal of the working capital builds seen in 2012 and 2013.
+Looking out to 2018 and notwithstanding the impact of a period of lower oil prices, the principals of our strategy remain as we laid out to you in March. Our intention is to build on this platform to realize growth in underlying operating cash flow and to manage capital in a very disciplined way in order to grow free cash flow and in turn distributions. This is underpinned by our quality upstream project pipeline, our repositioned downstream and the opportunities we see to drive efficiency across the Group.
+As already discussed, oil prices have weakened considerably in recent weeks. This is prompting the whole sector to consider the implications of a sustained period of lower oil prices. As we stand today, our balance sheet is very robust with relatively low gearing of 15% and strong cash balances. In 2014, we expect underlying operating cash flow to cover capital expenditure and dividend payments. Our financial framework aims to underpin this position over the long term. Over time, free cash flow grows materially at average oil prices of $100 per barrel while we see downside support at average oil prices of around $80 per barrel, the level at which we sanction projects. In addition, we have the surplus cash from our $10 billion disposal program that is currently being used to fund our buyback program, so we have a lot of flexibility to withstand the period of low oil prices.
+Our first priority within the financial framework will always be the dividend. Our aim is to grow dividend per share progressively in accordance with the growth in underlying operating cash flow from our businesses over time. We then judge the use of cash for discretionary reinvestment and other forms of distribution on an ongoing basis with a bias to distributions. We will look very closely at levels of capital spend. Where we have room at the margin to pare back or reface spend without compromising future growth we will do so. Relative to current guidance, I expect this could make a difference of $1 billion to $2 billion in 2015, with lower spend in the downstream following the completion of the Whiting Refinery modernization project.
+As we move further into 2015, you might also expect to see the benefits of a greater focus on streamlining activity, a process we began some 18 months ago in response to resizing the Group. We have a strong drive towards operating efficiency currently underway in our upstream. In the downstream, we introduced a more streamlined organization structure that we expect to drive more efficiencies across the portfolio and we have around 60 simplification initiatives at the corporate level. At the same time, our industry tends to be self-correcting so one would expect to see some deflation if current oil prices remain low relative to recent history. We will keep you updated on our plans as we move into the New Year.
+Now let me give you a brief update on the main Gulf of Mexico- related legal proceedings in the United States. The first and second phases of the MDL 2179 trial have been completed and on the 4th of September the Court issued its ruling on Phase 1. As we outlined on our Investor Call, BP strongly disagrees with the Court's gross negligence ruling. The law is clear that proving gross negligence is a very high bar and BP believes the Court's findings were not warranted by the evidence presented at trial.
+BP will appeal this decision, and in the meantime, has filed a post- trial motion with the District Court asking the Court to mend its findings or order a new trial. We have done this as BP believes the Court's findings and conclusions are based substantially on expert witness opinions that the Court appropriately and expressly excluded from evidence at the trial. The District Court's ruling is the first of three steps in the process of determining the amount of penalties under the Clean Water Act.
+The Court still needs to rule in the Phase Two proceedings on the amount of oil that was spilled and the penalty phase is scheduled to begin on the 20th of January 2015. Appeals notwithstanding, by law the penalty is not automatically assessed at the statutory maximum. The District Court must consider eight statutory factors in determining an appropriate penalty between zero and the statutory maximum. BP Exploration & Production will submit strong evidence in support of these potentially mitigating factors.
+Regarding business economic loss claims, a new policy that provides for the matching of revenues and expenses in calculating lost profits that business claims is now in place and business economic loss payments have resumed. In the third quarter, $120 million was paid out on business economic loss claims. This compares with over $810 million in the same period a year ago. BP's motion to allow it to seek restitution from claimants who were overpaid as a result of the previous policy has been denied and we have filed a notice of appeal with the Fifth Circuit. Separately, BP is seeking Supreme Court review of the issue of causation as it relates to approval of a settlement and certification of a class.
+In the MDL2185 securities litigation, the trial for the class action is set for the 18th of May next year, subject to the ongoing appeals around certification of the class. BP believes that all of the plaintiff securities' claims are meritless and we will continue to vigorously defend against them. As we have said before, we are determined to pursue fair outcomes in all legal matters while protecting the best interests of our shareholders at all times. We compartmentalize these legal activities and BP's operational delivery teams remain fully focused on our core business.
+Turning to the upstream. We continue to focus on delivery of this year's key milestones. 16 exploration wells have already been drilled this year, on track for our stated goal of completing between 15 and 20. We have recently made three discoveries. At Xerelete in Brazil, Vorlich in the North Sea and Guadalupe in the Gulf of Mexico, bringing the total for the year to five. We also continue to acquire new acreage.
+In the third quarter, we accessed the outer offshore Canning Basin in Western Australia and were also awarded a number of blocks in the Gulf of Mexico Western lease sale. This is in addition to 24 blocks we were awarded in the Gulf of Mexico Central lease sale in the second quarter of 2014. We have also been awarded the Almasria and Caroline Concessions as part of the recent bidding round in Egypt subject to final approval.
+Turning to major projects, the startup of Kinnoull is now in progress which will bring the total number of startups this year to six. Our year-to-date startups continue to ramp up their production as planned and are contributing significantly to operating cash flow this year and beyond. Of the seven planned major project startups in 2014, the one remaining project, Sunrise Phase I in Canada, is on track with construction of a central processing facility over 95% complete. Final commissioning continues and startup is expected to begin in December.
+Turning to operations. In the third quarter, we successfully completed five turnarounds, three in Alaska as well as Bruce in the North Sea and Mad Dog in the Gulf of Mexico. This takes the total completed for the year to seven, against our planned total of eight. One final turnaround is scheduled for the fourth quarter. Additionally, operations at the Rhum gas field in the Central North Sea resumed in accordance with the agreed temporary Management scheme. We have now completed all of our priority wells for 2014 with just one remaining to be brought online. We expect them to contribute two-thirds of total new well production in 2014.
+Lastly, in India, the government announced a new domestic gas price formula as part of a package of oil and gas sector reforms. This increases the gas price applicable for existing production and is a positive first step towards creating the more competitive economic landscape required to encourage the development of India's gas resources. We expect further clarity on the new pricing policy and the premiums of future developments to emerge in due course.
+In the downstream, we continue to deliver strong operational performance across our refining system with Whiting now fully operational. Additionally, we have sustained strong year-to-date Solomon availability at 95% during the year. We continue to focus on the overall quality of our portfolio. The lubricants business is delivering consistent results by focusing on growth markets, premium brands, and advantage technology.
+In the third quarter, our petrochemicals business completed a strategic review. This resulted in a decision to halt operations at some of our older and less advantaged facilities while continuing to retrofit several facilities with new technologies. We expect these changes to lower fixed and variable costs as well as to improve returns, and as previously announced, Tufan Erginbilgic became the Chief Executive of the downstream on the first of October. Tufan brings a deep knowledge of BP's downstream operations having held a variety of roles across the segment. Tufan is a great addition to the executive team.
+So, in summarizing, it has been an eventful quarter and one where operational momentum is continuing to feed through into results. This is evident in our progress on major project startups, in further exploration successes, in the strong contribution from our downstream with its modernized Whiting Refinery and in our continued drive towards operation efficiency across all of our businesses.
+As we approach the end of the year, delivery of our 10-point plan is firmly on track. At the same time, we continue to work towards completing our divestment program and on maintaining strong capital discipline, ensuring we have a robust financial frame. The environment has its challenges but we remain clear on the direction and focus of BP. So on that note, thank you for listening and now Jess and I will be happy to take your questions.
+
+
+================================================================================
+Questions and Answers
+--------------------------------------------------------------------------------
+Operator    [1]
+--------------------------------------------------------------------------------
+
+          (Operator Instructions)
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [2]
+--------------------------------------------------------------------------------
+
+          Thank you. This is Jess back again. Thank you all for holding and we will take the first question from Jason Gammel of Jefferies. Go ahead, Jason.
+
+--------------------------------------------------------------------------------
+Jason Gammel,  Jefferies & Co. - Analyst    [3]
+--------------------------------------------------------------------------------
+
+          Just wanted to ask about the reduction in capital spending for 2014. Is this essentially slower level of expenditure that you would expect to then flow into 2015 or has this been an actual reduction in spending levels and if so, where and would you expect it will have any effect on forward production?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [4]
+--------------------------------------------------------------------------------
+
+          Thanks, Jason. It's basically just some slippage in the spend in terms of phasing of what we're doing. I don't think it will have any impact in terms of 2015 in terms of production. We just looked at where the run rate was sitting at the end of the third quarter and then looked at what we thought the likely spend would be in the fourth quarter. But it's not as a result of any intervention at this point on capital but we are looking now we're in the lower oil price regime that we were sort of anticipating may come about depending on a variety of circumstances. We're now looking at what we do next year with capital but in terms of this year it's just simply some slippage.
+
+--------------------------------------------------------------------------------
+Jason Gammel,  Jefferies & Co. - Analyst    [5]
+--------------------------------------------------------------------------------
+
+          Understood. And if I could follow-up, Brian, it wouldn't have any effect on the one to two billion of potential core reductions that you referenced in the comments you made earlier?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [6]
+--------------------------------------------------------------------------------
+
+          That's correct. The guidance we've given you out to 2018 was in the range of $24 billion to $26 billion.
+
+--------------------------------------------------------------------------------
+Jason Gammel,  Jefferies & Co. - Analyst    [7]
+--------------------------------------------------------------------------------
+
+          Great. Thanks very much.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [8]
+--------------------------------------------------------------------------------
+
+          Thank you, Jason. Next question from Oswald Clint at Sanford Bernstein. Are you there?
+
+--------------------------------------------------------------------------------
+Oswald Clint,  Stanford Bernstein - Analyst    [9]
+--------------------------------------------------------------------------------
+
+          Thank you very much, Jess. Brian, two questions, please, thank you. First just on India. Sounds like you still expect the prices to move in the right direction over time. Could you maybe say what time period that might be and therefore why did you take the impairment in this quarter?
+And secondly, you also mentioned the successful exploration you've been having for 2014 and obviously on the back of 2013. I wonder if you could venture any volume numbers yet at this stage? It just would be helpful to compare to some of your competitors. Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [10]
+--------------------------------------------------------------------------------
+
+          Thanks, Oswald. I think on India the first point to note is actually we did get last weekend a positive signal in terms of the new forms that have been put in place which we'll our existing production, the prices we realize increase by just over $2, MMBtu, so I think we see that as a positive signal. The question mark going forward was more around actually understanding what the various statements meant around premiums associated with new discoveries and how they will actually pan out going forward.
+I think what we saw was a positive development that was good but as we looked at the [D6] existing carry that we had on the books with the uncertainty around what those premiums would look like going forward from an accounting perspective, we felt it was prudent to take the impairment that we did. And we continue to work with the new Indian Government going forward in terms of what those premiums may look like. And I think the big picture here is there is a terrific resource that sits off the coast of India and the development of that resource we believe is crucial to the growth of Indian gas. And we want to basically, with our partners' reliance on the ground there, develop that gas and with the right incentives that's what we intend to do.
+On the exploration side, we haven't quantified the volumes at this point. There's the five discoveries that we've had this year in Angola, Egypt, Gulf of Mexico, North Sea, most recently in Brazil. We're certainly apprized of those discoveries and what they look like but we haven't actually put any volumes out at this point, Oswald.
+
+--------------------------------------------------------------------------------
+Oswald Clint,  Stanford Bernstein - Analyst    [11]
+--------------------------------------------------------------------------------
+
+          Thanks for the answers. Thank you.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [12]
+--------------------------------------------------------------------------------
+
+          Thanks, Oswald. Turning now to Jason Kenney; go ahead, Jason.
+
+--------------------------------------------------------------------------------
+Jason Kenney,  Banco Santander Brasil S.A. - Analyst    [13]
+--------------------------------------------------------------------------------
+
+          Hi there. Thanks for the opportunity to ask a question. So in 2010, you estimated a number for the trust fund obviously with the US government of $20 billion. I'm just wondering how significant it is that you actually reach that total four and a half years later of $20 billion and how you see any particular commitment over and above $20 billion just going forward. It's obviously quite a big feature of the last four and a half years of your commitment in the US Gulf.
+Secondly, with respect to the Rosneft dividend and its support for annual cash, I'm just wondering if you could share with us any thoughts on particular sensitivities or risks that you planned for or are aware of in respect to future year dividends from Rosneft.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [14]
+--------------------------------------------------------------------------------
+
+          Great, thanks, Jason. On the $20 billion fund, yes, this is indeed the 17th quarter now that we've been tracking the provision and the headroom that had built up of around $700 million, just shy of $700 million, was used up this quarter based on our current estimates of administration costs going forward was the bulk of the increase. But also some business economic loss claims under the new scheme that's been put in place that actually went out. And each quarter we will now provide for those and they will actually -- any bell charges that come through in terms of payments going forward will now be charged to P & L given the $20 billion is exhausted.
+That said, we still have $6 billion of cash in the $20 billion fund for distribution against the original provisions that we did around ensuring that those people that have legitimate claims are compensated. So there's still $6 billion in cash to be distributed, which $1.2 billion is associated with the C fund that was put in place. But effectively now, any new things over and above what's within the overall $43 billion provision will be taken to the P & L as we've done in previous quarters. So I don't think there's anything more significant to say about it other than the fact that now as business economic loss claims come through, it's probably worth saying they -- under the new scheme that's been put in place around the matching supervised by the Court, they have been drastically reduced from where they were a year or two years ago when the scheme first got up and running.
+On Rosneft dividend, it comes through once a year typically. We received $693 million in July of this year which is a very important signal out of Rosneft. And we would expect to receive a dividend at the same time next year, will be based on 25% of earnings from 2014 and our share of that 19.75%. And at the moment we don't see any major risk to that dividend, but in terms of the overall financial frame, it is nothing like as significant as it would have been under the old regime where we earned [50%] in KBP. So in terms of financial frame, it doesn't cause us any major concern and certainly we have no signals that it's something we need to worry about. It's quite a long way off in terms of next year's financial frame, it's a little less than nine months away so it's not something which we're concerned about at the moment.
+
+--------------------------------------------------------------------------------
+Jason Kenney,  Banco Santander Brasil S.A. - Analyst    [15]
+--------------------------------------------------------------------------------
+
+          Perfect; appreciate the view.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [16]
+--------------------------------------------------------------------------------
+
+          Thank you. Next question from Theepan Jothalingam of Nomura.
+
+--------------------------------------------------------------------------------
+Theepan Jothilingam,  Nomura International - Analyst    [17]
+--------------------------------------------------------------------------------
+
+          Yes, thanks, Jess. Afternoon, Brian. A few questions, please. Could you just comment quick on the business economic losses, could you just clarify what's been awarded but not paid and the level that you are still self-contesting. My second question is just on working capital. We've seen some unwind in Q3. I was just wondering sort of relative to the build we saw in 2012, 2013, can you just remind us how much you believe is left?
+And the last question was just conceptually buyback versus sort of use of proceeds for acquisitions. Clearly BP's share prices come back but there are some opportunities, I guess, in the upstream. Could you just sort of weigh up the opportunity cost between the buyback and potentially buying resource at attractive prices? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [18]
+--------------------------------------------------------------------------------
+
+          Thanks, Theepan. Maybe I'll take the second question first because it's probably the easiest. I think we said at the end of Q3 last year that we expected around about of the $5 billion working capital build about two-thirds were mined. It's probably tracking somewhere around that for this year so we see, I think, $2.3 billion come out already so far this year.
+The actual bulk of it in the third quarter actually came from price, so that was somewhat unexpected. But as we see the working capital reduce, the price reduced, so you see some working capital release that we saw at the end of the quarter. So I wouldn't say there's any further guidance we give around that other than the fact we're still on track for $30 million to $31 million. On business economic losses, I think the actual payments that went out in the quarter were in terms of cash. I think in total, we have 113,000 business economic loss offers that were submitted as of the first of October. But within the quarter, around about $120 million went out as payments and within the provision, we provided around $200 million within the quarter. So there is certain bell claims that go through that we don't have the right of appeal on. I think the cutoff is $25,000 and below we can't appeal. But we can appeal things above that and we do that where we don't believe it matches up with the matching policy that we put in place.
+On buybacks versus acquisitions. It's a great question, Theepan. In some respects I would say given where we are with the portfolio and having brought onstream the projects that we laid out in 2011 as part of the 10-point plan for 2014, our balance sheet has got progressively stronger as the average cash margin of the portfolio has increased. What that means is that we're actually in a very good position to certainly withstand a sustained period of low oil prices in the range of $80 to $85 a barrel within the existing frame. And I think, as we've said in many investor calls previously and in meetings, I think a period of $80 to $85 a barrel probably offers more opportunities for us than threats. And on that basis we will look at how we deploy the cash that we have available to us in terms of investments, in terms of buybacks, in terms of progressive dividend and in the round -- and, of course, acquisitions will certainly be an option but not of a corporate nature, just to be absolutely clear on that.
+Bob's been clear on this in the past, but in terms of being able to deepen strategically in some existing positions we have, I think there may be some opportunities for us.
+
+--------------------------------------------------------------------------------
+Theepan Jothilingam,  Nomura International - Analyst    [19]
+--------------------------------------------------------------------------------
+
+          And just coming back to the BL, is there a sort of dollar amount you would say that BP would be contesting at this point that's been already paid out? I think you gave an update a couple quarters back on that number.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [20]
+--------------------------------------------------------------------------------
+
+          Theepan, we'll come back to you towards the end of the call on that if that's okay.
+
+--------------------------------------------------------------------------------
+Theepan Jothilingam,  Nomura International - Analyst    [21]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [22]
+--------------------------------------------------------------------------------
+
+          I think we've contested something close to $1 billion of the old claims but we have the existing issue where we've gone to the Court with a request on callback which was denied on claims that have actually gone out, but we will be appealing that decision as we laid out in the investor presentation.
+
+--------------------------------------------------------------------------------
+Theepan Jothilingam,  Nomura International - Analyst    [23]
+--------------------------------------------------------------------------------
+
+          Okay.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [24]
+--------------------------------------------------------------------------------
+
+          Thanks, Theepan. Over to the US and Doug Terreson of ISI. Are you there, Doug?
+
+--------------------------------------------------------------------------------
+Doug Terreson,  ISI - Analyst    [25]
+--------------------------------------------------------------------------------
+
+          I am. Good afternoon, Brian and Jess.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [26]
+--------------------------------------------------------------------------------
+
+          Hi, Doug.
+
+--------------------------------------------------------------------------------
+Doug Terreson,  ISI - Analyst    [27]
+--------------------------------------------------------------------------------
+
+          Brian, the downstream results were very good during the period led by the strength in the fuels business, although it seems like global oil demand may be deteriorating somewhat based on the tone of your comments. So my question is whether or not you could elaborate on some of the trends that you are seeing in global oil demand and also any views that you may have for coming periods?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [28]
+--------------------------------------------------------------------------------
+
+          I think what we've certainly seen is, as we mentioned in the presentation, is a slowdown in the Far East around demand. Actually if we look at this year and particularly in Europe with the issues that we've had post 2008, we have actually seen some growth in the fuels markets businesses. So we are actually seeing some growth around that. And we -- of course, but we're also at the same time seeing inventories build globally which is what's creating the softening in the oil price.
+We've also seen some additional production come on in places like Libya and of course the [shale oil] production. So what you're actually seeing now is a rebalancing which is leading to the softer oil prices. You are also seeing, as I said, Asia demand growth falling. Even though China is still growing relatively year on year, it's not growing at the same sort of rate that we were seeing a year ago.
+
+--------------------------------------------------------------------------------
+Doug Terreson,  ISI - Analyst    [29]
+--------------------------------------------------------------------------------
+
+          Okay. And then second, given BP's historical position and the positive performance that you guys have enjoyed in the deepwater, I wanted to see how recent market changes in that area might affect your immediate term outlook; meaning you talked about deflation earlier and what the specific implications might be for BP over their immediate term?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [30]
+--------------------------------------------------------------------------------
+
+          It's a great question, actually, it's one that we've been looking at, Doug, for the last 12 months. It's interesting. When you look at the ultra deepwater rig, this is something that Bernard Looney on the Team has brought back to us and we've discussed this on a number of occasions. But if you look at the ultra deepwater rig inventory back in 2007, I think there were around 33 rigs and we've seen that grow to 150 of where we are today. We've already seen five ultra deepwater rigs being laid idle, so I think you're going to go through this period now of, as the sector has curtailed some of the capital that was being poured in two or three years ago and the general sector message around capital, a softening in the oil price, some of these ultra deepwater rigs being laid idle, I think you will start to see a softening in rig rates going forward.
+And I think from our perspective that can only help projects like Mad Dog Phase Two, which I know Bob talked about in previous quarters around the return of Mad Dog Phase Two. That can only possibly get better in terms of where we are, given that's a project that will probably require something like one to two rigs to be committed over a period of five years once we get the sanction.
+
+--------------------------------------------------------------------------------
+Doug Terreson,  ISI - Analyst    [31]
+--------------------------------------------------------------------------------
+
+          Good for BP. Thanks a lot.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [32]
+--------------------------------------------------------------------------------
+
+          Thanks, Doug.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [33]
+--------------------------------------------------------------------------------
+
+          Right back to the UK and a question from Thomas Adolff of Credit Suisse.
+
+--------------------------------------------------------------------------------
+Thomas Adolff,  Credit Suisse - Analyst    [34]
+--------------------------------------------------------------------------------
+
+          Hi, thanks for taking my questions; two, please. In March, I believe it was March, you highlighted some organizational efficiency measures and something you called the 60 simplification initiatives. I wondered whether you can comment how material it is and whether you've actually already reflected this in your cash flow guidance from 2015 onwards.
+The second question is, I guess, around projects. You've highlighted CapEx flexibility to the tune of $1 billion to $2 billion next year. You also made a comment around we sanctioned projects at $80 brand. I wonder what, in a low oil price environment is today, you can sanction projects like [Tangu] Expansion, and Browse LNG, certainly these projects need a higher oil price? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [35]
+--------------------------------------------------------------------------------
+
+          Great, thanks, Thomas. So on the 60 simplification projects, this is something we sort of initiate and put in place over 18 months ago, is January of last year, and it was really precipitated by the $42 billion of disposals of assets. So you have a very repositioned portfolio and exiting a number of countries, places like Colombia, Venezuela and Vietnam and so on, led us to look back at the corporate structure that we had that was effecting the footprint that we had left. And that has led to a period of 18 months coming up to this year, we have now laid in plans that will see quite a reduction. We haven't given any guidance around numbers on that but we laid out the 60 individual projects that we've looked at.
+It's things like combining corporate functions that we have. So, for example, previously we had three different audit teams; they're all combined under one leadership now. It means that they go into a business as a single unit, rather than three separate units. So it's actually how do we get things more streamlined and simplified. And this isn't something which you have a stop; it's something which is continuous and you continuously look to try to improve. But we have seen significant benefits coming through already this year in part but they are built into the forward plans as we look out to 2018 in terms of what we showed you in March. So in some respects it's part of the risk mitigation around the delivery of the cash flow targets we laid out already.
+On the major projects, in terms of $80 a barrel, everything -- we've sanctioned $80 a barrel now for the best part of five or six years that I can recall. We do stress tests down to $60. We do cases up to $100 and then we lay out a plan for the short-term. And we are in the process right now of looking where we will set the oil and gas prices in the refined market margins for next year's operating plan. And I think the key with things like Tangu, Train Three, we already have a number of contracts in place, being put in place. And we already have two consortia have been awarded, onshore front end engineering and design feed for the Tangu project. So I think to a degree we get some of those margins locked in ahead of time, that still makes the margins and the projects pretty attractive going forward.
+On Browse, we're still in the process of working on the floating LNG option in terms of its development concepts. It's too early to say.
+
+--------------------------------------------------------------------------------
+Thomas Adolff,  Credit Suisse - Analyst    [36]
+--------------------------------------------------------------------------------
+
+          Perfect, thank you.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [37]
+--------------------------------------------------------------------------------
+
+          Thank you, Thomas. Next question is from Irene Himona of Societe Gen.
+
+--------------------------------------------------------------------------------
+Irene Himona,  Societe Generale - Analyst    [38]
+--------------------------------------------------------------------------------
+
+          Thank you, Jess; good afternoon, Brian. My first question, going back to the issue you highlighted in your prepared remarks, that in 2015, we should expect a greater focus on the streamlining activities you were discussing. Is that a new initiative additional to what you presented in March? So that's the first question.
+My second question on Whiting. If you can perhaps give us a bit of visibility on the Q3 contribution and where we are currently, given the present price differentials. And then finally you took a $550 million impairment on petrochemicals after a strategic review. I wonder if you can highlight what particular negatives that review uncovered that led to that decision? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [39]
+--------------------------------------------------------------------------------
+
+          Thanks, Irene. I'll take the last question first, as my Team will let me know what the first question was again.
+On the petrochemicals, given the market that we've seen, and particularly in the aromatics business, that's in the piece that we have in China, we've seen a lot of overcapacity come in. We've moved on our own technology internally and we had a strategic review with Bob in the third quarter. And we went through where we think that market will be going into the future. So on that basis we chose to close a number of what we call our older plants, which historically we may have mothballed with the anticipation that the oversupply might actually work its way out in future years. We don't believe that technology is sustainable going forward and therefore we thought it was the right thing to do was to shut those plants down and take the impairment, which we did through the quarter.
+So I think the first question was around the new initiatives.
+
+--------------------------------------------------------------------------------
+Irene Himona,  Societe Generale - Analyst    [40]
+--------------------------------------------------------------------------------
+
+          Yes.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [41]
+--------------------------------------------------------------------------------
+
+          There's still the 16 initiatives we laid out earlier this year on the corporate side, but we've also recently gone through a restructuring of the organization within downstream under Tufan's leadership. And I think that will create some efficiency opportunities in terms of how the downstream is run going forward. And Lamar has also gone through some major changes within the upstream in terms of that structure. In some respects, ahead of what we've seen with the oil prices recently getting ready for ensuring that we stay competitive going forward in the lower oil price environment -- and one tangible example of that would be the low 48 separation.
+And if you look at what we've done with North American gas, it's probably a good example of it where we've now pointed the new Chief Executive Dave Lawler from [Sanridge]. We've now moved the office to a separate location in Houston. We expect at least 400 jobs will go, and that's been announced already. And we are already starting to see the financial benefits of the restructuring that business has gone through. So I think this is just something -- it'll be a theme that you see more of. But I think, just to make the really important point, this is all activity driven, so it's the rate that we can take activity out, we can make things simpler. It's not simply about cutting costs; it's actually about taking activity out at the source while we focus on safe and reliable operations.
+
+--------------------------------------------------------------------------------
+Irene Himona,  Societe Generale - Analyst    [42]
+--------------------------------------------------------------------------------
+
+          Okay, and Whiting?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [43]
+--------------------------------------------------------------------------------
+
+          And on Whiting, we saw an improvement in terms of the third quarter comparison, obviously. Now we've got the six [cokers] all fully commissioned. The average light/heavy spread for memory for the quarter was just on $20 a barrel through the third quarter. And we've seen that come off through October, so that will clearly impact results in the fourth quarter. But in terms of third quarter, we saw still good margins compared to where we sanctioned the project out and the productions stayed pretty constant from where we ramped it up to. So Whiting was operating well through the third quarter.
+
+--------------------------------------------------------------------------------
+Irene Himona,  Societe Generale - Analyst    [44]
+--------------------------------------------------------------------------------
+
+          Thank you very much.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [45]
+--------------------------------------------------------------------------------
+
+          Thank you, Irene. Back to the US and Blake Fernandez of Howard Weil. Go ahead, Blake.
+
+--------------------------------------------------------------------------------
+Blake Fernandez,  Howard Weil Incorporated - Analyst    [46]
+--------------------------------------------------------------------------------
+
+          Hi, thank you for taking the question. Good afternoon. First question is on divestitures. You've got about 60% of your targets still ahead of you and given the collapse in oil prices, one may think that could be a challenge. I'm just curious if you have an appetite to sell more assets in order to achieve that or if you're perfectly fine to maybe come in short on that target?
+The second question, back to the lower 48, from what I understand there's been a bit of a progressive shift away from gas toward liquids and now with this new phenomenon and lower prices here and potentially, I guess, going to battle with OPEC, if you will, I'm just curious, is it the new CEO driving that strategy or is that still being dictated from BP Corporate level? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [47]
+--------------------------------------------------------------------------------
+
+          Okay. Well, on divestitures, it's a great point you make. I'm sort of sitting here pleased that we did the disposals that we did when we did them at $150 and $110 a barrel, because clearly at these prices it's pretty tough to get those sort of prices that we were getting previously. So I think it's good we don't have that big a challenge ahead of us.
+Equally where we said the next tranche of $10 billion compared to the original $38 billion program would be a very different mix of assets. That big first tranche that we sold off, the $38 billion, were typically late life assets, highly depreciated and quite cash accretive, and we got very attractive prices given where the oil price was at the time.
+The next tranche of the 10, which we've now got four, is a far more diverse and disburse group of assets that we're looking at. It's things like the aviation oil business that we talked about. So I'm not concerned about being able to deliver on the $6 billion; in fact, actually, I've got line of sight on at least half of that as we look into 2015, so I'm comfortable that we'll be able to deliver on that going forward. But you are right to point out that with the softening of the oil price, I think coming back to one of the earlier questions, I think there's as many buying opportunities as selling opportunities at the moment depending on what part of the portfolio you're looking into deepening.
+
+--------------------------------------------------------------------------------
+Blake Fernandez,  Howard Weil Incorporated - Analyst    [48]
+--------------------------------------------------------------------------------
+
+          Sure.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [49]
+--------------------------------------------------------------------------------
+
+          In terms of lower 48, we've gone through quite a transformation of that business over the last four or five years, certainly since we've come down and having shrunk down a size of it. We are now down -- we've gone from 24 rigs in 2010 down to three rigs today. Those three rigs, we've got one in Wamsutta, two in Haynesville. And if you look at our overall gas position, about 21% of it are liquids driven, within that mix, so sort of gas liquids, NGLs that come out of the mix.
+Dave Lawler is working with Lamar. It's 100% owned Company still at BP, so Dave is still working with Lamar in terms of strategy of what we do going forward with that business. But I think all of the oil indications are very positive in terms of what we can do with the existing footprint and looking at how we transform that going forward. So I think there will be more to come on that next year as we step into 2015 and we start to give you some more line of sight on the performance of that business.
+
+--------------------------------------------------------------------------------
+Blake Fernandez,  Howard Weil Incorporated - Analyst    [50]
+--------------------------------------------------------------------------------
+
+          Okay, thank you, Brian.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [51]
+--------------------------------------------------------------------------------
+
+          Thank you. And we'll take the next question from Jon Rigby at UBS.
+
+--------------------------------------------------------------------------------
+Jon Rigby,  UBS - Analyst    [52]
+--------------------------------------------------------------------------------
+
+          Thanks, Jess; hi, Brian. So three questions, if I can, quite quick ones, I think. The first is in terms of how you think about CapEx, should we be thinking about the way you sort of use your oil price sensitivities and think about you trying to balance cash in and cash out through a short-term period of weakness, as you might see it? So sort of $1 billion dollars for every $4 or $5 of oil price? Or is it stuff that you can take out of the operating side as well?
+Second question is on Iraq. Given what's going on, I guess is about the security situation. And I'm guessing Baghdad, not being the most efficient place in the world right now, is -- could you just update on how you're operating there?
+And the last one, just a point of clarification on the lower 48 business. Is the idea to just drive a more efficient business around the sort of perimeter that you have right now or is it a process of divesting exposure to the lower 48? So indeed is it a vehicle for perhaps expanding your presence in the lower 48 onshore? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [53]
+--------------------------------------------------------------------------------
+
+          Thanks, Jon. So I'll just pick up the CapEx question. No, that's not the way we're thinking about it. We're not going to try and cut CapEx commensurate with what drops in the oil price. I think that would actually put at risk the long- term future cash flow. I think the key here is to not do anything jerky in terms of CapEx. I think it's important we continue to invest in the future upstream projects and there will be a natural re-equilibration of capital in and capital out in the industry. You'll start to see the deflation kick in.
+If we saw a period of probably typically 18 months of sustained -- these sort of levels of sustained at this level, you'd start to see the CapEx naturally readjust itself. But at the margin we'll always have projects where we compare things back or rephrase. But we're not looking at cutting CapEx in line with the oil price. I think that would actually peril the future growth that we laid out for you in March. And I think the key here is the balance sheet can more than comfortably handle a period of $80 a barrel. And if you come back to what we talked about in terms of the repositioning of the portfolio, we have a portfolio that, towards the back end of the profile that we showed you back in March, naturally balances more towards $80 than the $100. And today it's actually cash breakeven is below $100 a barrel. So it's an important backdrop as we think about CapEx. So we certainly don't want to be sort of cutting down in a jerky fashion that would put a peril to future growth.
+In terms of Iraq, clearly the violence in the North and West of the country so far has not affected any of BP's operations and we're continuing in the South pretty much unaffected with sustained production from Marula. And we're confident in delivering the continued operations and production growth into the future. We don't typically talk about security concerns on a call like this. We think that would be inappropriate at this point. But we did conclude the new remodel contract terms which Bob did in September. And that also included reusing the plateau production from 2.85 million barrels a day to 2.1 million barrels a day. And so things are still going incredibly well, notwithstanding what's happening actually in the North and the West of the country.
+On the low 48, really this was about the fact that we have this terrific position in what has been the most prolific oil and gas basin in last five years if you look at the growth of what's happened with the shale; however, we were applying different models in terms of how we ran it. It's more, as Bob has said on previous calls, it's more of a manufacturing business and it's really bringing that manufacturing know-how to bear. And then in terms of options going forward, I think Dave Lawler has got a pretty much blank sheet of paper to work with in terms of coming up with options about how we can grow that business. And we have a lot of choices around what we do with it going forward. But I think the key was actually to get it operating more efficiently on today's footprint and then look at where we can take it going forward.
+
+--------------------------------------------------------------------------------
+Jon Rigby,  UBS - Analyst    [54]
+--------------------------------------------------------------------------------
+
+          You would see it as potentially a growth vehicle?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [55]
+--------------------------------------------------------------------------------
+
+          It is potentially a growth vehicle going forward. But, Jon, in the short-term this is really about making sure that it was running as profitably and efficiently as some of the other independents and that's really what Dave Lawler's brought in.
+
+--------------------------------------------------------------------------------
+Jon Rigby,  UBS - Analyst    [56]
+--------------------------------------------------------------------------------
+
+          Okay, perfect.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [57]
+--------------------------------------------------------------------------------
+
+          Thanks, Jon. Gordon Gray of HSB. Are you there, Gordon?
+
+--------------------------------------------------------------------------------
+Gordon Gray,  HSBC - Analyst    [58]
+--------------------------------------------------------------------------------
+
+          Yes, I am thanks. Just one thing left to ask, actually. It was about the fact that in the last few years you spent a lot of time and a lot of capital expenditure on asset integrity in the upstream. I'm wondering if there are any figures around that that you could give us for the outcomes in terms of how you're seeing better up time across the asset base?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [59]
+--------------------------------------------------------------------------------
+
+          It's a great question, Gordon. It's one that we've picked up -- I think Bob touched on in the last call actually on the 2Q results. We went through in 2013 -- if I get these numbers right. But from memory, we went from a period in 2011 of about 48 turnarounds, 35 the year after, 22 to 23 the year after that. And I think this year we're running about eight or nine turnarounds. And so what we're starting to see already is a major improvement in reliability that (inaudible), given how much of the upstream kit has actually been taken out of service over that period of time.
+We still have areas where we can improve and that's important going forward but we have seen some major efficiency improvements in all the basins globally. And that's really come off the back of that, the focus on maintenance, and we continue to see that go forward. We're now into a more even program of turnarounds and back to something which is more normal but not at the levels that we were running at over 2011 through to 2013.
+
+--------------------------------------------------------------------------------
+Gordon Gray,  HSBC - Analyst    [60]
+--------------------------------------------------------------------------------
+
+          Great, thanks.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [61]
+--------------------------------------------------------------------------------
+
+          Thank you. Next is Martin Rats from Morgan Stanley. Hello, Martin, are you there? Not getting a reply from Martin, so we'll go to Lydia Rainforth of Barclays.
+
+--------------------------------------------------------------------------------
+Lydia Rainforth,  Barclays Capital - Analyst    [62]
+--------------------------------------------------------------------------------
+
+          Thanks, Jess, and good afternoon. A couple questions, if I could. Just coming back to India, Brian, would you able to confirm what gas price assumption you're putting in and also what else you would need to see to stop further writedowns within that area?
+And then the second one, you did reference earlier a very strong project portfolio that you still have within BP. I'm just wondering, can you just talk us through which you see is the highest return BP projects, either in development or pre-sanction at this stage? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [63]
+--------------------------------------------------------------------------------
+
+          Thanks, Lydia. On India the new formula that was laid out last weekend is effectively set to price now from the 1st of November through the 31st of March. And that price equates for our net production around $6.17 an Mcf. So that's kind of the price that we've assumed going forward. It's based on a basket of four different market prices, so I think it's an important signal in terms of move towards -- moving towards market base pricing. And then we've taken some pretty conservative assumptions around what we believe the premium would look like, but there was so much uncertainty around that it's impossible to say at this point.
+So that's really -- the key here is the premium will need to incentivize that the potential for the new developments of the discoveries we have can come on stream. So that's the backdrop to the impairment. And with the uncertainty around that going forward, we felt it was prudent and right to take the impairment that we did this quarter. But other than that, I can't really share anymore information around our assumptions on prices.
+Sorry, Lydia, your second question was around the projects?
+
+--------------------------------------------------------------------------------
+Lydia Rainforth,  Barclays Capital - Analyst    [64]
+--------------------------------------------------------------------------------
+
+          It was just given that you talked about the excising project portfolio that you have. I'm just wondering where you see the highest returns within the portfolio in terms of developments or projects that are still not sanctioned yet?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [65]
+--------------------------------------------------------------------------------
+
+          So when we look at returns across the portfolio, clearly a tie-back to an existing facility will have much higher returns than a full greenfield development. And we have a whole mix of different projects. And I actually have the list that we shared back in March where we still have four projects to come on stream next year; some of those deepwater, some of those and tie-backs. And then 2016 through 2018, I see here a list of 15 projects; each one in different phases of development in terms of appraise and pre-sanction.
+But it's quite a portfolio of projects we have, and we have the opportunity to optimize which ones we do and how we phase those with an overall focus on returns and cash flow. So, yes, a tie-back is clearly going to give you the biggest bang for buck right now. Something like a tie-back in the Gulf of Mexico is clearly a very attractive opportunity. But equally we need to make sure that we also focus on the big greenfield developments, things like [Shaktanese] Phase Two, and Oman Khazzan in terms of future growth in production in places like that.
+
+--------------------------------------------------------------------------------
+Lydia Rainforth,  Barclays Capital - Analyst    [66]
+--------------------------------------------------------------------------------
+
+          That's great. Thanks very much.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [67]
+--------------------------------------------------------------------------------
+
+          Thank you, Lydia. We'll go now to Alastair Syme of Citi. Are you there, Alastair?
+
+--------------------------------------------------------------------------------
+Alastair Syme,  Nomura Securities International, Inc. - Analyst    [68]
+--------------------------------------------------------------------------------
+
+          Yes, I am, Jess. Thank you. And good afternoon, Brian. Two questions. You mentioned the seven projects coming onstream this year. Could you -- you talked a little bit about Sunrise. But on average across that portfolio, are we on time and on budget, for this as original expectations? And as you look at some of the major capital projects that are working through the system, does that statement also hold true?
+And then secondly, I think you mentioned in previous calls that you did expect to sanction Mad Dog 2 before the end of the year. I wonder if that still applies?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [69]
+--------------------------------------------------------------------------------
+
+          Well, on the latter one, I suspect that's not going to happen now. I think we're actually right in the middle of it. And as I said earlier, given what we're seeing with rig rates right now, I think it's right to just hold a little and that will probably get sanctioned in the first quarter of next year. But there's no question that the current market is providing a big opportunity for Mad Dog Phase 2, so what's already become a far more attractive project, I think may well get more attractive. But I'd hold off. I wouldn't expect we would sanction that now in the forth quarter, probably more likely the first quarter.
+In terms of Sunrise, it is on schedule in terms of what was originally laid out. We've got first theme coming through in December; we expect first production in the first quarter. But I do think Husky last week did say something about cost overruns they've seen on that. But I would say generally, for our portfolio, from the new central projects team that was put in place back in 2009, we are starting to see now projects tomorrow through on time, on budget, the way we set them up to operate.
+And the greatest example I can give you is probably PSVM, which I think has now hit plateau from the original production. And it represents, I think, something like [ 9.7%] of the world's production of oil. So it's quite a major achievement, that coming on, and hitting plateau. But we never -- we are always restless in the project space and we never take our eye off the ball. It's key that we stay focused on the -- especially during this period of lower oil prices, that we stay focused on costs in terms of those projects and bringing those projects on stream.
+
+--------------------------------------------------------------------------------
+Alastair Syme,  Nomura Securities International, Inc. - Analyst    [70]
+--------------------------------------------------------------------------------
+
+          Supplementary, what do you think, if you could sort of pinpoint what's delivering that improvement? Is it more contingency, bit of budgeting, bit of supply chain?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [71]
+--------------------------------------------------------------------------------
+
+          I think it's all of the above. But if Bernard Looney was out here, because Bernard always tells me this, and [Neil Shore], both part of Lamar's Team, would be front-end loading, and the front-end engineering that goes into the preplanning. And when you sit down with our projects team and they talk you through things like Shaktonese Phase Two, which is right now on track with everything that we've laid out in terms of that project, and Oman Khazzan, the amount of front-end engineering that goes into that to ensure that we have the right design in place, that we don't try and reinvent the wheel each time has made major step changes for us.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [72]
+--------------------------------------------------------------------------------
+
+          Next Guy Baber in the US of Simmons & Co.
+
+--------------------------------------------------------------------------------
+Guy Baber,  Simmons & Company - Analyst    [73]
+--------------------------------------------------------------------------------
+
+          Thanks very much for taking my question. Apologies for revisiting this, but I wanted to continue on the capital spending them a bit and was hoping you could elaborate on the comments already made about the $1 billion to $2 billion flexibility in CapEx. But could you talk a little bit more about where specifically in the portfolio you see the most flexibility to potentially just lower [verse] plans and maybe talk about how internally you may rank some of the primary spending buckets?
+Could you trim in the downstream? Is there opportunity to perhaps flow and exploration if that was necessary? And then as a point of clarification, do we still think about the floor for CapEx over the next couple years of $24 billion or would that be under review? And then I had a follow-up on production also.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [74]
+--------------------------------------------------------------------------------
+
+          Well the $24 billion, that's clearly not a floor because we've just indicated $23 billion for this year. And we will look at what the programs look like through to next year. But other than saying that we will look at the margin and we think we can trim $1 billion to $2 billion, a proportion of that will certainly come through the downstream because we've -- obviously having completed the Whiting investment, which is a very major investment for us, and we've also shrunk our refining footprint radically over the last 14 years. We've taken 14 refineries out through mostly sales but also one or two closures over that period, we have nothing like the capital footprint that we would have had 10 or 15 years ago. So I think there's a natural -- you'll see some of the capital naturally drift down in that space.
+There will be some of the projects which at the margin we may choose not to pursue. But they're really at the margin. It's not the big projects that we've laid out for you in terms of the future growth. So I think I would just pause and wait till we come around to 4Q results where we will be giving you specific guidance for 2015 and whether that outlook looks very different going forward. But clearly the $24 billion is not a floor given where we are today. And indeed if the oil price stays at $80 a barrel, you will start to see some natural deflation kick in, but it is lagged. It takes a period of nine to 18 months for that to happen.
+
+--------------------------------------------------------------------------------
+Guy Baber,  Simmons & Company - Analyst    [75]
+--------------------------------------------------------------------------------
+
+          Okay, great. And then I'm trying to better understand the 4Q guidance for the decline in production. But you've been performing very well so far this year, reliability is improving, you have the six new projects that should be up, you've completed your priority wells. Even if the Alaska deal closed soon, it would still appear like you should deliver some production growth 4Q, quarter on quarter. So I'm just trying to better understand if there's any substantial downtime 4Q, any unplanned outages or specific areas where you expect lower production or if that's just an element of some conservatism in the guidance? Thanks.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [76]
+--------------------------------------------------------------------------------
+
+          Well, 3Q benefited from the absence of any really seasonal adverse weather impacts of hurricanes in the Gulf of Mexico which can typically have quite a major impact for us in a quarter. So we did benefit from that in 3Q. Equally in 4Q we have the uncertainties that you just flagged around Hill Corp. and closing the Alaska deal.
+We still have hurricane risk because the hurricane doesn't officially close until the end of November. Well, certainly, from my time, when I lived in the United States it didn't close until the end of November, so it can still surprise you. And we also have some maintenance activity at places like Thunder Horse, a shutdown in Australia and some maintenance work in low 48. These are maintenance programs that we wouldn't typically classify as turnarounds but, nevertheless, they will have impact on volumes. So we're expecting volumes to be slightly down. We'll see what happens around weather; mostly what happens around the closing of the Alaskan piece. But there's a potential that it may be flat, it may be slightly up, but right now, balance of probabilities, we're simply signaling that it will be slightly lower.
+
+--------------------------------------------------------------------------------
+Guy Baber,  Simmons & Company - Analyst    [77]
+--------------------------------------------------------------------------------
+
+          That's helpful; thank you.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [78]
+--------------------------------------------------------------------------------
+
+          Thank you, Guy. Fred Lucas from JP Morgan.
+
+--------------------------------------------------------------------------------
+Fred Lucas,  JPMorgan - Analyst    [79]
+--------------------------------------------------------------------------------
+
+          Thanks, Jess; afternoon, Brian. Couple off questions, if I may. We know what the range is for CapEx and you've alluded to what the potential cut at the margin to CapEx could be. Can you put a number to the operating cost pull, even if you can't put a figure to how much you might be able to reduce that as part of the efficiency prize. I'm just trying to get an idea of how big that is and what, say, 5% or 10% might do to cash flow.
+The second question is if this macro environment gets worse for a long period of time and takes your gearing to its upper limit if not through it, what goes first, the buyback or CapEx?
+And just thirdly, if you could, could you give me a list of the projects perhaps over the next six or 12 months that you would expect to sanction upstream? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [80]
+--------------------------------------------------------------------------------
+
+          Thanks, Fred. On the operating cost pull, we wouldn't really put a figure out there and we haven't put that out there. But I think it gets back to activities and taking activities out. And the only comment I'd probably make is as we look at the third quarter results, we are seeing costs running below deflation in places like the upstream. So we're already start to see a little bit of a trend, but I don't want to signal that as something major at this point.
+So I think there will be some benefits and efficiencies coming through and we're seeing those come through already but there's more to follow on that. So I can't really give you guidance on specific numbers in that space, but there is no question some of the efficiencies and reducing activities starting to have benefits. I don't anticipate, certainly in the range of we're now $80 to $85, the question on the upper end of the gearing, if we did reach that -- it's highly unlikely. I think the oil price would need to be down more like $70 to $60 a barrel. And then I think you get some major corrections in terms of forward program, so I don't think it will be something which will transpire. I think the key here is that we continued to stay focused on the capital that's really supporting the growth of the business going forward that's committed.
+And then in terms of the projects that we have coming up for 2015, we have -- I'm going to come back to you on that, Fred.
+
+--------------------------------------------------------------------------------
+Fred Lucas,  JPMorgan - Analyst    [81]
+--------------------------------------------------------------------------------
+
+          Okay. Could I just slip a quick one in on [Angola LNG]? Hearing -- it's been quite disturbing news about when that plant may be back up and running and also what the plant repair costs might be. Any comment on either of those facts?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [82]
+--------------------------------------------------------------------------------
+
+          I think the only information we have is somebody [shift texted] the operator. But we're now expecting the restart in 2015; and I don't think there's going to be guides as to when in 2015, but that is a concern. And then in terms of the five FIDs for next year, we're looking at around projects that we would be sanctioning would be Mad Dog Phase 2, West Nile Delta, Trinidad onshore compression, [Zidia] Phase Two and Western Flank B.
+
+--------------------------------------------------------------------------------
+Fred Lucas,  JPMorgan - Analyst    [83]
+--------------------------------------------------------------------------------
+
+          Right; thanks very much.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [84]
+--------------------------------------------------------------------------------
+
+          Thank you, Fred. Next is Chris Coupland of Banc of America. Are you there, Chris?
+
+--------------------------------------------------------------------------------
+Chris Coupland,  Bank of America - Analyst    [85]
+--------------------------------------------------------------------------------
+
+          Yes, thank you, good afternoon. Just a few last crumbs I think I've got left. Just on gearing, Brian, what needs to happen? What are you waiting for to consider moving your target range back to 20% to 30%? Is that a long way off considering how long some of the appeals processes that you started might last? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [86]
+--------------------------------------------------------------------------------
+
+          Thanks, Chris. I mean, that's really a matter for the Board and the financial frame. We went from the 20% to 30% to 10% to 20%. Certainly the front end of 2011 we had an awful lot of uncertainties in place. A lot of those have been resolved. We have $38 billion in disposals behind us. We have the repositioned Russia position that allowed us to liberate a significant amount of cash that supported the $8 billion buyback program.
+We have certainty around Macondo vis-a-vis the criminal issues and the SEC issues, they're behind us is terms of settled and behind us. So we've always said that we'll maintain this gearing of 10% to 20% while uncertainties remain. Of course those uncertainties are probably more biased towards the environmental outlook right now as they are towards the other typical issues that we might talk about. So I think, given where we are today, it's prudent to stay in a 10% to 20% range. It's served us incredibly well since 2010 and I think it will certainly serve us very well during a period of low oil prices which we would expect certainly to be in that position over the year and coming months over the six to nine months.
+So I don't think that's something we would be moving on today, but it's something that we look at in terms of more longer range of where we think the markets are moving. And it's always an option but right now I think it's prudent to keep it in the 10% to 20% bend.
+
+--------------------------------------------------------------------------------
+Chris Coupland,  Bank of America - Analyst    [87]
+--------------------------------------------------------------------------------
+
+          And you would say it's not directly linked to the interest rate environment and your ability to raise debt?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [88]
+--------------------------------------------------------------------------------
+
+          No. And actually we have -- if you look at what we've been doing over the last two or three years, you'll see we've been quite active and we found it very straightforward to raise the debt we needed and we are carrying quite high cash balances.
+
+--------------------------------------------------------------------------------
+Chris Coupland,  Bank of America - Analyst    [89]
+--------------------------------------------------------------------------------
+
+          Great, thanks.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [90]
+--------------------------------------------------------------------------------
+
+          Next question from Lucas Herrmann of Deutsche Bank.
+
+--------------------------------------------------------------------------------
+Lucas Herrmann,  Deutsche Bank - Analyst    [91]
+--------------------------------------------------------------------------------
+
+          Brian, Jess, hello; thank you. Brian, I wondered whether you'd care to talk a little bit about some of the discussions on the Board around the decision to increase dividend. I wouldn't say it wasn't expected, but given the nature of the environment and the relatively bearish comments you've been making on price going forward for the next two years, it's interesting nonetheless.
+Secondly, North Sea. It almost feels as though there's some momentum in the business or beginning to build in the business. I wonder whether you'd just care to expand particularly with projects coming on.
+And thirdly, back to Rosneft, so it's 10% or so of your market cap or at least the value that you carry on the books is. And the environment in relations with Russia have clearly changed; whether that's permanent or not I guess none of us know. But actually it is changing by the feel of things. Where does that leave the Board in terms of thinking about the value that you have capped in that or locked in that business at the present time? Not that I'm suggesting now is a sensible time to be exiting but certainly a time to be thinking.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [92]
+--------------------------------------------------------------------------------
+
+          Thanks, Lucas. So we start with Board and dividend. I think we had a very lengthy discussion on dividend, where we should go with this, but I think all roads lead bank to strategy and the strategy that we laid out back in March to you as investors which was a financial frame that could be flexible through a period of low oil prices. Our portfolio is naturally moving to be more balanced at $80 a barrel over the period that we laid out to you in March, as I said earlier, and we have downside support of $80 a barrel.
+There is surplus cash available to us, both this year and next year, and therefore we felt that actually it was an important signal in terms of the strategy that we laid out and the continued progress on the dividend. Of course, if the oil price stays what it is, the Board will look at all these things. And we changed last year to have the first quarter and third quarter has been the quarters when we would look at the dividend with the Board and if they would consider a dividend going forward.
+Clearly in the round we'll look at where we are at the end of 1Q next year as to where we go with the dividend next. But in terms of being able to grow it sustainably over time, it's a core principle of the strategy that we laid out and we felt it was well-supported by the performance this year and the financial frame that we have going forward and where the balance sheet is.
+
+--------------------------------------------------------------------------------
+Lucas Herrmann,  Deutsche Bank - Analyst    [93]
+--------------------------------------------------------------------------------
+
+          Okay, thank you. XXX
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [94]
+--------------------------------------------------------------------------------
+
+          In terms of North Sea, I was up with the North Sea Team with Bernard earlier in the year. And I think they're pretty restless in terms of what they're trying to do around reliability of what is a very, very aging asset. It's a very late-life asset, but we have seen the Andrew Field restart as part of the prerequisites for bringing Kinnoull up, and the Rhum Field restart. And, of course, we also have (inaudible) for the Clear Ridge projects proceeding to plan, so there is a lot of opportunities still in the North Sea into the future. And I think the biggest thing they are focused on is reliability of the existing infrastructure along with the new projects coming onstream.
+In terms of Rosneft, it's a great investment. It's something that we did strategically in terms of repositioning [altity] in KBP, working with a company of oil and gas people from the industry. And it's an investment that we saw over a 30-year period and right now it's very difficult from a geopolitical perspective but our day-to-day operations with the business on the ground are very good with the team that we have based in Moscow. Bob is still attending Board meetings, which is important, and we still think it has huge potential going forward.
+But, of course, we also have the backdrop of the geopolitical concerns and the sanctions and we just hope that a diplomatic solution can be found through all of this because we believe the world -- it's key that those resources that are available in Russia can meet some of the demand that we see in terms of the demand growth in the world elsewhere.
+
+--------------------------------------------------------------------------------
+Lucas Herrmann,  Deutsche Bank - Analyst    [95]
+--------------------------------------------------------------------------------
+
+          Brian, thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [96]
+--------------------------------------------------------------------------------
+
+          Thanks, Lucas.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [97]
+--------------------------------------------------------------------------------
+
+          Moving on, we'll take a question from Rob West at Redburn.
+
+--------------------------------------------------------------------------------
+Robin West,  Redburn - Analyst    [98]
+--------------------------------------------------------------------------------
+
+          Hi there, Brian. My question's on Thunder Horse. I've seen some pretty strong data coming out of DOEM, some pretty good flow rates at the wells you're bringing on there. I was wondering if you could comment on that and the production expectations there for next year.
+And secondly I'm kind of looking at LoSal which is looking really interesting to me. And I know it's just a news story last week, but in the UAE, they are thinking of using some of that technology that I guess you'd be operating with there. And so my question is what kind of further running room for LoSal do you see throughout your portfolio after bringing Clarion online in due course. Thanks very much.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [99]
+--------------------------------------------------------------------------------
+
+          Okay, thanks. On the first question around Thunder Horse, what I would comment more generally in the Gulf of Mexico we have production peak at just under 300,000barrels a day during the quarter. And I don't take that as a indication of point forward, but nevertheless it gives you a backdrop flavor of how well the Gulf of Mexico is performing at the moment. We've got 10 operating rigs, four at Thunder Horse, hence why you are seeing the production volume numbers that you are seeing coming out of Thunder Horse; two at Mad Dog; two at Atlantis and two [from memory] working on expiration and appraisal.
+We also had the three major project startups in 2014 around the Atlantis North expansion, the [Key Kremars] base, so I think you're right. We will have seen strong numbers coming through and all I would say, the drilling machine is working incredibly well. We're now running with those 10 deepwater rigs historically pre 2010 where we typically have five. And that's a big part of what you're seeing in terms of performance in the upstream in the third quarter even with the dropoff in oil prices, the underlying production growth coming out of [Gon].
+In terms of LoSal, it's a great technology. It clearly moves towards enhanced oil recovery by deploying that. And a place that we are looking to deploy it right now is in Clair Ridge and in the Clair Ridge developments in the North Sea. And there's an awful lot of potential for LoSal further field outside of that region.
+
+--------------------------------------------------------------------------------
+Robin West,  Redburn - Analyst    [100]
+--------------------------------------------------------------------------------
+
+          Thanks very much. Sorry, my question wasn't very clear, I guess. What I meant on LoSal is is there anything else coming through the hopper where you are thinking you could deploy that or is it really more a function of how Clair Ridge works out?
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [101]
+--------------------------------------------------------------------------------
+
+          I think I will reserve comment on that for our upstream Investor Day which is scheduled for the 10th of December where we will be able to showcase some of the things we're doing around all the new projects and we'll certainly be touching on technology as part of that.
+
+--------------------------------------------------------------------------------
+Robin West,  Redburn - Analyst    [102]
+--------------------------------------------------------------------------------
+
+          Very good, all right; thanks.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [103]
+--------------------------------------------------------------------------------
+
+          Thanks, Rob.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [104]
+--------------------------------------------------------------------------------
+
+          Thank you. Over to the US and Stephen Simko of Morningstar.
+
+--------------------------------------------------------------------------------
+Stephen Simko,  Morningstar - Analyst    [105]
+--------------------------------------------------------------------------------
+
+          Hi, good afternoon. Just two quick ones. And first would just be when you look at liquids volumes in the rest of the world, there was a something like 50,000-barrel a day sequential uptick Q3 versus Q2 this year. I'm just wondering what caused that? And then in terms of the recent discoveries that you guys have had, the exploration in the last 18 months or so, I'm just wondering -- I know it's very early days on these, but would there be an ability even now just to give a best estimate of what would be the first projects or discoveries that would be moving towards pre-engineering and design stages? And that's it for me. Thanks.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [106]
+--------------------------------------------------------------------------------
+
+          Thanks, Stephen. In terms of the exploration success, it probably is a bit premature at this point. We had seven significant discoveries last year, five this year. In fact, actually last year was the best year we've had in over a decade. And, therefore, on that basis it's probably too soon to say which ones we will be pursuing first, but it's a great inventory to have available as we start to think about which projects we'll pursue.
+In terms of production, I would guess, although I done have it at hand, but we can come back to you, is that we probably saw some increase in the North Sea. But certainly also in Angola with the club startup and, of course, as I mentioned earlier, PSVM did come up to plateau so there will be some growth in PSVM through the quarter.
+
+--------------------------------------------------------------------------------
+Stephen Simko,  Morningstar - Analyst    [107]
+--------------------------------------------------------------------------------
+
+          Great, thanks.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [108]
+--------------------------------------------------------------------------------
+
+          Next question is from Anish Kapadia of Tudor, Pickering Holt.
+
+--------------------------------------------------------------------------------
+Anish Kapadia,  Tudor Pickering & Holt - Analyst    [109]
+--------------------------------------------------------------------------------
+
+          Hi, good afternoon. Couple questions for me as well. Just wondering, given you're seeing in the market extremely low rig rates starting to come through, you're seeing the same on the seismic costs, how does that affect your exploration CapEx budget for next year? So just, I suppose, from a cost perspective and also potentially in terms of activity for next year?
+And then secondly, I was just wondering if you can give a bit of an update of where you are with your plans for the lower tertiary, I suppose all the way from exploration through appraisal and potential developments over there? Just getting an update on that in the Gulf of Mexico. Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [110]
+--------------------------------------------------------------------------------
+
+          Great, thank you. In terms of rigs and rig rates and seismic, I'm just trying to come back to our rig rate. I think we run something over 30 rigs and, of course, they're all on different contracts. Typically in the last three or four years, we've really been trying to work more closely with individual suppliers to try and build longer term relationships, and therefore have rates negotiated on more for basically three- to seven-year light contracts. So depending on where they are sitting on the contract, we'll start to see some benefits of that coming forward or not.
+So you will see some deflation start to kick in as we start to renew some of the rigs, but we're not seeing a major change in the short-terms. It will take some time for that to flow through. In terms of the lower tertiary, what were you thinking specifically?
+
+--------------------------------------------------------------------------------
+Anish Kapadia,  Tudor Pickering & Holt - Analyst    [111]
+--------------------------------------------------------------------------------
+
+          Just in terms of where you're at in terms of further appraisal on your discoveries over there.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [112]
+--------------------------------------------------------------------------------
+
+          Right, okay. Understood. So what we've had most recently we've announced is the Guadalupe discovery where we've hit significant oil pay in the Paleogene around 30,000 feet down. And I think it's about 4,000 feet of water. And that, of course, builds on the previous three discoveries we've had in the Paleogene, around [Hela, Tiber, and Caskida], and we did drill an appraisal well for Caskida last year.
+So I think all of that is progressing going forward and there will be more to follow on that on the upstream Investor Day in December, but there's probably nothing more to say at this point.
+
+--------------------------------------------------------------------------------
+Anish Kapadia,  Tudor Pickering & Holt - Analyst    [113]
+--------------------------------------------------------------------------------
+
+          Okay, thank you.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [114]
+--------------------------------------------------------------------------------
+
+          Thanks, Anish, and we'll take our last question from Neill Morton at Investec.
+
+--------------------------------------------------------------------------------
+Neill Morton,  Investec, Inc. - Analyst    [115]
+--------------------------------------------------------------------------------
+
+          Thank you, Jess; good afternoon, Brian. I've just got one question left and it's a hypothetical one on Macondo. You talked about the importance of their outcomes. Let's say, say, in 2015 you are busy going down the various appeals routes against the gross negligence finding but meanwhile Judge Barbee pronounces in Phase Two, he holds Phase Three and announces a penalty applying the various mitigating factors of $3.5 billion in line with your provision. Do you then drop the gross negligence appeal? Is it money or is it the principle? Thank you.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [116]
+--------------------------------------------------------------------------------
+
+          I think, Neill, that's a very hypothetical question. That would really be a matter for the Board. But I think if we come back to principles, we believe the bar set for gross negligence as a high bar and we don't believe it was met; hence the filing that we made a couple weeks back around, the way in which that decision came about, we intend to appeal that. I don't believe -- at the end of the day, this was an industrial accident. It was multi-party, multi-causal. You had process safety failures, individual errors and machinery failure.
+It was an industrial accident on a huge scale and I don't believe for one minute or I don't think anybody in the Company believes for one minute that actually that the bar of gross negligence was ever met or anything was ever intended in that basis. But the specific scenario you've laid out would really be a matter for the Board's consideration.
+
+--------------------------------------------------------------------------------
+Jessica Mitchell,  BP PLC - Director Group IR    [117]
+--------------------------------------------------------------------------------
+
+          All right, thank you all.
+
+--------------------------------------------------------------------------------
+Brian Gilvary,  BP PLC - CFO    [118]
+--------------------------------------------------------------------------------
+
+          So, with that, I think -- Neill, I hope that answered your question.
+So look, thank you all for taking the time today. In summary, its been, from BP's perspective, another quarter of momentum building on the strategy that we laid out for you back in 2011 around a 10-point plan. We continue to remain confident around the delivery of that 10-point plan, recognizing that we are in a very different environment today than we were then. And I think the robustness of the strategy that we've laid out will see us through during this period of uncertainty around oil price with the very strong financial frame that we have.
+And I look forward to speaking to you at the next quarter results along with Bob as we announce the full-year results. Thank you very much for taking the time today.
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+Definitions
+--------------------------------------------------------------------------------
+PRELIMINARY TRANSCRIPT: "Preliminary Transcript" indicates that the 
+Transcript has been published in near real-time by an experienced 
+professional transcriber.  While the Preliminary Transcript is highly 
+accurate, it has not been edited to ensure the entire transcription 
+represents a verbatim report of the call.
+
+EDITED TRANSCRIPT: "Edited Transcript" indicates that a team of professional 
+editors have listened to the event a second time to confirm that the 
+content of the call has been transcribed accurately and in full.
+
+--------------------------------------------------------------------------------
+Disclaimer
+--------------------------------------------------------------------------------
+Thomson Reuters reserves the right to make changes to documents, content, or other 
+information on this web site without obligation to notify any person of 
+such changes.
+
+In the conference calls upon which Event Transcripts are based, companies 
+may make projections or other forward-looking statements regarding a variety 
+of items. Such forward-looking statements are based upon current 
+expectations and involve risks and uncertainties. Actual results may differ 
+materially from those stated in any forward-looking statement based on a 
+number of important factors and risks, which are more specifically 
+identified in the companies' most recent SEC filings. Although the companies 
+may indicate and believe that the assumptions underlying the forward-looking 
+statements are reasonable, any of the assumptions could prove inaccurate or 
+incorrect and, therefore, there can be no assurance that the results 
+contemplated in the forward-looking statements will be realized.
+
+THE INFORMATION CONTAINED IN EVENT TRANSCRIPTS IS A TEXTUAL REPRESENTATION
+OF THE APPLICABLE COMPANY'S CONFERENCE CALL AND WHILE EFFORTS ARE MADE TO
+PROVIDE AN ACCURATE TRANSCRIPTION, THERE MAY BE MATERIAL ERRORS, OMISSIONS,
+OR INACCURACIES IN THE REPORTING OF THE SUBSTANCE OF THE CONFERENCE CALLS.
+IN NO WAY DOES THOMSON REUTERS OR THE APPLICABLE COMPANY ASSUME ANY RESPONSIBILITY FOR ANY INVESTMENT OR OTHER
+DECISIONS MADE BASED UPON THE INFORMATION PROVIDED ON THIS WEB SITE OR IN
+ANY EVENT TRANSCRIPT. USERS ARE ADVISED TO REVIEW THE APPLICABLE COMPANY'S
+CONFERENCE CALL ITSELF AND THE APPLICABLE COMPANY'S SEC FILINGS BEFORE
+MAKING ANY INVESTMENT OR OTHER DECISIONS.
+--------------------------------------------------------------------------------
+Copyright 2016 Thomson Reuters. All Rights Reserved.
+--------------------------------------------------------------------------------

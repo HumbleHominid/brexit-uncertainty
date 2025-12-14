@@ -100,6 +100,8 @@ def construct_output_filename(input_path: Path) -> Path:
     else:
         ticker, year, month, day, file_id = parts[:5]
 
+    ticker = ticker.split("^")[0]
+
     new_name = f"{ticker}-{year}-{month}-{day}-{file_id}.txt"
     output_file = PROCESSED_DIR / input_path.parent.name / new_name
     return output_file
