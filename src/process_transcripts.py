@@ -107,24 +107,27 @@ def construct_output_filename(input_path: Path) -> Path:
     return output_file
 
 
-def process_transcripts() -> None:
+def process_transcripts(quiet: bool = False) -> None:
     """
     Processes all transcripts in the "transcripts" directory and writes
     the processed output to the "processed" directory.
     """
     PROCESSED_DIR.mkdir(exist_ok=True)
     for transcript_file in TRANSCRIPT_DIR.rglob("*.txt"):
-        print(f"Processing {transcript_file.relative_to(TRANSCRIPT_DIR.parent)}...")
+        if not quiet:
+            print(f"Processing {transcript_file.relative_to(TRANSCRIPT_DIR.parent)}...")
         relative_path = transcript_file.relative_to(TRANSCRIPT_DIR)
         output_file = construct_output_filename(relative_path)
         # Skip transcripts that have already been processed
         if output_file.exists():
-            print(f"  Skipping {transcript_file.name}, already processed.")
+            if not quiet:
+                print(f"  Skipping {transcript_file.name}, already processed.")
             continue
         # Process the transcript
         processed_lines = process_transcript(transcript_file)
         write_lines(output_file, processed_lines)
-        print(f"  Wrote processed transcript to {output_file}.")
+        if not quiet:
+            print(f"  Wrote processed transcript to {output_file}.")
 
 
 if __name__ == "__main__":
